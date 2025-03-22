@@ -1,0 +1,128 @@
+[gd_scene load_steps=15 format=3 uid="uid://dwlbvjaqnqjsb"]
+
+[ext_resource type="Texture2D" uid="uid://s3i35m5wryo5" path="res://assets/placeholder/unit/pegasus.png" id="1_4k3hv"]
+[ext_resource type="Script" path="res://core/UI/tactics_card.gd" id="1_v23eq"]
+[ext_resource type="PackedScene" uid="uid://dptll61yjcygq" path="res://core/UI/value_bar.tscn" id="2_gdc56"]
+[ext_resource type="PackedScene" uid="uid://v3w1mkj0fk7g" path="res://core/UI/icon_label.tscn" id="3_beawa"]
+[ext_resource type="Texture2D" uid="uid://b3ks2kykyy5m2" path="res://assets/placeholder/icon/stats/sword.png" id="4_uvhxf"]
+[ext_resource type="Texture2D" uid="uid://uyw70sfbp7ry" path="res://assets/placeholder/icon/stats/crossed-swords.png" id="5_hcl18"]
+[ext_resource type="Texture2D" uid="uid://mklitslgyx8c" path="res://assets/placeholder/icon/stats/barefoot.png" id="6_qrc3b"]
+[ext_resource type="Texture2D" uid="uid://cqq3oec6redcr" path="res://assets/placeholder/icon/stats/slashed-shield.png" id="7_8mtyv"]
+[ext_resource type="Texture2D" uid="uid://btygqji606r7t" path="res://assets/placeholder/icon/stats/shield-reflect.png" id="8_n5pky"]
+[ext_resource type="Texture2D" uid="uid://biaqlp4l3yldn" path="res://assets/placeholder/icon/stats/spiked-halo.png" id="9_16pt1"]
+[ext_resource type="Texture2D" uid="uid://cdaqhufpj30un" path="res://assets/placeholder/icon/stats/high-shot.png" id="10_6k3tw"]
+[ext_resource type="Texture2D" uid="uid://6paifctwpc8j" path="res://assets/placeholder/icon/stats/on-target.png" id="11_vc6a1"]
+[ext_resource type="Texture2D" uid="uid://6o76xjmf6jnw" path="res://assets/placeholder/icon/stats/quiver.png" id="12_i4lp1"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_chakj"]
+bg_color = Color(0.141176, 0.137255, 0.14902, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.360784, 0.360784, 0.360784, 1)
+corner_radius_top_left = 2
+corner_radius_top_right = 2
+corner_radius_bottom_right = 2
+corner_radius_bottom_left = 2
+
+[node name="TacticsCard" type="PanelContainer"]
+custom_minimum_size = Vector2(400, 100)
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -40.0
+offset_bottom = 40.0
+grow_horizontal = 0
+theme_override_styles/panel = SubResource("StyleBoxFlat_chakj")
+script = ExtResource("1_v23eq")
+
+[node name="hbox" type="HBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="vbox" type="VBoxContainer" parent="hbox"]
+layout_mode = 2
+theme_override_constants/separation = 2
+
+[node name="texturebox" type="TextureRect" parent="hbox/vbox"]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("1_4k3hv")
+
+[node name="HealthBar" parent="hbox/vbox" instance=ExtResource("2_gdc56")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(40, 5)
+layout_mode = 2
+
+[node name="StaminaBar" parent="hbox/vbox" instance=ExtResource("2_gdc56")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(40, 5)
+layout_mode = 2
+color = Color(1, 0.964706, 0, 1)
+
+[node name="MoraleBar" parent="hbox/vbox" instance=ExtResource("2_gdc56")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(40, 5)
+layout_mode = 2
+color = Color(0.12549, 0, 0.941176, 1)
+
+[node name="statsbox" type="PanelContainer" parent="hbox"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="GridContainer" type="GridContainer" parent="hbox/statsbox"]
+layout_mode = 2
+columns = 3
+
+[node name="attack" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("4_uvhxf")
+
+[node name="counter" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("5_hcl18")
+
+[node name="speed" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("6_qrc3b")
+
+[node name="defense" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("7_8mtyv")
+
+[node name="ranged_defense" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("8_n5pky")
+
+[node name="resistance" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("9_16pt1")
+
+[node name="ranged_attack" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("10_6k3tw")
+
+[node name="range" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("11_vc6a1")
+
+[node name="ammo" parent="hbox/statsbox/GridContainer" instance=ExtResource("3_beawa")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("12_i4lp1")
+
+[node name="skillbox" type="PanelContainer" parent="hbox"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="vbox" type="VBoxContainer" parent="hbox/skillbox"]
+layout_mode = 2

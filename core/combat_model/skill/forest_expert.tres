@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="TerrainSkill" load_steps=3 format=3 uid="uid://bwcllnsdd3ah0"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/terrain_skill.gd" id="1_llfss"]
+[ext_resource type="Texture2D" uid="uid://bnsd2iuh85d7g" path="res://assets/placeholder/skills/raster/Forester.png" id="2_mr1m7"]
+
+[resource]
+script = ExtResource("1_llfss")
+terrain_type = 1
+name = "Forest Expert"
+texture = ExtResource("2_mr1m7")
+value = 1

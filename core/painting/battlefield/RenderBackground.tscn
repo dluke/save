@@ -1,0 +1,63 @@
+[gd_scene load_steps=12 format=3 uid="uid://b8aiymyooj81r"]
+
+[ext_resource type="Script" path="res://core/painting/battlefield/render_background.gd" id="1_ng3rm"]
+[ext_resource type="Texture2D" uid="uid://bbg8llrq0w4lw" path="res://test/terrain_shader/circle_gradient.png" id="2_ntqux"]
+[ext_resource type="Shader" path="res://test/terrain_shader/circle_gradient.gdshader" id="3_uupj1"]
+[ext_resource type="Shader" path="res://test/terrain_shader/mix_background.gdshader" id="4_cu8ch"]
+[ext_resource type="Texture2D" uid="uid://578lemornaeg" path="res://assets/placeholder/battlefield/Grass00.png" id="5_r04vs"]
+[ext_resource type="Texture2D" uid="uid://bs72e6fs0vx5h" path="res://test/terrain_shader/swamp_layer_noise.tres" id="6_4gsd2"]
+[ext_resource type="Texture2D" uid="uid://c1dp138srsvbm" path="res://assets/raster/battlefield/swamp.png" id="7_vrchj"]
+[ext_resource type="Texture2D" uid="uid://dgpsn4vmq6tf5" path="res://assets/krita/hex_template/parchment.PNG" id="8_e3emp"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_4ehon"]
+shader = ExtResource("3_uupj1")
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_1c38x"]
+viewport_path = NodePath("SubViewport")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_0l75r"]
+resource_local_to_scene = true
+shader = ExtResource("4_cu8ch")
+shader_parameter/swamp_threshold = 0.3
+shader_parameter/size = Vector2(1920, 1080)
+shader_parameter/grass = ExtResource("5_r04vs")
+shader_parameter/swamp = ExtResource("7_vrchj")
+shader_parameter/mask = SubResource("ViewportTexture_1c38x")
+shader_parameter/noise_texture = ExtResource("6_4gsd2")
+
+[node name="render_background" type="Node2D"]
+script = ExtResource("1_ng3rm")
+
+[node name="stamp" type="TextureRect" parent="."]
+visible = false
+offset_left = -297.0
+offset_top = 107.0
+offset_right = -41.0
+offset_bottom = 363.0
+texture = ExtResource("2_ntqux")
+
+[node name="SubViewport" type="SubViewport" parent="."]
+disable_3d = true
+transparent_bg = true
+size = Vector2i(1920, 1080)
+
+[node name="draw_surface" type="TextureRect" parent="SubViewport"]
+material = SubResource("ShaderMaterial_4ehon")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="background" type="ColorRect" parent="."]
+visible = false
+material = SubResource("ShaderMaterial_0l75r")
+offset_right = 1920.0
+offset_bottom = 1080.0
+
+[node name="bkg" type="Sprite2D" parent="."]
+texture = ExtResource("8_e3emp")
+centered = false
+
+[node name="nature" type="Node2D" parent="."]
+y_sort_enabled = true

@@ -1,0 +1,31 @@
+[gd_scene load_steps=7 format=3 uid="uid://daw5pjk41umib"]
+
+[ext_resource type="Shader" path="res://workspace/shaders/rage.gdshader" id="1_7ae33"]
+[ext_resource type="Texture2D" uid="uid://d1mvqth04h82i" path="res://workspace/textures/chalk_soft.png" id="2_rlc8m"]
+[ext_resource type="Texture2D" uid="uid://crei0tpkdtsct" path="res://workspace/shaders/tone_mapping.tres" id="3_btlnj"]
+[ext_resource type="Texture2D" uid="uid://bqq4riqhp0uob" path="res://assets/placeholder/unit/barbarian.png" id="4_w52kg"]
+[ext_resource type="PackedScene" uid="uid://b6leqqx30gs5w" path="res://assets/scene/ragebuff.tscn" id="5_hj57n"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_a0hfi"]
+shader = ExtResource("1_7ae33")
+shader_parameter/scroll = Vector2(0, 1)
+shader_parameter/scroll_speed = 0.1
+shader_parameter/noise_pattern = ExtResource("2_rlc8m")
+shader_parameter/tone_mapping = ExtResource("3_btlnj")
+
+[node name="shader_test" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+visible = false
+material = SubResource("ShaderMaterial_a0hfi")
+custom_minimum_size = Vector2(128, 128)
+offset_left = 440.0
+offset_top = 136.0
+offset_right = 568.0
+offset_bottom = 264.0
+
+[node name="Barbarian" type="Sprite2D" parent="."]
+position = Vector2(392, 198)
+texture = ExtResource("4_w52kg")
+
+[node name="ragebuff" parent="Barbarian" instance=ExtResource("5_hj57n")]

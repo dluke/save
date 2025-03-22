@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://cuq00dlxfxjdi"]
+
+[ext_resource type="Texture2D" uid="uid://dq3033pxnn1qs" path="res://assets/placeholder/skills/raster/FirstAid.png" id="1_5ix8d"]
+
+[node name="item" type="HBoxContainer"]
+custom_minimum_size = Vector2(32, 32)
+
+[node name="texture" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(32, 32)
+layout_mode = 2
+texture = ExtResource("1_5ix8d")
+expand_mode = 2
+
+[node name="label" type="Label" parent="."]
+layout_mode = 2
+text = "First Aid"

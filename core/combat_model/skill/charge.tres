@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://bal58ggr3gnaw"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/charge.gd" id="1_ao0hf"]
+[ext_resource type="Texture2D" uid="uid://cgnr3p284hqd4" path="res://assets/placeholder/skills/raster/Charge.png" id="2_xin0w"]
+
+[resource]
+script = ExtResource("1_ao0hf")
+name = "Charge"
+texture = ExtResource("2_xin0w")
+value = 1

@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://b8gddic1650hx"]
+
+[ext_resource type="Texture2D" uid="uid://dgpsn4vmq6tf5" path="res://assets/krita/hex_template/parchment.PNG" id="1_ikurn"]
+
+[node name="KritaBFAsset" type="Node2D"]
+
+[node name="layer" type="Node2D" parent="."]
+
+[node name="TextureRect" type="TextureRect" parent="layer"]
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("1_ikurn")

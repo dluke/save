@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://v3w1mkj0fk7g"]
+
+[ext_resource type="Script" path="res://core/UI/icon_label.gd" id="1_dymed"]
+[ext_resource type="Texture2D" uid="uid://cqdd0l5ifsto4" path="res://assets/placeholder/icon/stats/fist.png" id="2_usxsw"]
+
+[node name="IconLabel" type="HBoxContainer"]
+custom_minimum_size = Vector2(56, 24)
+script = ExtResource("1_dymed")
+texture = ExtResource("2_usxsw")
+
+[node name="icon" type="TextureRect" parent="."]
+layout_mode = 2
+stretch_mode = 2
+
+[node name="label" type="Label" parent="."]
+layout_mode = 2
+theme_override_font_sizes/font_size = 20
+text = "10"

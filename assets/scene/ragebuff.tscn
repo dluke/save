@@ -1,0 +1,19 @@
+[gd_scene load_steps=7 format=3 uid="uid://b6leqqx30gs5w"]
+
+[ext_resource type="Shader" path="res://workspace/shaders/barbarian_rage.gdshader" id="1_kg1nk"]
+[ext_resource type="Texture2D" uid="uid://dfnkqapdld4m4" path="res://workspace/shaders/barbarian_rage_mask.png" id="2_047uu"]
+[ext_resource type="Texture2D" uid="uid://d1mvqth04h82i" path="res://workspace/textures/chalk_soft.png" id="3_7i5wm"]
+[ext_resource type="Texture2D" uid="uid://crei0tpkdtsct" path="res://workspace/shaders/tone_mapping.tres" id="4_33uur"]
+[ext_resource type="Texture2D" uid="uid://bqq4riqhp0uob" path="res://assets/placeholder/unit/barbarian.png" id="5_8h0yh"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_7kyq8"]
+shader = ExtResource("1_kg1nk")
+shader_parameter/scroll = Vector2(0, 1)
+shader_parameter/scroll_speed = 0.1
+shader_parameter/mask = ExtResource("2_047uu")
+shader_parameter/noise_pattern = ExtResource("3_7i5wm")
+shader_parameter/tone_mapping = ExtResource("4_33uur")
+
+[node name="ragebuff" type="Sprite2D"]
+material = SubResource("ShaderMaterial_7kyq8")
+texture = ExtResource("5_8h0yh")

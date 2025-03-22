@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SkillResource" load_steps=3 format=3 uid="uid://dn3qypab5sy1k"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/skill_resource.gd" id="1_42bbx"]
+[ext_resource type="Texture2D" uid="uid://d3mpew3uoipk5" path="res://assets/placeholder/skills/raster/Berserker.png" id="2_q4li3"]
+
+[resource]
+script = ExtResource("1_42bbx")
+name = "Berserk"
+texture = ExtResource("2_q4li3")
+value = 1

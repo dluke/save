@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SkillResource" load_steps=3 format=3 uid="uid://c4fcb1dayc2xb"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/skill_resource.gd" id="1_v3a17"]
+[ext_resource type="Texture2D" uid="uid://pjtnlsi32upg" path="res://assets/placeholder/skills/raster/First Strike.png" id="2_wv01j"]
+
+[resource]
+script = ExtResource("1_v3a17")
+name = "First Strike"
+texture = ExtResource("2_wv01j")
+value = 1

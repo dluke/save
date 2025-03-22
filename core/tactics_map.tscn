@@ -1,0 +1,160 @@
+[gd_scene load_steps=25 format=3 uid="uid://fe1veyp43g52"]
+
+[ext_resource type="Script" path="res://core/tactics_map.gd" id="1_m4wkf"]
+[ext_resource type="Resource" uid="uid://kmlpqxe20jtj" path="res://data/map_terrain.tres" id="2_8tk43"]
+[ext_resource type="Resource" path="res://data/map_layout.tres" id="3_aqjj7"]
+[ext_resource type="PackedScene" uid="uid://b8aiymyooj81r" path="res://core/painting/battlefield/RenderBackground.tscn" id="4_ewwhf"]
+[ext_resource type="Script" path="res://core/UI/state_machine.gd" id="5_uuk7r"]
+[ext_resource type="Texture2D" uid="uid://cigud8njw5eey" path="res://assets/placeholder/nature/Mount02.png" id="5_x7g6x"]
+[ext_resource type="Script" path="res://core/UI/message.gd" id="6_b2lla"]
+[ext_resource type="Texture2D" uid="uid://bgai8bo4rgfh6" path="res://assets/placeholder/nature/Hill03.png" id="6_jvkp2"]
+[ext_resource type="Script" path="res://core/UI/state/base.gd" id="6_k0csb"]
+[ext_resource type="Script" path="res://core/UI/cursor.gd" id="6_wldn6"]
+[ext_resource type="Texture2D" uid="uid://bcuxwcm4uv0qg" path="res://assets/placeholder/nature/Hill02.png" id="7_2uorh"]
+[ext_resource type="Script" path="res://core/UI/state/inspect.gd" id="7_5fcfl"]
+[ext_resource type="Texture2D" uid="uid://burq00gq1y1u8" path="res://assets/placeholder/icon/cursor/kenney_cursor-pack/Vector/Outline/cursor_none.svg" id="7_obsmi"]
+[ext_resource type="PackedScene" uid="uid://cgudhmf658r3c" path="res://core/UI/stat_panel.tscn" id="7_x2pdu"]
+[ext_resource type="Texture2D" uid="uid://bajxe02rrxc2d" path="res://assets/placeholder/nature/Hill01.png" id="8_igy6q"]
+[ext_resource type="TileSet" uid="uid://h5edossb61im" path="res://core/tactics_map_tileset.tres" id="9_1cgiv"]
+[ext_resource type="Script" path="res://core/UI/state/grabbed.gd" id="9_fhhq3"]
+[ext_resource type="Script" path="res://core/hexmap.gd" id="10_b8wo5"]
+[ext_resource type="Script" path="res://core/UI/state/view.gd" id="13_72hxe"]
+[ext_resource type="Script" path="res://core/UI/state/selected.gd" id="14_clehp"]
+[ext_resource type="Script" path="res://core/UI/state/spell.gd" id="16_1osnw"]
+[ext_resource type="PackedScene" uid="uid://de2p1ub53ta45" path="res://core/UI/spellbook.tscn" id="18_q6unw"]
+[ext_resource type="PackedScene" uid="uid://dwlbvjaqnqjsb" path="res://core/UI/tactics_card.tscn" id="19_eyvnv"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_rle44"]
+bg_color = Color(0.176471, 0.176471, 0.176471, 1)
+
+[node name="TacticsMap" type="Node2D"]
+script = ExtResource("1_m4wkf")
+terrain = ExtResource("2_8tk43")
+layout = ExtResource("3_aqjj7")
+
+[node name="background" parent="." instance=ExtResource("4_ewwhf")]
+
+[node name="grid_layer" type="Node2D" parent="."]
+position = Vector2(483, 144)
+
+[node name="nature" type="Node2D" parent="grid_layer"]
+
+[node name="mount1" type="Sprite2D" parent="grid_layer/nature"]
+visible = false
+position = Vector2(565, 61)
+texture = ExtResource("5_x7g6x")
+
+[node name="hill1" type="Sprite2D" parent="grid_layer/nature"]
+visible = false
+position = Vector2(628, 326)
+scale = Vector2(2, 2)
+texture = ExtResource("6_jvkp2")
+
+[node name="hill2" type="Sprite2D" parent="grid_layer/nature"]
+visible = false
+position = Vector2(728, 333)
+scale = Vector2(2, 2)
+texture = ExtResource("7_2uorh")
+
+[node name="hill3" type="Sprite2D" parent="grid_layer/nature"]
+visible = false
+position = Vector2(781, 237)
+scale = Vector2(2, 2)
+texture = ExtResource("8_igy6q")
+
+[node name="hexmap" type="TileMap" parent="grid_layer"]
+unique_name_in_owner = true
+tile_set = ExtResource("9_1cgiv")
+format = 2
+layer_0/name = "base"
+layer_0/tile_data = PackedInt32Array(0, 0, 0, 1, 0, 0, 65536, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 0, 7, 0, 0, 65537, 0, 0, 65540, 0, 0, 65541, 0, 0, 65542, 0, 0, 65539, 0, 0, 65538, 0, 0, 131072, 0, 0, 196608, 0, 0, 131073, 0, 0, 196609, 0, 0, 131074, 0, 0, 196610, 0, 0, 131075, 0, 0, 196611, 0, 0, 131076, 0, 0, 196612, 0, 0, 131077, 0, 0, 131078, 0, 0, 196613, 0, 0, 131079, 0, 0, 196614, 0, 0, 262144, 0, 0, 327680, 0, 0, 393216, 0, 0, 458752, 0, 0, 458753, 0, 0, 458754, 0, 0, 458755, 0, 0, 458756, 0, 0, 458757, 0, 0, 458758, 0, 0, 262151, 0, 0, 327686, 0, 0, 393222, 0, 0, 327685, 0, 0, 262149, 0, 0, 262150, 0, 0, 393221, 0, 0, 327684, 0, 0, 262148, 0, 0, 393220, 0, 0, 327683, 0, 0, 262147, 0, 0, 393219, 0, 0, 327682, 0, 0, 262146, 0, 0, 393218, 0, 0, 393217, 0, 0, 327681, 0, 0, 262145, 0, 0, 393223, 0, 0, 65543, 0, 0, 196615, 0, 0, 327687, 0, 0, 458759, 0, 0)
+layer_1/name = "info"
+layer_1/enabled = true
+layer_1/modulate = Color(1, 1, 1, 1)
+layer_1/y_sort_enabled = false
+layer_1/y_sort_origin = 0
+layer_1/z_index = 0
+layer_1/tile_data = PackedInt32Array()
+script = ExtResource("10_b8wo5")
+
+[node name="glyph_layer" type="Node2D" parent="grid_layer/hexmap"]
+unique_name_in_owner = true
+
+[node name="InputStateMachine" type="Node" parent="grid_layer/hexmap"]
+script = ExtResource("5_uuk7r")
+
+[node name="base" type="Node" parent="grid_layer/hexmap/InputStateMachine"]
+script = ExtResource("6_k0csb")
+
+[node name="view" type="Node" parent="grid_layer/hexmap/InputStateMachine"]
+script = ExtResource("13_72hxe")
+
+[node name="grabbed" type="Node" parent="grid_layer/hexmap/InputStateMachine"]
+script = ExtResource("9_fhhq3")
+
+[node name="selected" type="Node" parent="grid_layer/hexmap/InputStateMachine"]
+script = ExtResource("14_clehp")
+
+[node name="spell" type="Node" parent="grid_layer/hexmap/InputStateMachine"]
+script = ExtResource("16_1osnw")
+
+[node name="inspect" type="Node" parent="grid_layer/hexmap/InputStateMachine"]
+script = ExtResource("7_5fcfl")
+
+[node name="unit_layer" type="Node2D" parent="grid_layer"]
+unique_name_in_owner = true
+
+[node name="animation_layer" type="Node2D" parent="grid_layer"]
+unique_name_in_owner = true
+
+[node name="UILayer" type="CanvasLayer" parent="."]
+
+[node name="LeftCardBox" type="VBoxContainer" parent="UILayer"]
+unique_name_in_owner = true
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="RightCardBox" type="VBoxContainer" parent="UILayer"]
+unique_name_in_owner = true
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -40.0
+offset_bottom = 40.0
+grow_horizontal = 0
+
+[node name="TacticsCard" parent="UILayer" instance=ExtResource("19_eyvnv")]
+visible = false
+
+[node name="Spellbook" parent="UILayer" instance=ExtResource("18_q6unw")]
+unique_name_in_owner = true
+visible = false
+
+[node name="StatPanel" parent="UILayer" instance=ExtResource("7_x2pdu")]
+unique_name_in_owner = true
+visible = false
+
+[node name="Message" type="Label" parent="UILayer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 26)
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -23.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_styles/normal = SubResource("StyleBoxFlat_rle44")
+horizontal_alignment = 1
+script = ExtResource("6_b2lla")
+
+[node name="Cursor" type="Node2D" parent="UILayer"]
+unique_name_in_owner = true
+top_level = true
+z_index = 10
+script = ExtResource("6_wldn6")
+
+[node name="sprite" type="Sprite2D" parent="UILayer/Cursor"]
+visible = false
+texture = ExtResource("7_obsmi")
+centered = false

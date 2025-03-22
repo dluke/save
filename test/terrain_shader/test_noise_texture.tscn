@@ -1,0 +1,95 @@
+[gd_scene load_steps=15 format=3]
+
+[ext_resource type="Script" path="res://test/terrain_shader/test_noise_texture.gd" id="1_4apqp"]
+[ext_resource type="Texture2D" uid="uid://ca2hwb8l43pdc" path="res://icon.svg" id="1_b6hsh"]
+[ext_resource type="Shader" path="res://test/terrain_shader/circle_gradient.gdshader" id="2_ougml"]
+[ext_resource type="Texture2D" uid="uid://bs72e6fs0vx5h" path="res://test/terrain_shader/swamp_layer_noise.tres" id="2_r7nfp"]
+[ext_resource type="Texture2D" uid="uid://bbg8llrq0w4lw" path="res://test/terrain_shader/circle_gradient.png" id="3_1dm03"]
+[ext_resource type="Shader" path="res://test/terrain_shader/blend_noise.gdshader" id="5_lepbj"]
+[ext_resource type="Texture2D" uid="uid://byvn736cbpveh" path="res://assets/placeholder/battlefield/grass-2500-mm-architextures.jpg" id="7_uv3dq"]
+[ext_resource type="Texture2D" uid="uid://c1dp138srsvbm" path="res://assets/raster/battlefield/swamp.png" id="8_ujnu5"]
+[ext_resource type="Shader" path="res://test/terrain_shader/mix_background.gdshader" id="9_smpkf"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_ny8hp"]
+shader = ExtResource("2_ougml")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_w0vaw"]
+shader = ExtResource("5_lepbj")
+shader_parameter/threshold = 0.6
+shader_parameter/noise_texture = ExtResource("2_r7nfp")
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_bkg1n"]
+viewport_path = NodePath("SubViewport")
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_3rupq"]
+viewport_path = NodePath("SubViewport")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_wxni4"]
+resource_local_to_scene = true
+shader = ExtResource("9_smpkf")
+shader_parameter/swamp_threshold = 0.3
+shader_parameter/size = Vector2(1920, 1080)
+shader_parameter/grass = ExtResource("7_uv3dq")
+shader_parameter/swamp = ExtResource("8_ujnu5")
+shader_parameter/mask = SubResource("ViewportTexture_3rupq")
+shader_parameter/noise_texture = ExtResource("2_r7nfp")
+
+[node name="test_noise_texture" type="Node2D"]
+script = ExtResource("1_4apqp")
+
+[node name="noise_texture" type="TextureRect" parent="."]
+visible = false
+offset_right = 1920.0
+offset_bottom = 1080.0
+texture = ExtResource("2_r7nfp")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(701, 358)
+texture = ExtResource("1_b6hsh")
+
+[node name="stamp" type="TextureRect" parent="."]
+offset_left = -297.0
+offset_top = 107.0
+offset_right = -41.0
+offset_bottom = 363.0
+texture = ExtResource("3_1dm03")
+
+[node name="SubViewport" type="SubViewport" parent="."]
+disable_3d = true
+transparent_bg = true
+size = Vector2i(1920, 1080)
+
+[node name="draw_surface" type="TextureRect" parent="SubViewport"]
+material = SubResource("ShaderMaterial_ny8hp")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="render_surface" type="TextureRect" parent="."]
+visible = false
+material = SubResource("ShaderMaterial_w0vaw")
+offset_right = 40.0
+offset_bottom = 40.0
+texture = SubResource("ViewportTexture_bkg1n")
+
+[node name="grass" type="TextureRect" parent="."]
+visible = false
+offset_right = 1920.0
+offset_bottom = 1080.0
+texture = ExtResource("7_uv3dq")
+stretch_mode = 1
+
+[node name="swamp" type="TextureRect" parent="."]
+visible = false
+offset_right = 1920.0
+offset_bottom = 1080.0
+texture = ExtResource("8_ujnu5")
+stretch_mode = 1
+
+[node name="ColorRect" type="ColorRect" parent="."]
+material = SubResource("ShaderMaterial_wxni4")
+offset_right = 1920.0
+offset_bottom = 1080.0

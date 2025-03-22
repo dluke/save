@@ -1,0 +1,24 @@
+[gd_resource type="TileSet" load_steps=3 format=3 uid="uid://h5edossb61im"]
+
+[ext_resource type="Texture2D" uid="uid://b0066qm4tlf3g" path="res://assets/raster/battlefield/hex.png" id="1_422um"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4ma6y"]
+texture = ExtResource("1_422um")
+texture_region_size = Vector2i(104, 120)
+0:0/0 = 0
+1:0/0 = 0
+2:0/0 = 0
+3:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+2:1/0 = 0
+3:1/0 = 0
+0:2/0 = 0
+1:2/0 = 0
+2:2/0 = 0
+3:2/0 = 0
+
+[resource]
+tile_shape = 3
+tile_size = Vector2i(104, 120)
+sources/0 = SubResource("TileSetAtlasSource_4ma6y")

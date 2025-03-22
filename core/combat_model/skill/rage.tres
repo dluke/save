@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://bvau662803u4l"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/rage.gd" id="1_mk7vf"]
+[ext_resource type="Texture2D" uid="uid://d3mpew3uoipk5" path="res://assets/placeholder/skills/raster/Berserker.png" id="2_c3ld7"]
+
+[resource]
+script = ExtResource("1_mk7vf")
+name = "Rage"
+texture = ExtResource("2_c3ld7")
+value = 1

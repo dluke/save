@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="SpellResource" load_steps=4 format=3 uid="uid://doiqjjj247v3c"]
+
+[ext_resource type="Script" path="res://core/combat_model/spell_resource.gd" id="1_0mjwc"]
+[ext_resource type="Resource" uid="uid://c06ts481f1v4e" path="res://core/animation/spells/magic_armor_animation.tres" id="1_38ggj"]
+[ext_resource type="Texture2D" uid="uid://be11vwsmt32t8" path="res://assets/placeholder/spells/magic_armor.png" id="2_7wh7f"]
+
+[resource]
+script = ExtResource("1_0mjwc")
+name = "Magic Armor"
+texture = ExtResource("2_7wh7f")
+gem_cost = 2
+stamina_cost = 1
+target_condition = 1
+animation = ExtResource("1_38ggj")

@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="TokenResource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://core/combat_model/token_resource.gd" id="1_n5byx"]
+
+[resource]
+script = ExtResource("1_n5byx")
+name = ""
+team_name = "enemy"
+unit_class = "Zombie"
+base_stats = [23.0, 10.0, 10.0, 7.0, 7.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]
+stats = [23.0, 10.0, 10.0, 7.0, 7.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0]
+skill = {
+"Berserk": 1.0,
+"Intrepid": 1.0,
+"Tireless": 1.0
+}

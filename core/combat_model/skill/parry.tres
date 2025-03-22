@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://c5m3qsjd5nsad"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/parry.gd" id="1_fagl0"]
+[ext_resource type="Texture2D" uid="uid://5nie2htpa5s3" path="res://assets/placeholder/skills/raster/Parry.png" id="2_jcbp6"]
+
+[resource]
+script = ExtResource("1_fagl0")
+name = "Parry"
+texture = ExtResource("2_jcbp6")
+value = 1

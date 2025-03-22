@@ -1,0 +1,116 @@
+[gd_scene load_steps=9 format=3 uid="uid://cc52ntjc0bk14"]
+
+[ext_resource type="Script" path="res://tools/scene/map_editor/MapEditor.gd" id="1_1rano"]
+[ext_resource type="PackedScene" uid="uid://b8aiymyooj81r" path="res://core/painting/battlefield/RenderBackground.tscn" id="2_1rm63"]
+[ext_resource type="TileSet" uid="uid://h5edossb61im" path="res://core/tactics_map_tileset.tres" id="3_nnyyw"]
+[ext_resource type="Script" path="res://core/hex_tile_map.gd" id="4_sa5xd"]
+[ext_resource type="Script" path="res://tools/scene/map_editor/FPSLabel.gd" id="5_1gmkf"]
+[ext_resource type="Script" path="res://tools/scene/map_editor/components/UnitPanel.gd" id="6_itnlh"]
+[ext_resource type="Script" path="res://core/UI/message.gd" id="7_kp5gl"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_fh7ju"]
+bg_color = Color(0.176471, 0.176471, 0.176471, 1)
+
+[node name="MapEditor" type="Node2D"]
+script = ExtResource("1_1rano")
+
+[node name="render_background" parent="." instance=ExtResource("2_1rm63")]
+
+[node name="grid_layer" type="Node2D" parent="."]
+position = Vector2(487, 129)
+
+[node name="TileMap" type="TileMap" parent="grid_layer"]
+tile_set = ExtResource("3_nnyyw")
+format = 2
+layer_0/tile_data = PackedInt32Array(0, 0, 0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, 0, 0, 6, 0, 0, 7, 0, 0, 65536, 0, 0, 131073, 0, 0, 131072, 0, 0, 196608, 0, 0, 262144, 0, 0, 327680, 0, 0, 393216, 0, 0, 458752, 0, 0, 458753, 0, 0, 458754, 0, 0, 458755, 0, 0, 458756, 0, 0, 458757, 0, 0, 458758, 0, 0, 65543, 0, 0, 131079, 0, 0, 196615, 0, 0, 262151, 0, 0, 327687, 0, 0, 393223, 0, 0, 458759, 0, 0, 327686, 0, 0, 196614, 0, 0, 65542, 0, 0, 131078, 0, 0, 262150, 0, 0, 393222, 0, 0, 196613, 0, 0, 65541, 0, 0, 131077, 0, 0, 262149, 0, 0, 327685, 0, 0, 393221, 0, 0, 327684, 0, 0, 196612, 0, 0, 65540, 0, 0, 65539, 0, 0, 65538, 0, 0, 65537, 0, 0, 131074, 0, 0, 131075, 0, 0, 131076, 0, 0, 196611, 0, 0, 196610, 0, 0, 196609, 0, 0, 262145, 0, 0, 262146, 0, 0, 262147, 0, 0, 262148, 0, 0, 327683, 0, 0, 327682, 0, 0, 327681, 0, 0, 393218, 0, 0, 393219, 0, 0, 393220, 0, 0, 393217, 0, 0)
+script = ExtResource("4_sa5xd")
+
+[node name="FPSLabel" type="Label" parent="."]
+offset_left = 162.0
+offset_top = 3.0
+offset_right = 202.0
+offset_bottom = 26.0
+script = ExtResource("5_1gmkf")
+
+[node name="UILayer" type="CanvasLayer" parent="."]
+
+[node name="UnitPanel" type="PanelContainer" parent="UILayer"]
+custom_minimum_size = Vector2(200, 0)
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 0
+grow_vertical = 2
+script = ExtResource("6_itnlh")
+
+[node name="vbox" type="VBoxContainer" parent="UILayer/UnitPanel"]
+layout_mode = 2
+
+[node name="OptionButton" type="OptionButton" parent="UILayer/UnitPanel/vbox"]
+layout_mode = 2
+item_count = 1
+selected = 0
+popup/item_0/text = "ALL"
+popup/item_0/id = 0
+
+[node name="ALL" type="MarginContainer" parent="UILayer/UnitPanel/vbox"]
+layout_mode = 2
+theme_override_constants/margin_left = 4
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 4
+theme_override_constants/margin_bottom = 4
+
+[node name="GridContainer" type="GridContainer" parent="UILayer/UnitPanel/vbox/ALL"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 2
+
+[node name="SaveUnitLayout" type="Button" parent="UILayer"]
+custom_minimum_size = Vector2(200, 40)
+offset_left = 1519.0
+offset_top = 1013.0
+offset_right = 1719.0
+offset_bottom = 1053.0
+text = "Save Layout"
+
+[node name="Message" type="Label" parent="UILayer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 26)
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -26.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_styles/normal = SubResource("StyleBoxFlat_fh7ju")
+horizontal_alignment = 1
+script = ExtResource("7_kp5gl")
+
+[node name="OptionButton" type="OptionButton" parent="."]
+offset_right = 40.0
+offset_bottom = 20.0
+item_count = 6
+selected = 0
+popup/item_0/text = "Disable"
+popup/item_0/id = 5
+popup/item_1/text = "Plains"
+popup/item_1/id = 4
+popup/item_2/text = "Forest"
+popup/item_2/id = 0
+popup/item_3/text = "Hills"
+popup/item_3/id = 1
+popup/item_4/text = "Swamp"
+popup/item_4/id = 2
+popup/item_5/text = "Impassable"
+popup/item_5/id = 3
+
+[node name="SaveTerrain" type="Button" parent="."]
+custom_minimum_size = Vector2(100, 40)
+offset_left = 5.0
+offset_top = 206.0
+offset_right = 105.0
+offset_bottom = 246.0
+text = "Save"

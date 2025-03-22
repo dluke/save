@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SkillResource" load_steps=3 format=3 uid="uid://ilejw8ulif1s"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/skill_resource.gd" id="1_y7ryq"]
+[ext_resource type="Texture2D" uid="uid://c0g87si8557ho" path="res://assets/placeholder/skills/raster/Magic Shot.png" id="2_qqpjr"]
+
+[resource]
+script = ExtResource("1_y7ryq")
+name = "Magic Shot"
+texture = ExtResource("2_qqpjr")
+value = 1

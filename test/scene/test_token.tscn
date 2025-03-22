@@ -1,0 +1,27 @@
+[gd_scene load_steps=5 format=3 uid="uid://bkytost0vbk05"]
+
+[ext_resource type="PackedScene" uid="uid://c08dlpassngyf" path="res://core/token.tscn" id="1_m21rt"]
+[ext_resource type="Script" path="res://test/scene/test_token.gd" id="1_wq47o"]
+[ext_resource type="Script" path="res://core/combat_model/token_resource.gd" id="2_sv4xo"]
+
+[sub_resource type="Resource" id="Resource_5kj1x"]
+script = ExtResource("2_sv4xo")
+name = ""
+team_name = ""
+unit_class = "Scout"
+base_stats = null
+stats = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+skill = null
+
+[node name="test_token" type="Node2D"]
+script = ExtResource("1_wq47o")
+
+[node name="token" parent="." instance=ExtResource("1_m21rt")]
+m_resource = SubResource("Resource_5kj1x")
+
+[node name="play_animation" type="Button" parent="."]
+offset_left = 541.0
+offset_top = 219.0
+offset_right = 582.0
+offset_bottom = 250.0
+text = "Play"

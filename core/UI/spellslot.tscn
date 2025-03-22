@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://fnltoiabtjfv"]
+
+[ext_resource type="Script" path="res://core/UI/spellslot.gd" id="1_w2lk0"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jvu3s"]
+bg_color = Color(0.6, 0.6, 0.6, 0)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+
+[node name="spellslot" type="PanelContainer"]
+theme_override_styles/panel = SubResource("StyleBoxFlat_jvu3s")
+script = ExtResource("1_w2lk0")
+
+[node name="texture" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(52, 52)
+layout_mode = 2

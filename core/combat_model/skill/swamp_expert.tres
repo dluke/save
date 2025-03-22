@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://cs6dk8exr3ttg"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/terrain_skill.gd" id="1_efabi"]
+[ext_resource type="Texture2D" uid="uid://c71ld700bu7au" path="res://assets/placeholder/skills/raster/Swamper.png" id="2_57btm"]
+
+[resource]
+script = ExtResource("1_efabi")
+terrain_type = 3
+name = "Swamp Expert"
+texture = ExtResource("2_57btm")
+value = 1

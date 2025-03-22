@@ -1,0 +1,54 @@
+[gd_scene load_steps=5 format=3 uid="uid://dptll61yjcygq"]
+
+[ext_resource type="Script" path="res://core/UI/value_bar.gd" id="1_wm7cf"]
+
+[sub_resource type="Animation" id="Animation_eaepj"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:inter_value")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="Animation_oh87q"]
+resource_name = "value_down"
+length = 0.5
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:inter_value")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.3, 0.5),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [1.0, 1.0, 0.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_deicw"]
+_data = {
+"RESET": SubResource("Animation_eaepj"),
+"value_down": SubResource("Animation_oh87q")
+}
+
+[node name="ValueBar" type="Control"]
+custom_minimum_size = Vector2(40, 3)
+layout_mode = 3
+anchors_preset = 0
+offset_right = 20.0
+offset_bottom = 3.0
+script = ExtResource("1_wm7cf")
+inter_value = 0.0
+
+[node name="animate" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_deicw")
+}

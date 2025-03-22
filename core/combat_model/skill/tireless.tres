@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SkillResource" load_steps=3 format=3 uid="uid://72jh7hodocby"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/skill_resource.gd" id="1_cm82q"]
+[ext_resource type="Texture2D" uid="uid://donptcg7vipcn" path="res://assets/placeholder/skills/quick/ribcage.png" id="2_g52do"]
+
+[resource]
+script = ExtResource("1_cm82q")
+name = "Tireless"
+texture = ExtResource("2_g52do")
+value = 1

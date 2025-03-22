@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://dcmfc11blqts7"]
+
+[ext_resource type="Script" path="res://tools/scene/map_editor/components/unit_square.gd" id="1_k0exv"]
+[ext_resource type="Texture2D" uid="uid://s3i35m5wryo5" path="res://assets/placeholder/unit/pegasus.png" id="2_xgfko"]
+
+[node name="unit_square" type="PanelContainer"]
+custom_minimum_size = Vector2(100, 100)
+script = ExtResource("1_k0exv")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+clip_contents = true
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+texture = ExtResource("2_xgfko")
+stretch_mode = 3

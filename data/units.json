@@ -1,0 +1,82 @@
+[
+	{
+		"class" : "Scout",
+		"sprite_path" : "placeholder/hero/Scout.png",
+		"stats" : [10, 10, 10, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+	},
+	{
+		"class" : "Peasant",
+		"sprite_path" : "placeholder/unit/rebel.png",
+		"tier" : 1,
+		"stats" : [18, 8, 8, 5, 5, 2, 0, 0, 0, 0, 0, 0],
+	},
+	{
+		"class" : "Slinger",
+		"sprite_path" : "placeholder/unit/slinger.png",
+		"tier" : 1,
+		"stats" : [10, 10, 10, 3, 3, 2, 0, 0, 1, 4, 4, 8],
+		"skills" : [["Stunning Shot", 1]]
+	},
+	{
+		"class" : "Archer",
+		"sprite_path" : "placeholder/unit/archer.png",
+		"tier" : 1,
+		"stats" : [10, 10, 10, 3, 4, 2, 0, 0, 1, 5, 5, 7],
+	},
+	{
+		"class" : "Brigand",
+		"sprite_path" : "placeholder/unit/robber.png",
+		"tier" : 1,
+		"stats" : [17, 10, 8, 8, 5, 2, 1, 2, 1, 0, 0, 0],
+		"skills" : [["Forest Expert", 1]]
+	},
+	{
+		"class" : "Swordman",
+		"sprite_path" : "placeholder/unit/swordman.png",
+		"tier" : 1,
+		"stats" : [17, 10, 10, 8, 7, 1, 3, 5, 1, 0, 0, 0],
+		"skills" : [["Parry", 2]]
+	},
+	{
+		"class" : "Horseman",
+		"sprite_path" : "placeholder/unit/horseman.png",
+		"tier" : 2,
+		"stats" : [32, 10, 10, 12, 8, 4, 2, 2, 1, 0, 0, 0],
+		"skills" : [["Charge", 1]]
+	},
+	{
+		"class" : "Pikeman",
+		"sprite_path" : "placeholder/unit/pikeman.png",
+		"tier" : 1,
+		"stats" : [19, 10, 10, 8, 10, 2, 3, 2, 1, 0, 0, 0],
+		"skills" : [["First Strike", 1]]
+	},
+	{
+		"class" : "Hag",
+		"sprite_path" : "placeholder/unit/shaman.png",
+		"tier" : 1,
+		"stats" : [9, 10, 10, 3, 4, 2, 0, 0, 3, 6, 4, 5],
+		"skills" : [["Magic Shot", 1]]
+	},
+	{
+		"class" : "Barbarian",
+		"sprite_path" : "placeholder/unit/barbarian.png",
+		"tier" : 1,
+		"stats" : [20, 12, 10, 9, 4, 2, 1, 2, 0, 0, 0, 0],
+		"skills" : [["Rage", 2]]
+	},
+	{
+		"class" : "Zombie",
+		"sprite_path" : "placeholder/unit/zombie.png",
+		"tier" : 1,
+		"stats" : [23, 10, 10, 7, 7, 1, 0, 0, 1, 0, 0, 0],
+		"skills" : [["Berserk", 1], ["Tireless", 1], ["Intrepid", 1]]
+	},
+	{
+		"class" : "Skeleton",
+		"sprite_path" : "placeholder/unit/skeleton.png",
+		"tier" : 1,
+		"stats" : [9, 10, 10, 8, 4, 2, 2, 7, 0, 0, 0, 0],
+		"skills" : [["Berserk", 1], ["Tireless", 1], ["Intrepid", 1]]
+	}
+]

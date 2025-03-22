@@ -1,0 +1,38 @@
+[gd_scene load_steps=4 format=3 uid="uid://ckfqr3mm4hdt5"]
+
+[ext_resource type="Script" path="res://core/token/status_pair.gd" id="1_66wil"]
+[ext_resource type="Texture2D" uid="uid://dfv2vd73iuxq1" path="res://assets/placeholder/icon/cursor/tool_sword_no_border.png" id="1_tgdqv"]
+
+[sub_resource type="FontVariation" id="FontVariation_ouvt8"]
+variation_embolden = 1.0
+
+[node name="StatusPair" type="HBoxContainer"]
+modulate = Color(0.988235, 0.313726, 0.266667, 1)
+theme_override_constants/separation = 1
+script = ExtResource("1_66wil")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+clip_contents = false
+custom_minimum_size = Vector2(14, 14)
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 4
+theme_override_fonts/normal_font = SubResource("FontVariation_ouvt8")
+theme_override_font_sizes/normal_font_size = 13
+bbcode_enabled = true
+text = "+2"
+fit_content = true
+scroll_active = false
+autowrap_mode = 0
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="CenterContainer"]
+custom_minimum_size = Vector2(12, 12)
+layout_mode = 2
+size_flags_horizontal = 4
+texture = ExtResource("1_tgdqv")
+expand_mode = 1
+stretch_mode = 4
+flip_h = true

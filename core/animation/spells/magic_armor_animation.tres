@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="SpellAnimationResource" load_steps=2 format=3 uid="uid://c06ts481f1v4e"]
+
+[ext_resource type="Script" path="res://core/animation/spell_animation_resource.gd" id="1_1b4ru"]
+
+[resource]
+script = ExtResource("1_1b4ru")
+animation_name = "magic_armor"

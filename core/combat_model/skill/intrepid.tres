@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SkillResource" load_steps=3 format=3 uid="uid://ecr5jsapo2g3"]
+
+[ext_resource type="Script" path="res://core/combat_model/skill/skill_resource.gd" id="1_yjdk3"]
+[ext_resource type="Texture2D" uid="uid://cxryholdr6ljl" path="res://assets/placeholder/skills/quick/skull.png" id="2_oc7v7"]
+
+[resource]
+script = ExtResource("1_yjdk3")
+name = "Intrepid"
+texture = ExtResource("2_oc7v7")
+value = 1
