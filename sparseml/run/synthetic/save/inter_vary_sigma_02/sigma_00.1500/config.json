@@ -1,0 +1,1 @@
+{"update": {"sigma": 0.15}, "params": {"l": 1.0, "sigma": 0.15, "N": 40, "dx": 0.1, "p_threshold": 0.98, "angle_sigma": 0.39269908169872414}, "meta": {"sigma": 0.15212921001215574, "r": 0.35390616085812054}, "loss_conf": {}, "control": {"maxiter": 5000, "t_end": 0.0, "tolerance": 1e-06}}

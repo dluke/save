@@ -1,0 +1,351 @@
+writing to  ./config.json
+update {'sigma': 0.1}
+writing to  sigma_00.1000/truth.pkl
+writing to  sigma_00.1000/data.pkl
+using sigma = 0.10124016867816889
+writing to  sigma_00.1000/initial_guess.pkl
+plotting using r =  0.23552031472888327
+lw =  23.12240538600368
+{'update': {'sigma': 0.1}, 'params': {'l': 1.0, 'sigma': 0.1, 'N': 40, 'dx': 0.1, 'p_threshold': 0.98, 'angle_sigma': 0.39269908169872414}, 'meta': {'sigma': 0.10124016867816889, 'r': 0.23552031472888327}, 'loss_conf': {}, 'control': {'maxiter': 5000, 't_end': 0.0, 'tolerance': 1e-06}}
+writing to  sigma_00.1000/config.json
+solver 0 iteration 00000000
+pqueue [[0, 0], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [0, 7], [0, 8], [0, 9], [0, 10], [0, 11], [0, 12], [0, 13], [0, 14], [0, 15], [0, 16], [0, 17], [0, 18], [0, 19], [0, 20], [0, 21], [0, 22], [0, 23], [0, 24], [0, 25], [0, 26], [0, 27], [0, 28], [0, 29], [0, 30], [0, 31], [0, 32], [0, 33], [0, 34], [0, 35], [0, 36], [0, 37], [0, 38], [0, 39], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0, 47], [0, 48], [0, 49], [0, 50], [0, 51], [0, 52], [0, -1]]
+sidx [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 0 T 1 sidx 0 index 0 move destroy M 54
+pqueue [[0, -1], [0, 1], [0, 2], [0, 3], [0, 4], [0, 5], [0, 6], [0, 7], [0, 8], [0, 9], [0, 10], [0, 11], [0, 12], [0, 13], [0, 14], [0, 15], [0, 16], [0, 17], [0, 18], [0, 19], [0, 20], [0, 21], [0, 22], [0, 23], [0, 24], [0, 25], [0, 26], [0, 27], [0, 28], [0, 29], [0, 30], [0, 31], [0, 32], [0, 33], [0, 34], [0, 35], [0, 36], [0, 37], [0, 38], [0, 39], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0, 47], [0, 48], [0, 49], [0, 50], [0, 51], [0, 52], [0.16666666666666663, 0]]
+sidx [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 1 T 1 sidx -1 index 53 move create M 54
+did not create at 53
+pqueue [[0, 1], [0, 3], [0, 2], [0, 7], [0, 4], [0, 5], [0, 6], [0, 15], [0, 8], [0, 9], [0, 10], [0, 11], [0, 12], [0, 13], [0, 14], [0, 31], [0, 16], [0, 17], [0, 18], [0, 19], [0, 20], [0, 21], [0, 22], [0, 23], [0, 24], [0, 25], [0, 26], [0, 27], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0, 33], [0, 34], [0, 35], [0, 36], [0, 37], [0, 38], [0, 39], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0, 47], [0, 48], [0, 49], [0, 50], [0, 51], [0, 52], [0.16666666666666663, -1]]
+sidx [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 2 T 1 sidx 1 index 1 move destroy M 54
+optimisation finished successfully after 179 iterations, 269 evaluations
+destroy without percolating (142, 54) (135, 53)
+pqueue [[0, -1], [0, 3], [0.0, 2], [0, 7], [0, 4], [0, 5], [0, 6], [0, 15], [0, 8], [0, 9], [0, 10], [0, 23], [0, 11], [0, 13], [0, 14], [0, 31], [0, 16], [0, 17], [0, 18], [0, 19], [0, 20], [0, 21], [0, 22], [0, 47], [0, 24], [0, 25], [0, 12], [0, 27], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0, 33], [0, 34], [0, 35], [0, 36], [0, 37], [0, 38], [0, 39], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0, 51], [0, 52], [0, 26]]
+sidx [ 0  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 3 T 1.0 sidx 2 index 1 move create M 53
+optimisation finished successfully after 14 iterations, 29 evaluations
+optimisation finished successfully after 419 iterations, 634 evaluations
+optimisation finished successfully after 180 iterations, 285 evaluations
+optimisation finished successfully after 222 iterations, 326 evaluations
+accepted move data right 1.1191051071363407 1.2196045612609692 5
+optimisation finished successfully after 175 iterations, 256 evaluations
+optimisation finished successfully after 113 iterations, 172 evaluations
+accepted move data right 1.0941660930143282 1.1191051071363407 7
+optimisation finished successfully after 217 iterations, 323 evaluations
+optimisation finished successfully after 138 iterations, 207 evaluations
+optimisation finished successfully after 24 iterations, 47 evaluations
+optimisation finished successfully after 26 iterations, 48 evaluations
+optimisation finished successfully after 189 iterations, 284 evaluations
+accepted move data left 1.0411278099239845 1.0941660930143282 3
+optimisation finished successfully after 543 iterations, 786 evaluations
+optimisation finished successfully after 131 iterations, 200 evaluations
+optimisation finished successfully after 141 iterations, 210 evaluations
+optimisation finished successfully after 23 iterations, 42 evaluations
+accepted move data left 1.040689114642641 1.0411278099239845 1
+optimisation finished successfully after 359 iterations, 519 evaluations
+optimisation finished successfully after 173 iterations, 253 evaluations
+optimisation finished successfully after 108 iterations, 158 evaluations
+optimisation finished successfully after 60 iterations, 98 evaluations
+create False (135, 53) (135, 54)
+pqueue [[0, 3], [0, 4], [0, 5], [0, 7], [0, 9], [0, 11], [0, 6], [0, 15], [0, 8], [0, 19], [0, 10], [0, 23], [0, 12], [0, 13], [0, 14], [0, 31], [0, 16], [0, 17], [0, 18], [0, 39], [0, 20], [0, 21], [0, 22], [0, 47], [0, 24], [0, 25], [0, 26], [0, 27], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0, 33], [0, 34], [0, 35], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0, 51], [0.16666666666666663, 2]]
+sidx [ 0  2 54  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 4 T 1 sidx 3 index 3 move create M 54
+optimisation finished successfully after 52 iterations, 88 evaluations
+optimisation finished successfully after 164 iterations, 234 evaluations
+accepted move data right 1.5113912535185212 1.5456737589157248 3
+optimisation finished successfully after 292 iterations, 419 evaluations
+accepted move data left 1.2934888994408298 1.5113912535185212 1
+optimisation finished successfully after 406 iterations, 587 evaluations
+accepted move data left 1.1874199845171922 1.2934888994408298 3
+create False (135, 54) (137, 55)
+pqueue [[0, 4], [0, 7], [0, 5], [0, 8], [0, 9], [0, 11], [0, 6], [0, 15], [0, 17], [0, 19], [0, 10], [0, 23], [0, 12], [0, 13], [0, 14], [0, 31], [0, 16], [0, 35], [0, 18], [0, 39], [0, 20], [0, 21], [0, 22], [0, 47], [0, 24], [0, 25], [0, 26], [0, 27], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0, 33], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0, 51], [0.16666666666666663, 3]]
+sidx [ 0  2 54  3 55  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22
+ 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+ 47 48 49 50 51 52 -1]
+
+iter 5 T 1 sidx 4 index 5 move percolate M 55
+optimisation finished successfully after 280 iterations, 396 evaluations
+accepted move data right 0.5526567701312892 1.1249162212634987 1
+optimisation finished successfully after 409 iterations, 580 evaluations
+optimisation finished successfully after 115 iterations, 184 evaluations
+accepted move data left 0.5384706221046996 0.5526567701312892 1
+optimisation finished successfully after 551 iterations, 772 evaluations
+optimisation finished successfully after 21 iterations, 48 evaluations
+pqueue [[0, 5], [0, 7], [0, 6], [0, 8], [0, 9], [0, 11], [0, 13], [0, 15], [0, 17], [0, 19], [0, 10], [0, 23], [0, 12], [0, 27], [0, 14], [0, 31], [0, 16], [0, 35], [0, 18], [0, 39], [0, 20], [0, 21], [0, 22], [0, 47], [0, 24], [0, 25], [0, 26], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0, 33], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0, 51], [0.16666666666666663, 4]]
+sidx [ 0  2 54  3 55  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22
+ 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+ 47 48 49 50 51 52 -1]
+
+iter 6 T 1 sidx 5 index 6 move destroy M 55
+optimisation finished successfully after 66 iterations, 108 evaluations
+optimisation finished successfully after 489 iterations, 685 evaluations
+accepted move data right 2.120599142672364 2.879230759930636 15
+optimisation finished successfully after 485 iterations, 689 evaluations
+accepted move data left 1.2194278864333674 2.120599142672364 7
+optimisation finished successfully after 849 iterations, 1207 evaluations
+optimisation finished successfully after 182 iterations, 264 evaluations
+optimisation finished successfully after 107 iterations, 171 evaluations
+optimisation finished successfully after 34 iterations, 67 evaluations
+destroy False (131, 55) (142, 54)
+pqueue [[0, 6], [0, 7], [0, 11], [0, 8], [0, 9], [0, 12], [0, 13], [0, 15], [0, 17], [0, 19], [0, 10], [0, 23], [0, 25], [0, 27], [0, 14], [0, 31], [0, 16], [0, 35], [0, 18], [0, 39], [0, 20], [0, 21], [0, 22], [0, 47], [0, 24], [0, 51], [0, 26], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0, 33], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 6]]
+sidx [ 0  2 54  3 55  4  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 7 T 1 sidx 6 index 6 move percolate M 54
+optimisation finished successfully after 350 iterations, 496 evaluations
+optimisation finished successfully after 69 iterations, 120 evaluations
+optimisation finished successfully after 30 iterations, 65 evaluations
+optimisation finished successfully after 849 iterations, 1207 evaluations
+optimisation finished successfully after 182 iterations, 264 evaluations
+optimisation finished successfully after 107 iterations, 171 evaluations
+optimisation finished successfully after 34 iterations, 67 evaluations
+pqueue [[0, 7], [0, 8], [0, 11], [0, 15], [0, 9], [0, 12], [0, 13], [0, 16], [0, 17], [0, 19], [0, 10], [0, 23], [0, 25], [0, 27], [0, 14], [0, 31], [0, 33], [0, 35], [0, 18], [0, 39], [0, 20], [0, 21], [0, 22], [0, 47], [0, 24], [0, 51], [0, 26], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0, 41], [0, 42], [0, 43], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0.16666666666666663, 4], [0.33333333333333337, 6]]
+sidx [ 0  2 54  3 55  4  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 8 T 1 sidx 7 index 7 move percolate M 54
+optimisation finished successfully after 407 iterations, 566 evaluations
+optimisation finished successfully after 253 iterations, 368 evaluations
+accepted move data right 1.1174628798229909 1.2842066307703923 7
+optimisation finished successfully after 198 iterations, 296 evaluations
+optimisation finished successfully after 180 iterations, 267 evaluations
+optimisation finished successfully after 174 iterations, 260 evaluations
+accepted move data right 1.0683666403182281 1.1174628798229909 2
+optimisation finished successfully after 408 iterations, 573 evaluations
+optimisation finished successfully after 195 iterations, 283 evaluations
+optimisation finished successfully after 38 iterations, 64 evaluations
+optimisation finished successfully after 71 iterations, 117 evaluations
+accepted move data left 1.0332641597529668 1.0683666403182286 3
+optimisation finished successfully after 126 iterations, 189 evaluations
+optimisation finished successfully after 100 iterations, 162 evaluations
+optimisation finished successfully after 24 iterations, 51 evaluations
+accepted move data left 1.0106294930837834 1.0332641597529668 2
+optimisation finished successfully after 284 iterations, 399 evaluations
+optimisation finished successfully after 112 iterations, 168 evaluations
+optimisation finished successfully after 67 iterations, 108 evaluations
+pqueue [[0, 8], [0, 9], [0, 11], [0, 15], [0, 10], [0, 12], [0, 13], [0, 16], [0, 17], [0, 19], [0, 21], [0, 23], [0, 25], [0, 27], [0, 14], [0, 31], [0, 33], [0, 35], [0, 18], [0, 39], [0, 20], [0, 43], [0, 22], [0, 47], [0, 24], [0, 51], [0, 26], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0, 41], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 7]]
+sidx [ 0  2 54  3 55  4  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 9 T 1 sidx 8 index 8 move destroy M 54
+optimisation finished successfully after 44 iterations, 74 evaluations
+optimisation finished successfully after 253 iterations, 358 evaluations
+accepted move data right 2.3182050739344233 2.5676599566823906 15
+optimisation finished successfully after 400 iterations, 556 evaluations
+optimisation finished successfully after 764 iterations, 1070 evaluations
+accepted move data left 2.155105015335279 2.3182050739344233 7
+optimisation finished successfully after 769 iterations, 1077 evaluations
+optimisation finished successfully after 305 iterations, 438 evaluations
+optimisation finished successfully after 264 iterations, 383 evaluations
+optimisation finished successfully after 114 iterations, 168 evaluations
+optimisation finished successfully after 63 iterations, 105 evaluations
+destroy False (128, 54) (135, 53)
+pqueue [[0, 9], [0, 10], [0, 11], [0, 15], [0, 19], [0, 12], [0, 13], [0, 16], [0, 17], [0, 20], [0, 21], [0, 23], [0, 25], [0, 27], [0, 14], [0, 31], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 47], [0, 24], [0, 51], [0, 26], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0, 32], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 9]]
+sidx [ 0  2 54  3 55  4  6  7  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 10 T 1 sidx 9 index 8 move create M 53
+optimisation finished successfully after 219 iterations, 321 evaluations
+optimisation finished successfully after 187 iterations, 277 evaluations
+optimisation finished successfully after 126 iterations, 185 evaluations
+accepted move data right 1.5661803902502376 1.702530469450235 3
+optimisation finished successfully after 215 iterations, 326 evaluations
+optimisation finished successfully after 77 iterations, 119 evaluations
+optimisation finished successfully after 36 iterations, 68 evaluations
+optimisation finished successfully after 227 iterations, 318 evaluations
+optimisation finished successfully after 311 iterations, 450 evaluations
+optimisation finished successfully after 80 iterations, 140 evaluations
+accepted move data left 1.5184381208377336 1.5661803902502376 2
+optimisation finished successfully after 564 iterations, 804 evaluations
+optimisation finished successfully after 324 iterations, 470 evaluations
+optimisation finished successfully after 194 iterations, 282 evaluations
+optimisation finished successfully after 46 iterations, 87 evaluations
+create True (135, 53) (132, 54)
+created sidx 56 and add to pq
+pqueue [[0.0, 9], [0, 15], [0, -1], [0, 16], [0, 19], [0.0, 10], [0, 13], [0, 31], [0, 17], [0, 20], [0, 21], [0, 23], [0, 11], [0, 27], [0, 14], [0, 32], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 47], [0, 24], [0, 51], [0, 12], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0, 26], [0, 25]]
+sidx [ 0  2 54  3 55  4  6  7  9 56 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 11 T 1.0 sidx 9 index 8 move destroy M 54
+optimisation finished successfully after 95 iterations, 151 evaluations
+optimisation finished successfully after 320 iterations, 452 evaluations
+accepted move data right 2.4726098779073435 2.554001971426229 19
+optimisation finished successfully after 191 iterations, 285 evaluations
+optimisation finished successfully after 667 iterations, 926 evaluations
+accepted move data left 2.039033664086905 2.4726098779073435 5
+optimisation finished successfully after 604 iterations, 834 evaluations
+optimisation finished successfully after 331 iterations, 469 evaluations
+optimisation finished successfully after 439 iterations, 616 evaluations
+optimisation finished successfully after 212 iterations, 306 evaluations
+optimisation finished successfully after 62 iterations, 101 evaluations
+accepted move data left 1.9954689315670924 2.039033664086905 1
+optimisation finished successfully after 406 iterations, 568 evaluations
+optimisation finished successfully after 298 iterations, 444 evaluations
+optimisation finished successfully after 500 iterations, 685 evaluations
+optimisation finished successfully after 183 iterations, 275 evaluations
+optimisation finished successfully after 101 iterations, 160 evaluations
+accepted move data left 1.9941426209923543 1.9954689315670924 1
+optimisation finished successfully after 576 iterations, 821 evaluations
+optimisation finished successfully after 297 iterations, 420 evaluations
+optimisation finished successfully after 350 iterations, 499 evaluations
+optimisation finished successfully after 68 iterations, 111 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+destroy False (132, 54) (137, 53)
+pqueue [[0, -1], [0, 15], [0.0, 10], [0, 16], [0, 19], [0, 11], [0, 13], [0, 31], [0, 17], [0, 20], [0, 21], [0, 23], [0, 12], [0, 27], [0, 14], [0, 32], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 47], [0, 24], [0, 51], [0, 25], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0, 49], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0, 26], [0.16666666666666663, 56]]
+sidx [ 0  2 54  3 55  4  6  7 56 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 12 T 1.0 sidx 10 index 9 move destroy M 53
+optimisation finished successfully after 215 iterations, 311 evaluations
+destroy without percolating (134, 53) (131, 52)
+pqueue [[0, -1], [0, 15], [0.0, 11], [0, 16], [0, 19], [0, 12], [0, 13], [0, 31], [0, 17], [0, 20], [0, 21], [0, 24], [0, 23], [0, 27], [0, 14], [0, 32], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 47], [0, 49], [0, 51], [0, 25], [0.16666666666666663, 3], [0, 28], [0, 29], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.0, 56], [0, 26]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+ 50 51 52 -1]
+
+iter 13 T 1.0 sidx 11 index 9 move create M 52
+optimisation finished successfully after 78 iterations, 119 evaluations
+optimisation finished successfully after 786 iterations, 1123 evaluations
+optimisation finished successfully after 281 iterations, 416 evaluations
+optimisation finished successfully after 463 iterations, 632 evaluations
+accepted move data right 1.755712320885252 1.775690155720735 6
+optimisation finished successfully after 368 iterations, 522 evaluations
+optimisation finished successfully after 202 iterations, 296 evaluations
+accepted move data right 1.7447663656362467 1.755712320885252 10
+optimisation finished successfully after 206 iterations, 298 evaluations
+optimisation finished successfully after 400 iterations, 550 evaluations
+accepted move data right 1.566749120824285 1.7447663656362467 5
+optimisation finished successfully after 173 iterations, 259 evaluations
+optimisation finished successfully after 113 iterations, 169 evaluations
+optimisation finished successfully after 247 iterations, 364 evaluations
+accepted move data right 1.3980037937236605 1.566749120824285 1
+optimisation finished successfully after 171 iterations, 243 evaluations
+optimisation finished successfully after 129 iterations, 191 evaluations
+optimisation finished successfully after 21 iterations, 49 evaluations
+optimisation finished successfully after 71 iterations, 110 evaluations
+optimisation finished successfully after 23 iterations, 52 evaluations
+accepted move data left 1.3960450069542425 1.3980037937236605 2
+optimisation finished successfully after 664 iterations, 935 evaluations
+optimisation finished successfully after 208 iterations, 303 evaluations
+optimisation finished successfully after 210 iterations, 312 evaluations
+optimisation finished successfully after 106 iterations, 160 evaluations
+optimisation finished successfully after 40 iterations, 75 evaluations
+create False (131, 52) (132, 53)
+pqueue [[0, 12], [0, 15], [0, 13], [0, 16], [0, 19], [0, 23], [0, 14], [0, 31], [0, 17], [0, 20], [0, 21], [0, 24], [0, 25], [0, 27], [0, 29], [0, 32], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 47], [0, 49], [0, 51], [0, 26], [0.16666666666666663, 3], [0, 28], [0.0, 56], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.16666666666666663, 11]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 14 T 1 sidx 12 index 11 move percolate M 53
+optimisation finished successfully after 632 iterations, 892 evaluations
+accepted move data right 1.7105630050316203 1.9725762309610577 5
+optimisation finished successfully after 290 iterations, 424 evaluations
+accepted move data left 1.680275364289867 1.7105630050316203 3
+optimisation finished successfully after 152 iterations, 227 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 1437 iterations, 2000 evaluations
+accepted move data left 1.6712004322014449 1.680275364289867 2
+optimisation finished successfully after 109 iterations, 183 evaluations
+accepted move data left 1.640730425232769 1.6712004322014449 3
+pqueue [[0, 13], [0, 15], [0, 14], [0, 16], [0, 19], [0, 23], [0, 27], [0, 31], [0, 17], [0, 20], [0, 21], [0, 24], [0, 25], [0, 28], [0, 29], [0, 32], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 47], [0, 49], [0, 51], [0, 26], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0, 48], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.16666666666666663, 12]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 15 T 1 sidx 13 index 12 move percolate M 53
+optimisation finished successfully after 156 iterations, 241 evaluations
+accepted move data left 1.6726343260072047 1.7793454857036117 3
+pqueue [[0, 14], [0, 15], [0, 23], [0, 16], [0, 19], [0, 24], [0, 27], [0, 31], [0, 17], [0, 20], [0, 21], [0, 47], [0, 25], [0, 28], [0, 29], [0, 32], [0, 33], [0, 35], [0, 18], [0, 39], [0, 41], [0, 43], [0, 22], [0, 48], [0, 49], [0, 51], [0, 26], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0, 37], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0.16666666666666663, 12], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.16666666666666663, 13]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 14 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 16 T 1 sidx 14 index 13 move destroy M 53
+optimisation finished successfully after 120 iterations, 178 evaluations
+destroy without percolating (125, 53) (124, 52)
+pqueue [[0.0, 13], [0, 16], [0, -1], [0, 17], [0, 19], [0.0, 15], [0, 27], [0, 31], [0, 18], [0, 20], [0, 21], [0, 47], [0, 23], [0, 28], [0, 29], [0, 32], [0, 33], [0, 35], [0, 37], [0, 39], [0, 41], [0, 43], [0, 22], [0, 48], [0, 49], [0, 51], [0, 24], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0.16666666666666663, -1], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0.16666666666666663, 12], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0, 26], [0, 25]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+ 50 51 52 -1]
+
+iter 17 T 1.0 sidx 13 index 12 move create M 52
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 1083 iterations, 1600 evaluations
+optimisation finished successfully after 986 iterations, 1461 evaluations
+accepted move data right 1.4995231499436807 1.6225003175425905 3
+optimisation finished successfully after 143 iterations, 263 evaluations
+create False (124, 52) (126, 53)
+pqueue [[0, -1], [0, 16], [0.0, 15], [0, 17], [0, 19], [0, 23], [0, 27], [0, 31], [0, 18], [0, 20], [0, 21], [0, 47], [0, 24], [0, 28], [0, 29], [0, 32], [0, 33], [0, 35], [0, 37], [0, 39], [0, 41], [0, 43], [0, 22], [0, 48], [0, 49], [0, 51], [0, 25], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0, 36], [0.16666666666666663, -1], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0.16666666666666663, 12], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0, 26], [0.16666666666666663, 13]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 58 15 16 17 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+ 49 50 51 52 -1]
+
+iter 18 T 1.0 sidx 15 index 14 move create M 53
+optimisation finished successfully after 79 iterations, 152 evaluations
+optimisation finished successfully after 524 iterations, 779 evaluations
+accepted move data right 0.7373772612523805 0.8308996811123763 2
+optimisation finished successfully after 123 iterations, 212 evaluations
+optimisation finished successfully after 196 iterations, 309 evaluations
+accepted move data left 0.685271223294917 0.7373772612523799 2
+optimisation finished successfully after 127 iterations, 218 evaluations
+optimisation finished successfully after 109 iterations, 193 evaluations
+optimisation finished successfully after 73 iterations, 140 evaluations
+create False (124, 53) (124, 54)
+pqueue [[0, 16], [0, 17], [0, 23], [0, 18], [0, 19], [0, 24], [0, 27], [0, 31], [0, 35], [0, 20], [0, 21], [0, 47], [0, 25], [0, 28], [0, 29], [0, 32], [0, 33], [0, 36], [0, 37], [0, 39], [0, 41], [0, 43], [0, 22], [0, 48], [0, 49], [0, 51], [0, 26], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 0], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0.16666666666666663, 13], [0.16666666666666663, -1], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0.16666666666666663, 12], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.16666666666666663, 15]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 58 15 59 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 -1]
+
+iter 19 T 1 sidx 16 index 16 move create M 54
+optimisation finished successfully after 133 iterations, 200 evaluations
+optimisation finished successfully after 314 iterations, 460 evaluations
+accepted move data right 0.7732509034854435 0.8654737956654653 5
+optimisation finished successfully after 145 iterations, 214 evaluations
+optimisation finished successfully after 174 iterations, 255 evaluations
+accepted move data left 0.764025769553194 0.7732509034854435 1
+optimisation finished successfully after 417 iterations, 608 evaluations
+optimisation finished successfully after 219 iterations, 317 evaluations
+optimisation finished successfully after 14 iterations, 36 evaluations
+create False (123, 54) (124, 55)
+pqueue [[0, 17], [0, 18], [0, 23], [0, 31], [0, 19], [0, 24], [0, 27], [0, 32], [0, 35], [0, 20], [0, 21], [0, 47], [0, 25], [0, 28], [0, 29], [0.16666666666666663, 0], [0, 33], [0, 36], [0, 37], [0, 39], [0, 41], [0, 43], [0, 22], [0, 48], [0, 49], [0, 51], [0, 26], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 15], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0.16666666666666663, 13], [0.16666666666666663, -1], [0, 38], [0, 52], [0, 40], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0.16666666666666663, 12], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.16666666666666663, 16]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 58 15 59 16 60 17 18 19 20 21 22
+ 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+ 47 48 49 50 51 52 -1]
+
+iter 20 T 1 sidx 17 index 18 move create M 55
+optimisation finished successfully after 35 iterations, 63 evaluations
+optimisation finished successfully after 272 iterations, 383 evaluations
+accepted move data right 0.7448548685438698 1.0478781788902813 3
+optimisation finished successfully after 24 iterations, 48 evaluations
+accepted move data left 0.726854834462742 0.7448548685438697 3
+optimisation finished successfully after 782 iterations, 1106 evaluations
+accepted move data left 0.715590558392063 0.726854834462742 3
+create False (124, 55) (124, 56)
+pqueue [[0, 18], [0, 19], [0, 23], [0, 31], [0, 20], [0, 24], [0, 27], [0, 32], [0, 35], [0, 39], [0, 21], [0, 47], [0, 25], [0, 28], [0, 29], [0.16666666666666663, 0], [0, 33], [0, 36], [0, 37], [0, 40], [0, 41], [0, 43], [0, 22], [0, 48], [0, 49], [0, 51], [0, 26], [0.16666666666666663, 3], [0.16666666666666663, 11], [0.0, 56], [0, 30], [0.16666666666666663, 15], [0.16666666666666663, 9], [0.16666666666666663, 6], [0, 34], [0.16666666666666663, 2], [0.16666666666666663, 13], [0.16666666666666663, -1], [0, 38], [0, 52], [0.16666666666666663, 16], [0.16666666666666663, 7], [0, 42], [0.33333333333333337, 6], [0, 44], [0, 45], [0, 46], [0.16666666666666663, -1], [0.16666666666666663, 12], [0.16666666666666663, -1], [0, 50], [0.16666666666666663, 4], [0.16666666666666663, 56], [0.16666666666666663, 17]]
+sidx [ 0  2 54  3 55  4  6  7 56 11 57 12 13 58 15 59 16 60 17 61 18 19 20 21
+ 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
+ 46 47 48 49 50 51 52 -1]
+
+iter 21 T 1 sidx 18 index 20 move destroy M 56
+optimisation finished successfully after 368 iterations, 550 evaluations
+destroy without percolating (124, 56) (123, 55)

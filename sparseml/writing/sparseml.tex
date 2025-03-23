@@ -1,0 +1,106 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsfonts}
+\usepackage{amstext}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{xcolor}   
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+
+\usepackage{booktabs,caption}
+\usepackage{threeparttable}
+\usepackage{adjustbox}
+\usepackage{parskip}
+\usepackage{color, colortbl}
+
+\usepackage{todonotes}
+
+
+% \usepackage[style=authoryear-comp,citestyle=numeric,maxcitenames=1,backend=biber]{biblatex}
+\usepackage[style=numeric,citestyle=numeric,backend=biber,sorting=none]{biblatex}
+\addbibresource[]{sparse.bib}
+
+
+\graphicspath{ {./svg/} }
+
+\newcommand{\citetemp}[1]{(#1)}
+\newcommand{\reftemp}[1]{(#1)}
+
+%math
+\newcommand{\vct}[1]{\bm{#1}} % vector symbol formatting 
+\newcommand{\mtx}[1]{\bm{#1}} % matrix symbol formatting
+\newcommand{\vnorm}[1]{||#1||}
+\newcommand{\vunit}[1]{\hat{#1}}
+\newcommand{\mskew}[1]{\tilde{#1}}
+\newcommand{\pderiv}[2]{\frac{\partial#1}{\partial#2}}
+\newcommand{\rpm}{\raisebox{.2ex}{$\scriptstyle\pm$}}
+\newcommand{\mean}[1]{\langle{#1}\rangle} 
+
+\newcommand{\citetodo}{[]}
+\newcommand{\reflater}{{\color{red} \{ref\}}}
+
+%my operators
+\DeclareMathOperator{\fskew}{skew}
+\DeclareMathOperator{\Project}{Project}
+
+\title{Sparse representations of single cell dynamics}
+
+\author{Daniel Barton}
+
+\begin{document}
+
+\maketitle
+
+
+\section{Introduction}
+
+We want to obtain optimal reduced dimension representations of biological single
+cell tracking data. Such representations can for example be used to compare 
+trajectories of different organisms and identify and 
+quantify their common abstract features.
+
+Motile microorganisms commonly have a preferred direction of motion on intermediate 
+timescales while having highly stochastic behaviour on short timescales.
+This short timescale stochasiticity is the expected result of, for example
+the quasi random molecular dyanmics of actin filaments and myosin motors
+or the stochasitc growth, surface attachent and retraction of bacteria type IV pili (TFP).
+
+We  use ideas from the automated machine learning of the governing equations 
+of physical systems from trajectory data, which works by obtaining 
+sparse representations of a library of basis functions. This framework is
+extremely powerful and general but relies on the construction of a suitable
+library of basis functions in which the dynamics under examination are
+sparesly represented.
+
+We start with the following auto regressive model of a biological unit with 
+orientation $\vct{b} = b(\cos{\theta}, \sin{\theta})$ and velocity $\vct{v}$,
+
+\begin{equation}
+\begin{split}
+    v_{i+1}^\parallel & = q^\parallel v_i^\parallel + \ldots +  a^\parallel \vct{\hat{n}}_{i+1} \\
+    v_{i+1}^\bot & = q^\bot v_i^\bot + \ldots + a^\bot \vct{\hat{n}}_{i+1} \\ 
+    \theta_{i+1}  & = \theta_i + a_r \vct{\hat{n}}_{i+1}
+\end{split}
+\end{equation}
+
+where $v_i^\parallel = (\vct{v}_i \cdot \vct{b}_i)$, 
+$v_i^\bot = \vct{v}_i - v_i^\parallel\vct{\hat{b}}_i$ .
+
+
+
+\section{Construct test data}
+
+\section{Multiscale Entropy Analysis}
+
+
+%-----------------------------------------------------------------------
+
+\medskip
+
+\printbibliography
+
+% =================================================================
+\end{document}
+% ------------------------------------------------------------------------

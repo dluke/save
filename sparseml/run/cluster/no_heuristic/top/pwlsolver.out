@@ -1,0 +1,3797 @@
+------------------------------------------------------------------------
+Job started on Sat Aug 6 18:38:57 BST 2022
+------------------------------------------------------------------------
+starting job number 0 on track 2658
+starting job number 1 on track 2646
+starting job number 2 on track 621
+starting job number 3 on track 1052
+starting job number 4 on track 1998
+starting job number 5 on track 618
+starting job number 6 on track 377
+starting job number 7 on track 2722
+starting job number 8 on track 2924
+starting job number 9 on track 2742
+starting job number 10 on track 1915
+starting job number 11 on track 2743
+starting job number 12 on track 2285
+starting job number 13 on track 503
+starting job number 14 on track 2040
+starting job number 15 on track 2135
+starting job number 16 on track 331
+starting job number 17 on track 2388
+starting job number 18 on track 2710
+starting job number 19 on track 2396
+starting job number 20 on track 2173
+starting job number 21 on track 1106
+starting job number 22 on track 3008
+starting job number 23 on track 2414
+starting job number 24 on track 2408
+starting job number 25 on track 1526
+starting job number 26 on track 387
+starting job number 27 on track 1033
+starting job number 28 on track 2638
+starting job number 29 on track 3017
+starting job number 30 on track 2387
+starting job number 31 on track 3066
+starting job number 32 on track 983
+starting job number 33 on track 3067
+starting job number 34 on track 3006
+starting job number 35 on track 2928
+starting job number 36 on track 436
+starting job number 37 on track 1215
+starting job number 38 on track 1492
+starting job number 39 on track 2413
+starting job number 40 on track 478
+starting job number 41 on track 697
+starting job number 42 on track 2389
+starting job number 43 on track 326
+starting job number 44 on track 2127
+starting job number 45 on track 2498
+starting job number 46 on track 2977
+starting job number 47 on track 2903
+starting job number 48 on track 1090
+starting job number 49 on track 1583
+starting job number 50 on track 2699
+starting job number 51 on track 2481
+starting job number 52 on track 1977
+starting job number 53 on track 233
+starting job number 54 on track 2937
+starting job number 55 on track 662
+starting job number 56 on track 3027
+starting job number 57 on track 3029
+starting job number 58 on track 2365
+starting job number 59 on track 1780
+starting job number 60 on track 2148
+starting job number 61 on track 752
+starting job number 62 on track 120
+starting job number 63 on track 2756
+loading track 621 with 3078 data points
+writing to  _top_0621/data.pkl
+using sigma = 0.044120427073684465
+writing to  _top_0621/config.json
+solver 621 iteration 00000000
+solver 621 iteration 00000100
+execution time  26.252633673138916
+plotting using r =  0.10263966374255602
+lw =  2.652170302984329
+starting job number 64 on track 3030
+loading track 1998 with 1032 data points
+writing to  _top_1998/data.pkl
+using sigma = 0.05149611470335935
+writing to  _top_1998/config.json
+solver 1998 iteration 00000000
+solver 1998 iteration 00000100
+execution time  102.97367443796247
+plotting using r =  0.1197981127511218
+lw =  101.17103970055025
+starting job number 65 on track 1183
+loading track 377 with 2975 data points
+writing to  _top_0377/data.pkl
+using sigma = 0.0830397989153614
+writing to  _top_0377/config.json
+solver 377 iteration 00000000
+solver 377 iteration 00000100
+execution time  343.3256566124037
+plotting using r =  0.19317983988885257
+lw =  4.5303270730915956e-07
+starting job number 66 on track 1988
+loading track 2646 with 1338 data points
+writing to  _top_2646/data.pkl
+using sigma = 0.0369204523803338
+writing to  _top_2646/config.json
+solver 2646 iteration 00000000
+solver 2646 iteration 00000100
+solver 2646 iteration 00000200
+execution time  366.8336561145261
+plotting using r =  0.08588998495440119
+lw =  2.5800279997470295
+starting job number 67 on track 1158
+loading track 2722 with 1082 data points
+writing to  _top_2722/data.pkl
+using sigma = 0.0464357442230254
+writing to  _top_2722/config.json
+solver 2722 iteration 00000000
+solver 2722 iteration 00000100
+solver 2722 iteration 00000200
+solver 2722 iteration 00000300
+solver 2722 iteration 00000400
+execution time  602.2193494075909
+plotting using r =  0.10802590747199327
+lw =  0.0030991684735574686
+starting job number 68 on track 2960
+loading track 2481 with 1010 data points
+writing to  _top_2481/data.pkl
+using sigma = 0.008391132119760305
+writing to  _top_2481/config.json
+solver 2481 iteration 00000000
+solver 2481 iteration 00000100
+starting job number 69 on track 2383
+loading track 2710 with 1844 data points
+writing to  _top_2710/data.pkl
+using sigma = 0.05344019615275004
+writing to  _top_2710/config.json
+solver 2710 iteration 00000000
+solver 2710 iteration 00000100
+solver 2710 iteration 00000200
+solver 2710 iteration 00000300
+execution time  594.8259780304506
+plotting using r =  0.12432073139940358
+lw =  0.16833984705377183
+starting job number 70 on track 2465
+loading track 2387 with 2522 data points
+writing to  _top_2387/data.pkl
+using sigma = 0.012868740472839538
+writing to  _top_2387/config.json
+solver 2387 iteration 00000000
+solver 2387 iteration 00000100
+solver 2387 iteration 00000200
+solver 2387 iteration 00000300
+execution time  586.2567423479632
+plotting using r =  0.029937225963759688
+lw =  11.781890816032814
+starting job number 71 on track 1157
+loading track 752 with 1029 data points
+writing to  _top_0752/data.pkl
+using sigma = 0.014478588663077694
+writing to  _top_0752/config.json
+solver 752 iteration 00000000
+solver 752 iteration 00000100
+solver 752 iteration 00000200
+solver 752 iteration 00000300
+solver 752 iteration 00000400
+execution time  718.5314768850803
+plotting using r =  0.03368230024979622
+lw =  0.8024132419607282
+starting job number 72 on track 1976
+loading track 618 with 3409 data points
+writing to  _top_0618/data.pkl
+using sigma = 0.05398983390856642
+writing to  _top_0618/config.json
+solver 618 iteration 00000000
+solver 618 iteration 00000100
+solver 618 iteration 00000200
+solver 618 iteration 00000300
+solver 618 iteration 00000400
+execution time  841.4509856570512
+plotting using r =  0.12559938254081227
+lw =  0.002098586375082617
+starting job number 73 on track 253
+loading track 1780 with 1235 data points
+writing to  _top_1780/data.pkl
+using sigma = 0.013820955059343398
+writing to  _top_1780/config.json
+solver 1780 iteration 00000000
+solver 1780 iteration 00000100
+solver 1780 iteration 00000200
+solver 1780 iteration 00000300
+solver 1780 iteration 00000400
+solver 1780 iteration 00000500
+solver 1780 iteration 00000600
+execution time  862.7784545309842
+plotting using r =  0.032152412702688746
+lw =  12.505354160030748
+starting job number 74 on track 245
+loading track 2498 with 1405 data points
+writing to  _top_2498/data.pkl
+using sigma = 0.01346951379751802
+writing to  _top_2498/config.json
+solver 2498 iteration 00000000
+solver 2498 iteration 00000100
+solver 2498 iteration 00000200
+solver 2498 iteration 00000300
+solver 2498 iteration 00000400
+solver 2498 iteration 00000500
+execution time  867.5643701823428
+plotting using r =  0.03133483646121735
+lw =  3.1676417767747655e-05
+starting job number 75 on track 2754
+loading track 1090 with 1538 data points
+writing to  _top_1090/data.pkl
+using sigma = 0.01000578083239548
+writing to  _top_1090/config.json
+solver 1090 iteration 00000000
+solver 1090 iteration 00000100
+solver 1090 iteration 00000200
+solver 1090 iteration 00000300
+execution time  1009.1435885708779
+plotting using r =  0.023276972781873417
+lw =  4.703504197806341
+starting job number 76 on track 2431
+loading track 2743 with 1103 data points
+writing to  _top_2743/data.pkl
+using sigma = 0.017687320219324343
+writing to  _top_2743/config.json
+solver 2743 iteration 00000000
+solver 2743 iteration 00000100
+solver 2743 iteration 00000200
+solver 2743 iteration 00000300
+solver 2743 iteration 00000400
+solver 2743 iteration 00000500
+execution time  915.3132111718878
+plotting using r =  0.041146940776127856
+lw =  0.03443158824148775
+starting job number 77 on track 2927
+loading track 983 with 1293 data points
+writing to  _top_0983/data.pkl
+using sigma = 0.014074585908717992
+writing to  _top_0983/config.json
+solver 983 iteration 00000000
+solver 983 iteration 00000100
+solver 983 iteration 00000200
+solver 983 iteration 00000300
+solver 983 iteration 00000400
+solver 983 iteration 00000500
+execution time  868.8257208894938
+plotting using r =  0.032742447451243446
+lw =  5.660176087791919
+starting job number 78 on track 2094
+loading track 1106 with 1320 data points
+writing to  _top_1106/data.pkl
+using sigma = 0.013883317416506726
+writing to  _top_1106/config.json
+solver 1106 iteration 00000000
+solver 1106 iteration 00000100
+solver 1106 iteration 00000200
+solver 1106 iteration 00000300
+solver 1106 iteration 00000400
+solver 1106 iteration 00000500
+solver 1106 iteration 00000600
+execution time  952.9846124257892
+plotting using r =  0.03229748952523961
+lw =  0.15088957197536235
+starting job number 79 on track 568
+loading track 2413 with 1388 data points
+writing to  _top_2413/data.pkl
+using sigma = 0.013013440376641504
+writing to  _top_2413/config.json
+solver 2413 iteration 00000000
+solver 2413 iteration 00000100
+solver 2413 iteration 00000200
+solver 2413 iteration 00000300
+solver 2413 iteration 00000400
+solver 2413 iteration 00000500
+solver 2413 iteration 00000600
+execution time  1031.6888594385237
+plotting using r =  0.030273848939892923
+lw =  2.2108270873820928
+starting job number 80 on track 1112
+loading track 2742 with 1025 data points
+writing to  _top_2742/data.pkl
+using sigma = 0.016402678014435484
+writing to  _top_2742/config.json
+solver 2742 iteration 00000000
+solver 2742 iteration 00000100
+solver 2742 iteration 00000200
+solver 2742 iteration 00000300
+solver 2742 iteration 00000400
+solver 2742 iteration 00000500
+solver 2742 iteration 00000600
+solver 2742 iteration 00000700
+execution time  1082.130705781281
+plotting using r =  0.038158410231782035
+lw =  17.707054581536873
+starting job number 81 on track 2521
+loading track 503 with 2996 data points
+writing to  _top_0503/data.pkl
+using sigma = 0.03797281308007675
+writing to  _top_0503/config.json
+solver 503 iteration 00000000
+solver 503 iteration 00000100
+solver 503 iteration 00000200
+solver 503 iteration 00000300
+solver 503 iteration 00000400
+solver 503 iteration 00000500
+execution time  1403.4033107757568
+plotting using r =  0.08833814684950492
+lw =  0.03715645990868809
+starting job number 82 on track 583
+loading track 2699 with 1515 data points
+writing to  _top_2699/data.pkl
+using sigma = 0.01002670141341748
+writing to  _top_2699/config.json
+solver 2699 iteration 00000000
+solver 2699 iteration 00000100
+solver 2699 iteration 00000200
+solver 2699 iteration 00000300
+solver 2699 iteration 00000400
+solver 2699 iteration 00000500
+solver 2699 iteration 00000600
+solver 2699 iteration 00000700
+execution time  1151.568064388819
+plotting using r =  0.02332564142684847
+lw =  0.004204041559877495
+starting job number 83 on track 2385
+loading track 3017 with 1550 data points
+writing to  _top_3017/data.pkl
+using sigma = 0.011494637926030535
+writing to  _top_3017/config.json
+solver 3017 iteration 00000000
+solver 3017 iteration 00000100
+solver 3017 iteration 00000200
+solver 3017 iteration 00000300
+solver 3017 iteration 00000400
+solver 3017 iteration 00000500
+solver 3017 iteration 00000600
+execution time  1205.4063566615805
+plotting using r =  0.02674057913355735
+lw =  0.09291602991585877
+starting job number 84 on track 775
+loading track 120 with 1929 data points
+writing to  _top_0120/data.pkl
+using sigma = 0.01250811246107512
+writing to  _top_0120/config.json
+solver 120 iteration 00000000
+solver 120 iteration 00000100
+solver 120 iteration 00000200
+solver 120 iteration 00000300
+solver 120 iteration 00000400
+solver 120 iteration 00000500
+solver 120 iteration 00000600
+solver 120 iteration 00000700
+execution time  1120.927833918482
+plotting using r =  0.02909827810403408
+lw =  9.835189440871599
+starting job number 85 on track 911
+loading track 1988 with 1103 data points
+writing to  _top_1988/data.pkl
+using sigma = 0.011260929359804472
+writing to  _top_1988/config.json
+solver 1988 iteration 00000000
+solver 1988 iteration 00000100
+solver 1988 iteration 00000200
+solver 1988 iteration 00000300
+solver 1988 iteration 00000400
+solver 1988 iteration 00000500
+execution time  983.8260590620339
+plotting using r =  0.026196890637271115
+lw =  0.03684910501306985
+starting job number 86 on track 2125
+loading track 3006 with 1387 data points
+writing to  _top_3006/data.pkl
+using sigma = 0.011872016913485385
+writing to  _top_3006/config.json
+solver 3006 iteration 00000000
+solver 3006 iteration 00000100
+solver 3006 iteration 00000200
+solver 3006 iteration 00000300
+solver 3006 iteration 00000400
+solver 3006 iteration 00000500
+solver 3006 iteration 00000600
+solver 3006 iteration 00000700
+solver 3006 iteration 00000800
+execution time  1276.124306392856
+plotting using r =  0.02761849566666759
+lw =  0.629672195540205
+starting job number 87 on track 2376
+loading track 3008 with 1050 data points
+writing to  _top_3008/data.pkl
+using sigma = 0.009955397902454196
+writing to  _top_3008/config.json
+solver 3008 iteration 00000000
+solver 3008 iteration 00000100
+solver 3008 iteration 00000200
+solver 3008 iteration 00000300
+solver 3008 iteration 00000400
+solver 3008 iteration 00000500
+solver 3008 iteration 00000600
+solver 3008 iteration 00000700
+execution time  1388.195823370479
+plotting using r =  0.023159764329223998
+lw =  7.603823233919082
+starting job number 88 on track 2900
+loading track 436 with 1461 data points
+writing to  _top_0436/data.pkl
+using sigma = 0.01004268669840773
+writing to  _top_0436/config.json
+solver 436 iteration 00000000
+solver 436 iteration 00000100
+solver 436 iteration 00000200
+solver 436 iteration 00000300
+solver 436 iteration 00000400
+solver 436 iteration 00000500
+solver 436 iteration 00000600
+solver 436 iteration 00000700
+solver 436 iteration 00000800
+execution time  1381.9427350834012
+plotting using r =  0.023362828833794647
+lw =  13.109545493487607
+starting job number 89 on track 2364
+loading track 2388 with 1282 data points
+writing to  _top_2388/data.pkl
+using sigma = 0.011887374104887027
+writing to  _top_2388/config.json
+solver 2388 iteration 00000000
+solver 2388 iteration 00000100
+solver 2388 iteration 00000200
+solver 2388 iteration 00000300
+solver 2388 iteration 00000400
+solver 2388 iteration 00000500
+solver 2388 iteration 00000600
+solver 2388 iteration 00000700
+solver 2388 iteration 00000800
+execution time  1359.204012404196
+plotting using r =  0.0276542219065533
+lw =  2.147472147340513
+starting job number 90 on track 2491
+loading track 2040 with 1283 data points
+writing to  _top_2040/data.pkl
+using sigma = 0.009751950292021975
+writing to  _top_2040/config.json
+solver 2040 iteration 00000000
+solver 2040 iteration 00000100
+solver 2040 iteration 00000200
+solver 2040 iteration 00000300
+solver 2040 iteration 00000400
+solver 2040 iteration 00000500
+solver 2040 iteration 00000600
+solver 2040 iteration 00000700
+execution time  1385.219927678816
+plotting using r =  0.022686473481673613
+lw =  0.014897413060260286
+starting job number 91 on track 1527
+loading track 2465 with 1136 data points
+writing to  _top_2465/data.pkl
+using sigma = 0.01559903608205123
+writing to  _top_2465/config.json
+solver 2465 iteration 00000000
+solver 2465 iteration 00000100
+solver 2465 iteration 00000200
+solver 2465 iteration 00000300
+solver 2465 iteration 00000400
+solver 2465 iteration 00000500
+execution time  909.4944355273619
+plotting using r =  0.03628885585118684
+lw =  18.065363611725182
+starting job number 92 on track 2332
+loading track 2756 with 2298 data points
+writing to  _top_2756/data.pkl
+using sigma = 0.013751094273700155
+writing to  _top_2756/config.json
+solver 2756 iteration 00000000
+solver 2756 iteration 00000100
+solver 2756 iteration 00000200
+solver 2756 iteration 00000300
+solver 2756 iteration 00000400
+solver 2756 iteration 00000500
+execution time  1650.3809284837916
+plotting using r =  0.03198989189265131
+lw =  0.0011551155823094229
+starting job number 93 on track 1824
+loading track 2638 with 1677 data points
+writing to  _top_2638/data.pkl
+using sigma = 0.011066695538430739
+writing to  _top_2638/config.json
+solver 2638 iteration 00000000
+solver 2638 iteration 00000100
+solver 2638 iteration 00000200
+solver 2638 iteration 00000300
+solver 2638 iteration 00000400
+solver 2638 iteration 00000500
+solver 2638 iteration 00000600
+solver 2638 iteration 00000700
+solver 2638 iteration 00000800
+execution time  1462.1097728218883
+plotting using r =  0.025745034310496743
+lw =  8.426495031615916e-05
+starting job number 94 on track 1746
+loading track 3027 with 2127 data points
+writing to  _top_3027/data.pkl
+using sigma = 0.012096933522085455
+writing to  _top_3027/config.json
+solver 3027 iteration 00000000
+solver 3027 iteration 00000100
+solver 3027 iteration 00000200
+solver 3027 iteration 00000300
+solver 3027 iteration 00000400
+solver 3027 iteration 00000500
+solver 3027 iteration 00000600
+solver 3027 iteration 00000700
+solver 3027 iteration 00000800
+solver 3027 iteration 00000900
+solver 3027 iteration 00001000
+execution time  1582.9283011071384
+plotting using r =  0.02814173097076546
+lw =  6.29795936911079
+starting job number 95 on track 2420
+loading track 1583 with 1974 data points
+writing to  _top_1583/data.pkl
+using sigma = 0.013760248807432346
+writing to  _top_1583/config.json
+solver 1583 iteration 00000000
+solver 1583 iteration 00000100
+solver 1583 iteration 00000200
+solver 1583 iteration 00000300
+solver 1583 iteration 00000400
+solver 1583 iteration 00000500
+solver 1583 iteration 00000600
+solver 1583 iteration 00000700
+solver 1583 iteration 00000800
+execution time  1559.6773880356923
+plotting using r =  0.032011188564653646
+lw =  0.000943500665795028
+starting job number 96 on track 2107
+loading track 1492 with 1200 data points
+writing to  _top_1492/data.pkl
+using sigma = 0.010619217095055913
+writing to  _top_1492/config.json
+solver 1492 iteration 00000000
+solver 1492 iteration 00000100
+solver 1492 iteration 00000200
+solver 1492 iteration 00000300
+solver 1492 iteration 00000400
+solver 1492 iteration 00000500
+solver 1492 iteration 00000600
+solver 1492 iteration 00000700
+solver 1492 iteration 00000800
+execution time  1746.707362738438
+plotting using r =  0.024704041736165368
+lw =  0.0005094746062570794
+starting job number 97 on track 2533
+loading track 233 with 2210 data points
+writing to  _top_0233/data.pkl
+using sigma = 0.01046560692887058
+writing to  _top_0233/config.json
+solver 233 iteration 00000000
+solver 233 iteration 00000100
+solver 233 iteration 00000200
+solver 233 iteration 00000300
+solver 233 iteration 00000400
+solver 233 iteration 00000500
+solver 233 iteration 00000600
+solver 233 iteration 00000700
+solver 233 iteration 00000800
+execution time  1477.3854780150577
+plotting using r =  0.02434669034928125
+lw =  0.02135955333606999
+starting job number 98 on track 542
+loading track 2396 with 1615 data points
+writing to  _top_2396/data.pkl
+using sigma = 0.012461667987403667
+writing to  _top_2396/config.json
+solver 2396 iteration 00000000
+solver 2396 iteration 00000100
+solver 2396 iteration 00000200
+solver 2396 iteration 00000300
+solver 2396 iteration 00000400
+solver 2396 iteration 00000500
+solver 2396 iteration 00000600
+solver 2396 iteration 00000700
+solver 2396 iteration 00000800
+solver 2396 iteration 00000900
+execution time  1623.9759943122044
+plotting using r =  0.028990231888788326
+lw =  0.0019530821428774157
+starting job number 99 on track 40
+loading track 1215 with 2351 data points
+writing to  _top_1215/data.pkl
+using sigma = 0.014524067008864282
+writing to  _top_1215/config.json
+solver 1215 iteration 00000000
+solver 1215 iteration 00000100
+solver 1215 iteration 00000200
+solver 1215 iteration 00000300
+solver 1215 iteration 00000400
+solver 1215 iteration 00000500
+solver 1215 iteration 00000600
+solver 1215 iteration 00000700
+solver 1215 iteration 00000800
+solver 1215 iteration 00000900
+solver 1215 iteration 00001000
+solver 1215 iteration 00001100
+execution time  1724.6059832135215
+plotting using r =  0.0337880989110673
+lw =  1.156657886342082
+starting job number 100 on track 2463
+loading track 387 with 1905 data points
+writing to  _top_0387/data.pkl
+using sigma = 0.012146927697259523
+writing to  _top_0387/config.json
+solver 387 iteration 00000000
+solver 387 iteration 00000100
+solver 387 iteration 00000200
+solver 387 iteration 00000300
+solver 387 iteration 00000400
+solver 387 iteration 00000500
+solver 387 iteration 00000600
+solver 387 iteration 00000700
+solver 387 iteration 00000800
+solver 387 iteration 00000900
+execution time  1545.4570830706507
+plotting using r =  0.02825803504280862
+lw =  4.428920556989058
+starting job number 101 on track 358
+loading track 2928 with 2149 data points
+writing to  _top_2928/data.pkl
+using sigma = 0.01202534889182474
+writing to  _top_2928/config.json
+solver 2928 iteration 00000000
+solver 2928 iteration 00000100
+solver 2928 iteration 00000200
+solver 2928 iteration 00000300
+solver 2928 iteration 00000400
+solver 2928 iteration 00000500
+solver 2928 iteration 00000600
+solver 2928 iteration 00000700
+solver 2928 iteration 00000800
+solver 2928 iteration 00000900
+solver 2928 iteration 00001000
+execution time  1547.4950654329732
+plotting using r =  0.02797519989057387
+lw =  4.197485222203791
+starting job number 102 on track 2122
+loading track 2658 with 4600 data points
+writing to  _top_2658/data.pkl
+using sigma = 0.10911113704647774
+writing to  _top_2658/config.json
+solver 2658 iteration 00000000
+solver 2658 iteration 00000100
+solver 2658 iteration 00000200
+solver 2658 iteration 00000300
+solver 2658 iteration 00000400
+solver 2658 iteration 00000500
+solver 2658 iteration 00000600
+solver 2658 iteration 00000700
+solver 2658 iteration 00000800
+solver 2658 iteration 00000900
+solver 2658 iteration 00001000
+solver 2658 iteration 00001100
+solver 2658 iteration 00001200
+solver 2658 iteration 00001300
+solver 2658 iteration 00001400
+execution time  1720.459689966403
+plotting using r =  0.2538309612986073
+lw =  3.43560927622781e-08
+starting job number 103 on track 660
+loading track 2408 with 1859 data points
+writing to  _top_2408/data.pkl
+using sigma = 0.014373590137603373
+writing to  _top_2408/config.json
+solver 2408 iteration 00000000
+solver 2408 iteration 00000100
+solver 2408 iteration 00000200
+solver 2408 iteration 00000300
+solver 2408 iteration 00000400
+solver 2408 iteration 00000500
+solver 2408 iteration 00000600
+solver 2408 iteration 00000700
+solver 2408 iteration 00000800
+solver 2408 iteration 00000900
+execution time  1631.0763321788982
+plotting using r =  0.03343803667251602
+lw =  2.8533687574272038
+starting job number 104 on track 2430
+loading track 1915 with 1639 data points
+writing to  _top_1915/data.pkl
+using sigma = 0.013614681722768562
+writing to  _top_1915/config.json
+solver 1915 iteration 00000000
+solver 1915 iteration 00000100
+solver 1915 iteration 00000200
+solver 1915 iteration 00000300
+solver 1915 iteration 00000400
+solver 1915 iteration 00000500
+solver 1915 iteration 00000600
+solver 1915 iteration 00000700
+solver 1915 iteration 00000800
+execution time  1643.514565047808
+plotting using r =  0.03167254822019546
+lw =  0.0012768869234555764
+starting job number 105 on track 563
+loading track 2148 with 2039 data points
+writing to  _top_2148/data.pkl
+using sigma = 0.01028371817066653
+writing to  _top_2148/config.json
+solver 2148 iteration 00000000
+solver 2148 iteration 00000100
+solver 2148 iteration 00000200
+solver 2148 iteration 00000300
+solver 2148 iteration 00000400
+solver 2148 iteration 00000500
+solver 2148 iteration 00000600
+solver 2148 iteration 00000700
+solver 2148 iteration 00000800
+starting job number 106 on track 1264
+loading track 1157 with 1622 data points
+writing to  _top_1157/data.pkl
+using sigma = 0.01837652152344469
+writing to  _top_1157/config.json
+solver 1157 iteration 00000000
+solver 1157 iteration 00000100
+solver 1157 iteration 00000200
+solver 1157 iteration 00000300
+solver 1157 iteration 00000400
+solver 1157 iteration 00000500
+solver 1157 iteration 00000600
+execution time  1365.6333128623664
+plotting using r =  0.04275026592045847
+lw =  1.6085334699323462e-07
+starting job number 107 on track 2131
+loading track 2285 with 2759 data points
+writing to  _top_2285/data.pkl
+using sigma = 0.0138976639282542
+writing to  _top_2285/config.json
+solver 2285 iteration 00000000
+solver 2285 iteration 00000100
+solver 2285 iteration 00000200
+solver 2285 iteration 00000300
+solver 2285 iteration 00000400
+solver 2285 iteration 00000500
+solver 2285 iteration 00000600
+solver 2285 iteration 00000700
+starting job number 108 on track 2367
+loading track 1158 with 1926 data points
+writing to  _top_1158/data.pkl
+using sigma = 0.015986245608195275
+writing to  _top_1158/config.json
+solver 1158 iteration 00000000
+solver 1158 iteration 00000100
+solver 1158 iteration 00000200
+solver 1158 iteration 00000300
+solver 1158 iteration 00000400
+solver 1158 iteration 00000500
+solver 1158 iteration 00000600
+solver 1158 iteration 00000700
+solver 1158 iteration 00000800
+execution time  1730.0049847392365
+plotting using r =  0.037189641682089276
+lw =  0.0001161185772182536
+starting job number 109 on track 1819
+loading track 2389 with 1721 data points
+writing to  _top_2389/data.pkl
+using sigma = 0.011687516722026609
+writing to  _top_2389/config.json
+solver 2389 iteration 00000000
+solver 2389 iteration 00000100
+solver 2389 iteration 00000200
+solver 2389 iteration 00000300
+solver 2389 iteration 00000400
+solver 2389 iteration 00000500
+solver 2389 iteration 00000600
+solver 2389 iteration 00000700
+solver 2389 iteration 00000800
+solver 2389 iteration 00000900
+solver 2389 iteration 00001000
+solver 2389 iteration 00001100
+execution time  1958.926089526154
+plotting using r =  0.027189283193720767
+lw =  0.9733120438304178
+starting job number 110 on track 214
+loading track 3066 with 2767 data points
+writing to  _top_3066/data.pkl
+using sigma = 0.013678816142930404
+writing to  _top_3066/config.json
+solver 3066 iteration 00000000
+solver 3066 iteration 00000100
+solver 3066 iteration 00000200
+solver 3066 iteration 00000300
+solver 3066 iteration 00000400
+solver 3066 iteration 00000500
+solver 3066 iteration 00000600
+solver 3066 iteration 00000700
+solver 3066 iteration 00000800
+solver 3066 iteration 00000900
+solver 3066 iteration 00001000
+solver 3066 iteration 00001100
+execution time  1747.479974962771
+plotting using r =  0.031821747485849476
+lw =  0.12196705131624198
+starting job number 111 on track 499
+loading track 478 with 2622 data points
+writing to  _top_0478/data.pkl
+using sigma = 0.016381226255271827
+writing to  _top_0478/config.json
+solver 478 iteration 00000000
+solver 478 iteration 00000100
+solver 478 iteration 00000200
+solver 478 iteration 00000300
+solver 478 iteration 00000400
+solver 478 iteration 00000500
+solver 478 iteration 00000600
+solver 478 iteration 00000700
+solver 478 iteration 00000800
+solver 478 iteration 00000900
+solver 478 iteration 00001000
+execution time  2380.3124308884144
+plotting using r =  0.038108505879234256
+lw =  0.0030989643130676695
+starting job number 112 on track 2350
+loading track 2365 with 2497 data points
+writing to  _top_2365/data.pkl
+using sigma = 0.017497584144731855
+writing to  _top_2365/config.json
+solver 2365 iteration 00000000
+solver 2365 iteration 00000100
+solver 2365 iteration 00000200
+solver 2365 iteration 00000300
+solver 2365 iteration 00000400
+solver 2365 iteration 00000500
+solver 2365 iteration 00000600
+solver 2365 iteration 00000700
+solver 2365 iteration 00000800
+solver 2365 iteration 00000900
+execution time  2197.2448273710907
+plotting using r =  0.04070554779361024
+lw =  0.0010554600329164767
+starting job number 113 on track 1686
+loading track 1527 with 1307 data points
+writing to  _top_1527/data.pkl
+using sigma = 0.014598740746247908
+writing to  _top_1527/config.json
+solver 1527 iteration 00000000
+solver 1527 iteration 00000100
+solver 1527 iteration 00000200
+solver 1527 iteration 00000300
+execution time  626.4900452084839
+plotting using r =  0.03396181634319131
+lw =  6.966220450093663
+starting job number 114 on track 517
+loading track 2414 with 1972 data points
+writing to  _top_2414/data.pkl
+using sigma = 0.009823209674259209
+writing to  _top_2414/config.json
+solver 2414 iteration 00000000
+solver 2414 iteration 00000100
+solver 2414 iteration 00000200
+solver 2414 iteration 00000300
+solver 2414 iteration 00000400
+solver 2414 iteration 00000500
+solver 2414 iteration 00000600
+solver 2414 iteration 00000700
+solver 2414 iteration 00000800
+solver 2414 iteration 00000900
+execution time  1901.0249398760498
+plotting using r =  0.022852247920327987
+lw =  0.0021817100793422584
+starting job number 115 on track 2461
+loading track 2173 with 2095 data points
+writing to  _top_2173/data.pkl
+using sigma = 0.012660288784125492
+writing to  _top_2173/config.json
+solver 2173 iteration 00000000
+solver 2173 iteration 00000100
+solver 2173 iteration 00000200
+solver 2173 iteration 00000300
+solver 2173 iteration 00000400
+solver 2173 iteration 00000500
+solver 2173 iteration 00000600
+solver 2173 iteration 00000700
+solver 2173 iteration 00000800
+solver 2173 iteration 00000900
+solver 2173 iteration 00001000
+solver 2173 iteration 00001100
+execution time  2011.9349255152047
+plotting using r =  0.029452293866424218
+lw =  0.0028979287224132465
+starting job number 116 on track 323
+loading track 1977 with 2447 data points
+writing to  _top_1977/data.pkl
+using sigma = 0.007748957105328846
+writing to  _top_1977/config.json
+solver 1977 iteration 00000000
+solver 1977 iteration 00000100
+solver 1977 iteration 00000200
+solver 1977 iteration 00000300
+solver 1977 iteration 00000400
+solver 1977 iteration 00000500
+solver 1977 iteration 00000600
+solver 1977 iteration 00000700
+solver 1977 iteration 00000800
+solver 1977 iteration 00000900
+execution time  2415.595444086008
+plotting using r =  0.018026805368818108
+lw =  0.13368589813339174
+starting job number 117 on track 1022
+loading track 1183 with 2981 data points
+writing to  _top_1183/data.pkl
+using sigma = 0.013476435596085079
+writing to  _top_1183/config.json
+solver 1183 iteration 00000000
+solver 1183 iteration 00000100
+solver 1183 iteration 00000200
+solver 1183 iteration 00000300
+solver 1183 iteration 00000400
+solver 1183 iteration 00000500
+solver 1183 iteration 00000600
+solver 1183 iteration 00000700
+solver 1183 iteration 00000800
+solver 1183 iteration 00000900
+solver 1183 iteration 00001000
+solver 1183 iteration 00001100
+execution time  2017.4819535650313
+plotting using r =  0.03135093900429177
+lw =  0.008331918246309907
+starting job number 118 on track 2561
+loading track 568 with 1240 data points
+writing to  _top_0568/data.pkl
+using sigma = 0.011032677754958455
+writing to  _top_0568/config.json
+solver 568 iteration 00000000
+solver 568 iteration 00000100
+solver 568 iteration 00000200
+solver 568 iteration 00000300
+solver 568 iteration 00000400
+solver 568 iteration 00000500
+solver 568 iteration 00000600
+execution time  1116.8502524932846
+plotting using r =  0.025665896956476322
+lw =  3.623096797787829
+starting job number 119 on track 325
+loading track 331 with 2071 data points
+writing to  _top_0331/data.pkl
+using sigma = 0.011627386767989484
+writing to  _top_0331/config.json
+solver 331 iteration 00000000
+solver 331 iteration 00000100
+solver 331 iteration 00000200
+solver 331 iteration 00000300
+solver 331 iteration 00000400
+solver 331 iteration 00000500
+solver 331 iteration 00000600
+solver 331 iteration 00000700
+solver 331 iteration 00000800
+solver 331 iteration 00000900
+solver 331 iteration 00001000
+solver 331 iteration 00001100
+solver 331 iteration 00001200
+execution time  1949.0405741604045
+plotting using r =  0.02704939972765824
+lw =  3.9315935160740803
+starting job number 120 on track 2502
+loading track 3067 with 2542 data points
+writing to  _top_3067/data.pkl
+using sigma = 0.014206003675948941
+writing to  _top_3067/config.json
+solver 3067 iteration 00000000
+solver 3067 iteration 00000100
+solver 3067 iteration 00000200
+solver 3067 iteration 00000300
+solver 3067 iteration 00000400
+solver 3067 iteration 00000500
+solver 3067 iteration 00000600
+solver 3067 iteration 00000700
+solver 3067 iteration 00000800
+solver 3067 iteration 00000900
+solver 3067 iteration 00001000
+solver 3067 iteration 00001100
+solver 3067 iteration 00001200
+execution time  2177.5486773476005
+plotting using r =  0.033048171496385954
+lw =  0.03450879421487781
+starting job number 121 on track 2473
+loading track 2125 with 1430 data points
+writing to  _top_2125/data.pkl
+using sigma = 0.006318053984916393
+writing to  _top_2125/config.json
+solver 2125 iteration 00000000
+solver 2125 iteration 00000100
+solver 2125 iteration 00000200
+solver 2125 iteration 00000300
+execution time  1113.3675227724016
+plotting using r =  0.014698020384891545
+lw =  0.26927825930517263
+starting job number 122 on track 1926
+loading track 40 with 1104 data points
+writing to  _top_0040/data.pkl
+using sigma = 0.012810942979534591
+writing to  _top_0040/config.json
+solver 40 iteration 00000000
+solver 40 iteration 00000100
+solver 40 iteration 00000200
+solver 40 iteration 00000300
+execution time  549.9590866910294
+plotting using r =  0.029802768623442576
+lw =  14.617458664744454
+starting job number 123 on track 1900
+loading track 2135 with 5040 data points
+writing to  _top_2135/data.pkl
+using sigma = 0.019047950500638348
+writing to  _top_2135/config.json
+solver 2135 iteration 00000000
+solver 2135 iteration 00000100
+solver 2135 iteration 00000200
+solver 2135 iteration 00000300
+solver 2135 iteration 00000400
+solver 2135 iteration 00000500
+solver 2135 iteration 00000600
+solver 2135 iteration 00000700
+solver 2135 iteration 00000800
+execution time  2918.4140448346734
+plotting using r =  0.044312246368450776
+lw =  0.06841850376101304
+starting job number 124 on track 678
+loading track 2977 with 2870 data points
+writing to  _top_2977/data.pkl
+using sigma = 0.014261847709876218
+writing to  _top_2977/config.json
+solver 2977 iteration 00000000
+solver 2977 iteration 00000100
+solver 2977 iteration 00000200
+solver 2977 iteration 00000300
+solver 2977 iteration 00000400
+solver 2977 iteration 00000500
+solver 2977 iteration 00000600
+solver 2977 iteration 00000700
+solver 2977 iteration 00000800
+solver 2977 iteration 00000900
+solver 2977 iteration 00001000
+solver 2977 iteration 00001100
+solver 2977 iteration 00001200
+execution time  2232.966397471726
+plotting using r =  0.03317808440168832
+lw =  9.198855623961126e-05
+starting job number 125 on track 518
+loading track 2127 with 2615 data points
+writing to  _top_2127/data.pkl
+using sigma = 0.010111825879943321
+writing to  _top_2127/config.json
+solver 2127 iteration 00000000
+solver 2127 iteration 00000100
+solver 2127 iteration 00000200
+solver 2127 iteration 00000300
+solver 2127 iteration 00000400
+solver 2127 iteration 00000500
+solver 2127 iteration 00000600
+solver 2127 iteration 00000700
+solver 2127 iteration 00000800
+solver 2127 iteration 00000900
+solver 2127 iteration 00001000
+solver 2127 iteration 00001100
+solver 2127 iteration 00001200
+execution time  2198.3823074577376
+plotting using r =  0.023523670938346303
+lw =  0.30730069872739235
+starting job number 126 on track 845
+loading track 2094 with 1826 data points
+writing to  _top_2094/data.pkl
+using sigma = 0.01186767115679458
+writing to  _top_2094/config.json
+solver 2094 iteration 00000000
+solver 2094 iteration 00000100
+solver 2094 iteration 00000200
+solver 2094 iteration 00000300
+solver 2094 iteration 00000400
+solver 2094 iteration 00000500
+solver 2094 iteration 00000600
+solver 2094 iteration 00000700
+execution time  1364.4231733726338
+plotting using r =  0.02760838590493055
+lw =  0.08045807082988213
+starting job number 127 on track 2873
+loading track 662 with 3083 data points
+writing to  _top_0662/data.pkl
+using sigma = 0.013015373655258709
+writing to  _top_0662/config.json
+solver 662 iteration 00000000
+solver 662 iteration 00000100
+solver 662 iteration 00000200
+solver 662 iteration 00000300
+solver 662 iteration 00000400
+solver 662 iteration 00000500
+solver 662 iteration 00000600
+solver 662 iteration 00000700
+solver 662 iteration 00000800
+solver 662 iteration 00000900
+solver 662 iteration 00001000
+solver 662 iteration 00001100
+solver 662 iteration 00001200
+execution time  2487.1064716242254
+plotting using r =  0.030278346427346052
+lw =  0.0003273480379044281
+starting job number 128 on track 2986
+loading track 2332 with 1213 data points
+writing to  _top_2332/data.pkl
+using sigma = 0.010498550849419284
+writing to  _top_2332/config.json
+solver 2332 iteration 00000000
+solver 2332 iteration 00000100
+solver 2332 iteration 00000200
+solver 2332 iteration 00000300
+solver 2332 iteration 00000400
+execution time  879.1277450369671
+plotting using r =  0.024423329519655416
+lw =  0.012288721657599692
+starting job number 129 on track 2567
+loading track 2903 with 2810 data points
+writing to  _top_2903/data.pkl
+using sigma = 0.012574179020373069
+writing to  _top_2903/config.json
+solver 2903 iteration 00000000
+solver 2903 iteration 00000100
+solver 2903 iteration 00000200
+solver 2903 iteration 00000300
+solver 2903 iteration 00000400
+solver 2903 iteration 00000500
+solver 2903 iteration 00000600
+solver 2903 iteration 00000700
+solver 2903 iteration 00000800
+solver 2903 iteration 00000900
+solver 2903 iteration 00001000
+solver 2903 iteration 00001100
+solver 2903 iteration 00001200
+solver 2903 iteration 00001300
+execution time  2457.6051096320152
+plotting using r =  0.02925197220630658
+lw =  1.8075031649382585e-07
+starting job number 130 on track 1089
+loading track 253 with 1531 data points
+writing to  _top_0253/data.pkl
+using sigma = 0.009368133014509013
+writing to  _top_0253/config.json
+solver 253 iteration 00000000
+solver 253 iteration 00000100
+solver 253 iteration 00000200
+solver 253 iteration 00000300
+solver 253 iteration 00000400
+solver 253 iteration 00000500
+solver 253 iteration 00000600
+solver 253 iteration 00000700
+solver 253 iteration 00000800
+execution time  1624.2402810696512
+plotting using r =  0.021793579216694673
+lw =  0.00039328803374005013
+starting job number 131 on track 2368
+loading track 1112 with 1591 data points
+writing to  _top_1112/data.pkl
+using sigma = 0.008989803017251604
+writing to  _top_1112/config.json
+solver 1112 iteration 00000000
+solver 1112 iteration 00000100
+solver 1112 iteration 00000200
+solver 1112 iteration 00000300
+solver 1112 iteration 00000400
+solver 1112 iteration 00000500
+solver 1112 iteration 00000600
+solver 1112 iteration 00000700
+execution time  1428.3260152712464
+plotting using r =  0.020913450299597597
+lw =  6.92083175222092
+starting job number 132 on track 2429
+loading track 2960 with 1908 data points
+writing to  _top_2960/data.pkl
+using sigma = 0.010515187042054114
+writing to  _top_2960/config.json
+solver 2960 iteration 00000000
+solver 2960 iteration 00000100
+solver 2960 iteration 00000200
+solver 2960 iteration 00000300
+solver 2960 iteration 00000400
+solver 2960 iteration 00000500
+solver 2960 iteration 00000600
+solver 2960 iteration 00000700
+solver 2960 iteration 00000800
+solver 2960 iteration 00000900
+solver 2960 iteration 00001000
+solver 2960 iteration 00001100
+execution time  2109.8986242860556
+plotting using r =  0.024462031167197123
+lw =  1.3251932256679554e-05
+starting job number 133 on track 398
+loading track 2385 with 1313 data points
+writing to  _top_2385/data.pkl
+using sigma = 0.00848178366323702
+writing to  _top_2385/config.json
+solver 2385 iteration 00000000
+solver 2385 iteration 00000100
+solver 2385 iteration 00000200
+solver 2385 iteration 00000300
+solver 2385 iteration 00000400
+solver 2385 iteration 00000500
+solver 2385 iteration 00000600
+solver 2385 iteration 00000700
+execution time  1332.275185094215
+plotting using r =  0.019731618229303156
+lw =  17.5583591765166
+starting job number 134 on track 290
+loading track 3030 with 3226 data points
+writing to  _top_3030/data.pkl
+using sigma = 0.01277082899918879
+writing to  _top_3030/config.json
+solver 3030 iteration 00000000
+solver 3030 iteration 00000100
+solver 3030 iteration 00000200
+solver 3030 iteration 00000300
+solver 3030 iteration 00000400
+solver 3030 iteration 00000500
+solver 3030 iteration 00000600
+solver 3030 iteration 00000700
+solver 3030 iteration 00000800
+solver 3030 iteration 00000900
+solver 3030 iteration 00001000
+solver 3030 iteration 00001100
+solver 3030 iteration 00001200
+solver 3030 iteration 00001300
+execution time  2378.7932458920404
+plotting using r =  0.029709449366872535
+lw =  0.0007220761042447439
+starting job number 135 on track 1259
+loading track 2924 with 2080 data points
+writing to  _top_2924/data.pkl
+using sigma = 0.012647591338805563
+writing to  _top_2924/config.json
+solver 2924 iteration 00000000
+solver 2924 iteration 00000100
+solver 2924 iteration 00000200
+solver 2924 iteration 00000300
+solver 2924 iteration 00000400
+solver 2924 iteration 00000500
+solver 2924 iteration 00000600
+solver 2924 iteration 00000700
+solver 2924 iteration 00000800
+solver 2924 iteration 00000900
+solver 2924 iteration 00001000
+solver 2924 iteration 00001100
+solver 2924 iteration 00001200
+solver 2924 iteration 00001300
+solver 2924 iteration 00001400
+execution time  2366.1479948954657
+plotting using r =  0.029422755133359586
+lw =  2.8150266590469935
+starting job number 136 on track 1093
+loading track 583 with 1391 data points
+writing to  _top_0583/data.pkl
+using sigma = 0.00959549262599691
+writing to  _top_0583/config.json
+solver 583 iteration 00000000
+solver 583 iteration 00000100
+solver 583 iteration 00000200
+solver 583 iteration 00000300
+solver 583 iteration 00000400
+solver 583 iteration 00000500
+solver 583 iteration 00000600
+solver 583 iteration 00000700
+solver 583 iteration 00000800
+execution time  1649.092557224445
+plotting using r =  0.0223224978065529
+lw =  0.013470838496352477
+starting job number 137 on track 1266
+loading track 660 with 1825 data points
+writing to  _top_0660/data.pkl
+using sigma = 0.01350316067977218
+writing to  _top_0660/config.json
+solver 660 iteration 00000000
+solver 660 iteration 00000100
+solver 660 iteration 00000200
+solver 660 iteration 00000300
+solver 660 iteration 00000400
+solver 660 iteration 00000500
+solver 660 iteration 00000600
+execution time  1125.260861383751
+plotting using r =  0.031413110968279215
+lw =  0.00011629208500216652
+starting job number 138 on track 359
+loading track 697 with 2629 data points
+writing to  _top_0697/data.pkl
+using sigma = 0.010631970467551396
+writing to  _top_0697/config.json
+solver 697 iteration 00000000
+solver 697 iteration 00000100
+solver 697 iteration 00000200
+solver 697 iteration 00000300
+solver 697 iteration 00000400
+solver 697 iteration 00000500
+solver 697 iteration 00000600
+solver 697 iteration 00000700
+solver 697 iteration 00000800
+solver 697 iteration 00000900
+solver 697 iteration 00001000
+solver 697 iteration 00001100
+solver 697 iteration 00001200
+solver 697 iteration 00001300
+solver 697 iteration 00001400
+solver 697 iteration 00001500
+execution time  2683.431628871709
+plotting using r =  0.024733710575552025
+lw =  3.4215280897130733
+starting job number 139 on track 3050
+loading track 2491 with 2079 data points
+writing to  _top_2491/data.pkl
+using sigma = 0.013487483293860845
+writing to  _top_2491/config.json
+solver 2491 iteration 00000000
+solver 2491 iteration 00000100
+solver 2491 iteration 00000200
+solver 2491 iteration 00000300
+solver 2491 iteration 00000400
+solver 2491 iteration 00000500
+solver 2491 iteration 00000600
+solver 2491 iteration 00000700
+solver 2491 iteration 00000800
+execution time  1470.0879914779216
+plotting using r =  0.03137663984311051
+lw =  0.0037362726928059807
+starting job number 140 on track 1436
+loading track 214 with 1151 data points
+writing to  _top_0214/data.pkl
+using sigma = 0.00899987890040586
+writing to  _top_0214/config.json
+solver 214 iteration 00000000
+solver 214 iteration 00000100
+solver 214 iteration 00000200
+solver 214 iteration 00000300
+solver 214 iteration 00000400
+solver 214 iteration 00000500
+execution time  902.3408913668245
+plotting using r =  0.020936890355087875
+lw =  11.0904673926826
+starting job number 141 on track 406
+loading track 2383 with 2269 data points
+writing to  _top_2383/data.pkl
+using sigma = 0.008110355426828513
+writing to  _top_2383/config.json
+solver 2383 iteration 00000000
+solver 2383 iteration 00000100
+solver 2383 iteration 00000200
+solver 2383 iteration 00000300
+solver 2383 iteration 00000400
+solver 2383 iteration 00000500
+solver 2383 iteration 00000600
+solver 2383 iteration 00000700
+solver 2383 iteration 00000800
+solver 2383 iteration 00000900
+starting job number 142 on track 2906
+loading track 2107 with 2053 data points
+writing to  _top_2107/data.pkl
+using sigma = 0.011761563947670443
+writing to  _top_2107/config.json
+solver 2107 iteration 00000000
+solver 2107 iteration 00000100
+solver 2107 iteration 00000200
+solver 2107 iteration 00000300
+solver 2107 iteration 00000400
+solver 2107 iteration 00000500
+solver 2107 iteration 00000600
+solver 2107 iteration 00000700
+solver 2107 iteration 00000800
+execution time  1296.0415298836306
+plotting using r =  0.027361543138722192
+lw =  0.0020822755347098395
+starting job number 143 on track 116
+loading track 1819 with 1426 data points
+writing to  _top_1819/data.pkl
+using sigma = 0.010797656065904528
+writing to  _top_1819/config.json
+solver 1819 iteration 00000000
+solver 1819 iteration 00000100
+solver 1819 iteration 00000200
+solver 1819 iteration 00000300
+solver 1819 iteration 00000400
+solver 1819 iteration 00000500
+execution time  1012.6277865143493
+plotting using r =  0.025119153673678625
+lw =  0.01683626404604404
+starting job number 144 on track 1595
+loading track 2521 with 2642 data points
+writing to  _top_2521/data.pkl
+using sigma = 0.011646474013404403
+writing to  _top_2521/config.json
+solver 2521 iteration 00000000
+solver 2521 iteration 00000100
+solver 2521 iteration 00000200
+solver 2521 iteration 00000300
+solver 2521 iteration 00000400
+solver 2521 iteration 00000500
+solver 2521 iteration 00000600
+solver 2521 iteration 00000700
+solver 2521 iteration 00000800
+solver 2521 iteration 00000900
+solver 2521 iteration 00001000
+execution time  1853.0343042183667
+plotting using r =  0.027093803387846914
+lw =  2.343108253518983e-05
+starting job number 145 on track 2936
+loading track 1022 with 1213 data points
+writing to  _top_1022/data.pkl
+using sigma = 0.010799098665615368
+writing to  _top_1022/config.json
+solver 1022 iteration 00000000
+solver 1022 iteration 00000100
+solver 1022 iteration 00000200
+solver 1022 iteration 00000300
+solver 1022 iteration 00000400
+solver 1022 iteration 00000500
+execution time  915.5572029575706
+plotting using r =  0.025122509669054383
+lw =  0.004750615904068849
+starting job number 146 on track 982
+loading track 1052 with 2288 data points
+writing to  _top_1052/data.pkl
+using sigma = 0.017259115645599163
+writing to  _top_1052/config.json
+solver 1052 iteration 00000000
+solver 1052 iteration 00000100
+solver 1052 iteration 00000200
+solver 1052 iteration 00000300
+solver 1052 iteration 00000400
+solver 1052 iteration 00000500
+solver 1052 iteration 00000600
+solver 1052 iteration 00000700
+solver 1052 iteration 00000800
+solver 1052 iteration 00000900
+solver 1052 iteration 00001000
+solver 1052 iteration 00001100
+solver 1052 iteration 00001200
+solver 1052 iteration 00001300
+solver 1052 iteration 00001400
+solver 1052 iteration 00001500
+solver 1052 iteration 00001600
+execution time  2719.6352562922984
+plotting using r =  0.04015078601573139
+lw =  0.008260290955329732
+starting job number 147 on track 2565
+loading track 2420 with 1182 data points
+writing to  _top_2420/data.pkl
+using sigma = 0.009331880342929205
+writing to  _top_2420/config.json
+solver 2420 iteration 00000000
+solver 2420 iteration 00000100
+solver 2420 iteration 00000200
+solver 2420 iteration 00000300
+solver 2420 iteration 00000400
+solver 2420 iteration 00000500
+solver 2420 iteration 00000600
+solver 2420 iteration 00000700
+execution time  1498.3331532767043
+plotting using r =  0.02170924272524354
+lw =  6.688655846666587e-07
+starting job number 148 on track 1680
+loading track 1033 with 2968 data points
+writing to  _top_1033/data.pkl
+using sigma = 0.017432722661344567
+writing to  _top_1033/config.json
+solver 1033 iteration 00000000
+solver 1033 iteration 00000100
+solver 1033 iteration 00000200
+solver 1033 iteration 00000300
+solver 1033 iteration 00000400
+solver 1033 iteration 00000500
+solver 1033 iteration 00000600
+solver 1033 iteration 00000700
+solver 1033 iteration 00000800
+solver 1033 iteration 00000900
+solver 1033 iteration 00001000
+solver 1033 iteration 00001100
+solver 1033 iteration 00001200
+solver 1033 iteration 00001300
+solver 1033 iteration 00001400
+solver 1033 iteration 00001500
+execution time  2791.5721816271544
+plotting using r =  0.04055465712263833
+lw =  5.694065740604213e-05
+starting job number 149 on track 2779
+loading track 1264 with 1896 data points
+writing to  _top_1264/data.pkl
+using sigma = 0.01224372030440024
+writing to  _top_1264/config.json
+solver 1264 iteration 00000000
+solver 1264 iteration 00000100
+solver 1264 iteration 00000200
+solver 1264 iteration 00000300
+solver 1264 iteration 00000400
+solver 1264 iteration 00000500
+solver 1264 iteration 00000600
+solver 1264 iteration 00000700
+execution time  1277.9924594750628
+plotting using r =  0.02848320876184578
+lw =  2.8341907574343765
+starting job number 150 on track 2701
+loading track 563 with 1897 data points
+writing to  _top_0563/data.pkl
+using sigma = 0.01164233860834146
+writing to  _top_0563/config.json
+solver 563 iteration 00000000
+solver 563 iteration 00000100
+solver 563 iteration 00000200
+solver 563 iteration 00000300
+solver 563 iteration 00000400
+solver 563 iteration 00000500
+solver 563 iteration 00000600
+solver 563 iteration 00000700
+execution time  1197.2888630572706
+plotting using r =  0.027084182978135307
+lw =  5.331074670947313
+starting job number 151 on track 2421
+loading track 2533 with 1306 data points
+writing to  _top_2533/data.pkl
+using sigma = 0.008901980816231798
+writing to  _top_2533/config.json
+solver 2533 iteration 00000000
+solver 2533 iteration 00000100
+solver 2533 iteration 00000200
+solver 2533 iteration 00000300
+solver 2533 iteration 00000400
+solver 2533 iteration 00000500
+solver 2533 iteration 00000600
+solver 2533 iteration 00000700
+solver 2533 iteration 00000800
+solver 2533 iteration 00000900
+execution time  1700.3035709299147
+plotting using r =  0.02070914490684267
+lw =  0.0005111204413052339
+starting job number 152 on track 1017
+loading track 1746 with 1692 data points
+writing to  _top_1746/data.pkl
+using sigma = 0.010011934970855747
+writing to  _top_1746/config.json
+solver 1746 iteration 00000000
+solver 1746 iteration 00000100
+solver 1746 iteration 00000200
+solver 1746 iteration 00000300
+solver 1746 iteration 00000400
+solver 1746 iteration 00000500
+solver 1746 iteration 00000600
+solver 1746 iteration 00000700
+execution time  1686.3352662501857
+plotting using r =  0.023291289476975497
+lw =  8.865728292551278e-07
+starting job number 153 on track 2578
+loading track 1089 with 1128 data points
+writing to  _top_1089/data.pkl
+using sigma = 0.00875155060971267
+writing to  _top_1089/config.json
+solver 1089 iteration 00000000
+solver 1089 iteration 00000100
+solver 1089 iteration 00000200
+solver 1089 iteration 00000300
+starting job number 154 on track 1074
+loading track 2754 with 2470 data points
+writing to  _top_2754/data.pkl
+using sigma = 0.008442997605565768
+writing to  _top_2754/config.json
+solver 2754 iteration 00000000
+solver 2754 iteration 00000100
+solver 2754 iteration 00000200
+solver 2754 iteration 00000300
+solver 2754 iteration 00000400
+solver 2754 iteration 00000500
+solver 2754 iteration 00000600
+solver 2754 iteration 00000700
+solver 2754 iteration 00000800
+solver 2754 iteration 00000900
+solver 2754 iteration 00001000
+solver 2754 iteration 00001100
+solver 2754 iteration 00001200
+execution time  2104.80263171345
+plotting using r =  0.01964138818890422
+lw =  0.0003247627832296788
+starting job number 155 on track 2555
+loading track 2567 with 1038 data points
+writing to  _top_2567/data.pkl
+using sigma = 0.007762991005196283
+writing to  _top_2567/config.json
+solver 2567 iteration 00000000
+solver 2567 iteration 00000100
+solver 2567 iteration 00000200
+solver 2567 iteration 00000300
+solver 2567 iteration 00000400
+execution time  923.2106216931716
+plotting using r =  0.018059453166197423
+lw =  0.0053254055485800434
+starting job number 156 on track 2942
+loading track 3029 with 4641 data points
+writing to  _top_3029/data.pkl
+using sigma = 0.011852662019092755
+writing to  _top_3029/config.json
+solver 3029 iteration 00000000
+solver 3029 iteration 00000100
+solver 3029 iteration 00000200
+solver 3029 iteration 00000300
+solver 3029 iteration 00000400
+solver 3029 iteration 00000500
+solver 3029 iteration 00000600
+solver 3029 iteration 00000700
+solver 3029 iteration 00000800
+solver 3029 iteration 00000900
+solver 3029 iteration 00001000
+solver 3029 iteration 00001100
+solver 3029 iteration 00001200
+solver 3029 iteration 00001300
+solver 3029 iteration 00001400
+solver 3029 iteration 00001500
+solver 3029 iteration 00001600
+solver 3029 iteration 00001700
+solver 3029 iteration 00001800
+solver 3029 iteration 00001900
+execution time  3264.2776772407815
+plotting using r =  0.02757346936062312
+lw =  3.69224618548638e-05
+starting job number 157 on track 3042
+loading track 775 with 2424 data points
+writing to  _top_0775/data.pkl
+using sigma = 0.011206321725810616
+writing to  _top_0775/config.json
+solver 775 iteration 00000000
+solver 775 iteration 00000100
+solver 775 iteration 00000200
+solver 775 iteration 00000300
+solver 775 iteration 00000400
+solver 775 iteration 00000500
+solver 775 iteration 00000600
+solver 775 iteration 00000700
+solver 775 iteration 00000800
+solver 775 iteration 00000900
+solver 775 iteration 00001000
+solver 775 iteration 00001100
+execution time  2156.1905158963054
+plotting using r =  0.026069854033986536
+lw =  0.0003856303082579817
+starting job number 158 on track 2074
+loading track 1093 with 1199 data points
+writing to  _top_1093/data.pkl
+using sigma = 0.011523818706435006
+writing to  _top_1093/config.json
+solver 1093 iteration 00000000
+solver 1093 iteration 00000100
+solver 1093 iteration 00000200
+solver 1093 iteration 00000300
+solver 1093 iteration 00000400
+execution time  742.8728930912912
+plotting using r =  0.026808463913626658
+lw =  0.7192508282274512
+starting job number 159 on track 1924
+loading track 2565 with 1081 data points
+writing to  _top_2565/data.pkl
+using sigma = 0.010797830058194393
+writing to  _top_2565/config.json
+solver 2565 iteration 00000000
+solver 2565 iteration 00000100
+solver 2565 iteration 00000200
+execution time  523.6813343986869
+plotting using r =  0.025119558441068928
+lw =  0.649341208002329
+starting job number 160 on track 2614
+loading track 326 with 3533 data points
+writing to  _top_0326/data.pkl
+using sigma = 0.010353180135363495
+writing to  _top_0326/config.json
+solver 326 iteration 00000000
+solver 326 iteration 00000100
+solver 326 iteration 00000200
+solver 326 iteration 00000300
+solver 326 iteration 00000400
+solver 326 iteration 00000500
+solver 326 iteration 00000600
+solver 326 iteration 00000700
+solver 326 iteration 00000800
+solver 326 iteration 00000900
+solver 326 iteration 00001000
+solver 326 iteration 00001100
+solver 326 iteration 00001200
+solver 326 iteration 00001300
+solver 326 iteration 00001400
+solver 326 iteration 00001500
+solver 326 iteration 00001600
+solver 326 iteration 00001700
+execution time  3222.956549164839
+plotting using r =  0.02408514600244278
+lw =  2.4852106991838378e-05
+starting job number 161 on track 2374
+loading track 2431 with 2291 data points
+writing to  _top_2431/data.pkl
+using sigma = 0.011254591590098057
+writing to  _top_2431/config.json
+solver 2431 iteration 00000000
+solver 2431 iteration 00000100
+solver 2431 iteration 00000200
+solver 2431 iteration 00000300
+solver 2431 iteration 00000400
+solver 2431 iteration 00000500
+solver 2431 iteration 00000600
+solver 2431 iteration 00000700
+solver 2431 iteration 00000800
+solver 2431 iteration 00000900
+solver 2431 iteration 00001000
+solver 2431 iteration 00001100
+solver 2431 iteration 00001200
+execution time  2985.111973167397
+plotting using r =  0.026182146751169172
+lw =  1.0536349312366785e-06
+starting job number 162 on track 1085
+loading track 2463 with 2669 data points
+writing to  _top_2463/data.pkl
+using sigma = 0.013621108618498592
+writing to  _top_2463/config.json
+solver 2463 iteration 00000000
+solver 2463 iteration 00000100
+solver 2463 iteration 00000200
+solver 2463 iteration 00000300
+solver 2463 iteration 00000400
+solver 2463 iteration 00000500
+solver 2463 iteration 00000600
+solver 2463 iteration 00000700
+solver 2463 iteration 00000800
+solver 2463 iteration 00000900
+execution time  1771.4452531849965
+plotting using r =  0.03168749944484107
+lw =  1.6085935256147795e-06
+starting job number 163 on track 921
+loading track 2430 with 1814 data points
+writing to  _top_2430/data.pkl
+using sigma = 0.009245629816863523
+writing to  _top_2430/config.json
+solver 2430 iteration 00000000
+solver 2430 iteration 00000100
+solver 2430 iteration 00000200
+solver 2430 iteration 00000300
+solver 2430 iteration 00000400
+solver 2430 iteration 00000500
+solver 2430 iteration 00000600
+solver 2430 iteration 00000700
+solver 2430 iteration 00000800
+solver 2430 iteration 00000900
+execution time  1801.199121132493
+plotting using r =  0.02150859360237317
+lw =  0.46259576407727115
+starting job number 164 on track 3007
+loading track 323 with 2080 data points
+writing to  _top_0323/data.pkl
+using sigma = 0.010269342282316164
+writing to  _top_0323/config.json
+solver 323 iteration 00000000
+solver 323 iteration 00000100
+solver 323 iteration 00000200
+solver 323 iteration 00000300
+solver 323 iteration 00000400
+solver 323 iteration 00000500
+solver 323 iteration 00000600
+solver 323 iteration 00000700
+solver 323 iteration 00000800
+solver 323 iteration 00000900
+execution time  1458.475998453796
+plotting using r =  0.023890109607366535
+lw =  0.0003277586577747382
+starting job number 165 on track 658
+loading track 1526 with 3845 data points
+writing to  _top_1526/data.pkl
+using sigma = 0.011817380517573205
+writing to  _top_1526/config.json
+solver 1526 iteration 00000000
+solver 1526 iteration 00000100
+solver 1526 iteration 00000200
+solver 1526 iteration 00000300
+solver 1526 iteration 00000400
+solver 1526 iteration 00000500
+solver 1526 iteration 00000600
+solver 1526 iteration 00000700
+solver 1526 iteration 00000800
+solver 1526 iteration 00000900
+solver 1526 iteration 00001000
+solver 1526 iteration 00001100
+solver 1526 iteration 00001200
+solver 1526 iteration 00001300
+solver 1526 iteration 00001400
+solver 1526 iteration 00001500
+solver 1526 iteration 00001600
+solver 1526 iteration 00001700
+execution time  3441.1809512758628
+plotting using r =  0.027491392153023767
+lw =  0.0020825951573565406
+starting job number 166 on track 2450
+loading track 2927 with 3043 data points
+writing to  _top_2927/data.pkl
+using sigma = 0.010154824532780247
+writing to  _top_2927/config.json
+solver 2927 iteration 00000000
+solver 2927 iteration 00000100
+solver 2927 iteration 00000200
+solver 2927 iteration 00000300
+solver 2927 iteration 00000400
+solver 2927 iteration 00000500
+solver 2927 iteration 00000600
+solver 2927 iteration 00000700
+solver 2927 iteration 00000800
+solver 2927 iteration 00000900
+solver 2927 iteration 00001000
+solver 2927 iteration 00001100
+solver 2927 iteration 00001200
+solver 2927 iteration 00001300
+solver 2927 iteration 00001400
+execution time  2616.8583563119173
+plotting using r =  0.023623700959841662
+lw =  0.0015106180039241726
+starting job number 167 on track 1262
+loading track 245 with 2951 data points
+writing to  _top_0245/data.pkl
+using sigma = 0.01042342133961761
+writing to  _top_0245/config.json
+solver 245 iteration 00000000
+solver 245 iteration 00000100
+solver 245 iteration 00000200
+solver 245 iteration 00000300
+solver 245 iteration 00000400
+solver 245 iteration 00000500
+solver 245 iteration 00000600
+solver 245 iteration 00000700
+solver 245 iteration 00000800
+solver 245 iteration 00000900
+solver 245 iteration 00001000
+solver 245 iteration 00001100
+solver 245 iteration 00001200
+solver 245 iteration 00001300
+solver 245 iteration 00001400
+execution time  2886.2109321719036
+plotting using r =  0.024248551800248735
+lw =  1.8216831071168653e-05
+starting job number 168 on track 3033
+loading track 2364 with 2645 data points
+writing to  _top_2364/data.pkl
+using sigma = 0.012088624292134385
+writing to  _top_2364/config.json
+solver 2364 iteration 00000000
+solver 2364 iteration 00000100
+solver 2364 iteration 00000200
+solver 2364 iteration 00000300
+solver 2364 iteration 00000400
+solver 2364 iteration 00000500
+solver 2364 iteration 00000600
+solver 2364 iteration 00000700
+solver 2364 iteration 00000800
+solver 2364 iteration 00000900
+solver 2364 iteration 00001000
+solver 2364 iteration 00001100
+solver 2364 iteration 00001200
+execution time  2395.2840445330366
+plotting using r =  0.0281224007732877
+lw =  0.0006619015333557376
+starting job number 169 on track 1325
+loading track 1074 with 1096 data points
+writing to  _top_1074/data.pkl
+using sigma = 0.012813158241127309
+writing to  _top_1074/config.json
+solver 1074 iteration 00000000
+solver 1074 iteration 00000100
+solver 1074 iteration 00000200
+solver 1074 iteration 00000300
+execution time  621.5515405554324
+plotting using r =  0.02980792210268243
+lw =  4.965100488060482
+starting job number 170 on track 467
+loading track 3050 with 2189 data points
+writing to  _top_3050/data.pkl
+using sigma = 0.014362667045901275
+writing to  _top_3050/config.json
+solver 3050 iteration 00000000
+solver 3050 iteration 00000100
+solver 3050 iteration 00000200
+solver 3050 iteration 00000300
+solver 3050 iteration 00000400
+solver 3050 iteration 00000500
+execution time  1021.5530746821314
+plotting using r =  0.03341262571134242
+lw =  3.8230143612399397e-07
+starting job number 171 on track 1291
+loading track 2561 with 1779 data points
+writing to  _top_2561/data.pkl
+using sigma = 0.008901352448974527
+writing to  _top_2561/config.json
+solver 2561 iteration 00000000
+solver 2561 iteration 00000100
+solver 2561 iteration 00000200
+solver 2561 iteration 00000300
+solver 2561 iteration 00000400
+solver 2561 iteration 00000500
+solver 2561 iteration 00000600
+solver 2561 iteration 00000700
+solver 2561 iteration 00000800
+execution time  1691.6584546836093
+plotting using r =  0.020707683103132455
+lw =  0.0010893761717181004
+starting job number 172 on track 1705
+loading track 2376 with 2155 data points
+writing to  _top_2376/data.pkl
+using sigma = 0.01014925209352055
+writing to  _top_2376/config.json
+solver 2376 iteration 00000000
+solver 2376 iteration 00000100
+solver 2376 iteration 00000200
+solver 2376 iteration 00000300
+solver 2376 iteration 00000400
+solver 2376 iteration 00000500
+solver 2376 iteration 00000600
+solver 2376 iteration 00000700
+solver 2376 iteration 00000800
+solver 2376 iteration 00000900
+solver 2376 iteration 00001000
+execution time  2592.6810814226046
+plotting using r =  0.02361073750210163
+lw =  0.00048276140369949875
+starting job number 173 on track 1596
+loading track 1976 with 2525 data points
+writing to  _top_1976/data.pkl
+using sigma = 0.008549912171344801
+writing to  _top_1976/config.json
+solver 1976 iteration 00000000
+solver 1976 iteration 00000100
+solver 1976 iteration 00000200
+solver 1976 iteration 00000300
+solver 1976 iteration 00000400
+solver 1976 iteration 00000500
+solver 1976 iteration 00000600
+solver 1976 iteration 00000700
+solver 1976 iteration 00000800
+solver 1976 iteration 00000900
+solver 1976 iteration 00001000
+solver 1976 iteration 00001100
+solver 1976 iteration 00001200
+solver 1976 iteration 00001300
+solver 1976 iteration 00001400
+execution time  3272.8665578961372
+plotting using r =  0.019890109151247014
+lw =  3.116458635705767e-07
+starting job number 174 on track 1068
+loading track 542 with 2915 data points
+writing to  _top_0542/data.pkl
+using sigma = 0.012670813172539437
+writing to  _top_0542/config.json
+solver 542 iteration 00000000
+solver 542 iteration 00000100
+solver 542 iteration 00000200
+solver 542 iteration 00000300
+solver 542 iteration 00000400
+solver 542 iteration 00000500
+solver 542 iteration 00000600
+solver 542 iteration 00000700
+solver 542 iteration 00000800
+solver 542 iteration 00000900
+solver 542 iteration 00001000
+solver 542 iteration 00001100
+solver 542 iteration 00001200
+solver 542 iteration 00001300
+execution time  2349.455046856776
+plotting using r =  0.0294767773032255
+lw =  0.003575493345072888
+starting job number 175 on track 1269
+loading track 2502 with 1875 data points
+writing to  _top_2502/data.pkl
+using sigma = 0.010564130304089207
+writing to  _top_2502/config.json
+solver 2502 iteration 00000000
+solver 2502 iteration 00000100
+solver 2502 iteration 00000200
+solver 2502 iteration 00000300
+solver 2502 iteration 00000400
+solver 2502 iteration 00000500
+solver 2502 iteration 00000600
+solver 2502 iteration 00000700
+solver 2502 iteration 00000800
+execution time  1816.6789960935712
+plotting using r =  0.02457589044488172
+lw =  0.00043808637820907297
+starting job number 176 on track 369
+loading track 2937 with 4777 data points
+writing to  _top_2937/data.pkl
+using sigma = 0.011447830970548755
+writing to  _top_2937/config.json
+solver 2937 iteration 00000000
+solver 2937 iteration 00000100
+solver 2937 iteration 00000200
+solver 2937 iteration 00000300
+solver 2937 iteration 00000400
+solver 2937 iteration 00000500
+solver 2937 iteration 00000600
+solver 2937 iteration 00000700
+solver 2937 iteration 00000800
+solver 2937 iteration 00000900
+solver 2937 iteration 00001000
+solver 2937 iteration 00001100
+solver 2937 iteration 00001200
+solver 2937 iteration 00001300
+solver 2937 iteration 00001400
+solver 2937 iteration 00001500
+solver 2937 iteration 00001600
+solver 2937 iteration 00001700
+solver 2937 iteration 00001800
+solver 2937 iteration 00001900
+solver 2937 iteration 00002000
+execution time  3698.068879617378
+plotting using r =  0.02663168965786304
+lw =  0.0012492047504350362
+starting job number 177 on track 238
+loading track 678 with 2239 data points
+writing to  _top_0678/data.pkl
+using sigma = 0.010764830508699585
+writing to  _top_0678/config.json
+solver 678 iteration 00000000
+solver 678 iteration 00000100
+solver 678 iteration 00000200
+solver 678 iteration 00000300
+solver 678 iteration 00000400
+solver 678 iteration 00000500
+starting job number 178 on track 1743
+loading track 1824 with 16038 data points
+writing to  _top_1824/data.pkl
+using sigma = 0.07339489776634031
+writing to  _top_1824/config.json
+solver 1824 iteration 00000000
+solver 1824 iteration 00000100
+solver 1824 iteration 00000200
+solver 1824 iteration 00000300
+solver 1824 iteration 00000400
+solver 1824 iteration 00000500
+solver 1824 iteration 00000600
+solver 1824 iteration 00000700
+solver 1824 iteration 00000800
+execution time  2696.408606985584
+plotting using r =  0.17074240044357195
+lw =  8.511597450274363e-07
+starting job number 179 on track 644
+loading track 2461 with 2204 data points
+writing to  _top_2461/data.pkl
+using sigma = 0.010863829096512895
+writing to  _top_2461/config.json
+solver 2461 iteration 00000000
+solver 2461 iteration 00000100
+solver 2461 iteration 00000200
+solver 2461 iteration 00000300
+solver 2461 iteration 00000400
+solver 2461 iteration 00000500
+solver 2461 iteration 00000600
+solver 2461 iteration 00000700
+solver 2461 iteration 00000800
+solver 2461 iteration 00000900
+solver 2461 iteration 00001000
+execution time  2078.7245471812785
+plotting using r =  0.025273095465745268
+lw =  0.0010269459015340655
+starting job number 180 on track 668
+loading track 2555 with 3791 data points
+writing to  _top_2555/data.pkl
+using sigma = 0.03730603328324855
+writing to  _top_2555/config.json
+solver 2555 iteration 00000000
+solver 2555 iteration 00000100
+execution time  1103.8795320102945
+plotting using r =  0.08678698203365942
+lw =  0.0005877852332818726
+starting job number 181 on track 1203
+loading track 1266 with 1396 data points
+writing to  _top_1266/data.pkl
+using sigma = 0.008033145706160656
+writing to  _top_1266/config.json
+solver 1266 iteration 00000000
+solver 1266 iteration 00000100
+solver 1266 iteration 00000200
+solver 1266 iteration 00000300
+solver 1266 iteration 00000400
+solver 1266 iteration 00000500
+solver 1266 iteration 00000600
+solver 1266 iteration 00000700
+execution time  1239.4044482763857
+plotting using r =  0.01868792821742812
+lw =  0.4198002265709328
+starting job number 182 on track 1154
+loading track 499 with 1784 data points
+writing to  _top_0499/data.pkl
+using sigma = 0.009940742126907428
+writing to  _top_0499/config.json
+solver 499 iteration 00000000
+solver 499 iteration 00000100
+solver 499 iteration 00000200
+solver 499 iteration 00000300
+solver 499 iteration 00000400
+solver 499 iteration 00000500
+solver 499 iteration 00000600
+solver 499 iteration 00000700
+solver 499 iteration 00000800
+solver 499 iteration 00000900
+solver 499 iteration 00001000
+solver 499 iteration 00001100
+solver 499 iteration 00001200
+execution time  2329.1931157577783
+plotting using r =  0.02312566982983272
+lw =  2.334803948947886
+starting job number 183 on track 1945
+loading track 325 with 2173 data points
+writing to  _top_0325/data.pkl
+using sigma = 0.01023242557878013
+writing to  _top_0325/config.json
+solver 325 iteration 00000000
+solver 325 iteration 00000100
+solver 325 iteration 00000200
+solver 325 iteration 00000300
+solver 325 iteration 00000400
+solver 325 iteration 00000500
+solver 325 iteration 00000600
+solver 325 iteration 00000700
+solver 325 iteration 00000800
+solver 325 iteration 00000900
+solver 325 iteration 00001000
+solver 325 iteration 00001100
+execution time  1992.7677355110645
+plotting using r =  0.023804228343545265
+lw =  0.0021439036865445924
+starting job number 184 on track 1368
+loading track 1436 with 2122 data points
+writing to  _top_1436/data.pkl
+using sigma = 0.013910054265965487
+writing to  _top_1436/config.json
+solver 1436 iteration 00000000
+solver 1436 iteration 00000100
+solver 1436 iteration 00000200
+solver 1436 iteration 00000300
+solver 1436 iteration 00000400
+solver 1436 iteration 00000500
+solver 1436 iteration 00000600
+solver 1436 iteration 00000700
+execution time  1220.6058965679258
+plotting using r =  0.03235968886055881
+lw =  0.967128532641995
+starting job number 185 on track 1021
+loading track 116 with 1146 data points
+writing to  _top_0116/data.pkl
+using sigma = 0.008919239605431718
+writing to  _top_0116/config.json
+solver 116 iteration 00000000
+solver 116 iteration 00000100
+solver 116 iteration 00000200
+solver 116 iteration 00000300
+solver 116 iteration 00000400
+solver 116 iteration 00000500
+solver 116 iteration 00000600
+execution time  1243.3428861331195
+plotting using r =  0.020749294933430706
+lw =  0.0006558467740468805
+starting job number 186 on track 368
+loading track 2473 with 2970 data points
+writing to  _top_2473/data.pkl
+using sigma = 0.013320852272068662
+writing to  _top_2473/config.json
+solver 2473 iteration 00000000
+solver 2473 iteration 00000100
+solver 2473 iteration 00000200
+solver 2473 iteration 00000300
+solver 2473 iteration 00000400
+solver 2473 iteration 00000500
+solver 2473 iteration 00000600
+solver 2473 iteration 00000700
+solver 2473 iteration 00000800
+solver 2473 iteration 00000900
+solver 2473 iteration 00001000
+solver 2473 iteration 00001100
+execution time  1937.869790012017
+plotting using r =  0.030988997356847504
+lw =  0.002515278603658252
+starting job number 187 on track 1265
+loading track 1900 with 2519 data points
+writing to  _top_1900/data.pkl
+using sigma = 0.009985126916286682
+writing to  _top_1900/config.json
+solver 1900 iteration 00000000
+solver 1900 iteration 00000100
+solver 1900 iteration 00000200
+solver 1900 iteration 00000300
+solver 1900 iteration 00000400
+solver 1900 iteration 00000500
+solver 1900 iteration 00000600
+solver 1900 iteration 00000700
+solver 1900 iteration 00000800
+solver 1900 iteration 00000900
+solver 1900 iteration 00001000
+execution time  1849.1459827935323
+plotting using r =  0.023228924493473274
+lw =  0.03410342997131894
+starting job number 188 on track 1065
+loading track 2900 with 2620 data points
+writing to  _top_2900/data.pkl
+using sigma = 0.009701146378644615
+writing to  _top_2900/config.json
+solver 2900 iteration 00000000
+solver 2900 iteration 00000100
+solver 2900 iteration 00000200
+solver 2900 iteration 00000300
+solver 2900 iteration 00000400
+solver 2900 iteration 00000500
+solver 2900 iteration 00000600
+solver 2900 iteration 00000700
+solver 2900 iteration 00000800
+solver 2900 iteration 00000900
+solver 2900 iteration 00001000
+solver 2900 iteration 00001100
+solver 2900 iteration 00001200
+solver 2900 iteration 00001300
+solver 2900 iteration 00001400
+solver 2900 iteration 00001500
+execution time  2942.611900832504
+plotting using r =  0.02256828567317506
+lw =  0.003157787926800824
+starting job number 189 on track 2970
+loading track 2429 with 2631 data points
+writing to  _top_2429/data.pkl
+using sigma = 0.011028812763456278
+writing to  _top_2429/config.json
+solver 2429 iteration 00000000
+solver 2429 iteration 00000100
+solver 2429 iteration 00000200
+solver 2429 iteration 00000300
+solver 2429 iteration 00000400
+solver 2429 iteration 00000500
+solver 2429 iteration 00000600
+solver 2429 iteration 00000700
+solver 2429 iteration 00000800
+solver 2429 iteration 00000900
+execution time  1768.071151402779
+plotting using r =  0.025656905624015087
+lw =  0.038348542930628844
+starting job number 190 on track 1968
+loading track 467 with 4076 data points
+writing to  _top_0467/data.pkl
+using sigma = 0.11224061951644808
+writing to  _top_0467/config.json
+solver 467 iteration 00000000
+solver 467 iteration 00000100
+solver 467 iteration 00000200
+execution time  629.3104720320553
+plotting using r =  0.2611112405186958
+lw =  0.00014107375750461974
+starting job number 191 on track 1145
+loading track 1259 with 2403 data points
+writing to  _top_1259/data.pkl
+using sigma = 0.011552511085989828
+writing to  _top_1259/config.json
+solver 1259 iteration 00000000
+solver 1259 iteration 00000100
+solver 1259 iteration 00000200
+solver 1259 iteration 00000300
+solver 1259 iteration 00000400
+solver 1259 iteration 00000500
+solver 1259 iteration 00000600
+solver 1259 iteration 00000700
+solver 1259 iteration 00000800
+solver 1259 iteration 00000900
+execution time  1767.9535564780235
+plotting using r =  0.02687521250118139
+lw =  0.00019698393105540486
+starting job number 192 on track 2449
+loading track 2779 with 1427 data points
+writing to  _top_2779/data.pkl
+using sigma = 0.008574693994844309
+writing to  _top_2779/config.json
+solver 2779 iteration 00000000
+solver 2779 iteration 00000100
+solver 2779 iteration 00000200
+solver 2779 iteration 00000300
+solver 2779 iteration 00000400
+solver 2779 iteration 00000500
+solver 2779 iteration 00000600
+solver 2779 iteration 00000700
+execution time  1510.095640658401
+plotting using r =  0.01994776040713056
+lw =  0.0024913609335122763
+starting job number 193 on track 1477
+loading track 2578 with 1333 data points
+writing to  _top_2578/data.pkl
+using sigma = 0.007902715365832366
+writing to  _top_2578/config.json
+solver 2578 iteration 00000000
+solver 2578 iteration 00000100
+solver 2578 iteration 00000200
+solver 2578 iteration 00000300
+solver 2578 iteration 00000400
+solver 2578 iteration 00000500
+solver 2578 iteration 00000600
+execution time  1424.6411600317806
+plotting using r =  0.01838450127528259
+lw =  0.006191359235580884
+starting job number 194 on track 705
+loading track 2367 with 1911 data points
+writing to  _top_2367/data.pkl
+using sigma = 0.006845365100399906
+writing to  _top_2367/config.json
+solver 2367 iteration 00000000
+solver 2367 iteration 00000100
+solver 2367 iteration 00000200
+solver 2367 iteration 00000300
+solver 2367 iteration 00000400
+solver 2367 iteration 00000500
+solver 2367 iteration 00000600
+solver 2367 iteration 00000700
+solver 2367 iteration 00000800
+solver 2367 iteration 00000900
+solver 2367 iteration 00001000
+solver 2367 iteration 00001100
+execution time  2686.7177120717242
+plotting using r =  0.015924731891798546
+lw =  3.3227849193569755e-06
+starting job number 195 on track 1367
+loading track 2074 with 1226 data points
+writing to  _top_2074/data.pkl
+using sigma = 0.00988711522692785
+writing to  _top_2074/config.json
+solver 2074 iteration 00000000
+solver 2074 iteration 00000100
+solver 2074 iteration 00000200
+solver 2074 iteration 00000300
+solver 2074 iteration 00000400
+solver 2074 iteration 00000500
+solver 2074 iteration 00000600
+execution time  1236.2970231864601
+plotting using r =  0.023000914759527823
+lw =  0.7151243472371771
+starting job number 196 on track 2309
+loading track 2873 with 3728 data points
+writing to  _top_2873/data.pkl
+using sigma = 0.011901583063124001
+writing to  _top_2873/config.json
+solver 2873 iteration 00000000
+solver 2873 iteration 00000100
+solver 2873 iteration 00000200
+solver 2873 iteration 00000300
+solver 2873 iteration 00000400
+solver 2873 iteration 00000500
+solver 2873 iteration 00000600
+solver 2873 iteration 00000700
+solver 2873 iteration 00000800
+solver 2873 iteration 00000900
+solver 2873 iteration 00001000
+solver 2873 iteration 00001100
+solver 2873 iteration 00001200
+solver 2873 iteration 00001300
+solver 2873 iteration 00001400
+execution time  2277.360656342469
+plotting using r =  0.027687276951399973
+lw =  0.00200730802329402
+starting job number 197 on track 1303
+loading track 1926 with 2509 data points
+writing to  _top_1926/data.pkl
+using sigma = 0.00980184603335224
+writing to  _top_1926/config.json
+solver 1926 iteration 00000000
+solver 1926 iteration 00000100
+solver 1926 iteration 00000200
+solver 1926 iteration 00000300
+solver 1926 iteration 00000400
+solver 1926 iteration 00000500
+solver 1926 iteration 00000600
+solver 1926 iteration 00000700
+solver 1926 iteration 00000800
+solver 1926 iteration 00000900
+solver 1926 iteration 00001000
+solver 1926 iteration 00001100
+solver 1926 iteration 00001200
+solver 1926 iteration 00001300
+execution time  2775.1749953478575
+plotting using r =  0.022802548561902787
+lw =  0.024189905186249912
+starting job number 198 on track 999
+loading track 2368 with 2758 data points
+writing to  _top_2368/data.pkl
+using sigma = 0.009165735695586357
+writing to  _top_2368/config.json
+solver 2368 iteration 00000000
+solver 2368 iteration 00000100
+solver 2368 iteration 00000200
+solver 2368 iteration 00000300
+solver 2368 iteration 00000400
+solver 2368 iteration 00000500
+solver 2368 iteration 00000600
+solver 2368 iteration 00000700
+solver 2368 iteration 00000800
+solver 2368 iteration 00000900
+solver 2368 iteration 00001000
+solver 2368 iteration 00001100
+solver 2368 iteration 00001200
+solver 2368 iteration 00001300
+solver 2368 iteration 00001400
+execution time  2542.9467711951584
+plotting using r =  0.021322731717373734
+lw =  0.002998055185649587
+starting job number 199 on track 1687
+loading track 2936 with 2206 data points
+writing to  _top_2936/data.pkl
+using sigma = 0.010490576428712008
+writing to  _top_2936/config.json
+solver 2936 iteration 00000000
+solver 2936 iteration 00000100
+solver 2936 iteration 00000200
+solver 2936 iteration 00000300
+solver 2936 iteration 00000400
+solver 2936 iteration 00000500
+solver 2936 iteration 00000600
+solver 2936 iteration 00000700
+solver 2936 iteration 00000800
+solver 2936 iteration 00000900
+solver 2936 iteration 00001000
+execution time  1937.6287302095443
+plotting using r =  0.024404778206483173
+lw =  0.01204216003301888
+loading track 2701 with 2029 data points
+writing to  _top_2701/data.pkl
+using sigma = 0.008712618226205431
+writing to  _top_2701/config.json
+solver 2701 iteration 00000000
+solver 2701 iteration 00000100
+solver 2701 iteration 00000200
+solver 2701 iteration 00000300
+solver 2701 iteration 00000400
+solver 2701 iteration 00000500
+solver 2701 iteration 00000600
+solver 2701 iteration 00000700
+loading track 2450 with 1423 data points
+writing to  _top_2450/data.pkl
+using sigma = 0.007257935185044445
+writing to  _top_2450/config.json
+solver 2450 iteration 00000000
+solver 2450 iteration 00000100
+solver 2450 iteration 00000200
+solver 2450 iteration 00000300
+solver 2450 iteration 00000400
+loading track 359 with 2561 data points
+writing to  _top_0359/data.pkl
+using sigma = 0.010864713701344751
+writing to  _top_0359/config.json
+solver 359 iteration 00000000
+solver 359 iteration 00000100
+solver 359 iteration 00000200
+solver 359 iteration 00000300
+solver 359 iteration 00000400
+solver 359 iteration 00000500
+solver 359 iteration 00000600
+solver 359 iteration 00000700
+solver 359 iteration 00000800
+solver 359 iteration 00000900
+solver 359 iteration 00001000
+solver 359 iteration 00001100
+solver 359 iteration 00001200
+execution time  2121.3301774151623
+plotting using r =  0.025275153368365638
+lw =  0.020841964507304068
+loading track 982 with 3363 data points
+writing to  _top_0982/data.pkl
+using sigma = 0.013312006072193724
+writing to  _top_0982/config.json
+solver 982 iteration 00000000
+solver 982 iteration 00000100
+solver 982 iteration 00000200
+solver 982 iteration 00000300
+solver 982 iteration 00000400
+solver 982 iteration 00000500
+solver 982 iteration 00000600
+solver 982 iteration 00000700
+solver 982 iteration 00000800
+solver 982 iteration 00000900
+solver 982 iteration 00001000
+solver 982 iteration 00001100
+solver 982 iteration 00001200
+execution time  1990.4373027589172
+plotting using r =  0.030968417978070262
+lw =  0.004557285506959383
+loading track 3042 with 2447 data points
+writing to  _top_3042/data.pkl
+using sigma = 0.010386497793449485
+writing to  _top_3042/config.json
+solver 3042 iteration 00000000
+solver 3042 iteration 00000100
+solver 3042 iteration 00000200
+solver 3042 iteration 00000300
+solver 3042 iteration 00000400
+solver 3042 iteration 00000500
+solver 3042 iteration 00000600
+solver 3042 iteration 00000700
+solver 3042 iteration 00000800
+execution time  1571.840874527581
+plotting using r =  0.024162654618053527
+lw =  6.593964916199692e-05
+loading track 2131 with 2838 data points
+writing to  _top_2131/data.pkl
+using sigma = 0.007571012310585974
+writing to  _top_2131/config.json
+solver 2131 iteration 00000000
+solver 2131 iteration 00000100
+solver 2131 iteration 00000200
+solver 2131 iteration 00000300
+solver 2131 iteration 00000400
+solver 2131 iteration 00000500
+solver 2131 iteration 00000600
+solver 2131 iteration 00000700
+solver 2131 iteration 00000800
+solver 2131 iteration 00000900
+solver 2131 iteration 00001000
+solver 2131 iteration 00001100
+solver 2131 iteration 00001200
+solver 2131 iteration 00001300
+solver 2131 iteration 00001400
+solver 2131 iteration 00001500
+solver 2131 iteration 00001600
+execution time  3219.9294938277453
+plotting using r =  0.017612843059100585
+lw =  0.006106237275432483
+loading track 398 with 4521 data points
+writing to  _top_0398/data.pkl
+using sigma = 0.012167788437440957
+writing to  _top_0398/config.json
+solver 398 iteration 00000000
+solver 398 iteration 00000100
+solver 398 iteration 00000200
+solver 398 iteration 00000300
+solver 398 iteration 00000400
+solver 398 iteration 00000500
+solver 398 iteration 00000600
+solver 398 iteration 00000700
+solver 398 iteration 00000800
+solver 398 iteration 00000900
+solver 398 iteration 00001000
+solver 398 iteration 00001100
+solver 398 iteration 00001200
+solver 398 iteration 00001300
+solver 398 iteration 00001400
+execution time  2993.4776646206155
+plotting using r =  0.028306564476897444
+lw =  0.0004040827445470617
+loading track 921 with 2094 data points
+writing to  _top_0921/data.pkl
+using sigma = 0.009937780191792353
+writing to  _top_0921/config.json
+solver 921 iteration 00000000
+solver 921 iteration 00000100
+solver 921 iteration 00000200
+solver 921 iteration 00000300
+solver 921 iteration 00000400
+solver 921 iteration 00000500
+solver 921 iteration 00000600
+solver 921 iteration 00000700
+solver 921 iteration 00000800
+execution time  1747.4771056352183
+plotting using r =  0.023118779324812655
+lw =  0.00025980084522989316
+loading track 358 with 3193 data points
+writing to  _top_0358/data.pkl
+using sigma = 0.00839794941917928
+writing to  _top_0358/config.json
+solver 358 iteration 00000000
+solver 358 iteration 00000100
+solver 358 iteration 00000200
+solver 358 iteration 00000300
+solver 358 iteration 00000400
+solver 358 iteration 00000500
+solver 358 iteration 00000600
+solver 358 iteration 00000700
+solver 358 iteration 00000800
+solver 358 iteration 00000900
+solver 358 iteration 00001000
+solver 358 iteration 00001100
+solver 358 iteration 00001200
+solver 358 iteration 00001300
+solver 358 iteration 00001400
+solver 358 iteration 00001500
+solver 358 iteration 00001600
+solver 358 iteration 00001700
+solver 358 iteration 00001800
+solver 358 iteration 00001900
+execution time  3476.619296834804
+plotting using r =  0.019536590230008703
+lw =  0.010533183160741985
+loading track 1596 with 1945 data points
+writing to  _top_1596/data.pkl
+using sigma = 0.008725859609897673
+writing to  _top_1596/config.json
+solver 1596 iteration 00000000
+solver 1596 iteration 00000100
+solver 1596 iteration 00000200
+solver 1596 iteration 00000300
+solver 1596 iteration 00000400
+solver 1596 iteration 00000500
+solver 1596 iteration 00000600
+solver 1596 iteration 00000700
+execution time  1383.0556255597621
+plotting using r =  0.020299424906492766
+lw =  0.26855043870087536
+loading track 668 with 2565 data points
+writing to  _top_0668/data.pkl
+using sigma = 0.01414786553277739
+writing to  _top_0668/config.json
+solver 668 iteration 00000000
+solver 668 iteration 00000100
+solver 668 iteration 00000200
+solver 668 iteration 00000300
+solver 668 iteration 00000400
+solver 668 iteration 00000500
+solver 668 iteration 00000600
+solver 668 iteration 00000700
+solver 668 iteration 00000800
+execution time  1298.4847715813667
+plotting using r =  0.03291292168441614
+lw =  1.7087522542799793
+loading track 1262 with 2154 data points
+writing to  _top_1262/data.pkl
+using sigma = 0.010585891724789962
+writing to  _top_1262/config.json
+solver 1262 iteration 00000000
+solver 1262 iteration 00000100
+solver 1262 iteration 00000200
+solver 1262 iteration 00000300
+solver 1262 iteration 00000400
+solver 1262 iteration 00000500
+solver 1262 iteration 00000600
+solver 1262 iteration 00000700
+solver 1262 iteration 00000800
+solver 1262 iteration 00000900
+execution time  1799.525005527772
+plotting using r =  0.024626515179305867
+lw =  0.020885136948916215
+loading track 1269 with 2596 data points
+writing to  _top_1269/data.pkl
+using sigma = 0.01204614713338907
+writing to  _top_1269/config.json
+solver 1269 iteration 00000000
+solver 1269 iteration 00000100
+solver 1269 iteration 00000200
+solver 1269 iteration 00000300
+solver 1269 iteration 00000400
+solver 1269 iteration 00000500
+solver 1269 iteration 00000600
+solver 1269 iteration 00000700
+solver 1269 iteration 00000800
+solver 1269 iteration 00000900
+execution time  1518.656388303265
+plotting using r =  0.028023583930851498
+lw =  0.00014559898305680923
+loading track 1154 with 2285 data points
+writing to  _top_1154/data.pkl
+using sigma = 0.01598142721324011
+writing to  _top_1154/config.json
+solver 1154 iteration 00000000
+solver 1154 iteration 00000100
+solver 1154 iteration 00000200
+solver 1154 iteration 00000300
+solver 1154 iteration 00000400
+solver 1154 iteration 00000500
+solver 1154 iteration 00000600
+solver 1154 iteration 00000700
+execution time  1339.8986071078107
+plotting using r =  0.03717843239716665
+lw =  0.0022767329678599476
+loading track 1686 with 3834 data points
+writing to  _top_1686/data.pkl
+using sigma = 0.011110256058375683
+writing to  _top_1686/config.json
+solver 1686 iteration 00000000
+solver 1686 iteration 00000100
+solver 1686 iteration 00000200
+solver 1686 iteration 00000300
+solver 1686 iteration 00000400
+solver 1686 iteration 00000500
+solver 1686 iteration 00000600
+solver 1686 iteration 00000700
+solver 1686 iteration 00000800
+solver 1686 iteration 00000900
+solver 1686 iteration 00001000
+solver 1686 iteration 00001100
+solver 1686 iteration 00001200
+solver 1686 iteration 00001300
+solver 1686 iteration 00001400
+solver 1686 iteration 00001500
+execution time  3279.5419724760577
+plotting using r =  0.025846371432917
+lw =  9.757147753423524e-05
+loading track 1203 with 2103 data points
+writing to  _top_1203/data.pkl
+using sigma = 0.012332879497473368
+writing to  _top_1203/config.json
+solver 1203 iteration 00000000
+solver 1203 iteration 00000100
+solver 1203 iteration 00000200
+solver 1203 iteration 00000300
+solver 1203 iteration 00000400
+solver 1203 iteration 00000500
+solver 1203 iteration 00000600
+solver 1203 iteration 00000700
+execution time  1433.9180900147185
+plotting using r =  0.028690624469343336
+lw =  0.00015623004390159022
+loading track 1085 with 2472 data points
+writing to  _top_1085/data.pkl
+using sigma = 0.009606802282555456
+writing to  _top_1085/config.json
+solver 1085 iteration 00000000
+solver 1085 iteration 00000100
+solver 1085 iteration 00000200
+solver 1085 iteration 00000300
+solver 1085 iteration 00000400
+solver 1085 iteration 00000500
+solver 1085 iteration 00000600
+solver 1085 iteration 00000700
+solver 1085 iteration 00000800
+solver 1085 iteration 00000900
+solver 1085 iteration 00001000
+solver 1085 iteration 00001100
+execution time  1885.870113878511
+plotting using r =  0.02234880805382848
+lw =  0.0020068802246598514
+loading track 2421 with 2270 data points
+writing to  _top_2421/data.pkl
+using sigma = 0.008572130476873859
+writing to  _top_2421/config.json
+solver 2421 iteration 00000000
+solver 2421 iteration 00000100
+solver 2421 iteration 00000200
+solver 2421 iteration 00000300
+solver 2421 iteration 00000400
+solver 2421 iteration 00000500
+solver 2421 iteration 00000600
+solver 2421 iteration 00000700
+solver 2421 iteration 00000800
+solver 2421 iteration 00000900
+solver 2421 iteration 00001000
+solver 2421 iteration 00001100
+execution time  2457.6786102261394
+plotting using r =  0.019941796760812154
+lw =  0.00036888275780874583
+loading track 1017 with 2854 data points
+writing to  _top_1017/data.pkl
+using sigma = 0.009728971466031668
+writing to  _top_1017/config.json
+solver 1017 iteration 00000000
+solver 1017 iteration 00000100
+solver 1017 iteration 00000200
+solver 1017 iteration 00000300
+solver 1017 iteration 00000400
+solver 1017 iteration 00000500
+solver 1017 iteration 00000600
+solver 1017 iteration 00000700
+solver 1017 iteration 00000800
+solver 1017 iteration 00000900
+loading track 658 with 3594 data points
+writing to  _top_0658/data.pkl
+using sigma = 0.013855628400891828
+writing to  _top_0658/config.json
+solver 658 iteration 00000000
+solver 658 iteration 00000100
+solver 658 iteration 00000200
+solver 658 iteration 00000300
+solver 658 iteration 00000400
+solver 658 iteration 00000500
+solver 658 iteration 00000600
+solver 658 iteration 00000700
+solver 658 iteration 00000800
+solver 658 iteration 00000900
+solver 658 iteration 00001000
+execution time  2170.6784875402227
+plotting using r =  0.032233075115847575
+lw =  0.0016663984459375984
+loading track 3033 with 3044 data points
+writing to  _top_3033/data.pkl
+using sigma = 0.011603724078633948
+writing to  _top_3033/config.json
+solver 3033 iteration 00000000
+solver 3033 iteration 00000100
+solver 3033 iteration 00000200
+solver 3033 iteration 00000300
+solver 3033 iteration 00000400
+solver 3033 iteration 00000500
+solver 3033 iteration 00000600
+solver 3033 iteration 00000700
+solver 3033 iteration 00000800
+solver 3033 iteration 00000900
+solver 3033 iteration 00001000
+execution time  1769.6026997221634
+plotting using r =  0.02699435197223555
+lw =  0.0025018849895393643
+loading track 1595 with 4914 data points
+writing to  _top_1595/data.pkl
+using sigma = 0.009916762121369004
+writing to  _top_1595/config.json
+solver 1595 iteration 00000000
+solver 1595 iteration 00000100
+solver 1595 iteration 00000200
+solver 1595 iteration 00000300
+solver 1595 iteration 00000400
+solver 1595 iteration 00000500
+solver 1595 iteration 00000600
+solver 1595 iteration 00000700
+solver 1595 iteration 00000800
+solver 1595 iteration 00000900
+solver 1595 iteration 00001000
+solver 1595 iteration 00001100
+solver 1595 iteration 00001200
+solver 1595 iteration 00001300
+execution time  2708.894465189427
+plotting using r =  0.02306988388512965
+lw =  3.820899646992117e-05
+loading track 2906 with 4074 data points
+writing to  _top_2906/data.pkl
+using sigma = 0.010434145125115396
+writing to  _top_2906/config.json
+solver 2906 iteration 00000000
+solver 2906 iteration 00000100
+solver 2906 iteration 00000200
+solver 2906 iteration 00000300
+solver 2906 iteration 00000400
+solver 2906 iteration 00000500
+solver 2906 iteration 00000600
+solver 2906 iteration 00000700
+solver 2906 iteration 00000800
+solver 2906 iteration 00000900
+solver 2906 iteration 00001000
+solver 2906 iteration 00001100
+solver 2906 iteration 00001200
+solver 2906 iteration 00001300
+solver 2906 iteration 00001400
+solver 2906 iteration 00001500
+solver 2906 iteration 00001600
+execution time  2573.731974011287
+plotting using r =  0.02427349910494509
+lw =  0.007818285972993954
+loading track 2350 with 4655 data points
+writing to  _top_2350/data.pkl
+using sigma = 0.009420970410650023
+writing to  _top_2350/config.json
+solver 2350 iteration 00000000
+solver 2350 iteration 00000100
+solver 2350 iteration 00000200
+solver 2350 iteration 00000300
+solver 2350 iteration 00000400
+solver 2350 iteration 00000500
+solver 2350 iteration 00000600
+solver 2350 iteration 00000700
+solver 2350 iteration 00000800
+solver 2350 iteration 00000900
+solver 2350 iteration 00001000
+solver 2350 iteration 00001100
+solver 2350 iteration 00001200
+solver 2350 iteration 00001300
+solver 2350 iteration 00001400
+solver 2350 iteration 00001500
+solver 2350 iteration 00001600
+solver 2350 iteration 00001700
+solver 2350 iteration 00001800
+solver 2350 iteration 00001900
+execution time  3763.8735498124734
+plotting using r =  0.021916497622808215
+lw =  0.0016243515444735327
+loading track 1680 with 3272 data points
+writing to  _top_1680/data.pkl
+using sigma = 0.00886718247501124
+writing to  _top_1680/config.json
+solver 1680 iteration 00000000
+solver 1680 iteration 00000100
+solver 1680 iteration 00000200
+solver 1680 iteration 00000300
+solver 1680 iteration 00000400
+solver 1680 iteration 00000500
+solver 1680 iteration 00000600
+solver 1680 iteration 00000700
+solver 1680 iteration 00000800
+solver 1680 iteration 00000900
+solver 1680 iteration 00001000
+loading track 2986 with 4997 data points
+writing to  _top_2986/data.pkl
+using sigma = 0.010564687639696138
+writing to  _top_2986/config.json
+solver 2986 iteration 00000000
+solver 2986 iteration 00000100
+solver 2986 iteration 00000200
+solver 2986 iteration 00000300
+solver 2986 iteration 00000400
+solver 2986 iteration 00000500
+solver 2986 iteration 00000600
+solver 2986 iteration 00000700
+solver 2986 iteration 00000800
+solver 2986 iteration 00000900
+solver 2986 iteration 00001000
+solver 2986 iteration 00001100
+solver 2986 iteration 00001200
+solver 2986 iteration 00001300
+solver 2986 iteration 00001400
+solver 2986 iteration 00001500
+solver 2986 iteration 00001600
+solver 2986 iteration 00001700
+solver 2986 iteration 00001800
+execution time  3182.3896193103865
+plotting using r =  0.02457718700393794
+lw =  0.01831852456017823
+loading track 1065 with 2293 data points
+writing to  _top_1065/data.pkl
+using sigma = 0.009339736147503028
+writing to  _top_1065/config.json
+solver 1065 iteration 00000000
+solver 1065 iteration 00000100
+solver 1065 iteration 00000200
+solver 1065 iteration 00000300
+solver 1065 iteration 00000400
+solver 1065 iteration 00000500
+solver 1065 iteration 00000600
+solver 1065 iteration 00000700
+solver 1065 iteration 00000800
+execution time  1660.635950513184
+plotting using r =  0.021727518095482765
+lw =  0.0010226636534867396
+loading track 845 with 4495 data points
+writing to  _top_0845/data.pkl
+using sigma = 0.013753171101972644
+writing to  _top_0845/config.json
+solver 845 iteration 00000000
+solver 845 iteration 00000100
+solver 845 iteration 00000200
+solver 845 iteration 00000300
+solver 845 iteration 00000400
+solver 845 iteration 00000500
+solver 845 iteration 00000600
+solver 845 iteration 00000700
+solver 845 iteration 00000800
+solver 845 iteration 00000900
+solver 845 iteration 00001000
+solver 845 iteration 00001100
+solver 845 iteration 00001200
+solver 845 iteration 00001300
+solver 845 iteration 00001400
+solver 845 iteration 00001500
+solver 845 iteration 00001600
+solver 845 iteration 00001700
+execution time  3605.760597899556
+plotting using r =  0.0319947233271971
+lw =  0.00013090917683196096
+loading track 705 with 2809 data points
+writing to  _top_0705/data.pkl
+using sigma = 0.013044160839818263
+writing to  _top_0705/config.json
+solver 705 iteration 00000000
+solver 705 iteration 00000100
+solver 705 iteration 00000200
+solver 705 iteration 00000300
+solver 705 iteration 00000400
+solver 705 iteration 00000500
+solver 705 iteration 00000600
+solver 705 iteration 00000700
+solver 705 iteration 00000800
+solver 705 iteration 00000900
+execution time  1383.0885558677837
+plotting using r =  0.030345315564756104
+lw =  0.00011429421380708715
+loading track 1924 with 2928 data points
+writing to  _top_1924/data.pkl
+using sigma = 0.008210720122017227
+writing to  _top_1924/config.json
+solver 1924 iteration 00000000
+solver 1924 iteration 00000100
+solver 1924 iteration 00000200
+solver 1924 iteration 00000300
+solver 1924 iteration 00000400
+solver 1924 iteration 00000500
+solver 1924 iteration 00000600
+solver 1924 iteration 00000700
+solver 1924 iteration 00000800
+solver 1924 iteration 00000900
+solver 1924 iteration 00001000
+solver 1924 iteration 00001100
+solver 1924 iteration 00001200
+solver 1924 iteration 00001300
+execution time  2435.2891512271017
+plotting using r =  0.019101028895315033
+lw =  0.00027304656370171116
+loading track 2122 with 4535 data points
+writing to  _top_2122/data.pkl
+using sigma = 0.009648245678460867
+writing to  _top_2122/config.json
+solver 2122 iteration 00000000
+solver 2122 iteration 00000100
+solver 2122 iteration 00000200
+solver 2122 iteration 00000300
+solver 2122 iteration 00000400
+solver 2122 iteration 00000500
+solver 2122 iteration 00000600
+solver 2122 iteration 00000700
+solver 2122 iteration 00000800
+solver 2122 iteration 00000900
+solver 2122 iteration 00001000
+solver 2122 iteration 00001100
+solver 2122 iteration 00001200
+solver 2122 iteration 00001300
+solver 2122 iteration 00001400
+solver 2122 iteration 00001500
+solver 2122 iteration 00001600
+solver 2122 iteration 00001700
+solver 2122 iteration 00001800
+solver 2122 iteration 00001900
+solver 2122 iteration 00002000
+solver 2122 iteration 00002100
+execution time  4182.773185596801
+plotting using r =  0.02244521999954644
+lw =  0.0015628669344979777
+loading track 2942 with 3839 data points
+writing to  _top_2942/data.pkl
+using sigma = 0.010646777045109574
+writing to  _top_2942/config.json
+solver 2942 iteration 00000000
+solver 2942 iteration 00000100
+solver 2942 iteration 00000200
+solver 2942 iteration 00000300
+solver 2942 iteration 00000400
+solver 2942 iteration 00000500
+solver 2942 iteration 00000600
+solver 2942 iteration 00000700
+solver 2942 iteration 00000800
+solver 2942 iteration 00000900
+solver 2942 iteration 00001000
+solver 2942 iteration 00001100
+solver 2942 iteration 00001200
+solver 2942 iteration 00001300
+solver 2942 iteration 00001400
+solver 2942 iteration 00001500
+execution time  2731.3610573261976
+plotting using r =  0.024768155893572452
+lw =  0.0002578663346056904
+loading track 518 with 5184 data points
+writing to  _top_0518/data.pkl
+using sigma = 0.011584877807524607
+writing to  _top_0518/config.json
+solver 518 iteration 00000000
+solver 518 iteration 00000100
+solver 518 iteration 00000200
+solver 518 iteration 00000300
+solver 518 iteration 00000400
+solver 518 iteration 00000500
+solver 518 iteration 00000600
+solver 518 iteration 00000700
+solver 518 iteration 00000800
+solver 518 iteration 00000900
+solver 518 iteration 00001000
+solver 518 iteration 00001100
+solver 518 iteration 00001200
+solver 518 iteration 00001300
+solver 518 iteration 00001400
+solver 518 iteration 00001500
+solver 518 iteration 00001600
+solver 518 iteration 00001700
+solver 518 iteration 00001800
+solver 518 iteration 00001900
+execution time  3946.0892515322194
+plotting using r =  0.02695050890321373
+lw =  1.88981843886969e-07
+loading track 1265 with 2452 data points
+writing to  _top_1265/data.pkl
+using sigma = 0.007035912548134877
+writing to  _top_1265/config.json
+solver 1265 iteration 00000000
+solver 1265 iteration 00000100
+solver 1265 iteration 00000200
+solver 1265 iteration 00000300
+solver 1265 iteration 00000400
+solver 1265 iteration 00000500
+solver 1265 iteration 00000600
+solver 1265 iteration 00000700
+solver 1265 iteration 00000800
+solver 1265 iteration 00000900
+solver 1265 iteration 00001000
+execution time  2950.660311278887
+plotting using r =  0.016368012414216346
+lw =  4.137977602792867e-06
+loading track 2614 with 3332 data points
+writing to  _top_2614/data.pkl
+using sigma = 0.007963402935496536
+writing to  _top_2614/config.json
+solver 2614 iteration 00000000
+solver 2614 iteration 00000100
+solver 2614 iteration 00000200
+solver 2614 iteration 00000300
+solver 2614 iteration 00000400
+solver 2614 iteration 00000500
+solver 2614 iteration 00000600
+solver 2614 iteration 00000700
+solver 2614 iteration 00000800
+solver 2614 iteration 00000900
+solver 2614 iteration 00001000
+solver 2614 iteration 00001100
+solver 2614 iteration 00001200
+solver 2614 iteration 00001300
+execution time  2795.7367659285665
+plotting using r =  0.01852568195182684
+lw =  2.9375381760829176e-06
+loading track 1145 with 2821 data points
+writing to  _top_1145/data.pkl
+using sigma = 0.009990694676384047
+writing to  _top_1145/config.json
+solver 1145 iteration 00000000
+solver 1145 iteration 00000100
+solver 1145 iteration 00000200
+solver 1145 iteration 00000300
+solver 1145 iteration 00000400
+solver 1145 iteration 00000500
+solver 1145 iteration 00000600
+solver 1145 iteration 00000700
+solver 1145 iteration 00000800
+solver 1145 iteration 00000900
+solver 1145 iteration 00001000
+solver 1145 iteration 00001100
+solver 1145 iteration 00001200
+execution time  1894.2593697430566
+plotting using r =  0.023241877065832535
+lw =  0.7332391603662755
+loading track 1325 with 4237 data points
+writing to  _top_1325/data.pkl
+using sigma = 0.010029938847262816
+writing to  _top_1325/config.json
+solver 1325 iteration 00000000
+solver 1325 iteration 00000100
+solver 1325 iteration 00000200
+solver 1325 iteration 00000300
+solver 1325 iteration 00000400
+solver 1325 iteration 00000500
+solver 1325 iteration 00000600
+solver 1325 iteration 00000700
+solver 1325 iteration 00000800
+solver 1325 iteration 00000900
+solver 1325 iteration 00001000
+solver 1325 iteration 00001100
+solver 1325 iteration 00001200
+solver 1325 iteration 00001300
+solver 1325 iteration 00001400
+execution time  2409.4411583021283
+plotting using r =  0.023333172839015433
+lw =  0.004479041597132708
+loading track 406 with 4509 data points
+writing to  _top_0406/data.pkl
+using sigma = 0.00956003461398144
+writing to  _top_0406/config.json
+solver 406 iteration 00000000
+solver 406 iteration 00000100
+solver 406 iteration 00000200
+solver 406 iteration 00000300
+solver 406 iteration 00000400
+solver 406 iteration 00000500
+solver 406 iteration 00000600
+solver 406 iteration 00000700
+solver 406 iteration 00000800
+solver 406 iteration 00000900
+solver 406 iteration 00001000
+solver 406 iteration 00001100
+solver 406 iteration 00001200
+solver 406 iteration 00001300
+solver 406 iteration 00001400
+solver 406 iteration 00001500
+solver 406 iteration 00001600
+solver 406 iteration 00001700
+execution time  3115.4540041405708
+plotting using r =  0.022240009973328412
+lw =  3.849285705301647e-06
+loading track 644 with 6223 data points
+writing to  _top_0644/data.pkl
+using sigma = 0.013990314356749975
+writing to  _top_0644/config.json
+solver 644 iteration 00000000
+solver 644 iteration 00000100
+solver 644 iteration 00000200
+solver 644 iteration 00000300
+solver 644 iteration 00000400
+solver 644 iteration 00000500
+solver 644 iteration 00000600
+solver 644 iteration 00000700
+solver 644 iteration 00000800
+solver 644 iteration 00000900
+solver 644 iteration 00001000
+solver 644 iteration 00001100
+solver 644 iteration 00001200
+solver 644 iteration 00001300
+solver 644 iteration 00001400
+solver 644 iteration 00001500
+execution time  2460.285419607535
+plotting using r =  0.03254640211961929
+lw =  0.017994325676416494
+loading track 2374 with 4744 data points
+writing to  _top_2374/data.pkl
+using sigma = 0.00879279495192934
+writing to  _top_2374/config.json
+solver 2374 iteration 00000000
+solver 2374 iteration 00000100
+solver 2374 iteration 00000200
+solver 2374 iteration 00000300
+solver 2374 iteration 00000400
+solver 2374 iteration 00000500
+solver 2374 iteration 00000600
+solver 2374 iteration 00000700
+solver 2374 iteration 00000800
+solver 2374 iteration 00000900
+solver 2374 iteration 00001000
+solver 2374 iteration 00001100
+solver 2374 iteration 00001200
+solver 2374 iteration 00001300
+solver 2374 iteration 00001400
+solver 2374 iteration 00001500
+execution time  2872.1893762927502
+plotting using r =  0.020455140103608823
+lw =  9.437843569434201e-07
+loading track 517 with 5899 data points
+writing to  _top_0517/data.pkl
+using sigma = 0.010825011062909392
+writing to  _top_0517/config.json
+solver 517 iteration 00000000
+solver 517 iteration 00000100
+solver 517 iteration 00000200
+solver 517 iteration 00000300
+solver 517 iteration 00000400
+solver 517 iteration 00000500
+solver 517 iteration 00000600
+solver 517 iteration 00000700
+solver 517 iteration 00000800
+solver 517 iteration 00000900
+solver 517 iteration 00001000
+solver 517 iteration 00001100
+solver 517 iteration 00001200
+solver 517 iteration 00001300
+solver 517 iteration 00001400
+solver 517 iteration 00001500
+solver 517 iteration 00001600
+solver 517 iteration 00001700
+solver 517 iteration 00001800
+solver 517 iteration 00001900
+solver 517 iteration 00002000
+solver 517 iteration 00002100
+solver 517 iteration 00002200
+solver 517 iteration 00002300
+solver 517 iteration 00002400
+solver 517 iteration 00002500
+execution time  4563.10115919169
+plotting using r =  0.025182791038057914
+lw =  1.889753945100186e-05
+loading track 290 with 7156 data points
+writing to  _top_0290/data.pkl
+using sigma = 0.011657585962879073
+writing to  _top_0290/config.json
+solver 290 iteration 00000000
+solver 290 iteration 00000100
+solver 290 iteration 00000200
+solver 290 iteration 00000300
+solver 290 iteration 00000400
+solver 290 iteration 00000500
+solver 290 iteration 00000600
+solver 290 iteration 00000700
+solver 290 iteration 00000800
+solver 290 iteration 00000900
+solver 290 iteration 00001000
+solver 290 iteration 00001100
+solver 290 iteration 00001200
+solver 290 iteration 00001300
+solver 290 iteration 00001400
+solver 290 iteration 00001500
+solver 290 iteration 00001600
+solver 290 iteration 00001700
+solver 290 iteration 00001800
+solver 290 iteration 00001900
+solver 290 iteration 00002000
+solver 290 iteration 00002100
+solver 290 iteration 00002200
+solver 290 iteration 00002300
+solver 290 iteration 00002400
+execution time  3908.0603326698765
+plotting using r =  0.027119653698762982
+lw =  0.00012468334549059872
+loading track 2970 with 3660 data points
+writing to  _top_2970/data.pkl
+using sigma = 0.009347909426025446
+writing to  _top_2970/config.json
+solver 2970 iteration 00000000
+solver 2970 iteration 00000100
+solver 2970 iteration 00000200
+solver 2970 iteration 00000300
+solver 2970 iteration 00000400
+solver 2970 iteration 00000500
+solver 2970 iteration 00000600
+solver 2970 iteration 00000700
+solver 2970 iteration 00000800
+solver 2970 iteration 00000900
+solver 2970 iteration 00001000
+solver 2970 iteration 00001100
+solver 2970 iteration 00001200
+solver 2970 iteration 00001300
+solver 2970 iteration 00001400
+solver 2970 iteration 00001500
+solver 2970 iteration 00001600
+execution time  2513.7278185030445
+plotting using r =  0.021746532022021002
+lw =  0.0004921107775685976
+loading track 1687 with 2192 data points
+writing to  _top_1687/data.pkl
+using sigma = 0.007810702237555423
+writing to  _top_1687/config.json
+solver 1687 iteration 00000000
+solver 1687 iteration 00000100
+solver 1687 iteration 00000200
+solver 1687 iteration 00000300
+solver 1687 iteration 00000400
+solver 1687 iteration 00000500
+solver 1687 iteration 00000600
+solver 1687 iteration 00000700
+solver 1687 iteration 00000800
+solver 1687 iteration 00000900
+solver 1687 iteration 00001000
+solver 1687 iteration 00001100
+execution time  1913.2712811576203
+plotting using r =  0.01817044630862342
+lw =  0.00027123506897227325
+loading track 3007 with 3644 data points
+writing to  _top_3007/data.pkl
+using sigma = 0.008108406534968018
+writing to  _top_3007/config.json
+solver 3007 iteration 00000000
+solver 3007 iteration 00000100
+solver 3007 iteration 00000200
+solver 3007 iteration 00000300
+solver 3007 iteration 00000400
+solver 3007 iteration 00000500
+solver 3007 iteration 00000600
+solver 3007 iteration 00000700
+solver 3007 iteration 00000800
+solver 3007 iteration 00000900
+solver 3007 iteration 00001000
+solver 3007 iteration 00001100
+solver 3007 iteration 00001200
+solver 3007 iteration 00001300
+solver 3007 iteration 00001400
+solver 3007 iteration 00001500
+solver 3007 iteration 00001600
+solver 3007 iteration 00001700
+solver 3007 iteration 00001800
+solver 3007 iteration 00001900
+execution time  3182.905727907084
+plotting using r =  0.018863011431125776
+lw =  6.198233276870903e-07
+loading track 2309 with 2998 data points
+writing to  _top_2309/data.pkl
+using sigma = 0.008871372888679795
+writing to  _top_2309/config.json
+solver 2309 iteration 00000000
+solver 2309 iteration 00000100
+solver 2309 iteration 00000200
+solver 2309 iteration 00000300
+solver 2309 iteration 00000400
+solver 2309 iteration 00000500
+solver 2309 iteration 00000600
+solver 2309 iteration 00000700
+solver 2309 iteration 00000800
+solver 2309 iteration 00000900
+solver 2309 iteration 00001000
+solver 2309 iteration 00001100
+solver 2309 iteration 00001200
+loading track 1968 with 3726 data points
+writing to  _top_1968/data.pkl
+using sigma = 0.010500524919488732
+writing to  _top_1968/config.json
+solver 1968 iteration 00000000
+solver 1968 iteration 00000100
+solver 1968 iteration 00000200
+solver 1968 iteration 00000300
+solver 1968 iteration 00000400
+solver 1968 iteration 00000500
+solver 1968 iteration 00000600
+solver 1968 iteration 00000700
+solver 1968 iteration 00000800
+solver 1968 iteration 00000900
+solver 1968 iteration 00001000
+solver 1968 iteration 00001100
+solver 1968 iteration 00001200
+solver 1968 iteration 00001300
+solver 1968 iteration 00001400
+loading track 1705 with 4867 data points
+writing to  _top_1705/data.pkl
+using sigma = 0.014232455883522777
+writing to  _top_1705/config.json
+solver 1705 iteration 00000000
+solver 1705 iteration 00000100
+solver 1705 iteration 00000200
+solver 1705 iteration 00000300
+solver 1705 iteration 00000400
+solver 1705 iteration 00000500
+solver 1705 iteration 00000600
+solver 1705 iteration 00000700
+solver 1705 iteration 00000800
+solver 1705 iteration 00000900
+solver 1705 iteration 00001000
+solver 1705 iteration 00001100
+solver 1705 iteration 00001200
+solver 1705 iteration 00001300
+solver 1705 iteration 00001400
+solver 1705 iteration 00001500
+solver 1705 iteration 00001600
+solver 1705 iteration 00001700
+solver 1705 iteration 00001800
+solver 1705 iteration 00001900
+loading track 1477 with 4683 data points
+writing to  _top_1477/data.pkl
+using sigma = 0.009885273120003632
+writing to  _top_1477/config.json
+solver 1477 iteration 00000000
+solver 1477 iteration 00000100
+solver 1477 iteration 00000200
+solver 1477 iteration 00000300
+solver 1477 iteration 00000400
+solver 1477 iteration 00000500
+solver 1477 iteration 00000600
+solver 1477 iteration 00000700
+solver 1477 iteration 00000800
+solver 1477 iteration 00000900
+solver 1477 iteration 00001000
+solver 1477 iteration 00001100
+solver 1477 iteration 00001200
+solver 1477 iteration 00001300
+solver 1477 iteration 00001400
+solver 1477 iteration 00001500
+solver 1477 iteration 00001600
+execution time  2439.803411329165
+plotting using r =  0.022996629369566316
+lw =  0.0012763854658122983
+loading track 238 with 4125 data points
+writing to  _top_0238/data.pkl
+using sigma = 0.010932177604877608
+writing to  _top_0238/config.json
+solver 238 iteration 00000000
+solver 238 iteration 00000100
+solver 238 iteration 00000200
+solver 238 iteration 00000300
+solver 238 iteration 00000400
+solver 238 iteration 00000500
+solver 238 iteration 00000600
+solver 238 iteration 00000700
+solver 238 iteration 00000800
+solver 238 iteration 00000900
+solver 238 iteration 00001000
+solver 238 iteration 00001100
+solver 238 iteration 00001200
+solver 238 iteration 00001300
+solver 238 iteration 00001400
+solver 238 iteration 00001500
+solver 238 iteration 00001600
+solver 238 iteration 00001700
+execution time  3209.6438007894903
+plotting using r =  0.025432098185826455
+lw =  0.000159912466183736
+loading track 1303 with 4853 data points
+writing to  _top_1303/data.pkl
+using sigma = 0.010206758353111672
+writing to  _top_1303/config.json
+solver 1303 iteration 00000000
+solver 1303 iteration 00000100
+solver 1303 iteration 00000200
+solver 1303 iteration 00000300
+solver 1303 iteration 00000400
+solver 1303 iteration 00000500
+solver 1303 iteration 00000600
+solver 1303 iteration 00000700
+solver 1303 iteration 00000800
+solver 1303 iteration 00000900
+solver 1303 iteration 00001000
+solver 1303 iteration 00001100
+solver 1303 iteration 00001200
+solver 1303 iteration 00001300
+solver 1303 iteration 00001400
+solver 1303 iteration 00001500
+execution time  2623.1950627081096
+plotting using r =  0.023744517330154237
+lw =  1.4152489839605495e-05
+loading track 1021 with 5591 data points
+writing to  _top_1021/data.pkl
+using sigma = 0.011506211400084223
+writing to  _top_1021/config.json
+solver 1021 iteration 00000000
+solver 1021 iteration 00000100
+solver 1021 iteration 00000200
+solver 1021 iteration 00000300
+solver 1021 iteration 00000400
+solver 1021 iteration 00000500
+solver 1021 iteration 00000600
+solver 1021 iteration 00000700
+solver 1021 iteration 00000800
+solver 1021 iteration 00000900
+solver 1021 iteration 00001000
+solver 1021 iteration 00001100
+solver 1021 iteration 00001200
+solver 1021 iteration 00001300
+solver 1021 iteration 00001400
+solver 1021 iteration 00001500
+solver 1021 iteration 00001600
+solver 1021 iteration 00001700
+solver 1021 iteration 00001800
+solver 1021 iteration 00001900
+solver 1021 iteration 00002000
+execution time  3267.4965381110087
+plotting using r =  0.02676750311330986
+lw =  5.650534889539697e-07
+loading track 2449 with 4937 data points
+writing to  _top_2449/data.pkl
+using sigma = 0.007043979250365423
+writing to  _top_2449/config.json
+solver 2449 iteration 00000000
+solver 2449 iteration 00000100
+solver 2449 iteration 00000200
+solver 2449 iteration 00000300
+solver 2449 iteration 00000400
+solver 2449 iteration 00000500
+solver 2449 iteration 00000600
+solver 2449 iteration 00000700
+solver 2449 iteration 00000800
+solver 2449 iteration 00000900
+solver 2449 iteration 00001000
+solver 2449 iteration 00001100
+solver 2449 iteration 00001200
+solver 2449 iteration 00001300
+solver 2449 iteration 00001400
+loading track 1068 with 5267 data points
+writing to  _top_1068/data.pkl
+using sigma = 0.012284666024052553
+writing to  _top_1068/config.json
+solver 1068 iteration 00000000
+solver 1068 iteration 00000100
+solver 1068 iteration 00000200
+solver 1068 iteration 00000300
+solver 1068 iteration 00000400
+solver 1068 iteration 00000500
+solver 1068 iteration 00000600
+solver 1068 iteration 00000700
+solver 1068 iteration 00000800
+solver 1068 iteration 00000900
+solver 1068 iteration 00001000
+solver 1068 iteration 00001100
+solver 1068 iteration 00001200
+solver 1068 iteration 00001300
+solver 1068 iteration 00001400
+solver 1068 iteration 00001500
+solver 1068 iteration 00001600
+solver 1068 iteration 00001700
+solver 1068 iteration 00001800
+solver 1068 iteration 00001900
+solver 1068 iteration 00002000
+solver 1068 iteration 00002100
+execution time  3723.3979595825076
+plotting using r =  0.028578462937191604
+lw =  7.595446238035536e-05
+loading track 999 with 5196 data points
+writing to  _top_0999/data.pkl
+using sigma = 0.009773273126082829
+writing to  _top_0999/config.json
+solver 999 iteration 00000000
+solver 999 iteration 00000100
+solver 999 iteration 00000200
+solver 999 iteration 00000300
+solver 999 iteration 00000400
+solver 999 iteration 00000500
+solver 999 iteration 00000600
+solver 999 iteration 00000700
+solver 999 iteration 00000800
+solver 999 iteration 00000900
+solver 999 iteration 00001000
+solver 999 iteration 00001100
+solver 999 iteration 00001200
+solver 999 iteration 00001300
+solver 999 iteration 00001400
+solver 999 iteration 00001500
+solver 999 iteration 00001600
+solver 999 iteration 00001700
+solver 999 iteration 00001800
+solver 999 iteration 00001900
+execution time  2803.6558751193807
+plotting using r =  0.02273607790899225
+lw =  2.3132587707036177e-06
+loading track 1291 with 6679 data points
+writing to  _top_1291/data.pkl
+using sigma = 0.008912915993151551
+writing to  _top_1291/config.json
+solver 1291 iteration 00000000
+solver 1291 iteration 00000100
+solver 1291 iteration 00000200
+solver 1291 iteration 00000300
+solver 1291 iteration 00000400
+solver 1291 iteration 00000500
+solver 1291 iteration 00000600
+solver 1291 iteration 00000700
+solver 1291 iteration 00000800
+solver 1291 iteration 00000900
+solver 1291 iteration 00001000
+solver 1291 iteration 00001100
+solver 1291 iteration 00001200
+solver 1291 iteration 00001300
+solver 1291 iteration 00001400
+solver 1291 iteration 00001500
+solver 1291 iteration 00001600
+solver 1291 iteration 00001700
+solver 1291 iteration 00001800
+solver 1291 iteration 00001900
+solver 1291 iteration 00002000
+solver 1291 iteration 00002100
+solver 1291 iteration 00002200
+solver 1291 iteration 00002300
+solver 1291 iteration 00002400
+solver 1291 iteration 00002500
+solver 1291 iteration 00002600
+execution time  3973.691908511333
+plotting using r =  0.020734583982492016
+lw =  0.00022544588505749833
+loading track 1368 with 5056 data points
+writing to  _top_1368/data.pkl
+using sigma = 0.008049104773340266
+writing to  _top_1368/config.json
+solver 1368 iteration 00000000
+solver 1368 iteration 00000100
+solver 1368 iteration 00000200
+solver 1368 iteration 00000300
+solver 1368 iteration 00000400
+solver 1368 iteration 00000500
+solver 1368 iteration 00000600
+solver 1368 iteration 00000700
+execution time  5977.785206853412
+plotting using r =  0.01872505463250621
+lw =  0.6826846317852407
+loading track 1367 with 10473 data points
+writing to  _top_1367/data.pkl
+using sigma = 0.00865715635725968
+writing to  _top_1367/config.json
+solver 1367 iteration 00000000
+solver 1367 iteration 00000100
+solver 1367 iteration 00000200
+solver 1367 iteration 00000300
+solver 1367 iteration 00000400
+solver 1367 iteration 00000500
+solver 1367 iteration 00000600
+solver 1367 iteration 00000700
+solver 1367 iteration 00000800
+solver 1367 iteration 00000900
+solver 1367 iteration 00001000
+solver 1367 iteration 00001100
+solver 1367 iteration 00001200
+solver 1367 iteration 00001300
+solver 1367 iteration 00001400
+solver 1367 iteration 00001500
+solver 1367 iteration 00001600
+solver 1367 iteration 00001700
+solver 1367 iteration 00001800
+solver 1367 iteration 00001900
+solver 1367 iteration 00002000
+solver 1367 iteration 00002100
+solver 1367 iteration 00002200
+execution time  3738.1171359606087
+plotting using r =  0.02013959692620131
+lw =  0.0023375044704316314
+loading track 1945 with 9148 data points
+writing to  _top_1945/data.pkl
+using sigma = 0.008077572923618267
+writing to  _top_1945/config.json
+solver 1945 iteration 00000000
+solver 1945 iteration 00000100
+solver 1945 iteration 00000200
+solver 1945 iteration 00000300
+solver 1945 iteration 00000400
+execution time  5336.0896916994825
+plotting using r =  0.018791281583732826
+lw =  0.9335269567275404
+loading track 1743 with 7581 data points
+writing to  _top_1743/data.pkl
+using sigma = 0.009249664147015167
+writing to  _top_1743/config.json
+solver 1743 iteration 00000000
+solver 1743 iteration 00000100
+solver 1743 iteration 00000200
+solver 1743 iteration 00000300
+solver 1743 iteration 00000400
+solver 1743 iteration 00000500
+solver 1743 iteration 00000600
+solver 1743 iteration 00000700
+solver 1743 iteration 00000800
+solver 1743 iteration 00000900
+solver 1743 iteration 00001000
+solver 1743 iteration 00001100
+solver 1743 iteration 00001200
+solver 1743 iteration 00001300
+solver 1743 iteration 00001400
+solver 1743 iteration 00001500
+solver 1743 iteration 00001600
+solver 1743 iteration 00001700
+solver 1743 iteration 00001800
+solver 1743 iteration 00001900
+solver 1743 iteration 00002000
+solver 1743 iteration 00002100
+solver 1743 iteration 00002200
+solver 1743 iteration 00002300
+solver 1743 iteration 00002400
+solver 1743 iteration 00002500
+solver 1743 iteration 00002600
+solver 1743 iteration 00002700
+solver 1743 iteration 00002800
+solver 1743 iteration 00002900
+execution time  4671.841762562282
+plotting using r =  0.021517978876216957
+lw =  6.989903191228959e-07
+loading track 368 with 7448 data points
+writing to  _top_0368/data.pkl
+using sigma = 0.0089967353728082
+writing to  _top_0368/config.json
+solver 368 iteration 00000000
+solver 368 iteration 00000100
+solver 368 iteration 00000200
+solver 368 iteration 00000300
+solver 368 iteration 00000400
+solver 368 iteration 00000500
+solver 368 iteration 00000600
+solver 368 iteration 00000700
+solver 368 iteration 00000800
+solver 368 iteration 00000900
+solver 368 iteration 00001000
+solver 368 iteration 00001100
+solver 368 iteration 00001200
+solver 368 iteration 00001300
+solver 368 iteration 00001400
+solver 368 iteration 00001500
+solver 368 iteration 00001600
+solver 368 iteration 00001700
+solver 368 iteration 00001800
+solver 368 iteration 00001900
+solver 368 iteration 00002000
+solver 368 iteration 00002100
+solver 368 iteration 00002200
+solver 368 iteration 00002300
+solver 368 iteration 00002400
+solver 368 iteration 00002500
+solver 368 iteration 00002600
+solver 368 iteration 00002700
+solver 368 iteration 00002800
+solver 368 iteration 00002900
+solver 368 iteration 00003000
+solver 368 iteration 00003100
+execution time  5316.350034778938
+plotting using r =  0.020929577401950547
+lw =  2.00753828489218e-09
+loading track 369 with 12197 data points
+writing to  _top_0369/data.pkl
+using sigma = 0.010049782524177544
+writing to  _top_0369/config.json
+solver 369 iteration 00000000
+solver 369 iteration 00000100
+solver 369 iteration 00000200
+solver 369 iteration 00000300
+solver 369 iteration 00000400
+solver 369 iteration 00000500
+solver 369 iteration 00000600
+solver 369 iteration 00000700
+solver 369 iteration 00000800
+solver 369 iteration 00000900
+solver 369 iteration 00001000
+solver 369 iteration 00001100
+solver 369 iteration 00001200
+solver 369 iteration 00001300
+solver 369 iteration 00001400
+solver 369 iteration 00001500
+solver 369 iteration 00001600
+solver 369 iteration 00001700
+solver 369 iteration 00001800
+solver 369 iteration 00001900
+solver 369 iteration 00002000
+solver 369 iteration 00002100
+solver 369 iteration 00002200
+solver 369 iteration 00002300
+solver 369 iteration 00002400
+solver 369 iteration 00002500
+solver 369 iteration 00002600
+solver 369 iteration 00002700
+solver 369 iteration 00002800
+solver 369 iteration 00002900
+solver 369 iteration 00003000
+solver 369 iteration 00003100
+solver 369 iteration 00003200
+solver 369 iteration 00003300
+solver 369 iteration 00003400
+solver 369 iteration 00003500
+solver 369 iteration 00003600
+solver 369 iteration 00003700
+solver 369 iteration 00003800
+solver 369 iteration 00003900
+solver 369 iteration 00004000
+solver 369 iteration 00004100
+solver 369 iteration 00004200
+execution time  6957.933699283749
+plotting using r =  0.023379336225479073
+lw =  7.991940332714838e-06

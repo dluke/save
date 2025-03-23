@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'information.blg'
+[55] biber:322> INFO - === Mon Mar 14, 2022, 11:47:14
+[65] Biber.pm:415> INFO - Reading 'information.bcf'
+[111] Biber.pm:943> INFO - Found 10 citekeys in bib section 0
+[120] Biber.pm:4256> INFO - Processing section 0
+[120] Utils.pm:75> INFO - Globbing data source '../sparse.bib'
+[120] Utils.pm:91> INFO - Globbed data source '../sparse.bib' to ../sparse.bib
+[126] Biber.pm:4455> INFO - Looking for bibtex format file '../sparse.bib' for section 0
+[127] bibtex.pm:1653> INFO - LaTeX decoding ...
+[139] bibtex.pm:1471> INFO - Found BibTeX data source '../sparse.bib'
+[210] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[210] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[210] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[210] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[215] bbl.pm:652> INFO - Writing 'information.bbl' with encoding 'UTF-8'
+[220] bbl.pm:755> INFO - Output to information.bbl

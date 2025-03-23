@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'sparseml.blg'
+[57] biber:322> INFO - === Mon Feb 21, 2022, 14:34:23
+[67] Biber.pm:415> INFO - Reading 'sparseml.bcf'
+[116] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[120] Utils.pm:293> WARN - The file 'sparseml.bcf' does not contain any citations!
+[126] bbl.pm:652> INFO - Writing 'sparseml.bbl' with encoding 'UTF-8'
+[126] bbl.pm:755> INFO - Output to sparseml.bbl
+[126] Biber.pm:128> INFO - WARNINGS: 1

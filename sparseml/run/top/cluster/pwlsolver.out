@@ -1,0 +1,2397 @@
+------------------------------------------------------------------------
+Job started on Sun Jun 26 16:24:59 BST 2022
+------------------------------------------------------------------------
+starting job number 0 on track 2658
+starting job number 1 on track 2646
+starting job number 2 on track 621
+starting job number 3 on track 1052
+starting job number 4 on track 1998
+starting job number 5 on track 618
+starting job number 6 on track 377
+starting job number 7 on track 2722
+starting job number 8 on track 2924
+starting job number 9 on track 2742
+starting job number 10 on track 1915
+starting job number 11 on track 2743
+starting job number 12 on track 2285
+starting job number 13 on track 503
+starting job number 14 on track 2040
+starting job number 15 on track 2135
+starting job number 16 on track 331
+starting job number 17 on track 2388
+starting job number 18 on track 2710
+starting job number 19 on track 2396
+starting job number 20 on track 2173
+starting job number 21 on track 1106
+starting job number 22 on track 3008
+starting job number 23 on track 2414
+starting job number 24 on track 2408
+starting job number 25 on track 1526
+starting job number 26 on track 387
+starting job number 27 on track 1033
+starting job number 28 on track 2638
+starting job number 29 on track 3017
+starting job number 30 on track 2387
+starting job number 31 on track 3066
+starting job number 32 on track 983
+starting job number 33 on track 3067
+starting job number 34 on track 3006
+starting job number 35 on track 2928
+starting job number 36 on track 436
+starting job number 37 on track 1215
+starting job number 38 on track 1492
+starting job number 39 on track 2413
+starting job number 40 on track 478
+starting job number 41 on track 697
+starting job number 42 on track 2389
+starting job number 43 on track 326
+starting job number 44 on track 2127
+starting job number 45 on track 2498
+starting job number 46 on track 2977
+starting job number 47 on track 2903
+starting job number 48 on track 1090
+starting job number 49 on track 1583
+starting job number 50 on track 2699
+starting job number 51 on track 2481
+starting job number 52 on track 1977
+starting job number 53 on track 233
+starting job number 54 on track 2937
+starting job number 55 on track 662
+starting job number 56 on track 3027
+starting job number 57 on track 3029
+starting job number 58 on track 2365
+starting job number 59 on track 1780
+starting job number 60 on track 2148
+starting job number 61 on track 752
+starting job number 62 on track 120
+starting job number 63 on track 2756
+loading track 2481
+writing config {'trackidx': 2481} to _top_2481/config.json
+initial guess with M =  51
+writing to  _top_2481/initial_guess.pkl
+writing to  _top_2481/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  1237.89414702449
+dump state to _top_2481/solver_anneal.pkl
+dump model to _top_2481/solver_anneal.pkl
+dump random state  to _top_2481/solver_rng.pkl
+dump solver state  to _top_2481/solver_solver.pkl
+writing to  _top_2481/final_state.svg
+writing to  _top_2481/final_state.png
+writing summary {'execution_time': 1237.89414702449} to _top_2481/summary.json
+starting job number 64 on track 3030
+loading track 1780
+writing config {'trackidx': 1780} to _top_1780/config.json
+initial guess with M =  62
+writing to  _top_1780/initial_guess.pkl
+writing to  _top_1780/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  2536.756901039742
+dump state to _top_1780/solver_anneal.pkl
+dump model to _top_1780/solver_anneal.pkl
+dump random state  to _top_1780/solver_rng.pkl
+dump solver state  to _top_1780/solver_solver.pkl
+writing to  _top_1780/final_state.svg
+writing to  _top_1780/final_state.png
+writing summary {'execution_time': 2536.756901039742} to _top_1780/summary.json
+starting job number 65 on track 1183
+loading track 3008
+writing config {'trackidx': 3008} to _top_3008/config.json
+initial guess with M =  53
+writing to  _top_3008/initial_guess.pkl
+writing to  _top_3008/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  2805.9004084141925
+dump state to _top_3008/solver_anneal.pkl
+dump model to _top_3008/solver_anneal.pkl
+dump random state  to _top_3008/solver_rng.pkl
+dump solver state  to _top_3008/solver_solver.pkl
+writing to  _top_3008/final_state.svg
+writing to  _top_3008/final_state.png
+writing summary {'execution_time': 2805.9004084141925} to _top_3008/summary.json
+starting job number 66 on track 1988
+loading track 1106
+writing config {'trackidx': 1106} to _top_1106/config.json
+initial guess with M =  66
+writing to  _top_1106/initial_guess.pkl
+writing to  _top_1106/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  2878.3435309883207
+dump state to _top_1106/solver_anneal.pkl
+dump model to _top_1106/solver_anneal.pkl
+dump random state  to _top_1106/solver_rng.pkl
+dump solver state  to _top_1106/solver_solver.pkl
+writing to  _top_1106/final_state.svg
+writing to  _top_1106/final_state.png
+writing summary {'execution_time': 2878.3435309883207} to _top_1106/summary.json
+starting job number 67 on track 1158
+loading track 752
+writing config {'trackidx': 752} to _top_0752/config.json
+initial guess with M =  52
+writing to  _top_0752/initial_guess.pkl
+writing to  _top_0752/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3285.5918903360143
+dump state to _top_0752/solver_anneal.pkl
+dump model to _top_0752/solver_anneal.pkl
+dump random state  to _top_0752/solver_rng.pkl
+dump solver state  to _top_0752/solver_solver.pkl
+writing to  _top_0752/final_state.svg
+writing to  _top_0752/final_state.png
+writing summary {'execution_time': 3285.5918903360143} to _top_0752/summary.json
+starting job number 68 on track 2960
+loading track 3006
+writing config {'trackidx': 3006} to _top_3006/config.json
+initial guess with M =  70
+writing to  _top_3006/initial_guess.pkl
+writing to  _top_3006/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3470.16289301496
+dump state to _top_3006/solver_anneal.pkl
+dump model to _top_3006/solver_anneal.pkl
+dump random state  to _top_3006/solver_rng.pkl
+dump solver state  to _top_3006/solver_solver.pkl
+writing to  _top_3006/final_state.svg
+writing to  _top_3006/final_state.png
+writing summary {'execution_time': 3470.16289301496} to _top_3006/summary.json
+starting job number 69 on track 2383
+loading track 2742
+writing config {'trackidx': 2742} to _top_2742/config.json
+initial guess with M =  52
+writing to  _top_2742/initial_guess.pkl
+writing to  _top_2742/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 70 on track 2465
+loading track 2722
+writing config {'trackidx': 2722} to _top_2722/config.json
+initial guess with M =  55
+writing to  _top_2722/initial_guess.pkl
+writing to  _top_2722/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3734.6338542997837
+dump state to _top_2722/solver_anneal.pkl
+dump model to _top_2722/solver_anneal.pkl
+dump random state  to _top_2722/solver_rng.pkl
+dump solver state  to _top_2722/solver_solver.pkl
+writing to  _top_2722/final_state.svg
+writing to  _top_2722/final_state.png
+writing summary {'execution_time': 3734.6338542997837} to _top_2722/summary.json
+starting job number 71 on track 1157
+loading track 983
+writing config {'trackidx': 983} to _top_0983/config.json
+initial guess with M =  65
+writing to  _top_0983/initial_guess.pkl
+writing to  _top_0983/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 72 on track 1976
+loading track 1492
+writing config {'trackidx': 1492} to _top_1492/config.json
+initial guess with M =  60
+writing to  _top_1492/initial_guess.pkl
+writing to  _top_1492/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3997.1240082634613
+dump state to _top_1492/solver_anneal.pkl
+dump model to _top_1492/solver_anneal.pkl
+dump random state  to _top_1492/solver_rng.pkl
+dump solver state  to _top_1492/solver_solver.pkl
+writing to  _top_1492/final_state.svg
+writing to  _top_1492/final_state.png
+writing summary {'execution_time': 3997.1240082634613} to _top_1492/summary.json
+starting job number 73 on track 253
+loading track 3017
+writing config {'trackidx': 3017} to _top_3017/config.json
+initial guess with M =  78
+writing to  _top_3017/initial_guess.pkl
+writing to  _top_3017/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4462.942772035487
+dump state to _top_3017/solver_anneal.pkl
+dump model to _top_3017/solver_anneal.pkl
+dump random state  to _top_3017/solver_rng.pkl
+dump solver state  to _top_3017/solver_solver.pkl
+writing to  _top_3017/final_state.svg
+writing to  _top_3017/final_state.png
+writing summary {'execution_time': 4462.942772035487} to _top_3017/summary.json
+starting job number 74 on track 245
+loading track 2498
+writing config {'trackidx': 2498} to _top_2498/config.json
+initial guess with M =  71
+writing to  _top_2498/initial_guess.pkl
+writing to  _top_2498/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4802.534965866245
+dump state to _top_2498/solver_anneal.pkl
+dump model to _top_2498/solver_anneal.pkl
+dump random state  to _top_2498/solver_rng.pkl
+dump solver state  to _top_2498/solver_solver.pkl
+writing to  _top_2498/final_state.svg
+writing to  _top_2498/final_state.png
+writing summary {'execution_time': 4802.534965866245} to _top_2498/summary.json
+starting job number 75 on track 2754
+loading track 2040
+writing config {'trackidx': 2040} to _top_2040/config.json
+initial guess with M =  65
+writing to  _top_2040/initial_guess.pkl
+writing to  _top_2040/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 76 on track 2431
+loading track 2413
+writing config {'trackidx': 2413} to _top_2413/config.json
+initial guess with M =  70
+writing to  _top_2413/initial_guess.pkl
+writing to  _top_2413/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 77 on track 2927
+loading track 436
+writing config {'trackidx': 436} to _top_0436/config.json
+initial guess with M =  74
+writing to  _top_0436/initial_guess.pkl
+writing to  _top_0436/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4935.39881517645
+dump state to _top_0436/solver_anneal.pkl
+dump model to _top_0436/solver_anneal.pkl
+dump random state  to _top_0436/solver_rng.pkl
+dump solver state  to _top_0436/solver_solver.pkl
+writing to  _top_0436/final_state.svg
+writing to  _top_0436/final_state.png
+writing summary {'execution_time': 4935.39881517645} to _top_0436/summary.json
+starting job number 78 on track 2094
+loading track 2743
+writing config {'trackidx': 2743} to _top_2743/config.json
+initial guess with M =  56
+writing to  _top_2743/initial_guess.pkl
+writing to  _top_2743/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5190.118016283028
+dump state to _top_2743/solver_anneal.pkl
+dump model to _top_2743/solver_anneal.pkl
+dump random state  to _top_2743/solver_rng.pkl
+dump solver state  to _top_2743/solver_solver.pkl
+writing to  _top_2743/final_state.svg
+writing to  _top_2743/final_state.png
+writing summary {'execution_time': 5190.118016283028} to _top_2743/summary.json
+starting job number 79 on track 568
+loading track 2148
+writing config {'trackidx': 2148} to _top_2148/config.json
+initial guess with M =  102
+writing to  _top_2148/initial_guess.pkl
+writing to  _top_2148/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5284.760726497509
+dump state to _top_2148/solver_anneal.pkl
+dump model to _top_2148/solver_anneal.pkl
+dump random state  to _top_2148/solver_rng.pkl
+dump solver state  to _top_2148/solver_solver.pkl
+writing to  _top_2148/final_state.svg
+writing to  _top_2148/final_state.png
+writing summary {'execution_time': 5284.760726497509} to _top_2148/summary.json
+starting job number 80 on track 1112
+loading track 2699
+writing config {'trackidx': 2699} to _top_2699/config.json
+initial guess with M =  76
+writing to  _top_2699/initial_guess.pkl
+writing to  _top_2699/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 81 on track 2521
+loading track 2646
+writing config {'trackidx': 2646} to _top_2646/config.json
+initial guess with M =  67
+writing to  _top_2646/initial_guess.pkl
+writing to  _top_2646/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5588.288531805389
+dump state to _top_2646/solver_anneal.pkl
+dump model to _top_2646/solver_anneal.pkl
+dump random state  to _top_2646/solver_rng.pkl
+dump solver state  to _top_2646/solver_solver.pkl
+writing to  _top_2646/final_state.svg
+writing to  _top_2646/final_state.png
+writing summary {'execution_time': 5588.288531805389} to _top_2646/summary.json
+starting job number 82 on track 583
+loading track 1998
+writing config {'trackidx': 1998} to _top_1998/config.json
+initial guess with M =  52
+writing to  _top_1998/initial_guess.pkl
+writing to  _top_1998/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 83 on track 2385
+loading track 1988
+writing config {'trackidx': 1988} to _top_1988/config.json
+initial guess with M =  56
+writing to  _top_1988/initial_guess.pkl
+writing to  _top_1988/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 84 on track 775
+loading track 120
+writing config {'trackidx': 120} to _top_0120/config.json
+initial guess with M =  97
+writing to  _top_0120/initial_guess.pkl
+writing to  _top_0120/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 85 on track 911
+loading track 2388
+writing config {'trackidx': 2388} to _top_2388/config.json
+initial guess with M =  65
+writing to  _top_2388/initial_guess.pkl
+writing to  _top_2388/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 86 on track 2125
+loading track 2710
+writing config {'trackidx': 2710} to _top_2710/config.json
+initial guess with M =  93
+writing to  _top_2710/initial_guess.pkl
+writing to  _top_2710/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 87 on track 2376
+loading track 1112
+writing config {'trackidx': 1112} to _top_1112/config.json
+initial guess with M =  80
+writing to  _top_1112/initial_guess.pkl
+writing to  _top_1112/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  1758.5422287480906
+dump state to _top_1112/solver_anneal.pkl
+dump model to _top_1112/solver_anneal.pkl
+dump random state  to _top_1112/solver_rng.pkl
+dump solver state  to _top_1112/solver_solver.pkl
+writing to  _top_1112/final_state.svg
+writing to  _top_1112/final_state.png
+writing summary {'execution_time': 1758.5422287480906} to _top_1112/summary.json
+starting job number 88 on track 2900
+loading track 1915
+writing config {'trackidx': 1915} to _top_1915/config.json
+initial guess with M =  82
+writing to  _top_1915/initial_guess.pkl
+writing to  _top_1915/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7153.338967090473
+dump state to _top_1915/solver_anneal.pkl
+dump model to _top_1915/solver_anneal.pkl
+dump random state  to _top_1915/solver_rng.pkl
+dump solver state  to _top_1915/solver_solver.pkl
+writing to  _top_1915/final_state.svg
+writing to  _top_1915/final_state.png
+writing summary {'execution_time': 7153.338967090473} to _top_1915/summary.json
+starting job number 89 on track 2364
+loading track 331
+writing config {'trackidx': 331} to _top_0331/config.json
+initial guess with M =  104
+writing to  _top_0331/initial_guess.pkl
+writing to  _top_0331/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7358.205046318471
+dump state to _top_0331/solver_anneal.pkl
+dump model to _top_0331/solver_anneal.pkl
+dump random state  to _top_0331/solver_rng.pkl
+dump solver state  to _top_0331/solver_solver.pkl
+writing to  _top_0331/final_state.svg
+writing to  _top_0331/final_state.png
+writing summary {'execution_time': 7358.205046318471} to _top_0331/summary.json
+starting job number 90 on track 2491
+loading track 253
+writing config {'trackidx': 253} to _top_0253/config.json
+initial guess with M =  77
+writing to  _top_0253/initial_guess.pkl
+writing to  _top_0253/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 91 on track 1527
+loading track 1977
+writing config {'trackidx': 1977} to _top_1977/config.json
+initial guess with M =  123
+writing to  _top_1977/initial_guess.pkl
+writing to  _top_1977/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 92 on track 2332
+loading track 2928
+writing config {'trackidx': 2928} to _top_2928/config.json
+initial guess with M =  108
+writing to  _top_2928/initial_guess.pkl
+writing to  _top_2928/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7600.604878466576
+dump state to _top_2928/solver_anneal.pkl
+dump model to _top_2928/solver_anneal.pkl
+dump random state  to _top_2928/solver_rng.pkl
+dump solver state  to _top_2928/solver_solver.pkl
+writing to  _top_2928/final_state.svg
+writing to  _top_2928/final_state.png
+writing summary {'execution_time': 7600.604878466576} to _top_2928/summary.json
+starting job number 93 on track 1824
+loading track 2465
+writing config {'trackidx': 2465} to _top_2465/config.json
+initial guess with M =  57
+writing to  _top_2465/initial_guess.pkl
+writing to  _top_2465/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 94 on track 1746
+loading track 2638
+writing config {'trackidx': 2638} to _top_2638/config.json
+initial guess with M =  84
+writing to  _top_2638/initial_guess.pkl
+writing to  _top_2638/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7787.034358486533
+dump state to _top_2638/solver_anneal.pkl
+dump model to _top_2638/solver_anneal.pkl
+dump random state  to _top_2638/solver_rng.pkl
+dump solver state  to _top_2638/solver_solver.pkl
+writing to  _top_2638/final_state.svg
+writing to  _top_2638/final_state.png
+writing summary {'execution_time': 7787.034358486533} to _top_2638/summary.json
+starting job number 95 on track 2420
+loading track 387
+writing config {'trackidx': 387} to _top_0387/config.json
+initial guess with M =  96
+writing to  _top_0387/initial_guess.pkl
+writing to  _top_0387/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 96 on track 2107
+loading track 1215
+writing config {'trackidx': 1215} to _top_1215/config.json
+initial guess with M =  118
+writing to  _top_1215/initial_guess.pkl
+writing to  _top_1215/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7903.005466314964
+dump state to _top_1215/solver_anneal.pkl
+dump model to _top_1215/solver_anneal.pkl
+dump random state  to _top_1215/solver_rng.pkl
+dump solver state  to _top_1215/solver_solver.pkl
+writing to  _top_1215/final_state.svg
+writing to  _top_1215/final_state.png
+writing summary {'execution_time': 7903.005466314964} to _top_1215/summary.json
+starting job number 97 on track 2533
+loading track 2414
+writing config {'trackidx': 2414} to _top_2414/config.json
+initial guess with M =  99
+writing to  _top_2414/initial_guess.pkl
+writing to  _top_2414/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  8048.409392772242
+dump state to _top_2414/solver_anneal.pkl
+dump model to _top_2414/solver_anneal.pkl
+dump random state  to _top_2414/solver_rng.pkl
+dump solver state  to _top_2414/solver_solver.pkl
+writing to  _top_2414/final_state.svg
+writing to  _top_2414/final_state.png
+writing summary {'execution_time': 8048.409392772242} to _top_2414/summary.json
+starting job number 98 on track 542
+loading track 2924
+writing config {'trackidx': 2924} to _top_2924/config.json
+initial guess with M =  104
+writing to  _top_2924/initial_guess.pkl
+writing to  _top_2924/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 99 on track 40
+loading track 3027
+writing config {'trackidx': 3027} to _top_3027/config.json
+initial guess with M =  107
+writing to  _top_3027/initial_guess.pkl
+writing to  _top_3027/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  8744.698437910527
+dump state to _top_3027/solver_anneal.pkl
+dump model to _top_3027/solver_anneal.pkl
+dump random state  to _top_3027/solver_rng.pkl
+dump solver state  to _top_3027/solver_solver.pkl
+writing to  _top_3027/final_state.svg
+writing to  _top_3027/final_state.png
+writing summary {'execution_time': 8744.698437910527} to _top_3027/summary.json
+starting job number 100 on track 2463
+loading track 568
+writing config {'trackidx': 568} to _top_0568/config.json
+initial guess with M =  62
+writing to  _top_0568/initial_guess.pkl
+writing to  _top_0568/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 101 on track 358
+loading track 2389
+writing config {'trackidx': 2389} to _top_2389/config.json
+initial guess with M =  87
+writing to  _top_2389/initial_guess.pkl
+writing to  _top_2389/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  8997.957733969204
+dump state to _top_2389/solver_anneal.pkl
+dump model to _top_2389/solver_anneal.pkl
+dump random state  to _top_2389/solver_rng.pkl
+dump solver state  to _top_2389/solver_solver.pkl
+writing to  _top_2389/final_state.svg
+writing to  _top_2389/final_state.png
+writing summary {'execution_time': 8997.957733969204} to _top_2389/summary.json
+starting job number 102 on track 2122
+loading track 2960
+writing config {'trackidx': 2960} to _top_2960/config.json
+initial guess with M =  96
+writing to  _top_2960/initial_guess.pkl
+writing to  _top_2960/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5740.322500914335
+dump state to _top_2960/solver_anneal.pkl
+dump model to _top_2960/solver_anneal.pkl
+dump random state  to _top_2960/solver_rng.pkl
+dump solver state  to _top_2960/solver_solver.pkl
+writing to  _top_2960/final_state.svg
+writing to  _top_2960/final_state.png
+writing summary {'execution_time': 5740.322500914335} to _top_2960/summary.json
+starting job number 103 on track 660
+loading track 2396
+writing config {'trackidx': 2396} to _top_2396/config.json
+initial guess with M =  81
+writing to  _top_2396/initial_guess.pkl
+writing to  _top_2396/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 104 on track 2430
+loading track 1090
+writing config {'trackidx': 1090} to _top_1090/config.json
+initial guess with M =  77
+writing to  _top_1090/initial_guess.pkl
+writing to  _top_1090/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  9161.662524307147
+dump state to _top_1090/solver_anneal.pkl
+dump model to _top_1090/solver_anneal.pkl
+dump random state  to _top_1090/solver_rng.pkl
+dump solver state  to _top_1090/solver_solver.pkl
+writing to  _top_1090/final_state.svg
+writing to  _top_1090/final_state.png
+writing summary {'execution_time': 9161.662524307147} to _top_1090/summary.json
+starting job number 105 on track 563
+loading track 3066
+writing config {'trackidx': 3066} to _top_3066/config.json
+initial guess with M =  139
+writing to  _top_3066/initial_guess.pkl
+writing to  _top_3066/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  9640.660765239969
+dump state to _top_3066/solver_anneal.pkl
+dump model to _top_3066/solver_anneal.pkl
+dump random state  to _top_3066/solver_rng.pkl
+dump solver state  to _top_3066/solver_solver.pkl
+writing to  _top_3066/final_state.svg
+writing to  _top_3066/final_state.png
+writing summary {'execution_time': 9640.660765239969} to _top_3066/summary.json
+starting job number 106 on track 1264
+loading track 2125
+writing config {'trackidx': 2125} to _top_2125/config.json
+initial guess with M =  72
+writing to  _top_2125/initial_guess.pkl
+writing to  _top_2125/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3021.0499907406047
+dump state to _top_2125/solver_anneal.pkl
+dump model to _top_2125/solver_anneal.pkl
+dump random state  to _top_2125/solver_rng.pkl
+dump solver state  to _top_2125/solver_solver.pkl
+writing to  _top_2125/final_state.svg
+writing to  _top_2125/final_state.png
+writing summary {'execution_time': 3021.0499907406047} to _top_2125/summary.json
+starting job number 107 on track 2131
+loading track 2420
+writing config {'trackidx': 2420} to _top_2420/config.json
+initial guess with M =  60
+writing to  _top_2420/initial_guess.pkl
+writing to  _top_2420/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  2538.5146611705422
+dump state to _top_2420/solver_anneal.pkl
+dump model to _top_2420/solver_anneal.pkl
+dump random state  to _top_2420/solver_rng.pkl
+dump solver state  to _top_2420/solver_solver.pkl
+writing to  _top_2420/final_state.svg
+writing to  _top_2420/final_state.png
+writing summary {'execution_time': 2538.5146611705422} to _top_2420/summary.json
+starting job number 108 on track 2367
+loading track 40
+writing config {'trackidx': 40} to _top_0040/config.json
+initial guess with M =  56
+writing to  _top_0040/initial_guess.pkl
+writing to  _top_0040/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  2557.423295341432
+dump state to _top_0040/solver_anneal.pkl
+dump model to _top_0040/solver_anneal.pkl
+dump random state  to _top_0040/solver_rng.pkl
+dump solver state  to _top_0040/solver_solver.pkl
+writing to  _top_0040/final_state.svg
+writing to  _top_0040/final_state.png
+writing summary {'execution_time': 2557.423295341432} to _top_0040/summary.json
+starting job number 109 on track 1819
+loading track 2332
+writing config {'trackidx': 2332} to _top_2332/config.json
+initial guess with M =  61
+writing to  _top_2332/initial_guess.pkl
+writing to  _top_2332/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3158.0447366042063
+dump state to _top_2332/solver_anneal.pkl
+dump model to _top_2332/solver_anneal.pkl
+dump random state  to _top_2332/solver_rng.pkl
+dump solver state  to _top_2332/solver_solver.pkl
+writing to  _top_2332/final_state.svg
+writing to  _top_2332/final_state.png
+writing summary {'execution_time': 3158.0447366042063} to _top_2332/summary.json
+starting job number 110 on track 214
+loading track 583
+writing config {'trackidx': 583} to _top_0583/config.json
+initial guess with M =  70
+writing to  _top_0583/initial_guess.pkl
+writing to  _top_0583/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5241.821545140818
+dump state to _top_0583/solver_anneal.pkl
+dump model to _top_0583/solver_anneal.pkl
+dump random state  to _top_0583/solver_rng.pkl
+dump solver state  to _top_0583/solver_solver.pkl
+writing to  _top_0583/final_state.svg
+writing to  _top_0583/final_state.png
+writing summary {'execution_time': 5241.821545140818} to _top_0583/summary.json
+starting job number 111 on track 499
+loading track 2385
+writing config {'trackidx': 2385} to _top_2385/config.json
+initial guess with M =  66
+writing to  _top_2385/initial_guess.pkl
+writing to  _top_2385/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5425.875809140503
+dump state to _top_2385/solver_anneal.pkl
+dump model to _top_2385/solver_anneal.pkl
+dump random state  to _top_2385/solver_rng.pkl
+dump solver state  to _top_2385/solver_solver.pkl
+writing to  _top_2385/final_state.svg
+writing to  _top_2385/final_state.png
+writing summary {'execution_time': 5425.875809140503} to _top_2385/summary.json
+starting job number 112 on track 2350
+loading track 1746
+writing config {'trackidx': 1746} to _top_1746/config.json
+initial guess with M =  85
+writing to  _top_1746/initial_guess.pkl
+writing to  _top_1746/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3587.3414301211014
+dump state to _top_1746/solver_anneal.pkl
+dump model to _top_1746/solver_anneal.pkl
+dump random state  to _top_1746/solver_rng.pkl
+dump solver state  to _top_1746/solver_solver.pkl
+writing to  _top_1746/final_state.svg
+writing to  _top_1746/final_state.png
+writing summary {'execution_time': 3587.3414301211014} to _top_1746/summary.json
+starting job number 113 on track 1686
+loading track 233
+writing config {'trackidx': 233} to _top_0233/config.json
+initial guess with M =  111
+writing to  _top_0233/initial_guess.pkl
+writing to  _top_0233/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11595.738499808125
+dump state to _top_0233/solver_anneal.pkl
+dump model to _top_0233/solver_anneal.pkl
+dump random state  to _top_0233/solver_rng.pkl
+dump solver state  to _top_0233/solver_solver.pkl
+writing to  _top_0233/final_state.svg
+writing to  _top_0233/final_state.png
+writing summary {'execution_time': 11595.738499808125} to _top_0233/summary.json
+starting job number 114 on track 517
+loading track 2173
+writing config {'trackidx': 2173} to _top_2173/config.json
+initial guess with M =  105
+writing to  _top_2173/initial_guess.pkl
+writing to  _top_2173/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 115 on track 2461
+loading track 2127
+writing config {'trackidx': 2127} to _top_2127/config.json
+initial guess with M =  131
+writing to  _top_2127/initial_guess.pkl
+writing to  _top_2127/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 116 on track 323
+loading track 1583
+writing config {'trackidx': 1583} to _top_1583/config.json
+initial guess with M =  99
+writing to  _top_1583/initial_guess.pkl
+writing to  _top_1583/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 117 on track 1022
+loading track 697
+writing config {'trackidx': 697} to _top_0697/config.json
+initial guess with M =  132
+writing to  _top_0697/initial_guess.pkl
+writing to  _top_0697/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11898.76825333666
+dump state to _top_0697/solver_anneal.pkl
+dump model to _top_0697/solver_anneal.pkl
+dump random state  to _top_0697/solver_rng.pkl
+dump solver state  to _top_0697/solver_solver.pkl
+writing to  _top_0697/final_state.svg
+writing to  _top_0697/final_state.png
+writing summary {'execution_time': 11898.76825333666} to _top_0697/summary.json
+starting job number 118 on track 2561
+loading track 2408
+writing config {'trackidx': 2408} to _top_2408/config.json
+initial guess with M =  93
+writing to  _top_2408/initial_guess.pkl
+writing to  _top_2408/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 119 on track 325
+loading track 214
+writing config {'trackidx': 214} to _top_0214/config.json
+initial guess with M =  58
+writing to  _top_0214/initial_guess.pkl
+writing to  _top_0214/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  1372.4467430282384
+dump state to _top_0214/solver_anneal.pkl
+dump model to _top_0214/solver_anneal.pkl
+dump random state  to _top_0214/solver_rng.pkl
+dump solver state  to _top_0214/solver_solver.pkl
+writing to  _top_0214/final_state.svg
+writing to  _top_0214/final_state.png
+writing summary {'execution_time': 1372.4467430282384} to _top_0214/summary.json
+starting job number 120 on track 2502
+loading track 2756
+writing config {'trackidx': 2756} to _top_2756/config.json
+initial guess with M =  115
+writing to  _top_2756/initial_guess.pkl
+writing to  _top_2756/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  12130.12194129359
+dump state to _top_2756/solver_anneal.pkl
+dump model to _top_2756/solver_anneal.pkl
+dump random state  to _top_2756/solver_rng.pkl
+dump solver state  to _top_2756/solver_solver.pkl
+writing to  _top_2756/final_state.svg
+writing to  _top_2756/final_state.png
+writing summary {'execution_time': 12130.12194129359} to _top_2756/summary.json
+starting job number 121 on track 2473
+loading track 2383
+writing config {'trackidx': 2383} to _top_2383/config.json
+initial guess with M =  114
+writing to  _top_2383/initial_guess.pkl
+writing to  _top_2383/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  8912.114975965582
+dump state to _top_2383/solver_anneal.pkl
+dump model to _top_2383/solver_anneal.pkl
+dump random state  to _top_2383/solver_rng.pkl
+dump solver state  to _top_2383/solver_solver.pkl
+writing to  _top_2383/final_state.svg
+writing to  _top_2383/final_state.png
+writing summary {'execution_time': 8912.114975965582} to _top_2383/summary.json
+starting job number 122 on track 1926
+loading track 2533
+writing config {'trackidx': 2533} to _top_2533/config.json
+initial guess with M =  66
+writing to  _top_2533/initial_guess.pkl
+writing to  _top_2533/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4499.679096838459
+dump state to _top_2533/solver_anneal.pkl
+dump model to _top_2533/solver_anneal.pkl
+dump random state  to _top_2533/solver_rng.pkl
+dump solver state  to _top_2533/solver_solver.pkl
+writing to  _top_2533/final_state.svg
+writing to  _top_2533/final_state.png
+writing summary {'execution_time': 4499.679096838459} to _top_2533/summary.json
+starting job number 123 on track 1900
+loading track 3067
+writing config {'trackidx': 3067} to _top_3067/config.json
+initial guess with M =  128
+writing to  _top_3067/initial_guess.pkl
+writing to  _top_3067/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  12454.032838747837
+dump state to _top_3067/solver_anneal.pkl
+dump model to _top_3067/solver_anneal.pkl
+dump random state  to _top_3067/solver_rng.pkl
+dump solver state  to _top_3067/solver_solver.pkl
+writing to  _top_3067/final_state.svg
+writing to  _top_3067/final_state.png
+writing summary {'execution_time': 12454.032838747837} to _top_3067/summary.json
+starting job number 124 on track 678
+loading track 1527
+writing config {'trackidx': 1527} to _top_1527/config.json
+initial guess with M =  66
+writing to  _top_1527/initial_guess.pkl
+writing to  _top_1527/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5079.641537236981
+dump state to _top_1527/solver_anneal.pkl
+dump model to _top_1527/solver_anneal.pkl
+dump random state  to _top_1527/solver_rng.pkl
+dump solver state  to _top_1527/solver_solver.pkl
+writing to  _top_1527/final_state.svg
+writing to  _top_1527/final_state.png
+writing summary {'execution_time': 5079.641537236981} to _top_1527/summary.json
+starting job number 125 on track 518
+loading track 2376
+writing config {'trackidx': 2376} to _top_2376/config.json
+initial guess with M =  108
+writing to  _top_2376/initial_guess.pkl
+writing to  _top_2376/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  6210.920632842928
+dump state to _top_2376/solver_anneal.pkl
+dump model to _top_2376/solver_anneal.pkl
+dump random state  to _top_2376/solver_rng.pkl
+dump solver state  to _top_2376/solver_solver.pkl
+writing to  _top_2376/final_state.svg
+writing to  _top_2376/final_state.png
+writing summary {'execution_time': 6210.920632842928} to _top_2376/summary.json
+starting job number 126 on track 845
+loading track 563
+writing config {'trackidx': 563} to _top_0563/config.json
+initial guess with M =  95
+writing to  _top_0563/initial_guess.pkl
+writing to  _top_0563/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4162.828604124486
+dump state to _top_0563/solver_anneal.pkl
+dump model to _top_0563/solver_anneal.pkl
+dump random state  to _top_0563/solver_rng.pkl
+dump solver state  to _top_0563/solver_solver.pkl
+writing to  _top_0563/final_state.svg
+writing to  _top_0563/final_state.png
+writing summary {'execution_time': 4162.828604124486} to _top_0563/summary.json
+starting job number 127 on track 2873
+loading track 2094
+writing config {'trackidx': 2094} to _top_2094/config.json
+initial guess with M =  92
+writing to  _top_2094/initial_guess.pkl
+writing to  _top_2094/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 128 on track 2986
+loading track 2365
+writing config {'trackidx': 2365} to _top_2365/config.json
+initial guess with M =  125
+writing to  _top_2365/initial_guess.pkl
+writing to  _top_2365/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 129 on track 2567
+loading track 2107
+writing config {'trackidx': 2107} to _top_2107/config.json
+initial guess with M =  103
+writing to  _top_2107/initial_guess.pkl
+writing to  _top_2107/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5945.893361846916
+dump state to _top_2107/solver_anneal.pkl
+dump model to _top_2107/solver_anneal.pkl
+dump random state  to _top_2107/solver_rng.pkl
+dump solver state  to _top_2107/solver_solver.pkl
+writing to  _top_2107/final_state.svg
+writing to  _top_2107/final_state.png
+writing summary {'execution_time': 5945.893361846916} to _top_2107/summary.json
+starting job number 130 on track 1089
+loading track 1183
+writing config {'trackidx': 1183} to _top_1183/config.json
+initial guess with M =  150
+writing to  _top_1183/initial_guess.pkl
+writing to  _top_1183/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11516.90592860803
+dump state to _top_1183/solver_anneal.pkl
+dump model to _top_1183/solver_anneal.pkl
+dump random state  to _top_1183/solver_rng.pkl
+dump solver state  to _top_1183/solver_solver.pkl
+writing to  _top_1183/final_state.svg
+writing to  _top_1183/final_state.png
+writing summary {'execution_time': 11516.90592860803} to _top_1183/summary.json
+starting job number 131 on track 2368
+loading track 2927
+writing config {'trackidx': 2927} to _top_2927/config.json
+initial guess with M =  153
+writing to  _top_2927/initial_guess.pkl
+writing to  _top_2927/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  9236.945220280439
+dump state to _top_2927/solver_anneal.pkl
+dump model to _top_2927/solver_anneal.pkl
+dump random state  to _top_2927/solver_rng.pkl
+dump solver state  to _top_2927/solver_solver.pkl
+writing to  _top_2927/final_state.svg
+writing to  _top_2927/final_state.png
+writing summary {'execution_time': 9236.945220280439} to _top_2927/summary.json
+starting job number 132 on track 2429
+loading track 1157
+writing config {'trackidx': 1157} to _top_1157/config.json
+initial guess with M =  82
+writing to  _top_1157/initial_guess.pkl
+writing to  _top_1157/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 133 on track 398
+loading track 2431
+writing config {'trackidx': 2431} to _top_2431/config.json
+initial guess with M =  115
+writing to  _top_2431/initial_guess.pkl
+writing to  _top_2431/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  9804.937507251278
+dump state to _top_2431/solver_anneal.pkl
+dump model to _top_2431/solver_anneal.pkl
+dump random state  to _top_2431/solver_rng.pkl
+dump solver state  to _top_2431/solver_solver.pkl
+writing to  _top_2431/final_state.svg
+writing to  _top_2431/final_state.png
+writing summary {'execution_time': 9804.937507251278} to _top_2431/summary.json
+starting job number 134 on track 290
+loading track 2491
+writing config {'trackidx': 2491} to _top_2491/config.json
+initial guess with M =  104
+writing to  _top_2491/initial_guess.pkl
+writing to  _top_2491/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7599.18865045812
+dump state to _top_2491/solver_anneal.pkl
+dump model to _top_2491/solver_anneal.pkl
+dump random state  to _top_2491/solver_rng.pkl
+dump solver state  to _top_2491/solver_solver.pkl
+writing to  _top_2491/final_state.svg
+writing to  _top_2491/final_state.png
+writing summary {'execution_time': 7599.18865045812} to _top_2491/summary.json
+starting job number 135 on track 1259
+loading track 2900
+writing config {'trackidx': 2900} to _top_2900/config.json
+initial guess with M =  131
+writing to  _top_2900/initial_guess.pkl
+writing to  _top_2900/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7959.419735627249
+dump state to _top_2900/solver_anneal.pkl
+dump model to _top_2900/solver_anneal.pkl
+dump random state  to _top_2900/solver_rng.pkl
+dump solver state  to _top_2900/solver_solver.pkl
+writing to  _top_2900/final_state.svg
+writing to  _top_2900/final_state.png
+writing summary {'execution_time': 7959.419735627249} to _top_2900/summary.json
+starting job number 136 on track 1093
+loading track 1158
+writing config {'trackidx': 1158} to _top_1158/config.json
+initial guess with M =  97
+writing to  _top_1158/initial_guess.pkl
+writing to  _top_1158/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 137 on track 1266
+loading track 775
+writing config {'trackidx': 775} to _top_0775/config.json
+initial guess with M =  122
+writing to  _top_0775/initial_guess.pkl
+writing to  _top_0775/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  9293.013162351213
+dump state to _top_0775/solver_anneal.pkl
+dump model to _top_0775/solver_anneal.pkl
+dump random state  to _top_0775/solver_rng.pkl
+dump solver state  to _top_0775/solver_solver.pkl
+writing to  _top_0775/final_state.svg
+writing to  _top_0775/final_state.png
+writing summary {'execution_time': 9293.013162351213} to _top_0775/summary.json
+starting job number 138 on track 359
+loading track 2754
+writing config {'trackidx': 2754} to _top_2754/config.json
+initial guess with M =  124
+writing to  _top_2754/initial_guess.pkl
+writing to  _top_2754/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  10688.436033308506
+dump state to _top_2754/solver_anneal.pkl
+dump model to _top_2754/solver_anneal.pkl
+dump random state  to _top_2754/solver_rng.pkl
+dump solver state  to _top_2754/solver_solver.pkl
+writing to  _top_2754/final_state.svg
+writing to  _top_2754/final_state.png
+writing summary {'execution_time': 10688.436033308506} to _top_2754/summary.json
+starting job number 139 on track 3050
+loading track 542
+writing config {'trackidx': 542} to _top_0542/config.json
+initial guess with M =  146
+writing to  _top_0542/initial_guess.pkl
+writing to  _top_0542/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7740.8603090159595
+dump state to _top_0542/solver_anneal.pkl
+dump model to _top_0542/solver_anneal.pkl
+dump random state  to _top_0542/solver_rng.pkl
+dump solver state  to _top_0542/solver_solver.pkl
+writing to  _top_0542/final_state.svg
+writing to  _top_0542/final_state.png
+writing summary {'execution_time': 7740.8603090159595} to _top_0542/summary.json
+starting job number 140 on track 1436
+loading track 1264
+writing config {'trackidx': 1264} to _top_1264/config.json
+initial guess with M =  95
+writing to  _top_1264/initial_guess.pkl
+writing to  _top_1264/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  6182.998188524507
+dump state to _top_1264/solver_anneal.pkl
+dump model to _top_1264/solver_anneal.pkl
+dump random state  to _top_1264/solver_rng.pkl
+dump solver state  to _top_1264/solver_solver.pkl
+writing to  _top_1264/final_state.svg
+writing to  _top_1264/final_state.png
+writing summary {'execution_time': 6182.998188524507} to _top_1264/summary.json
+starting job number 141 on track 406
+loading track 1819
+writing config {'trackidx': 1819} to _top_1819/config.json
+initial guess with M =  72
+writing to  _top_1819/initial_guess.pkl
+writing to  _top_1819/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 142 on track 2906
+loading track 2521
+writing config {'trackidx': 2521} to _top_2521/config.json
+initial guess with M =  133
+writing to  _top_2521/initial_guess.pkl
+writing to  _top_2521/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 143 on track 116
+loading track 1976
+writing config {'trackidx': 1976} to _top_1976/config.json
+initial guess with M =  127
+writing to  _top_1976/initial_guess.pkl
+writing to  _top_1976/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 144 on track 1595
+loading track 2131
+writing config {'trackidx': 2131} to _top_2131/config.json
+initial guess with M =  142
+writing to  _top_2131/initial_guess.pkl
+writing to  _top_2131/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  6402.017531932332
+dump state to _top_2131/solver_anneal.pkl
+dump model to _top_2131/solver_anneal.pkl
+dump random state  to _top_2131/solver_rng.pkl
+dump solver state  to _top_2131/solver_solver.pkl
+writing to  _top_2131/final_state.svg
+writing to  _top_2131/final_state.png
+writing summary {'execution_time': 6402.017531932332} to _top_2131/summary.json
+starting job number 145 on track 2936
+loading track 662
+writing config {'trackidx': 662} to _top_0662/config.json
+initial guess with M =  155
+writing to  _top_0662/initial_guess.pkl
+writing to  _top_0662/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  16446.606263412163
+dump state to _top_0662/solver_anneal.pkl
+dump model to _top_0662/solver_anneal.pkl
+dump random state  to _top_0662/solver_rng.pkl
+dump solver state  to _top_0662/solver_solver.pkl
+writing to  _top_0662/final_state.svg
+writing to  _top_0662/final_state.png
+writing summary {'execution_time': 16446.606263412163} to _top_0662/summary.json
+starting job number 146 on track 982
+loading track 2561
+writing config {'trackidx': 2561} to _top_2561/config.json
+initial guess with M =  89
+writing to  _top_2561/initial_guess.pkl
+writing to  _top_2561/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4720.968514560722
+dump state to _top_2561/solver_anneal.pkl
+dump model to _top_2561/solver_anneal.pkl
+dump random state  to _top_2561/solver_rng.pkl
+dump solver state  to _top_2561/solver_solver.pkl
+writing to  _top_2561/final_state.svg
+writing to  _top_2561/final_state.png
+writing summary {'execution_time': 4720.968514560722} to _top_2561/summary.json
+starting job number 147 on track 2565
+loading track 323
+writing config {'trackidx': 323} to _top_0323/config.json
+initial guess with M =  104
+writing to  _top_0323/initial_guess.pkl
+writing to  _top_0323/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4882.440438590944
+dump state to _top_0323/solver_anneal.pkl
+dump model to _top_0323/solver_anneal.pkl
+dump random state  to _top_0323/solver_rng.pkl
+dump solver state  to _top_0323/solver_solver.pkl
+writing to  _top_0323/final_state.svg
+writing to  _top_0323/final_state.png
+writing summary {'execution_time': 4882.440438590944} to _top_0323/summary.json
+starting job number 148 on track 1680
+loading track 2567
+writing config {'trackidx': 2567} to _top_2567/config.json
+initial guess with M =  52
+writing to  _top_2567/initial_guess.pkl
+writing to  _top_2567/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3008.1547292741016
+dump state to _top_2567/solver_anneal.pkl
+dump model to _top_2567/solver_anneal.pkl
+dump random state  to _top_2567/solver_rng.pkl
+dump solver state  to _top_2567/solver_solver.pkl
+writing to  _top_2567/final_state.svg
+writing to  _top_2567/final_state.png
+writing summary {'execution_time': 3008.1547292741016} to _top_2567/summary.json
+starting job number 149 on track 2779
+loading track 2903
+writing config {'trackidx': 2903} to _top_2903/config.json
+initial guess with M =  141
+writing to  _top_2903/initial_guess.pkl
+writing to  _top_2903/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  16891.380147580057
+dump state to _top_2903/solver_anneal.pkl
+dump model to _top_2903/solver_anneal.pkl
+dump random state  to _top_2903/solver_rng.pkl
+dump solver state  to _top_2903/solver_solver.pkl
+writing to  _top_2903/final_state.svg
+writing to  _top_2903/final_state.png
+writing summary {'execution_time': 16891.380147580057} to _top_2903/summary.json
+starting job number 150 on track 2701
+loading track 911
+writing config {'trackidx': 911} to _top_0911/config.json
+initial guess with M =  101
+writing to  _top_0911/initial_guess.pkl
+writing to  _top_0911/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  10577.769905658439
+dump state to _top_0911/solver_anneal.pkl
+dump model to _top_0911/solver_anneal.pkl
+dump random state  to _top_0911/solver_rng.pkl
+dump solver state  to _top_0911/solver_solver.pkl
+writing to  _top_0911/final_state.svg
+writing to  _top_0911/final_state.png
+writing summary {'execution_time': 10577.769905658439} to _top_0911/summary.json
+starting job number 151 on track 2421
+loading track 2430
+writing config {'trackidx': 2430} to _top_2430/config.json
+initial guess with M =  91
+writing to  _top_2430/initial_guess.pkl
+writing to  _top_2430/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 152 on track 1017
+loading track 499
+writing config {'trackidx': 499} to _top_0499/config.json
+initial guess with M =  90
+writing to  _top_0499/initial_guess.pkl
+writing to  _top_0499/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 153 on track 2578
+loading track 2387
+writing config {'trackidx': 2387} to _top_2387/config.json
+initial guess with M =  127
+writing to  _top_2387/initial_guess.pkl
+writing to  _top_2387/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 154 on track 1074
+loading track 2285
+writing config {'trackidx': 2285} to _top_2285/config.json
+initial guess with M =  138
+writing to  _top_2285/initial_guess.pkl
+writing to  _top_2285/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 155 on track 2555
+loading track 1052
+writing config {'trackidx': 1052} to _top_1052/config.json
+initial guess with M =  115
+writing to  _top_1052/initial_guess.pkl
+writing to  _top_1052/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 156 on track 2942
+loading track 2367
+writing config {'trackidx': 2367} to _top_2367/config.json
+initial guess with M =  96
+writing to  _top_2367/initial_guess.pkl
+writing to  _top_2367/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7697.996830333024
+dump state to _top_2367/solver_anneal.pkl
+dump model to _top_2367/solver_anneal.pkl
+dump random state  to _top_2367/solver_rng.pkl
+dump solver state  to _top_2367/solver_solver.pkl
+writing to  _top_2367/final_state.svg
+writing to  _top_2367/final_state.png
+writing summary {'execution_time': 7697.996830333024} to _top_2367/summary.json
+starting job number 157 on track 3042
+loading track 1022
+writing config {'trackidx': 1022} to _top_1022/config.json
+initial guess with M =  61
+writing to  _top_1022/initial_guess.pkl
+writing to  _top_1022/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 158 on track 2074
+loading track 2364
+writing config {'trackidx': 2364} to _top_2364/config.json
+initial guess with M =  133
+writing to  _top_2364/initial_guess.pkl
+writing to  _top_2364/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  10974.843726750463
+dump state to _top_2364/solver_anneal.pkl
+dump model to _top_2364/solver_anneal.pkl
+dump random state  to _top_2364/solver_rng.pkl
+dump solver state  to _top_2364/solver_solver.pkl
+writing to  _top_2364/final_state.svg
+writing to  _top_2364/final_state.png
+writing summary {'execution_time': 10974.843726750463} to _top_2364/summary.json
+starting job number 159 on track 1924
+loading track 478
+writing config {'trackidx': 478} to _top_0478/config.json
+initial guess with M =  132
+writing to  _top_0478/initial_guess.pkl
+writing to  _top_0478/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 160 on track 2614
+loading track 2502
+writing config {'trackidx': 2502} to _top_2502/config.json
+initial guess with M =  94
+writing to  _top_2502/initial_guess.pkl
+writing to  _top_2502/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 161 on track 2374
+loading track 1266
+writing config {'trackidx': 1266} to _top_1266/config.json
+initial guess with M =  70
+writing to  _top_1266/initial_guess.pkl
+writing to  _top_1266/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3777.9526328602806
+dump state to _top_1266/solver_anneal.pkl
+dump model to _top_1266/solver_anneal.pkl
+dump random state  to _top_1266/solver_rng.pkl
+dump solver state  to _top_1266/solver_solver.pkl
+writing to  _top_1266/final_state.svg
+writing to  _top_1266/final_state.png
+writing summary {'execution_time': 3777.9526328602806} to _top_1266/summary.json
+starting job number 162 on track 1085
+loading track 2565
+writing config {'trackidx': 2565} to _top_2565/config.json
+initial guess with M =  55
+writing to  _top_2565/initial_guess.pkl
+writing to  _top_2565/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 163 on track 921
+loading track 1089
+writing config {'trackidx': 1089} to _top_1089/config.json
+initial guess with M =  57
+writing to  _top_1089/initial_guess.pkl
+writing to  _top_1089/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 164 on track 3007
+loading track 1093
+writing config {'trackidx': 1093} to _top_1093/config.json
+initial guess with M =  60
+writing to  _top_1093/initial_guess.pkl
+writing to  _top_1093/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 165 on track 658
+loading track 2461
+writing config {'trackidx': 2461} to _top_2461/config.json
+initial guess with M =  111
+writing to  _top_2461/initial_guess.pkl
+writing to  _top_2461/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 166 on track 2450
+loading track 377
+writing config {'trackidx': 377} to _top_0377/config.json
+initial guess with M =  149
+writing to  _top_0377/initial_guess.pkl
+writing to  _top_0377/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 167 on track 1262
+loading track 116
+writing config {'trackidx': 116} to _top_0116/config.json
+initial guess with M =  58
+writing to  _top_0116/initial_guess.pkl
+writing to  _top_0116/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3598.713163695298
+dump state to _top_0116/solver_anneal.pkl
+dump model to _top_0116/solver_anneal.pkl
+dump random state  to _top_0116/solver_rng.pkl
+dump solver state  to _top_0116/solver_solver.pkl
+writing to  _top_0116/final_state.svg
+writing to  _top_0116/final_state.png
+writing summary {'execution_time': 3598.713163695298} to _top_0116/summary.json
+starting job number 168 on track 3033
+loading track 660
+writing config {'trackidx': 660} to _top_0660/config.json
+initial guess with M =  92
+writing to  _top_0660/initial_guess.pkl
+writing to  _top_0660/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  10571.984578716569
+dump state to _top_0660/solver_anneal.pkl
+dump model to _top_0660/solver_anneal.pkl
+dump random state  to _top_0660/solver_rng.pkl
+dump solver state  to _top_0660/solver_solver.pkl
+writing to  _top_0660/final_state.svg
+writing to  _top_0660/final_state.png
+writing summary {'execution_time': 10571.984578716569} to _top_0660/summary.json
+starting job number 169 on track 1325
+loading track 678
+writing config {'trackidx': 678} to _top_0678/config.json
+initial guess with M =  112
+writing to  _top_0678/initial_guess.pkl
+writing to  _top_0678/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  7790.3641702840105
+dump state to _top_0678/solver_anneal.pkl
+dump model to _top_0678/solver_anneal.pkl
+dump random state  to _top_0678/solver_rng.pkl
+dump solver state  to _top_0678/solver_solver.pkl
+writing to  _top_0678/final_state.svg
+writing to  _top_0678/final_state.png
+writing summary {'execution_time': 7790.3641702840105} to _top_0678/summary.json
+starting job number 170 on track 467
+loading track 358
+writing config {'trackidx': 358} to _top_0358/config.json
+initial guess with M =  160
+writing to  _top_0358/initial_guess.pkl
+writing to  _top_0358/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11399.383910547942
+dump state to _top_0358/solver_anneal.pkl
+dump model to _top_0358/solver_anneal.pkl
+dump random state  to _top_0358/solver_rng.pkl
+dump solver state  to _top_0358/solver_solver.pkl
+writing to  _top_0358/final_state.svg
+writing to  _top_0358/final_state.png
+writing summary {'execution_time': 11399.383910547942} to _top_0358/summary.json
+starting job number 171 on track 1291
+loading track 2977
+writing config {'trackidx': 2977} to _top_2977/config.json
+initial guess with M =  144
+writing to  _top_2977/initial_guess.pkl
+writing to  _top_2977/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 172 on track 1705
+loading track 503
+writing config {'trackidx': 503} to _top_0503/config.json
+initial guess with M =  150
+writing to  _top_0503/initial_guess.pkl
+writing to  _top_0503/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 173 on track 1596
+loading track 3029
+writing config {'trackidx': 3029} to _top_3029/config.json
+initial guess with M =  233
+writing to  _top_3029/initial_guess.pkl
+writing to  _top_3029/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 174 on track 1068
+loading track 1074
+writing config {'trackidx': 1074} to _top_1074/config.json
+initial guess with M =  55
+writing to  _top_1074/initial_guess.pkl
+writing to  _top_1074/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3346.6125072259456
+dump state to _top_1074/solver_anneal.pkl
+dump model to _top_1074/solver_anneal.pkl
+dump random state  to _top_1074/solver_rng.pkl
+dump solver state  to _top_1074/solver_solver.pkl
+writing to  _top_1074/final_state.svg
+writing to  _top_1074/final_state.png
+writing summary {'execution_time': 3346.6125072259456} to _top_1074/summary.json
+starting job number 175 on track 1269
+loading track 2368
+writing config {'trackidx': 2368} to _top_2368/config.json
+initial guess with M =  138
+writing to  _top_2368/initial_guess.pkl
+writing to  _top_2368/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  6776.922769152559
+dump state to _top_2368/solver_anneal.pkl
+dump model to _top_2368/solver_anneal.pkl
+dump random state  to _top_2368/solver_rng.pkl
+dump solver state  to _top_2368/solver_solver.pkl
+writing to  _top_2368/final_state.svg
+writing to  _top_2368/final_state.png
+writing summary {'execution_time': 6776.922769152559} to _top_2368/summary.json
+starting job number 176 on track 369
+loading track 2074
+writing config {'trackidx': 2074} to _top_2074/config.json
+initial guess with M =  62
+writing to  _top_2074/initial_guess.pkl
+writing to  _top_2074/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 177 on track 238
+loading track 2779
+writing config {'trackidx': 2779} to _top_2779/config.json
+initial guess with M =  72
+writing to  _top_2779/initial_guess.pkl
+writing to  _top_2779/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 178 on track 1743
+loading track 2578
+writing config {'trackidx': 2578} to _top_2578/config.json
+initial guess with M =  67
+writing to  _top_2578/initial_guess.pkl
+writing to  _top_2578/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  4953.948163733818
+dump state to _top_2578/solver_anneal.pkl
+dump model to _top_2578/solver_anneal.pkl
+dump random state  to _top_2578/solver_rng.pkl
+dump solver state  to _top_2578/solver_solver.pkl
+writing to  _top_2578/final_state.svg
+writing to  _top_2578/final_state.png
+writing summary {'execution_time': 4953.948163733818} to _top_2578/summary.json
+starting job number 179 on track 644
+loading track 2937
+writing config {'trackidx': 2937} to _top_2937/config.json
+initial guess with M =  239
+writing to  _top_2937/initial_guess.pkl
+writing to  _top_2937/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  22205.37724197004
+dump state to _top_2937/solver_anneal.pkl
+dump model to _top_2937/solver_anneal.pkl
+dump random state  to _top_2937/solver_rng.pkl
+dump solver state  to _top_2937/solver_solver.pkl
+writing to  _top_2937/final_state.svg
+writing to  _top_2937/final_state.png
+writing summary {'execution_time': 22205.37724197004} to _top_2937/summary.json
+starting job number 180 on track 668
+loading track 326
+writing config {'trackidx': 326} to _top_0326/config.json
+initial guess with M =  177
+writing to  _top_0326/initial_guess.pkl
+writing to  _top_0326/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  22856.19034488406
+dump state to _top_0326/solver_anneal.pkl
+dump model to _top_0326/solver_anneal.pkl
+dump random state  to _top_0326/solver_rng.pkl
+dump solver state  to _top_0326/solver_solver.pkl
+writing to  _top_0326/final_state.svg
+writing to  _top_0326/final_state.png
+writing summary {'execution_time': 22856.19034488406} to _top_0326/summary.json
+starting job number 181 on track 1203
+loading track 2450
+writing config {'trackidx': 2450} to _top_2450/config.json
+initial guess with M =  72
+writing to  _top_2450/initial_guess.pkl
+writing to  _top_2450/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 182 on track 1154
+loading track 1436
+writing config {'trackidx': 1436} to _top_1436/config.json
+initial guess with M =  107
+writing to  _top_1436/initial_guess.pkl
+writing to  _top_1436/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 183 on track 1945
+loading track 2421
+writing config {'trackidx': 2421} to _top_2421/config.json
+initial guess with M =  114
+writing to  _top_2421/initial_guess.pkl
+writing to  _top_2421/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 184 on track 1368
+loading track 1900
+writing config {'trackidx': 1900} to _top_1900/config.json
+initial guess with M =  126
+writing to  _top_1900/initial_guess.pkl
+writing to  _top_1900/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 185 on track 1021
+loading track 3042
+writing config {'trackidx': 3042} to _top_3042/config.json
+initial guess with M =  123
+writing to  _top_3042/initial_guess.pkl
+writing to  _top_3042/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  6618.329512649216
+dump state to _top_3042/solver_anneal.pkl
+dump model to _top_3042/solver_anneal.pkl
+dump random state  to _top_3042/solver_rng.pkl
+dump solver state  to _top_3042/solver_solver.pkl
+writing to  _top_3042/final_state.svg
+writing to  _top_3042/final_state.png
+writing summary {'execution_time': 6618.329512649216} to _top_3042/summary.json
+starting job number 186 on track 368
+loading track 621
+writing config {'trackidx': 621} to _top_0621/config.json
+initial guess with M =  154
+writing to  _top_0621/initial_guess.pkl
+writing to  _top_0621/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 187 on track 1265
+loading track 1085
+writing config {'trackidx': 1085} to _top_1085/config.json
+initial guess with M =  124
+writing to  _top_1085/initial_guess.pkl
+writing to  _top_1085/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5970.317765583284
+dump state to _top_1085/solver_anneal.pkl
+dump model to _top_1085/solver_anneal.pkl
+dump random state  to _top_1085/solver_rng.pkl
+dump solver state  to _top_1085/solver_solver.pkl
+writing to  _top_1085/final_state.svg
+writing to  _top_1085/final_state.png
+writing summary {'execution_time': 5970.317765583284} to _top_1085/summary.json
+starting job number 188 on track 1065
+loading track 618
+writing config {'trackidx': 618} to _top_0618/config.json
+initial guess with M =  171
+writing to  _top_0618/initial_guess.pkl
+writing to  _top_0618/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 189 on track 2970
+loading track 359
+writing config {'trackidx': 359} to _top_0359/config.json
+initial guess with M =  129
+writing to  _top_0359/initial_guess.pkl
+writing to  _top_0359/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 190 on track 1968
+loading track 2463
+writing config {'trackidx': 2463} to _top_2463/config.json
+initial guess with M =  134
+writing to  _top_2463/initial_guess.pkl
+writing to  _top_2463/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 191 on track 1145
+loading track 1526
+writing config {'trackidx': 1526} to _top_1526/config.json
+initial guess with M =  193
+writing to  _top_1526/initial_guess.pkl
+writing to  _top_1526/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  26751.70945228543
+dump state to _top_1526/solver_anneal.pkl
+dump model to _top_1526/solver_anneal.pkl
+dump random state  to _top_1526/solver_rng.pkl
+dump solver state  to _top_1526/solver_solver.pkl
+writing to  _top_1526/final_state.svg
+writing to  _top_1526/final_state.png
+writing summary {'execution_time': 26751.70945228543} to _top_1526/summary.json
+starting job number 192 on track 2449
+loading track 325
+writing config {'trackidx': 325} to _top_0325/config.json
+initial guess with M =  109
+writing to  _top_0325/initial_guess.pkl
+writing to  _top_0325/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 193 on track 1477
+loading track 1924
+writing config {'trackidx': 1924} to _top_1924/config.json
+initial guess with M =  147
+writing to  _top_1924/initial_guess.pkl
+writing to  _top_1924/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  8787.313549012877
+dump state to _top_1924/solver_anneal.pkl
+dump model to _top_1924/solver_anneal.pkl
+dump random state  to _top_1924/solver_rng.pkl
+dump solver state  to _top_1924/solver_solver.pkl
+writing to  _top_1924/final_state.svg
+writing to  _top_1924/final_state.png
+writing summary {'execution_time': 8787.313549012877} to _top_1924/summary.json
+starting job number 194 on track 705
+loading track 245
+writing config {'trackidx': 245} to _top_0245/config.json
+initial guess with M =  148
+writing to  _top_0245/initial_guess.pkl
+writing to  _top_0245/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 195 on track 1367
+loading track 1033
+writing config {'trackidx': 1033} to _top_1033/config.json
+initial guess with M =  149
+writing to  _top_1033/initial_guess.pkl
+writing to  _top_1033/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 196 on track 2309
+loading track 1269
+writing config {'trackidx': 1269} to _top_1269/config.json
+initial guess with M =  130
+writing to  _top_1269/initial_guess.pkl
+writing to  _top_1269/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 197 on track 1303
+loading track 1926
+writing config {'trackidx': 1926} to _top_1926/config.json
+initial guess with M =  126
+writing to  _top_1926/initial_guess.pkl
+writing to  _top_1926/initial_guess.svg
+End Priority Solve
+End Priority Solve
+starting job number 198 on track 999
+loading track 3050
+writing config {'trackidx': 3050} to _top_3050/config.json
+initial guess with M =  110
+writing to  _top_3050/initial_guess.pkl
+writing to  _top_3050/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  12785.59226712957
+dump state to _top_3050/solver_anneal.pkl
+dump model to _top_3050/solver_anneal.pkl
+dump random state  to _top_3050/solver_rng.pkl
+dump solver state  to _top_3050/solver_solver.pkl
+writing to  _top_3050/final_state.svg
+writing to  _top_3050/final_state.png
+writing summary {'execution_time': 12785.59226712957} to _top_3050/summary.json
+starting job number 199 on track 1687
+loading track 3030
+writing config {'trackidx': 3030} to _top_3030/config.json
+initial guess with M =  162
+writing to  _top_3030/initial_guess.pkl
+writing to  _top_3030/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2701
+writing config {'trackidx': 2701} to _top_2701/config.json
+initial guess with M =  102
+writing to  _top_2701/initial_guess.pkl
+writing to  _top_2701/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11855.64491867926
+dump state to _top_2701/solver_anneal.pkl
+dump model to _top_2701/solver_anneal.pkl
+dump random state  to _top_2701/solver_rng.pkl
+dump solver state  to _top_2701/solver_solver.pkl
+writing to  _top_2701/final_state.svg
+writing to  _top_2701/final_state.png
+writing summary {'execution_time': 11855.64491867926} to _top_2701/summary.json
+loading track 921
+writing config {'trackidx': 921} to _top_0921/config.json
+initial guess with M =  105
+writing to  _top_0921/initial_guess.pkl
+writing to  _top_0921/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2936
+writing config {'trackidx': 2936} to _top_2936/config.json
+initial guess with M =  111
+writing to  _top_2936/initial_guess.pkl
+writing to  _top_2936/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  13514.563037929125
+dump state to _top_2936/solver_anneal.pkl
+dump model to _top_2936/solver_anneal.pkl
+dump random state  to _top_2936/solver_rng.pkl
+dump solver state  to _top_2936/solver_solver.pkl
+writing to  _top_2936/final_state.svg
+writing to  _top_2936/final_state.png
+writing summary {'execution_time': 13514.563037929125} to _top_2936/summary.json
+loading track 1203
+writing config {'trackidx': 1203} to _top_1203/config.json
+initial guess with M =  106
+writing to  _top_1203/initial_guess.pkl
+writing to  _top_1203/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1680
+writing config {'trackidx': 1680} to _top_1680/config.json
+initial guess with M =  164
+writing to  _top_1680/initial_guess.pkl
+writing to  _top_1680/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  13357.40529475268
+dump state to _top_1680/solver_anneal.pkl
+dump model to _top_1680/solver_anneal.pkl
+dump random state  to _top_1680/solver_rng.pkl
+dump solver state  to _top_1680/solver_solver.pkl
+writing to  _top_1680/final_state.svg
+writing to  _top_1680/final_state.png
+writing summary {'execution_time': 13357.40529475268} to _top_1680/summary.json
+loading track 3007
+writing config {'trackidx': 3007} to _top_3007/config.json
+initial guess with M =  183
+writing to  _top_3007/initial_guess.pkl
+writing to  _top_3007/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11597.874431824312
+dump state to _top_3007/solver_anneal.pkl
+dump model to _top_3007/solver_anneal.pkl
+dump random state  to _top_3007/solver_rng.pkl
+dump solver state  to _top_3007/solver_solver.pkl
+writing to  _top_3007/final_state.svg
+writing to  _top_3007/final_state.png
+writing summary {'execution_time': 11597.874431824312} to _top_3007/summary.json
+loading track 1265
+writing config {'trackidx': 1265} to _top_1265/config.json
+initial guess with M =  123
+writing to  _top_1265/initial_guess.pkl
+writing to  _top_1265/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  5764.879603036679
+dump state to _top_1265/solver_anneal.pkl
+dump model to _top_1265/solver_anneal.pkl
+dump random state  to _top_1265/solver_rng.pkl
+dump solver state  to _top_1265/solver_solver.pkl
+writing to  _top_1265/final_state.svg
+writing to  _top_1265/final_state.png
+writing summary {'execution_time': 5764.879603036679} to _top_1265/summary.json
+loading track 1262
+writing config {'trackidx': 1262} to _top_1262/config.json
+initial guess with M =  108
+writing to  _top_1262/initial_guess.pkl
+writing to  _top_1262/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  11241.14253187459
+dump state to _top_1262/solver_anneal.pkl
+dump model to _top_1262/solver_anneal.pkl
+dump random state  to _top_1262/solver_rng.pkl
+dump solver state  to _top_1262/solver_solver.pkl
+writing to  _top_1262/final_state.svg
+writing to  _top_1262/final_state.png
+writing summary {'execution_time': 11241.14253187459} to _top_1262/summary.json
+loading track 2906
+writing config {'trackidx': 2906} to _top_2906/config.json
+initial guess with M =  204
+writing to  _top_2906/initial_guess.pkl
+writing to  _top_2906/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  15377.875387484208
+dump state to _top_2906/solver_anneal.pkl
+dump model to _top_2906/solver_anneal.pkl
+dump random state  to _top_2906/solver_rng.pkl
+dump solver state  to _top_2906/solver_solver.pkl
+writing to  _top_2906/final_state.svg
+writing to  _top_2906/final_state.png
+writing summary {'execution_time': 15377.875387484208} to _top_2906/summary.json
+loading track 2473
+writing config {'trackidx': 2473} to _top_2473/config.json
+initial guess with M =  149
+writing to  _top_2473/initial_guess.pkl
+writing to  _top_2473/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  19800.587205169722
+dump state to _top_2473/solver_anneal.pkl
+dump model to _top_2473/solver_anneal.pkl
+dump random state  to _top_2473/solver_rng.pkl
+dump solver state  to _top_2473/solver_solver.pkl
+writing to  _top_2473/final_state.svg
+writing to  _top_2473/final_state.png
+writing summary {'execution_time': 19800.587205169722} to _top_2473/summary.json
+loading track 1687
+writing config {'trackidx': 1687} to _top_1687/config.json
+initial guess with M =  110
+writing to  _top_1687/initial_guess.pkl
+writing to  _top_1687/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  3936.127966423519
+dump state to _top_1687/solver_anneal.pkl
+dump model to _top_1687/solver_anneal.pkl
+dump random state  to _top_1687/solver_rng.pkl
+dump solver state  to _top_1687/solver_solver.pkl
+writing to  _top_1687/final_state.svg
+writing to  _top_1687/final_state.png
+writing summary {'execution_time': 3936.127966423519} to _top_1687/summary.json
+loading track 1145
+writing config {'trackidx': 1145} to _top_1145/config.json
+initial guess with M =  142
+writing to  _top_1145/initial_guess.pkl
+writing to  _top_1145/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  6115.871831133962
+dump state to _top_1145/solver_anneal.pkl
+dump model to _top_1145/solver_anneal.pkl
+dump random state  to _top_1145/solver_rng.pkl
+dump solver state  to _top_1145/solver_solver.pkl
+writing to  _top_1145/final_state.svg
+writing to  _top_1145/final_state.png
+writing summary {'execution_time': 6115.871831133962} to _top_1145/summary.json
+loading track 668
+writing config {'trackidx': 668} to _top_0668/config.json
+initial guess with M =  129
+writing to  _top_0668/initial_guess.pkl
+writing to  _top_0668/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  10150.830049797893
+dump state to _top_0668/solver_anneal.pkl
+dump model to _top_0668/solver_anneal.pkl
+dump random state  to _top_0668/solver_rng.pkl
+dump solver state  to _top_0668/solver_solver.pkl
+writing to  _top_0668/final_state.svg
+writing to  _top_0668/final_state.png
+writing summary {'execution_time': 10150.830049797893} to _top_0668/summary.json
+loading track 1259
+writing config {'trackidx': 1259} to _top_1259/config.json
+initial guess with M =  121
+writing to  _top_1259/initial_guess.pkl
+writing to  _top_1259/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 398
+writing config {'trackidx': 398} to _top_0398/config.json
+initial guess with M =  227
+writing to  _top_0398/initial_guess.pkl
+writing to  _top_0398/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2350
+writing config {'trackidx': 2350} to _top_2350/config.json
+initial guess with M =  233
+writing to  _top_2350/initial_guess.pkl
+writing to  _top_2350/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  22228.764554522
+dump state to _top_2350/solver_anneal.pkl
+dump model to _top_2350/solver_anneal.pkl
+dump random state  to _top_2350/solver_rng.pkl
+dump solver state  to _top_2350/solver_solver.pkl
+writing to  _top_2350/final_state.svg
+writing to  _top_2350/final_state.png
+writing summary {'execution_time': 22228.764554522} to _top_2350/summary.json
+loading track 3033
+writing config {'trackidx': 3033} to _top_3033/config.json
+initial guess with M =  153
+writing to  _top_3033/initial_guess.pkl
+writing to  _top_3033/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  13702.976591914892
+dump state to _top_3033/solver_anneal.pkl
+dump model to _top_3033/solver_anneal.pkl
+dump random state  to _top_3033/solver_rng.pkl
+dump solver state  to _top_3033/solver_solver.pkl
+writing to  _top_3033/final_state.svg
+writing to  _top_3033/final_state.png
+writing summary {'execution_time': 13702.976591914892} to _top_3033/summary.json
+loading track 1596
+writing config {'trackidx': 1596} to _top_1596/config.json
+initial guess with M =  98
+writing to  _top_1596/initial_guess.pkl
+writing to  _top_1596/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2429
+writing config {'trackidx': 2429} to _top_2429/config.json
+initial guess with M =  132
+writing to  _top_2429/initial_guess.pkl
+writing to  _top_2429/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  20030.97343838401
+dump state to _top_2429/solver_anneal.pkl
+dump model to _top_2429/solver_anneal.pkl
+dump random state  to _top_2429/solver_rng.pkl
+dump solver state  to _top_2429/solver_solver.pkl
+writing to  _top_2429/final_state.svg
+writing to  _top_2429/final_state.png
+writing summary {'execution_time': 20030.97343838401} to _top_2429/summary.json
+loading track 982
+writing config {'trackidx': 982} to _top_0982/config.json
+initial guess with M =  169
+writing to  _top_0982/initial_guess.pkl
+writing to  _top_0982/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  17958.690275548026
+dump state to _top_0982/solver_anneal.pkl
+dump model to _top_0982/solver_anneal.pkl
+dump random state  to _top_0982/solver_rng.pkl
+dump solver state  to _top_0982/solver_solver.pkl
+writing to  _top_0982/final_state.svg
+writing to  _top_0982/final_state.png
+writing summary {'execution_time': 17958.690275548026} to _top_0982/summary.json
+loading track 1065
+writing config {'trackidx': 1065} to _top_1065/config.json
+initial guess with M =  115
+writing to  _top_1065/initial_guess.pkl
+writing to  _top_1065/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1017
+writing config {'trackidx': 1017} to _top_1017/config.json
+initial guess with M =  143
+writing to  _top_1017/initial_guess.pkl
+writing to  _top_1017/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2873
+writing config {'trackidx': 2873} to _top_2873/config.json
+initial guess with M =  187
+writing to  _top_2873/initial_guess.pkl
+writing to  _top_2873/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  22151.4677283559
+dump state to _top_2873/solver_anneal.pkl
+dump model to _top_2873/solver_anneal.pkl
+dump random state  to _top_2873/solver_rng.pkl
+dump solver state  to _top_2873/solver_solver.pkl
+writing to  _top_2873/final_state.svg
+writing to  _top_2873/final_state.png
+writing summary {'execution_time': 22151.4677283559} to _top_2873/summary.json
+loading track 2970
+writing config {'trackidx': 2970} to _top_2970/config.json
+initial guess with M =  183
+writing to  _top_2970/initial_guess.pkl
+writing to  _top_2970/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  12076.605285914615
+dump state to _top_2970/solver_anneal.pkl
+dump model to _top_2970/solver_anneal.pkl
+dump random state  to _top_2970/solver_rng.pkl
+dump solver state  to _top_2970/solver_solver.pkl
+writing to  _top_2970/final_state.svg
+writing to  _top_2970/final_state.png
+writing summary {'execution_time': 12076.605285914615} to _top_2970/summary.json
+loading track 1686
+writing config {'trackidx': 1686} to _top_1686/config.json
+initial guess with M =  192
+writing to  _top_1686/initial_guess.pkl
+writing to  _top_1686/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2135
+writing config {'trackidx': 2135} to _top_2135/config.json
+initial guess with M =  252
+writing to  _top_2135/initial_guess.pkl
+writing to  _top_2135/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2614
+writing config {'trackidx': 2614} to _top_2614/config.json
+initial guess with M =  167
+writing to  _top_2614/initial_guess.pkl
+writing to  _top_2614/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1325
+writing config {'trackidx': 1325} to _top_1325/config.json
+initial guess with M =  212
+writing to  _top_1325/initial_guess.pkl
+writing to  _top_1325/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  18962.95723557286
+dump state to _top_1325/solver_anneal.pkl
+dump model to _top_1325/solver_anneal.pkl
+dump random state  to _top_1325/solver_rng.pkl
+dump solver state  to _top_1325/solver_solver.pkl
+writing to  _top_1325/final_state.svg
+writing to  _top_1325/final_state.png
+writing summary {'execution_time': 18962.95723557286} to _top_1325/summary.json
+loading track 1154
+writing config {'trackidx': 1154} to _top_1154/config.json
+initial guess with M =  115
+writing to  _top_1154/initial_guess.pkl
+writing to  _top_1154/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 705
+writing config {'trackidx': 705} to _top_0705/config.json
+initial guess with M =  141
+writing to  _top_0705/initial_guess.pkl
+writing to  _top_0705/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2658
+writing config {'trackidx': 2658} to _top_2658/config.json
+initial guess with M =  230
+writing to  _top_2658/initial_guess.pkl
+writing to  _top_2658/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2374
+writing config {'trackidx': 2374} to _top_2374/config.json
+initial guess with M =  238
+writing to  _top_2374/initial_guess.pkl
+writing to  _top_2374/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 238
+writing config {'trackidx': 238} to _top_0238/config.json
+initial guess with M =  207
+writing to  _top_0238/initial_guess.pkl
+writing to  _top_0238/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 406
+writing config {'trackidx': 406} to _top_0406/config.json
+initial guess with M =  226
+writing to  _top_0406/initial_guess.pkl
+writing to  _top_0406/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2555
+writing config {'trackidx': 2555} to _top_2555/config.json
+initial guess with M =  190
+writing to  _top_2555/initial_guess.pkl
+writing to  _top_2555/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2309
+writing config {'trackidx': 2309} to _top_2309/config.json
+initial guess with M =  150
+writing to  _top_2309/initial_guess.pkl
+writing to  _top_2309/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 658
+writing config {'trackidx': 658} to _top_0658/config.json
+initial guess with M =  180
+writing to  _top_0658/initial_guess.pkl
+writing to  _top_0658/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2122
+writing config {'trackidx': 2122} to _top_2122/config.json
+initial guess with M =  227
+writing to  _top_2122/initial_guess.pkl
+writing to  _top_2122/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 467
+writing config {'trackidx': 467} to _top_0467/config.json
+initial guess with M =  204
+writing to  _top_0467/initial_guess.pkl
+writing to  _top_0467/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  23846.639795520343
+dump state to _top_0467/solver_anneal.pkl
+dump model to _top_0467/solver_anneal.pkl
+dump random state  to _top_0467/solver_rng.pkl
+dump solver state  to _top_0467/solver_solver.pkl
+writing to  _top_0467/final_state.svg
+writing to  _top_0467/final_state.png
+writing summary {'execution_time': 23846.639795520343} to _top_0467/summary.json
+loading track 1368
+writing config {'trackidx': 1368} to _top_1368/config.json
+initial guess with M =  253
+writing to  _top_1368/initial_guess.pkl
+writing to  _top_1368/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1477
+writing config {'trackidx': 1477} to _top_1477/config.json
+initial guess with M =  235
+writing to  _top_1477/initial_guess.pkl
+writing to  _top_1477/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  18049.34070494678
+dump state to _top_1477/solver_anneal.pkl
+dump model to _top_1477/solver_anneal.pkl
+dump random state  to _top_1477/solver_rng.pkl
+dump solver state  to _top_1477/solver_solver.pkl
+writing to  _top_1477/final_state.svg
+writing to  _top_1477/final_state.png
+writing summary {'execution_time': 18049.34070494678} to _top_1477/summary.json
+loading track 2942
+writing config {'trackidx': 2942} to _top_2942/config.json
+initial guess with M =  192
+writing to  _top_2942/initial_guess.pkl
+writing to  _top_2942/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  26942.931939559057
+dump state to _top_2942/solver_anneal.pkl
+dump model to _top_2942/solver_anneal.pkl
+dump random state  to _top_2942/solver_rng.pkl
+dump solver state  to _top_2942/solver_solver.pkl
+writing to  _top_2942/final_state.svg
+writing to  _top_2942/final_state.png
+writing summary {'execution_time': 26942.931939559057} to _top_2942/summary.json
+loading track 518
+writing config {'trackidx': 518} to _top_0518/config.json
+initial guess with M =  260
+writing to  _top_0518/initial_guess.pkl
+writing to  _top_0518/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 845
+writing config {'trackidx': 845} to _top_0845/config.json
+initial guess with M =  225
+writing to  _top_0845/initial_guess.pkl
+writing to  _top_0845/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1968
+writing config {'trackidx': 1968} to _top_1968/config.json
+initial guess with M =  187
+writing to  _top_1968/initial_guess.pkl
+writing to  _top_1968/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 999
+writing config {'trackidx': 999} to _top_0999/config.json
+initial guess with M =  260
+writing to  _top_0999/initial_guess.pkl
+writing to  _top_0999/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  18470.583047483116
+dump state to _top_0999/solver_anneal.pkl
+dump model to _top_0999/solver_anneal.pkl
+dump random state  to _top_0999/solver_rng.pkl
+dump solver state  to _top_0999/solver_solver.pkl
+writing to  _top_0999/final_state.svg
+writing to  _top_0999/final_state.png
+writing summary {'execution_time': 18470.583047483116} to _top_0999/summary.json
+loading track 2986
+writing config {'trackidx': 2986} to _top_2986/config.json
+initial guess with M =  250
+writing to  _top_2986/initial_guess.pkl
+writing to  _top_2986/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  34966.65728526469
+dump state to _top_2986/solver_anneal.pkl
+dump model to _top_2986/solver_anneal.pkl
+dump random state  to _top_2986/solver_rng.pkl
+dump solver state  to _top_2986/solver_solver.pkl
+writing to  _top_2986/final_state.svg
+writing to  _top_2986/final_state.png
+writing summary {'execution_time': 34966.65728526469} to _top_2986/summary.json
+loading track 517
+writing config {'trackidx': 517} to _top_0517/config.json
+initial guess with M =  295
+writing to  _top_0517/initial_guess.pkl
+writing to  _top_0517/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1021
+writing config {'trackidx': 1021} to _top_1021/config.json
+initial guess with M =  280
+writing to  _top_1021/initial_guess.pkl
+writing to  _top_1021/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 2449
+writing config {'trackidx': 2449} to _top_2449/config.json
+initial guess with M =  247
+writing to  _top_2449/initial_guess.pkl
+writing to  _top_2449/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1595
+writing config {'trackidx': 1595} to _top_1595/config.json
+initial guess with M =  246
+writing to  _top_1595/initial_guess.pkl
+writing to  _top_1595/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 290
+writing config {'trackidx': 290} to _top_0290/config.json
+initial guess with M =  358
+writing to  _top_0290/initial_guess.pkl
+writing to  _top_0290/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1291
+writing config {'trackidx': 1291} to _top_1291/config.json
+initial guess with M =  334
+writing to  _top_1291/initial_guess.pkl
+writing to  _top_1291/initial_guess.svg
+End Priority Solve
+End Priority Solve
+execution time  31637.14653968066
+dump state to _top_1291/solver_anneal.pkl
+dump model to _top_1291/solver_anneal.pkl
+dump random state  to _top_1291/solver_rng.pkl
+dump solver state  to _top_1291/solver_solver.pkl
+writing to  _top_1291/final_state.svg
+writing to  _top_1291/final_state.png
+writing summary {'execution_time': 31637.14653968066} to _top_1291/summary.json
+loading track 1705
+writing config {'trackidx': 1705} to _top_1705/config.json
+initial guess with M =  244
+writing to  _top_1705/initial_guess.pkl
+writing to  _top_1705/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1068
+writing config {'trackidx': 1068} to _top_1068/config.json
+initial guess with M =  264
+writing to  _top_1068/initial_guess.pkl
+writing to  _top_1068/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1303
+writing config {'trackidx': 1303} to _top_1303/config.json
+initial guess with M =  243
+writing to  _top_1303/initial_guess.pkl
+writing to  _top_1303/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 644
+writing config {'trackidx': 644} to _top_0644/config.json
+initial guess with M =  312
+writing to  _top_0644/initial_guess.pkl
+writing to  _top_0644/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1743
+writing config {'trackidx': 1743} to _top_1743/config.json
+initial guess with M =  380
+writing to  _top_1743/initial_guess.pkl
+writing to  _top_1743/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 368
+writing config {'trackidx': 368} to _top_0368/config.json
+initial guess with M =  373
+writing to  _top_0368/initial_guess.pkl
+writing to  _top_0368/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1367
+writing config {'trackidx': 1367} to _top_1367/config.json
+initial guess with M =  524
+writing to  _top_1367/initial_guess.pkl
+writing to  _top_1367/initial_guess.svg
+End Priority Solve
+End Priority Solve
+loading track 1945
+writing config {'trackidx': 1945} to _top_1945/config.json
+initial guess with M =  458
+writing to  _top_1945/initial_guess.pkl
+writing to  _top_1945/initial_guess.svg
+End Priority Solve
+End Priority Solve

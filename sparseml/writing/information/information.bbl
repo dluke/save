@@ -1,0 +1,469 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{thomas2018instantaneous}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9bd14e6a76eb81301e6562832fb7cdea}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Gilberto\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a7b31cd3e2e69ecba56300dd0b945677}{%
+           family={Fortuna},
+           familyi={F\bibinitperiod},
+           given={Ismael},
+           giveni={I\bibinitperiod}}}%
+        {{hash=09d68bbd7a49b43833fb8737c3fe0aad}{%
+           family={Perrone},
+           familyi={P\bibinitperiod},
+           given={Gabriel\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f4e7b9dfb16e82902561bee7552b5f6c}{%
+           family={Glazier},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f678faa303596d7b2b5b7dd40e14f71d}{%
+           family={Belmonte},
+           familyi={B\bibinitperiod},
+           given={Julio\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=257306e6781f3cd879151f21549ef875}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{df5076f39ae523c6928d456aa25dfb30}
+      \strng{fullhash}{adda3e58c5f88004e392a090efa861d3}
+      \strng{bibnamehash}{df5076f39ae523c6928d456aa25dfb30}
+      \strng{authorbibnamehash}{df5076f39ae523c6928d456aa25dfb30}
+      \strng{authornamehash}{df5076f39ae523c6928d456aa25dfb30}
+      \strng{authorfullhash}{adda3e58c5f88004e392a090efa861d3}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1810.03597}
+      \field{title}{Instantaneous cell migration velocity may be ill-defined}
+      \field{year}{2018}
+    \endentry
+    \entry{jin2011bacteria}{article}{}
+      \name{author}{4}{}{%
+        {{hash=811323a02282198ee9fbc6d685addedd}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fdefff5c3de6fdc6e81546f94ad24e34}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={Jacinta\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d0593ea9baa1e27d534500d1b2975090}{%
+           family={Gibiansky},
+           familyi={G\bibinitperiod},
+           given={Maxsim\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=29e212fd09c2e7a423d9efc996183d83}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Gerard\bibnamedelima CL},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{a7a17c305847ee370a41f2af086bd64f}
+      \strng{fullhash}{72fab44a1efaec97e14de9fda4c574b6}
+      \strng{bibnamehash}{a7a17c305847ee370a41f2af086bd64f}
+      \strng{authorbibnamehash}{a7a17c305847ee370a41f2af086bd64f}
+      \strng{authornamehash}{a7a17c305847ee370a41f2af086bd64f}
+      \strng{authorfullhash}{72fab44a1efaec97e14de9fda4c574b6}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{31}
+      \field{title}{Bacteria use type-IV pili to slingshot on surfaces}
+      \field{volume}{108}
+      \field{year}{2011}
+      \field{pages}{12617\bibrangedash 12622}
+      \range{pages}{6}
+    \endentry
+    \entry{ni2016bacteria}{article}{}
+      \name{author}{7}{}{%
+        {{hash=f2f9c2cfc454187a960d2079e10faa50}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a8cab462a0a4a31bc152995dba309a5d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shuai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=82a76a27d1ced18f82147be7d76ea703}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rongrong},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e9baf0ba36af37b2a88fd9286f7a2cd4}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Zhenyu},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=dd060cd064f8f607eb1bee6712820270}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fdefff5c3de6fdc6e81546f94ad24e34}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={Jacinta\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=811323a02282198ee9fbc6d685addedd}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{04587a901f0305482aa90142c70fc27b}
+      \strng{fullhash}{39e1f91327d548e08e18fd413d099f30}
+      \strng{bibnamehash}{04587a901f0305482aa90142c70fc27b}
+      \strng{authorbibnamehash}{04587a901f0305482aa90142c70fc27b}
+      \strng{authornamehash}{04587a901f0305482aa90142c70fc27b}
+      \strng{authorfullhash}{39e1f91327d548e08e18fd413d099f30}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NPJ biofilms and microbiomes}
+      \field{number}{1}
+      \field{title}{Bacteria differently deploy type-IV pili on surfaces to adapt to nutrient availability}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{delgado2019approximate}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e8b914698909fbe0709572b24f5fce59}{%
+           family={Delgado-Bonal},
+           familyi={D\bibinithyphendelim B\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c0ab3b761fb28044c42790efa4d4c4d1}{%
+           family={Marshak},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{244a91ecf863007d1a127d8f0005b18f}
+      \strng{fullhash}{244a91ecf863007d1a127d8f0005b18f}
+      \strng{bibnamehash}{244a91ecf863007d1a127d8f0005b18f}
+      \strng{authorbibnamehash}{244a91ecf863007d1a127d8f0005b18f}
+      \strng{authornamehash}{244a91ecf863007d1a127d8f0005b18f}
+      \strng{authorfullhash}{244a91ecf863007d1a127d8f0005b18f}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Entropy}
+      \field{number}{6}
+      \field{title}{Approximate entropy and sample entropy: A comprehensive tutorial}
+      \field{volume}{21}
+      \field{year}{2019}
+      \field{pages}{541}
+      \range{pages}{1}
+    \endentry
+    \entry{richman2000physiological}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f9826ba1ed26f9c5f3bab6e87355982b}{%
+           family={Richman},
+           familyi={R\bibinitperiod},
+           given={Joshua\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=291c077ba0484e249fffb5d233a287df}{%
+           family={Moorman},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima Randall},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological SocietyBethesda, MD}%
+      }
+      \strng{namehash}{72ca3fc1203bdf1c82ccfc067fd12952}
+      \strng{fullhash}{72ca3fc1203bdf1c82ccfc067fd12952}
+      \strng{bibnamehash}{72ca3fc1203bdf1c82ccfc067fd12952}
+      \strng{authorbibnamehash}{72ca3fc1203bdf1c82ccfc067fd12952}
+      \strng{authornamehash}{72ca3fc1203bdf1c82ccfc067fd12952}
+      \strng{authorfullhash}{72ca3fc1203bdf1c82ccfc067fd12952}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physiology-Heart and Circulatory Physiology}
+      \field{title}{Physiological time-series analysis using approximate entropy and sample entropy}
+      \field{year}{2000}
+    \endentry
+    \entry{costa2002multiscale}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c40f7f3a9a0dd169ddbdaa5068de1b6d}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Madalena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c99be12ffae540b5ba4cb3a23ee3ec0a}{%
+           family={Goldberger},
+           familyi={G\bibinitperiod},
+           given={Ary\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=02885d793f88ec0997e691e28ae877f2}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={C-K},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{01e9b665e0bb98416ef02cd6e418aa44}
+      \strng{fullhash}{01e9b665e0bb98416ef02cd6e418aa44}
+      \strng{bibnamehash}{01e9b665e0bb98416ef02cd6e418aa44}
+      \strng{authorbibnamehash}{01e9b665e0bb98416ef02cd6e418aa44}
+      \strng{authornamehash}{01e9b665e0bb98416ef02cd6e418aa44}
+      \strng{authorfullhash}{01e9b665e0bb98416ef02cd6e418aa44}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical review letters}
+      \field{number}{6}
+      \field{title}{Multiscale entropy analysis of complex physiologic time series}
+      \field{volume}{89}
+      \field{year}{2002}
+      \field{pages}{068102}
+      \range{pages}{1}
+    \endentry
+    \entry{dieterich2008anomalous}{article}{}
+      \name{author}{4}{}{%
+        {{hash=529bf57f819d260530a473aeeb1c905f}{%
+           family={Dieterich},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=63d3450d82f71f3f54570377f9e36647}{%
+           family={Klages},
+           familyi={K\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=59d0ab96de4e7b22576f1c583638b597}{%
+           family={Preuss},
+           familyi={P\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+        {{hash=804529042ecfb2f58fb3be24e915fb57}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Albrecht},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{7193d1162be52cf3462d89c82b2bcf7e}
+      \strng{fullhash}{0a27b54d410acfa083baba263ab10ff8}
+      \strng{bibnamehash}{7193d1162be52cf3462d89c82b2bcf7e}
+      \strng{authorbibnamehash}{7193d1162be52cf3462d89c82b2bcf7e}
+      \strng{authornamehash}{7193d1162be52cf3462d89c82b2bcf7e}
+      \strng{authorfullhash}{0a27b54d410acfa083baba263ab10ff8}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{2}
+      \field{title}{Anomalous dynamics of cell migration}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{459\bibrangedash 463}
+      \range{pages}{5}
+    \endentry
+    \entry{metzner2015superstatistical}{article}{}
+      \name{author}{6}{}{%
+        {{hash=684bfd59afc09f543d281fb8957b4c64}{%
+           family={Metzner},
+           familyi={M\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod}}}%
+        {{hash=41ed050fd07632c9e7153a4178c54de2}{%
+           family={Mark},
+           familyi={M\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6436a586b8cbcc960513c12db0ab79ef}{%
+           family={Steinwachs},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4671f49351a079d7b69351807b955bf2}{%
+           family={Lautscham},
+           familyi={L\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9494eedcd989ad61165899b3734cb5e7}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8a9d60260d74de4190536911083ef652}{%
+           family={Fabry},
+           familyi={F\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{0272f65cb09815ed8e88edf6c9284ebd}
+      \strng{fullhash}{20afb3d2d45da4d469b053e58e84a219}
+      \strng{bibnamehash}{0272f65cb09815ed8e88edf6c9284ebd}
+      \strng{authorbibnamehash}{0272f65cb09815ed8e88edf6c9284ebd}
+      \strng{authornamehash}{0272f65cb09815ed8e88edf6c9284ebd}
+      \strng{authorfullhash}{20afb3d2d45da4d469b053e58e84a219}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature communications}
+      \field{number}{1}
+      \field{title}{Superstatistical analysis and modelling of heterogeneous random walks}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{tala2019pseudomonas}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6ca67d235d2fe0b6982d70da929650a9}{%
+           family={Tal{à}},
+           familyi={T\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7250134248b189bd3c3fb7dfb4cf2e2b}{%
+           family={Fineberg},
+           familyi={F\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fab419cdaa00d874f3e9471c78e14335}{%
+           family={Kukura},
+           familyi={K\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e9dd82694d837af51c5bb54baa724d98}{%
+           family={Persat},
+           familyi={P\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{f7e0a757c15964f0376460315a373c38}
+      \strng{fullhash}{a3d0937d457884789cf2540a1069f0b6}
+      \strng{bibnamehash}{f7e0a757c15964f0376460315a373c38}
+      \strng{authorbibnamehash}{f7e0a757c15964f0376460315a373c38}
+      \strng{authornamehash}{f7e0a757c15964f0376460315a373c38}
+      \strng{authorfullhash}{a3d0937d457884789cf2540a1069f0b6}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature microbiology}
+      \field{number}{5}
+      \field{title}{Pseudomonas aeruginosa orchestrates twitching motility by sequential control of type IV pili movements}
+      \field{volume}{4}
+      \field{year}{2019}
+      \field{pages}{774\bibrangedash 780}
+      \range{pages}{7}
+    \endentry
+    \entry{koch2021competitive}{article}{}
+      \name{author}{5}{}{%
+        {{hash=55405d009686b9a7e8400ac205284df8}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Matthias\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=fc6901957f404ac23ef685a95ff3cf2a}{%
+           family={Fei},
+           familyi={F\bibinitperiod},
+           given={Chenyi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a4dbca0f81f36c299b907db74c8f46eb}{%
+           family={Wingreen},
+           familyi={W\bibinitperiod},
+           given={Ned\bibnamedelima S},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=afc6a03003f17700734a7d68f7cec64f}{%
+           family={Shaevitz},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=422f8133134c9f96397671488ad30246}{%
+           family={Gitai},
+           familyi={G\bibinitperiod},
+           given={Zemer},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{d663c2717d42d890b4f71fbe3a29bb3f}
+      \strng{fullhash}{80f66f8c4e6a1ed2582434885d30503f}
+      \strng{bibnamehash}{d663c2717d42d890b4f71fbe3a29bb3f}
+      \strng{authorbibnamehash}{d663c2717d42d890b4f71fbe3a29bb3f}
+      \strng{authornamehash}{d663c2717d42d890b4f71fbe3a29bb3f}
+      \strng{authorfullhash}{80f66f8c4e6a1ed2582434885d30503f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{8}
+      \field{title}{Competitive binding of independent extension and retraction motors explains the quantitative dynamics of type IV pili}
+      \field{volume}{118}
+      \field{year}{2021}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

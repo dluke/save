@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="304.80002mm"
+   height="128.03548mm"
+   viewBox="0 0 304.80002 128.03548"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="composite_sample_entropy.svg"
+   inkscape:export-filename="/home/dan/usb_twitching/sparseml/writing/ims/composite_sample_entropy.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="562.82107"
+     inkscape:cy="209.98456"
+     inkscape:window-width="1652"
+     inkscape:window-height="1016"
+     inkscape:window-x="207"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="124.33519,118.32546"
+       orientation="0,-1"
+       id="guide3840" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="67.533401"
+       y="-91.672852"
+       width="89.509354"
+       height="59.803558"
+       id="rect1340" />
+    <rect
+       x="61.20541"
+       y="-72.454529"
+       width="87.038208"
+       height="44.79908"
+       id="rect1070" />
+    <rect
+       x="67.533401"
+       y="-91.672852"
+       width="89.509354"
+       height="59.803558"
+       id="rect1340-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.0827537,-32.949918)">
+    <image
+       width="177.8"
+       height="127"
+       preserveAspectRatio="none"
+       xlink:href="prw_entropy.png"
+       id="image832"
+       x="-6.0827537"
+       y="33.985397"
+       sodipodi:absref="/home/dan/usb_twitching/sparseml/writing/ims/prw_entropy.png" />
+    <image
+       width="127"
+       height="127"
+       preserveAspectRatio="none"
+       xlink:href="sample_entropy.png"
+       id="image844"
+       x="171.71725"
+       y="33.985397"
+       sodipodi:absref="/home/dan/usb_twitching/sparseml/writing/ims/sample_entropy.png" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.0827537,33.985397)"
+       id="text1068"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1070)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.48389456,0,0,0.48389456,-38.532586,75.873588)"
+       id="text1338"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1340)"><tspan
+         x="67.533203"
+         y="-70.4375"
+         id="tspan3926">a</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.48389456,0,0,0.48389456,143.29077,75.857756)"
+       id="text1338-6"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1340-3)"><tspan
+         x="67.533203"
+         y="-70.4375"
+         id="tspan3928">b</tspan></text>
+  </g>
+</svg>

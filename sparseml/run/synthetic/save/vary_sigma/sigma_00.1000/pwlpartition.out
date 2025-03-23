@@ -1,0 +1,692 @@
+writing to  sigma_00.1000/initial_guess.pkl
+iter 0 T 1 sidx 0 index 0 move destroy M 24
+iter 1 T 1 sidx -1 index 23 move create M 24
+iter 2 T 1 sidx 1 index 1 move percolate M 24
+optimisation finished successfully after 281 iterations, 414 evaluations
+optimisation finished successfully after 87 iterations, 139 evaluations
+optimisation finished successfully after 51 iterations, 89 evaluations
+optimisation finished successfully after 117 iterations, 175 evaluations
+iter 3 T 1 sidx 2 index 2 move destroy M 24
+optimisation finished successfully after 222 iterations, 319 evaluations
+destroy True (59, 24) (59, 23)
+iter 4 T 1.0 sidx 1 index 1 move create M 23
+optimisation finished successfully after 98 iterations, 157 evaluations
+create True (59, 23) (58, 24)
+iter 5 T 1.0 sidx 1 index 1 move create M 24
+optimisation finished successfully after 78 iterations, 128 evaluations
+create False (58, 24) (59, 25)
+iter 6 T 1.0 sidx 3 index 3 move destroy M 24
+optimisation finished successfully after 54 iterations, 96 evaluations
+destroy True (58, 24) (56, 23)
+iter 7 T 1.0 sidx 4 index 3 move create M 23
+optimisation finished successfully after 222 iterations, 324 evaluations
+create True (56, 23) (55, 24)
+iter 8 T 1.0 sidx 4 index 3 move percolate M 24
+optimisation finished successfully after 151 iterations, 230 evaluations
+optimisation finished successfully after 50 iterations, 90 evaluations
+optimisation finished successfully after 52 iterations, 88 evaluations
+iter 9 T 1.0 sidx 5 index 5 move create M 24
+optimisation finished successfully after 127 iterations, 192 evaluations
+create True (54, 24) (52, 25)
+iter 10 T 1.0 sidx 5 index 5 move create M 25
+optimisation finished successfully after 51 iterations, 92 evaluations
+create False (52, 25) (53, 26)
+iter 11 T 1.0 sidx 6 index 7 move percolate M 25
+optimisation finished successfully after 210 iterations, 309 evaluations
+optimisation finished successfully after 93 iterations, 153 evaluations
+optimisation finished successfully after 73 iterations, 122 evaluations
+iter 12 T 1 sidx 7 index 8 move destroy M 25
+optimisation finished successfully after 141 iterations, 227 evaluations
+destroy False (49, 25) (51, 24)
+iter 13 T 1 sidx 8 index 9 move create M 25
+optimisation finished successfully after 103 iterations, 172 evaluations
+create False (49, 25) (50, 26)
+iter 14 T 1 sidx 9 index 10 move destroy M 25
+optimisation finished successfully after 298 iterations, 448 evaluations
+destroy True (49, 25) (47, 24)
+iter 15 T 1.0 sidx 8 index 9 move destroy M 24
+optimisation finished successfully after 257 iterations, 384 evaluations
+destroy False (47, 24) (60, 23)
+iter 16 T 1.0 sidx 10 index 10 move destroy M 24
+optimisation finished successfully after 233 iterations, 356 evaluations
+destroy True (47, 24) (44, 23)
+iter 17 T 1.0 sidx 8 index 9 move destroy M 23
+optimisation finished successfully after 327 iterations, 473 evaluations
+destroy False (44, 23) (55, 22)
+iter 18 T 1.0 sidx 11 index 10 move destroy M 23
+optimisation finished successfully after 172 iterations, 260 evaluations
+destroy False (44, 23) (53, 22)
+iter 19 T 1 sidx 12 index 11 move destroy M 23
+optimisation finished successfully after 334 iterations, 487 evaluations
+destroy False (44, 23) (51, 22)
+iter 20 T 1 sidx 13 index 12 move destroy M 23
+optimisation finished successfully after 189 iterations, 293 evaluations
+destroy True (44, 23) (42, 22)
+iter 21 T 1.0 sidx 12 index 11 move create M 22
+optimisation finished successfully after 397 iterations, 573 evaluations
+create True (42, 22) (40, 23)
+iter 22 T 1.0 sidx 12 index 11 move create M 23
+optimisation finished successfully after 58 iterations, 106 evaluations
+create False (40, 23) (41, 24)
+iter 23 T 1.0 sidx 14 index 13 move create M 23
+optimisation finished successfully after 121 iterations, 188 evaluations
+create False (40, 23) (40, 24)
+iter 24 T 1 sidx 15 index 14 move destroy M 23
+optimisation finished successfully after 209 iterations, 329 evaluations
+destroy False (40, 23) (42, 22)
+iter 25 T 1 sidx 16 index 15 move destroy M 23
+optimisation finished successfully after 274 iterations, 410 evaluations
+destroy False (40, 23) (45, 22)
+iter 26 T 1 sidx 17 index 16 move create M 23
+optimisation finished successfully after 379 iterations, 555 evaluations
+create True (40, 23) (35, 24)
+iter 27 T 1.0 sidx 17 index 16 move create M 24
+optimisation finished successfully after 209 iterations, 306 evaluations
+create False (35, 24) (37, 25)
+iter 28 T 1.0 sidx 18 index 18 move destroy M 24
+optimisation finished successfully after 251 iterations, 375 evaluations
+destroy True (35, 24) (32, 23)
+iter 29 T 1.0 sidx 19 index 18 move percolate M 23
+optimisation finished successfully after 557 iterations, 801 evaluations
+optimisation finished successfully after 108 iterations, 172 evaluations
+optimisation finished successfully after 117 iterations, 192 evaluations
+optimisation finished successfully after 62 iterations, 114 evaluations
+optimisation finished successfully after 96 iterations, 156 evaluations
+optimisation finished successfully after 73 iterations, 131 evaluations
+optimisation finished successfully after 64 iterations, 113 evaluations
+optimisation finished successfully after 73 iterations, 128 evaluations
+iter 30 T 1 sidx 20 index 19 move create M 23
+optimisation finished successfully after 71 iterations, 121 evaluations
+create False (31, 23) (32, 24)
+iter 31 T 1 sidx 21 index 20 move percolate M 23
+optimisation finished successfully after 449 iterations, 647 evaluations
+optimisation finished successfully after 104 iterations, 168 evaluations
+optimisation finished successfully after 97 iterations, 157 evaluations
+optimisation finished successfully after 151 iterations, 227 evaluations
+optimisation finished successfully after 142 iterations, 216 evaluations
+iter 32 T 1 sidx 22 index 21 move percolate M 23
+optimisation finished successfully after 46 iterations, 86 evaluations
+optimisation finished successfully after 69 iterations, 119 evaluations
+optimisation finished successfully after 49 iterations, 90 evaluations
+optimisation finished successfully after 49 iterations, 88 evaluations
+iter 33 T 1.0 sidx 24 index 2 move create M 23
+optimisation finished successfully after 73 iterations, 116 evaluations
+create False (28, 23) (29, 24)
+iter 34 T 1.0 sidx 25 index 4 move percolate M 23
+optimisation finished successfully after 81 iterations, 139 evaluations
+optimisation finished successfully after 99 iterations, 160 evaluations
+optimisation finished successfully after 73 iterations, 134 evaluations
+iter 35 T 1.0 sidx 26 index 6 move destroy M 23
+optimisation finished successfully after 116 iterations, 182 evaluations
+destroy True (28, 23) (27, 22)
+iter 36 T 1.0 sidx 27 index 11 move percolate M 22
+optimisation finished successfully after 56 iterations, 106 evaluations
+optimisation finished successfully after 107 iterations, 170 evaluations
+optimisation finished successfully after 627 iterations, 895 evaluations
+optimisation finished successfully after 81 iterations, 137 evaluations
+optimisation finished successfully after 88 iterations, 147 evaluations
+iter 37 T 1.0 sidx 5 index 5 move create M 22
+optimisation finished successfully after 45 iterations, 83 evaluations
+create False (26, 22) (27, 23)
+iter 38 T 1.0 sidx 6 index 6 move destroy M 22
+optimisation finished successfully after 142 iterations, 224 evaluations
+destroy False (26, 22) (28, 21)
+iter 39 T 1.0 sidx 28 index 16 move percolate M 22
+optimisation finished successfully after 195 iterations, 284 evaluations
+optimisation finished successfully after 59 iterations, 107 evaluations
+optimisation finished successfully after 70 iterations, 120 evaluations
+optimisation finished successfully after 60 iterations, 113 evaluations
+optimisation finished successfully after 44 iterations, 89 evaluations
+optimisation finished successfully after 104 iterations, 175 evaluations
+iter 40 T 0.8333333333333334 sidx -1 index 21 move destroy M 22
+optimisation finished successfully after 72 iterations, 120 evaluations
+destroy False (25, 22) (30, 21)
+iter 41 T 0.8333333333333334 sidx 0 index 0 move create M 22
+optimisation finished successfully after 24 iterations, 43 evaluations
+create False (25, 22) (26, 23)
+iter 42 T 0.8333333333333334 sidx 1 index 1 move destroy M 22
+optimisation finished successfully after 120 iterations, 187 evaluations
+destroy False (25, 22) (34, 21)
+iter 43 T 0.8333333333333334 sidx 4 index 3 move create M 22
+optimisation finished successfully after 52 iterations, 91 evaluations
+create False (25, 22) (26, 23)
+iter 44 T 0.8333333333333334 sidx 5 index 5 move destroy M 22
+optimisation finished successfully after 63 iterations, 108 evaluations
+destroy True (25, 22) (24, 21)
+iter 45 T 1.0 sidx 6 index 5 move destroy M 21
+optimisation finished successfully after 449 iterations, 667 evaluations
+destroy False (24, 21) (36, 20)
+iter 46 T 1.0 sidx 25 index 4 move percolate M 21
+optimisation finished successfully after 65 iterations, 114 evaluations
+optimisation finished successfully after 100 iterations, 156 evaluations
+iter 47 T 0.8333333333333334 sidx 6 index 5 move create M 21
+optimisation finished successfully after 57 iterations, 95 evaluations
+create False (24, 21) (25, 22)
+iter 48 T 0.8333333333333334 sidx 7 index 6 move create M 21
+optimisation finished successfully after 121 iterations, 182 evaluations
+create False (24, 21) (25, 22)
+iter 49 T 0.8333333333333334 sidx 8 index 7 move create M 21
+optimisation finished successfully after 61 iterations, 110 evaluations
+create False (24, 21) (25, 22)
+iter 50 T 0.8333333333333334 sidx 11 index 8 move percolate M 21
+optimisation finished successfully after 69 iterations, 119 evaluations
+optimisation finished successfully after 298 iterations, 428 evaluations
+optimisation finished successfully after 75 iterations, 126 evaluations
+optimisation finished successfully after 59 iterations, 110 evaluations
+iter 51 T 0.8333333333333334 sidx 12 index 9 move destroy M 21
+optimisation finished successfully after 246 iterations, 357 evaluations
+destroy False (23, 21) (33, 20)
+iter 52 T 0.8333333333333334 sidx 14 index 11 move destroy M 21
+optimisation finished successfully after 203 iterations, 304 evaluations
+destroy False (23, 21) (34, 20)
+iter 53 T 0.8333333333333334 sidx 15 index 12 move percolate M 21
+optimisation finished successfully after 66 iterations, 115 evaluations
+optimisation finished successfully after 49 iterations, 98 evaluations
+optimisation finished successfully after 58 iterations, 105 evaluations
+optimisation finished successfully after 44 iterations, 88 evaluations
+optimisation finished successfully after 53 iterations, 100 evaluations
+optimisation finished successfully after 64 iterations, 116 evaluations
+optimisation finished successfully after 54 iterations, 100 evaluations
+iter 54 T 0.8333333333333334 sidx 16 index 13 move percolate M 21
+optimisation finished successfully after 98 iterations, 158 evaluations
+optimisation finished successfully after 83 iterations, 138 evaluations
+optimisation finished successfully after 88 iterations, 143 evaluations
+iter 55 T 0.8333333333333334 sidx 17 index 14 move percolate M 21
+optimisation finished successfully after 54 iterations, 102 evaluations
+optimisation finished successfully after 71 iterations, 125 evaluations
+optimisation finished successfully after 46 iterations, 91 evaluations
+iter 56 T 0.8333333333333334 sidx 19 index 16 move create M 21
+optimisation finished successfully after 116 iterations, 183 evaluations
+create False (21, 21) (22, 22)
+iter 57 T 0.8333333333333334 sidx 20 index 17 move percolate M 21
+optimisation finished successfully after 72 iterations, 124 evaluations
+optimisation finished successfully after 88 iterations, 149 evaluations
+optimisation finished successfully after 84 iterations, 146 evaluations
+optimisation finished successfully after 80 iterations, 137 evaluations
+optimisation finished successfully after 80 iterations, 132 evaluations
+iter 58 T 0.8333333333333334 sidx 21 index 18 move create M 21
+optimisation finished successfully after 108 iterations, 176 evaluations
+create False (21, 21) (22, 22)
+iter 59 T 0.8333333333333334 sidx 22 index 19 move create M 21
+optimisation finished successfully after 335 iterations, 491 evaluations
+create False (21, 21) (22, 22)
+iter 60 T 0.8333333333333334 sidx 24 index 2 move destroy M 21
+optimisation finished successfully after 279 iterations, 419 evaluations
+destroy False (21, 21) (27, 20)
+iter 61 T 0.8333333333333334 sidx 25 index 4 move create M 21
+optimisation finished successfully after 54 iterations, 97 evaluations
+create False (21, 21) (22, 22)
+iter 62 T 0.8333333333333334 sidx 28 index 15 move destroy M 21
+optimisation finished successfully after 35 iterations, 72 evaluations
+destroy True (21, 21) (20, 20)
+iter 63 T 1.0 sidx 17 index 14 move create M 20
+optimisation finished successfully after 137 iterations, 209 evaluations
+create False (20, 20) (21, 21)
+iter 64 T 1.0 sidx 19 index 15 move destroy M 20
+optimisation finished successfully after 180 iterations, 274 evaluations
+destroy False (20, 20) (28, 19)
+iter 65 T 0.8333333333333334 sidx 17 index 14 move percolate M 20
+optimisation finished successfully after 56 iterations, 102 evaluations
+optimisation finished successfully after 44 iterations, 92 evaluations
+optimisation finished successfully after 62 iterations, 115 evaluations
+iter 66 T 0.8333333333333334 sidx 19 index 15 move percolate M 20
+optimisation finished successfully after 74 iterations, 129 evaluations
+optimisation finished successfully after 111 iterations, 177 evaluations
+iter 67 T 0.6666666666666666 sidx -1 index 19 move percolate M 20
+iter 68 T 0.6666666666666666 sidx 0 index 0 move percolate M 20
+iter 69 T 0.6666666666666666 sidx 1 index 1 move percolate M 20
+optimisation finished successfully after 44 iterations, 74 evaluations
+optimisation finished successfully after 65 iterations, 104 evaluations
+iter 70 T 0.6666666666666666 sidx 4 index 3 move destroy M 20
+optimisation finished successfully after 158 iterations, 237 evaluations
+destroy False (20, 20) (21, 19)
+iter 71 T 0.6666666666666666 sidx 6 index 5 move percolate M 20
+optimisation finished successfully after 56 iterations, 102 evaluations
+optimisation finished successfully after 55 iterations, 102 evaluations
+optimisation finished successfully after 55 iterations, 99 evaluations
+optimisation finished successfully after 52 iterations, 98 evaluations
+iter 72 T 0.6666666666666666 sidx 7 index 6 move percolate M 20
+optimisation finished successfully after 87 iterations, 140 evaluations
+optimisation finished successfully after 69 iterations, 123 evaluations
+optimisation finished successfully after 74 iterations, 128 evaluations
+iter 73 T 0.6666666666666666 sidx 8 index 7 move percolate M 20
+optimisation finished successfully after 45 iterations, 85 evaluations
+optimisation finished successfully after 76 iterations, 133 evaluations
+optimisation finished successfully after 45 iterations, 86 evaluations
+iter 74 T 0.6666666666666666 sidx 11 index 8 move create M 20
+optimisation finished successfully after 77 iterations, 123 evaluations
+create False (20, 20) (21, 21)
+iter 75 T 0.6666666666666666 sidx 12 index 9 move percolate M 20
+optimisation finished successfully after 56 iterations, 103 evaluations
+optimisation finished successfully after 93 iterations, 150 evaluations
+optimisation finished successfully after 64 iterations, 112 evaluations
+iter 76 T 0.6666666666666666 sidx 14 index 11 move percolate M 20
+optimisation finished successfully after 55 iterations, 101 evaluations
+optimisation finished successfully after 82 iterations, 136 evaluations
+iter 77 T 0.6666666666666666 sidx 15 index 12 move create M 20
+optimisation finished successfully after 45 iterations, 88 evaluations
+create False (20, 20) (21, 21)
+iter 78 T 0.6666666666666666 sidx 16 index 13 move create M 20
+optimisation finished successfully after 69 iterations, 121 evaluations
+create False (20, 20) (21, 21)
+iter 79 T 0.6666666666666666 sidx 17 index 14 move destroy M 20
+optimisation finished successfully after 390 iterations, 573 evaluations
+destroy False (20, 20) (26, 19)
+iter 80 T 0.6666666666666666 sidx 19 index 15 move create M 20
+optimisation finished successfully after 85 iterations, 141 evaluations
+create False (20, 20) (21, 21)
+iter 81 T 0.6666666666666666 sidx 20 index 16 move destroy M 20
+optimisation finished successfully after 322 iterations, 472 evaluations
+destroy False (20, 20) (22, 19)
+iter 82 T 0.6666666666666666 sidx 21 index 17 move destroy M 20
+optimisation finished successfully after 233 iterations, 348 evaluations
+destroy False (20, 20) (23, 19)
+iter 83 T 0.6666666666666666 sidx 22 index 18 move destroy M 20
+optimisation finished successfully after 197 iterations, 303 evaluations
+destroy False (20, 20) (25, 19)
+iter 84 T 0.6666666666666666 sidx 24 index 2 move percolate M 20
+optimisation finished successfully after 62 iterations, 108 evaluations
+optimisation finished successfully after 48 iterations, 84 evaluations
+optimisation finished successfully after 36 iterations, 69 evaluations
+optimisation finished successfully after 29 iterations, 62 evaluations
+optimisation finished successfully after 24 iterations, 51 evaluations
+iter 85 T 0.6666666666666666 sidx 25 index 4 move destroy M 20
+optimisation finished successfully after 179 iterations, 265 evaluations
+destroy False (20, 20) (28, 19)
+iter 86 T 0.6666666666666666 sidx 27 index 10 move destroy M 20
+optimisation finished successfully after 155 iterations, 234 evaluations
+destroy False (20, 20) (26, 19)
+iter 87 T 0.5 sidx -1 index 19 move create M 20
+iter 88 T 0.5 sidx 0 index 0 move create M 20
+optimisation finished successfully after 46 iterations, 79 evaluations
+create False (20, 20) (21, 21)
+iter 89 T 0.5 sidx 1 index 1 move destroy M 20
+optimisation finished successfully after 129 iterations, 205 evaluations
+destroy False (20, 20) (29, 19)
+iter 90 T 0.5 sidx 4 index 3 move destroy M 20
+optimisation finished successfully after 206 iterations, 307 evaluations
+destroy False (20, 20) (21, 19)
+iter 91 T 0.5 sidx 6 index 5 move percolate M 20
+optimisation finished successfully after 66 iterations, 119 evaluations
+optimisation finished successfully after 76 iterations, 131 evaluations
+iter 92 T 0.5 sidx 7 index 6 move create M 20
+optimisation finished successfully after 49 iterations, 87 evaluations
+create False (20, 20) (21, 21)
+iter 93 T 0.5 sidx 8 index 7 move percolate M 20
+optimisation finished successfully after 70 iterations, 120 evaluations
+optimisation finished successfully after 56 iterations, 102 evaluations
+optimisation finished successfully after 62 iterations, 114 evaluations
+optimisation finished successfully after 46 iterations, 90 evaluations
+iter 94 T 0.5 sidx 11 index 8 move destroy M 20
+optimisation finished successfully after 425 iterations, 609 evaluations
+destroy False (20, 20) (31, 19)
+iter 95 T 0.5 sidx 12 index 9 move percolate M 20
+optimisation finished successfully after 75 iterations, 127 evaluations
+optimisation finished successfully after 60 iterations, 108 evaluations
+iter 96 T 0.5 sidx 14 index 11 move destroy M 20
+optimisation finished successfully after 284 iterations, 412 evaluations
+destroy False (20, 20) (31, 19)
+iter 97 T 0.5 sidx 15 index 12 move destroy M 20
+optimisation finished successfully after 575 iterations, 834 evaluations
+destroy False (20, 20) (33, 19)
+iter 98 T 0.5 sidx 16 index 13 move destroy M 20
+optimisation finished successfully after 103 iterations, 172 evaluations
+destroy False (20, 20) (34, 19)
+iter 99 T 0.5 sidx 17 index 14 move destroy M 20
+optimisation finished successfully after 390 iterations, 573 evaluations
+destroy False (20, 20) (26, 19)
+iter 100 T 0.5 sidx 19 index 15 move destroy M 20
+optimisation finished successfully after 165 iterations, 261 evaluations
+destroy False (20, 20) (28, 19)
+iter 101 T 0.5 sidx 20 index 16 move percolate M 20
+optimisation finished successfully after 68 iterations, 120 evaluations
+optimisation finished successfully after 92 iterations, 157 evaluations
+iter 102 T 0.5 sidx 21 index 17 move destroy M 20
+optimisation finished successfully after 233 iterations, 348 evaluations
+destroy False (20, 20) (23, 19)
+iter 103 T 0.5 sidx 22 index 18 move destroy M 20
+optimisation finished successfully after 197 iterations, 303 evaluations
+destroy False (20, 20) (25, 19)
+iter 104 T 0.5 sidx 24 index 2 move create M 20
+optimisation finished successfully after 14 iterations, 34 evaluations
+create False (20, 20) (21, 21)
+iter 105 T 0.5 sidx 25 index 4 move destroy M 20
+optimisation finished successfully after 117 iterations, 182 evaluations
+destroy False (20, 20) (27, 19)
+iter 106 T 0.5 sidx 27 index 10 move destroy M 20
+optimisation finished successfully after 203 iterations, 307 evaluations
+destroy False (20, 20) (28, 19)
+iter 107 T 0.41666666666666674 sidx -1 index 19 move percolate M 20
+iter 108 T 0.41666666666666674 sidx 0 index 0 move destroy M 20
+iter 109 T 0.41666666666666674 sidx 1 index 1 move percolate M 20
+optimisation finished successfully after 45 iterations, 77 evaluations
+optimisation finished successfully after 60 iterations, 99 evaluations
+optimisation finished successfully after 46 iterations, 75 evaluations
+iter 110 T 0.41666666666666674 sidx 4 index 3 move create M 20
+optimisation finished successfully after 73 iterations, 122 evaluations
+create False (20, 20) (21, 21)
+iter 111 T 0.41666666666666674 sidx 6 index 5 move destroy M 20
+optimisation finished successfully after 288 iterations, 437 evaluations
+destroy False (20, 20) (33, 19)
+iter 112 T 0.41666666666666674 sidx 7 index 6 move percolate M 20
+optimisation finished successfully after 59 iterations, 108 evaluations
+optimisation finished successfully after 87 iterations, 140 evaluations
+iter 113 T 0.41666666666666674 sidx 8 index 7 move create M 20
+optimisation finished successfully after 65 iterations, 114 evaluations
+create False (20, 20) (21, 21)
+iter 114 T 0.41666666666666674 sidx 11 index 8 move percolate M 20
+optimisation finished successfully after 78 iterations, 132 evaluations
+optimisation finished successfully after 76 iterations, 132 evaluations
+iter 115 T 0.41666666666666674 sidx 12 index 9 move create M 20
+optimisation finished successfully after 52 iterations, 95 evaluations
+create False (20, 20) (21, 21)
+iter 116 T 0.41666666666666674 sidx 14 index 11 move percolate M 20
+optimisation finished successfully after 67 iterations, 119 evaluations
+optimisation finished successfully after 77 iterations, 133 evaluations
+iter 117 T 0.41666666666666674 sidx 15 index 12 move create M 20
+optimisation finished successfully after 45 iterations, 89 evaluations
+create False (20, 20) (21, 21)
+iter 118 T 0.41666666666666674 sidx 16 index 13 move percolate M 20
+optimisation finished successfully after 79 iterations, 133 evaluations
+optimisation finished successfully after 86 iterations, 140 evaluations
+iter 119 T 0.41666666666666674 sidx 17 index 14 move create M 20
+optimisation finished successfully after 44 iterations, 83 evaluations
+create False (20, 20) (21, 21)
+iter 120 T 0.41666666666666674 sidx 19 index 15 move percolate M 20
+optimisation finished successfully after 74 iterations, 129 evaluations
+optimisation finished successfully after 111 iterations, 177 evaluations
+iter 121 T 0.41666666666666674 sidx 20 index 16 move create M 20
+optimisation finished successfully after 48 iterations, 91 evaluations
+create False (20, 20) (21, 21)
+iter 122 T 0.41666666666666674 sidx 21 index 17 move create M 20
+optimisation finished successfully after 124 iterations, 195 evaluations
+create False (20, 20) (21, 21)
+iter 123 T 0.41666666666666674 sidx 22 index 18 move create M 20
+optimisation finished successfully after 362 iterations, 539 evaluations
+create False (20, 20) (21, 21)
+iter 124 T 0.41666666666666674 sidx 24 index 2 move destroy M 20
+optimisation finished successfully after 198 iterations, 297 evaluations
+destroy False (20, 20) (27, 19)
+iter 125 T 0.41666666666666674 sidx 25 index 4 move create M 20
+optimisation finished successfully after 98 iterations, 151 evaluations
+create False (20, 20) (21, 21)
+iter 126 T 0.41666666666666674 sidx 27 index 10 move percolate M 20
+optimisation finished successfully after 76 iterations, 127 evaluations
+optimisation finished successfully after 116 iterations, 182 evaluations
+iter 127 T 0.33333333333333326 sidx -1 index 19 move destroy M 20
+optimisation finished successfully after 69 iterations, 119 evaluations
+destroy False (20, 20) (25, 19)
+iter 128 T 0.33333333333333326 sidx 0 index 0 move percolate M 20
+iter 129 T 0.33333333333333326 sidx 1 index 1 move create M 20
+optimisation finished successfully after 57 iterations, 92 evaluations
+create False (20, 20) (21, 21)
+iter 130 T 0.33333333333333326 sidx 4 index 3 move percolate M 20
+optimisation finished successfully after 45 iterations, 84 evaluations
+optimisation finished successfully after 48 iterations, 90 evaluations
+iter 131 T 0.33333333333333326 sidx 6 index 5 move create M 20
+optimisation finished successfully after 87 iterations, 141 evaluations
+create False (20, 20) (21, 21)
+iter 132 T 0.33333333333333326 sidx 7 index 6 move destroy M 20
+optimisation finished successfully after 224 iterations, 339 evaluations
+destroy False (20, 20) (28, 19)
+iter 133 T 0.33333333333333326 sidx 8 index 7 move destroy M 20
+optimisation finished successfully after 323 iterations, 474 evaluations
+destroy False (20, 20) (31, 19)
+iter 134 T 0.33333333333333326 sidx 11 index 8 move create M 20
+optimisation finished successfully after 80 iterations, 136 evaluations
+create False (20, 20) (21, 21)
+iter 135 T 0.33333333333333326 sidx 12 index 9 move destroy M 20
+optimisation finished successfully after 352 iterations, 518 evaluations
+destroy False (20, 20) (29, 19)
+iter 136 T 0.33333333333333326 sidx 14 index 11 move create M 20
+optimisation finished successfully after 59 iterations, 105 evaluations
+create False (20, 20) (21, 21)
+iter 137 T 0.33333333333333326 sidx 15 index 12 move percolate M 20
+optimisation finished successfully after 67 iterations, 120 evaluations
+optimisation finished successfully after 46 iterations, 91 evaluations
+iter 138 T 0.33333333333333326 sidx 16 index 13 move create M 20
+optimisation finished successfully after 69 iterations, 121 evaluations
+create False (20, 20) (21, 21)
+iter 139 T 0.33333333333333326 sidx 17 index 14 move percolate M 20
+optimisation finished successfully after 46 iterations, 95 evaluations
+optimisation finished successfully after 64 iterations, 113 evaluations
+optimisation finished successfully after 44 iterations, 90 evaluations
+iter 140 T 0.33333333333333326 sidx 19 index 15 move create M 20
+optimisation finished successfully after 204 iterations, 302 evaluations
+create False (20, 20) (21, 21)
+iter 141 T 0.33333333333333326 sidx 20 index 16 move destroy M 20
+optimisation finished successfully after 312 iterations, 455 evaluations
+destroy False (20, 20) (22, 19)
+iter 142 T 0.33333333333333326 sidx 21 index 17 move percolate M 20
+optimisation finished successfully after 95 iterations, 160 evaluations
+optimisation finished successfully after 91 iterations, 150 evaluations
+iter 143 T 0.33333333333333326 sidx 22 index 18 move percolate M 20
+optimisation finished successfully after 42 iterations, 79 evaluations
+optimisation finished successfully after 61 iterations, 109 evaluations
+optimisation finished successfully after 32 iterations, 65 evaluations
+iter 144 T 0.33333333333333326 sidx 24 index 2 move percolate M 20
+optimisation finished successfully after 20 iterations, 47 evaluations
+optimisation finished successfully after 23 iterations, 52 evaluations
+optimisation finished successfully after 63 iterations, 106 evaluations
+iter 145 T 0.33333333333333326 sidx 25 index 4 move percolate M 20
+optimisation finished successfully after 56 iterations, 101 evaluations
+optimisation finished successfully after 149 iterations, 224 evaluations
+iter 146 T 0.33333333333333326 sidx 27 index 10 move create M 20
+optimisation finished successfully after 67 iterations, 118 evaluations
+create False (20, 20) (22, 21)
+iter 147 T 0.25 sidx -1 index 19 move create M 20
+iter 148 T 0.25 sidx 0 index 0 move create M 20
+optimisation finished successfully after 55 iterations, 93 evaluations
+create False (20, 20) (21, 21)
+iter 149 T 0.25 sidx 1 index 1 move destroy M 20
+optimisation finished successfully after 123 iterations, 198 evaluations
+destroy False (20, 20) (29, 19)
+iter 150 T 0.25 sidx 4 index 3 move percolate M 20
+optimisation finished successfully after 39 iterations, 73 evaluations
+optimisation finished successfully after 66 iterations, 114 evaluations
+iter 151 T 0.25 sidx 6 index 5 move create M 20
+optimisation finished successfully after 122 iterations, 186 evaluations
+create False (20, 20) (21, 21)
+iter 152 T 0.25 sidx 7 index 6 move create M 20
+optimisation finished successfully after 158 iterations, 240 evaluations
+create False (20, 20) (21, 21)
+iter 153 T 0.25 sidx 8 index 7 move destroy M 20
+optimisation finished successfully after 345 iterations, 519 evaluations
+destroy False (20, 20) (31, 19)
+iter 154 T 0.25 sidx 11 index 8 move percolate M 20
+optimisation finished successfully after 78 iterations, 132 evaluations
+optimisation finished successfully after 76 iterations, 132 evaluations
+iter 155 T 0.25 sidx 12 index 9 move percolate M 20
+optimisation finished successfully after 70 iterations, 119 evaluations
+optimisation finished successfully after 62 iterations, 114 evaluations
+iter 156 T 0.25 sidx 14 index 11 move create M 20
+optimisation finished successfully after 53 iterations, 100 evaluations
+create False (20, 20) (21, 21)
+iter 157 T 0.25 sidx 15 index 12 move destroy M 20
+optimisation finished successfully after 293 iterations, 426 evaluations
+destroy False (20, 20) (33, 19)
+iter 158 T 0.25 sidx 16 index 13 move create M 20
+optimisation finished successfully after 78 iterations, 136 evaluations
+create False (20, 20) (21, 21)
+iter 159 T 0.25 sidx 17 index 14 move create M 20
+optimisation finished successfully after 133 iterations, 202 evaluations
+create False (20, 20) (21, 21)
+iter 160 T 0.25 sidx 19 index 15 move percolate M 20
+optimisation finished successfully after 72 iterations, 126 evaluations
+optimisation finished successfully after 101 iterations, 164 evaluations
+iter 161 T 0.25 sidx 20 index 16 move create M 20
+optimisation finished successfully after 39 iterations, 77 evaluations
+create False (20, 20) (21, 21)
+iter 162 T 0.25 sidx 21 index 17 move percolate M 20
+optimisation finished successfully after 80 iterations, 138 evaluations
+optimisation finished successfully after 84 iterations, 148 evaluations
+iter 163 T 0.25 sidx 22 index 18 move destroy M 20
+optimisation finished successfully after 226 iterations, 360 evaluations
+destroy False (20, 20) (25, 19)
+iter 164 T 0.25 sidx 24 index 2 move percolate M 20
+optimisation finished successfully after 24 iterations, 52 evaluations
+optimisation finished successfully after 63 iterations, 106 evaluations
+iter 165 T 0.25 sidx 25 index 4 move percolate M 20
+optimisation finished successfully after 56 iterations, 101 evaluations
+optimisation finished successfully after 149 iterations, 224 evaluations
+iter 166 T 0.25 sidx 27 index 10 move percolate M 20
+optimisation finished successfully after 74 iterations, 125 evaluations
+optimisation finished successfully after 134 iterations, 208 evaluations
+iter 167 T 0.20833333333333337 sidx -1 index 19 move destroy M 20
+optimisation finished successfully after 112 iterations, 187 evaluations
+destroy False (20, 20) (25, 19)
+iter 168 T 0.20833333333333337 sidx 0 index 0 move destroy M 20
+iter 169 T 0.20833333333333337 sidx 1 index 1 move create M 20
+optimisation finished successfully after 61 iterations, 100 evaluations
+create False (20, 20) (21, 21)
+iter 170 T 0.20833333333333337 sidx 4 index 3 move destroy M 20
+optimisation finished successfully after 158 iterations, 248 evaluations
+destroy False (20, 20) (21, 19)
+iter 171 T 0.20833333333333337 sidx 6 index 5 move percolate M 20
+optimisation finished successfully after 67 iterations, 116 evaluations
+optimisation finished successfully after 47 iterations, 88 evaluations
+iter 172 T 0.20833333333333337 sidx 7 index 6 move destroy M 20
+optimisation finished successfully after 122 iterations, 191 evaluations
+destroy False (20, 20) (28, 19)
+iter 173 T 0.20833333333333337 sidx 8 index 7 move create M 20
+optimisation finished successfully after 61 iterations, 111 evaluations
+create False (20, 20) (21, 21)
+iter 174 T 0.20833333333333337 sidx 11 index 8 move destroy M 20
+optimisation finished successfully after 425 iterations, 609 evaluations
+destroy False (20, 20) (31, 19)
+iter 175 T 0.20833333333333337 sidx 12 index 9 move destroy M 20
+optimisation finished successfully after 417 iterations, 616 evaluations
+destroy False (20, 20) (28, 19)
+iter 176 T 0.20833333333333337 sidx 14 index 11 move percolate M 20
+optimisation finished successfully after 57 iterations, 104 evaluations
+optimisation finished successfully after 73 iterations, 123 evaluations
+iter 177 T 0.20833333333333337 sidx 15 index 12 move create M 20
+optimisation finished successfully after 41 iterations, 83 evaluations
+create False (20, 20) (21, 21)
+iter 178 T 0.20833333333333337 sidx 16 index 13 move destroy M 20
+optimisation finished successfully after 110 iterations, 190 evaluations
+destroy False (20, 20) (33, 19)
+iter 179 T 0.20833333333333337 sidx 17 index 14 move destroy M 20
+optimisation finished successfully after 268 iterations, 395 evaluations
+destroy False (20, 20) (27, 19)
+iter 180 T 0.20833333333333337 sidx 19 index 15 move destroy M 20
+optimisation finished successfully after 183 iterations, 278 evaluations
+destroy False (20, 20) (28, 19)
+iter 181 T 0.20833333333333337 sidx 20 index 16 move destroy M 20
+optimisation finished successfully after 252 iterations, 382 evaluations
+destroy False (20, 20) (22, 19)
+iter 182 T 0.20833333333333337 sidx 21 index 17 move create M 20
+optimisation finished successfully after 131 iterations, 203 evaluations
+create False (20, 20) (21, 21)
+iter 183 T 0.20833333333333337 sidx 22 index 18 move create M 20
+optimisation finished successfully after 115 iterations, 179 evaluations
+create False (20, 20) (21, 21)
+iter 184 T 0.20833333333333337 sidx 24 index 2 move destroy M 20
+optimisation finished successfully after 214 iterations, 315 evaluations
+destroy False (20, 20) (26, 19)
+iter 185 T 0.20833333333333337 sidx 25 index 4 move destroy M 20
+optimisation finished successfully after 164 iterations, 249 evaluations
+destroy False (20, 20) (27, 19)
+iter 186 T 0.20833333333333337 sidx 27 index 10 move destroy M 20
+optimisation finished successfully after 216 iterations, 325 evaluations
+destroy False (20, 20) (27, 19)
+iter 187 T 0.16666666666666663 sidx -1 index 19 move percolate M 20
+iter 188 T 0.16666666666666663 sidx 0 index 0 move percolate M 20
+iter 189 T 0.16666666666666663 sidx 1 index 1 move percolate M 20
+optimisation finished successfully after 73 iterations, 114 evaluations
+optimisation finished successfully after 50 iterations, 85 evaluations
+iter 190 T 0.16666666666666663 sidx 4 index 3 move create M 20
+optimisation finished successfully after 50 iterations, 85 evaluations
+create False (20, 20) (21, 21)
+iter 191 T 0.16666666666666663 sidx 6 index 5 move destroy M 20
+optimisation finished successfully after 281 iterations, 408 evaluations
+destroy False (20, 20) (35, 19)
+iter 192 T 0.16666666666666663 sidx 7 index 6 move percolate M 20
+optimisation finished successfully after 53 iterations, 99 evaluations
+optimisation finished successfully after 85 iterations, 143 evaluations
+iter 193 T 0.16666666666666663 sidx 8 index 7 move percolate M 20
+optimisation finished successfully after 56 iterations, 104 evaluations
+optimisation finished successfully after 41 iterations, 81 evaluations
+iter 194 T 0.16666666666666663 sidx 11 index 8 move create M 20
+optimisation finished successfully after 80 iterations, 136 evaluations
+create False (20, 20) (21, 21)
+iter 195 T 0.16666666666666663 sidx 12 index 9 move create M 20
+optimisation finished successfully after 52 iterations, 95 evaluations
+create False (20, 20) (21, 21)
+iter 196 T 0.16666666666666663 sidx 14 index 11 move destroy M 20
+optimisation finished successfully after 274 iterations, 394 evaluations
+destroy False (20, 20) (31, 19)
+iter 197 T 0.16666666666666663 sidx 15 index 12 move percolate M 20
+optimisation finished successfully after 67 iterations, 121 evaluations
+optimisation finished successfully after 42 iterations, 86 evaluations
+iter 198 T 0.16666666666666663 sidx 16 index 13 move percolate M 20
+optimisation finished successfully after 85 iterations, 148 evaluations
+optimisation finished successfully after 77 iterations, 132 evaluations
+iter 199 T 0.16666666666666663 sidx 17 index 14 move percolate M 20
+optimisation finished successfully after 72 iterations, 122 evaluations
+optimisation finished successfully after 56 iterations, 109 evaluations
+iter 200 T 0.16666666666666663 sidx 19 index 15 move create M 20
+optimisation finished successfully after 61 iterations, 108 evaluations
+create False (20, 20) (21, 21)
+iter 201 T 0.16666666666666663 sidx 20 index 16 move percolate M 20
+optimisation finished successfully after 74 iterations, 126 evaluations
+optimisation finished successfully after 76 iterations, 132 evaluations
+iter 202 T 0.16666666666666663 sidx 21 index 17 move destroy M 20
+optimisation finished successfully after 249 iterations, 377 evaluations
+destroy False (20, 20) (24, 19)
+iter 203 T 0.16666666666666663 sidx 22 index 18 move percolate M 20
+optimisation finished successfully after 61 iterations, 109 evaluations
+optimisation finished successfully after 32 iterations, 65 evaluations
+iter 204 T 0.16666666666666663 sidx 24 index 2 move create M 20
+optimisation finished successfully after 16 iterations, 38 evaluations
+create False (20, 20) (21, 21)
+iter 205 T 0.16666666666666663 sidx 25 index 4 move create M 20
+optimisation finished successfully after 74 iterations, 121 evaluations
+create False (20, 20) (21, 21)
+iter 206 T 0.16666666666666663 sidx 27 index 10 move create M 20
+optimisation finished successfully after 67 iterations, 118 evaluations
+create False (20, 20) (22, 21)
+iter 207 T 0.125 sidx -1 index 19 move destroy M 20
+optimisation finished successfully after 112 iterations, 187 evaluations
+destroy False (20, 20) (25, 19)
+iter 208 T 0.125 sidx 0 index 0 move percolate M 20
+iter 209 T 0.125 sidx 1 index 1 move percolate M 20
+optimisation finished successfully after 73 iterations, 114 evaluations
+optimisation finished successfully after 50 iterations, 85 evaluations
+iter 210 T 0.125 sidx 4 index 3 move destroy M 20
+optimisation finished successfully after 158 iterations, 248 evaluations
+destroy False (20, 20) (21, 19)
+iter 211 T 0.125 sidx 6 index 5 move destroy M 20
+optimisation finished successfully after 281 iterations, 408 evaluations
+destroy False (20, 20) (35, 19)
+iter 212 T 0.125 sidx 7 index 6 move destroy M 20
+optimisation finished successfully after 122 iterations, 191 evaluations
+destroy False (20, 20) (28, 19)
+iter 213 T 0.125 sidx 8 index 7 move create M 20
+optimisation finished successfully after 61 iterations, 111 evaluations
+create False (20, 20) (21, 21)
+iter 214 T 0.125 sidx 11 index 8 move percolate M 20
+optimisation finished successfully after 78 iterations, 132 evaluations
+optimisation finished successfully after 76 iterations, 132 evaluations
+iter 215 T 0.125 sidx 12 index 9 move percolate M 20
+optimisation finished successfully after 70 iterations, 119 evaluations
+optimisation finished successfully after 62 iterations, 114 evaluations
+iter 216 T 0.125 sidx 14 index 11 move destroy M 20
+optimisation finished successfully after 274 iterations, 394 evaluations
+destroy False (20, 20) (31, 19)
+iter 217 T 0.125 sidx 15 index 12 move create M 20
+optimisation finished successfully after 41 iterations, 83 evaluations
+create False (20, 20) (21, 21)
+iter 218 T 0.125 sidx 16 index 13 move destroy M 20
+optimisation finished successfully after 110 iterations, 190 evaluations
+destroy False (20, 20) (33, 19)
+iter 219 T 0.125 sidx 17 index 14 move percolate M 20
+optimisation finished successfully after 72 iterations, 122 evaluations
+optimisation finished successfully after 56 iterations, 109 evaluations
+iter 220 T 0.125 sidx 19 index 15 move destroy M 20
+optimisation finished successfully after 183 iterations, 278 evaluations
+destroy False (20, 20) (28, 19)
+iter 221 T 0.125 sidx 20 index 16 move destroy M 20
+optimisation finished successfully after 252 iterations, 382 evaluations
+destroy False (20, 20) (22, 19)
+iter 222 T 0.125 sidx 21 index 17 move destroy M 20

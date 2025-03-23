@@ -1,0 +1,1867 @@
+writing to  sigma_00.1000/initial_guess.pkl
+iter 0 T 1 sidx 0 index 0 move create M 54
+optimisation finished successfully after 34 iterations, 57 evaluations
+create False (142, 54) (142, 54)
+iter 1 T 1 sidx -1 index 53 move destroy M 54
+optimisation finished successfully after 103 iterations, 176 evaluations
+destroy without percolating (142, 54) (141, 53)
+iter 2 T 1 sidx 1 index 1 move percolate M 53
+optimisation finished successfully after 289 iterations, 422 evaluations
+optimisation finished successfully after 12 iterations, 27 evaluations
+optimisation finished successfully after 12 iterations, 29 evaluations
+iter 3 T 1 sidx 2 index 2 move destroy M 53
+optimisation finished successfully after 232 iterations, 353 evaluations
+destroy without percolating (141, 53) (135, 52)
+iter 4 T 1.0 sidx 1 index 1 move destroy M 52
+optimisation finished successfully after 47 iterations, 86 evaluations
+destroy without percolating (135, 52) (134, 51)
+iter 5 T 1.0 sidx 3 index 1 move destroy M 51
+optimisation finished successfully after 152 iterations, 243 evaluations
+destroy without percolating (134, 51) (133, 50)
+iter 6 T 1.0 sidx 4 index 1 move create M 50
+optimisation finished successfully after 206 iterations, 316 evaluations
+optimisation finished successfully after 377 iterations, 549 evaluations
+optimisation finished successfully after 207 iterations, 311 evaluations
+optimisation finished successfully after 177 iterations, 283 evaluations
+optimisation finished successfully after 207 iterations, 311 evaluations
+optimisation finished successfully after 215 iterations, 331 evaluations
+accepted move data dn =  -8 1.856306797969415 1.856306797969415
+optimisation finished successfully after 259 iterations, 387 evaluations
+optimisation finished successfully after 180 iterations, 266 evaluations
+optimisation finished successfully after 191 iterations, 284 evaluations
+accepted move data dn =  3 1.6874153288930946 1.6874153288930946
+optimisation finished successfully after 81 iterations, 132 evaluations
+accepted move data dn =  -3 1.6034415820436414 1.6034415820436414
+optimisation finished successfully after 93 iterations, 149 evaluations
+create True (133, 50) (129, 51)
+iter 7 T 1.0 sidx 4 index 1 move percolate M 51
+optimisation finished successfully after 85 iterations, 121 evaluations
+optimisation finished successfully after 21 iterations, 41 evaluations
+optimisation finished successfully after 61 iterations, 99 evaluations
+optimisation finished successfully after 13 iterations, 30 evaluations
+iter 8 T 1.0 sidx 5 index 3 move destroy M 51
+optimisation finished successfully after 317 iterations, 461 evaluations
+optimisation finished successfully after 776 iterations, 1093 evaluations
+optimisation finished successfully after 176 iterations, 258 evaluations
+optimisation finished successfully after 38 iterations, 67 evaluations
+optimisation finished successfully after 98 iterations, 148 evaluations
+optimisation finished successfully after 28 iterations, 56 evaluations
+optimisation finished successfully after 36 iterations, 65 evaluations
+optimisation finished successfully after 107 iterations, 165 evaluations
+optimisation finished successfully after 51 iterations, 86 evaluations
+optimisation finished successfully after 77 iterations, 117 evaluations
+optimisation finished successfully after 33 iterations, 60 evaluations
+destroy False (129, 51) (133, 50)
+iter 9 T 1 sidx 6 index 4 move percolate M 51
+optimisation finished successfully after 319 iterations, 456 evaluations
+optimisation finished successfully after 63 iterations, 102 evaluations
+optimisation finished successfully after 60 iterations, 101 evaluations
+optimisation finished successfully after 36 iterations, 66 evaluations
+optimisation finished successfully after 19 iterations, 45 evaluations
+optimisation finished successfully after 28 iterations, 55 evaluations
+optimisation finished successfully after 64 iterations, 107 evaluations
+optimisation finished successfully after 23 iterations, 50 evaluations
+iter 10 T 1 sidx 7 index 5 move percolate M 51
+optimisation finished successfully after 254 iterations, 359 evaluations
+optimisation finished successfully after 105 iterations, 164 evaluations
+optimisation finished successfully after 51 iterations, 86 evaluations
+optimisation finished successfully after 16 iterations, 38 evaluations
+optimisation finished successfully after 71 iterations, 111 evaluations
+optimisation finished successfully after 22 iterations, 50 evaluations
+iter 11 T 1 sidx 8 index 6 move percolate M 51
+optimisation finished successfully after 301 iterations, 437 evaluations
+optimisation finished successfully after 29 iterations, 60 evaluations
+optimisation finished successfully after 22 iterations, 46 evaluations
+optimisation finished successfully after 22 iterations, 47 evaluations
+optimisation finished successfully after 182 iterations, 267 evaluations
+optimisation finished successfully after 551 iterations, 766 evaluations
+optimisation finished successfully after 45 iterations, 79 evaluations
+optimisation finished successfully after 20 iterations, 46 evaluations
+iter 12 T 1 sidx 9 index 7 move percolate M 51
+optimisation finished successfully after 246 iterations, 358 evaluations
+optimisation finished successfully after 17 iterations, 37 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+iter 13 T 1 sidx 10 index 8 move create M 51
+optimisation finished successfully after 126 iterations, 195 evaluations
+optimisation finished successfully after 789 iterations, 1117 evaluations
+optimisation finished successfully after 349 iterations, 491 evaluations
+accepted move data dn =  1 1.262019779904503 1.262019779904503
+optimisation finished successfully after 219 iterations, 319 evaluations
+accepted move data dn =  -9 1.0539204624868892 1.0539204624868892
+optimisation finished successfully after 171 iterations, 254 evaluations
+optimisation finished successfully after 53 iterations, 90 evaluations
+optimisation finished successfully after 228 iterations, 331 evaluations
+create True (129, 51) (127, 52)
+iter 14 T 1.0 sidx 10 index 8 move destroy M 52
+optimisation finished successfully after 265 iterations, 374 evaluations
+optimisation finished successfully after 201 iterations, 290 evaluations
+optimisation finished successfully after 434 iterations, 623 evaluations
+optimisation finished successfully after 58 iterations, 94 evaluations
+optimisation finished successfully after 75 iterations, 121 evaluations
+optimisation finished successfully after 129 iterations, 189 evaluations
+optimisation finished successfully after 25 iterations, 54 evaluations
+optimisation finished successfully after 26 iterations, 54 evaluations
+optimisation finished successfully after 21 iterations, 46 evaluations
+optimisation finished successfully after 46 iterations, 78 evaluations
+destroy True (127, 52) (124, 51)
+iter 15 T 1.0 sidx 9 index 7 move percolate M 51
+optimisation finished successfully after 23 iterations, 49 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+optimisation finished successfully after 15 iterations, 36 evaluations
+iter 16 T 1.0 sidx 11 index 9 move percolate M 51
+optimisation finished successfully after 151 iterations, 231 evaluations
+optimisation finished successfully after 149 iterations, 222 evaluations
+optimisation finished successfully after 51 iterations, 89 evaluations
+optimisation finished successfully after 120 iterations, 184 evaluations
+iter 17 T 1 sidx 12 index 10 move create M 51
+optimisation finished successfully after 287 iterations, 427 evaluations
+optimisation finished successfully after 366 iterations, 521 evaluations
+optimisation finished successfully after 182 iterations, 274 evaluations
+accepted move data dn =  1 0.5909048166320212 0.5909048166320212
+optimisation finished successfully after 383 iterations, 564 evaluations
+optimisation finished successfully after 282 iterations, 403 evaluations
+create False (124, 51) (124, 52)
+iter 18 T 1 sidx 13 index 11 move destroy M 51
+optimisation finished successfully after 78 iterations, 120 evaluations
+destroy without percolating (124, 51) (121, 50)
+iter 19 T 1.0 sidx 12 index 10 move destroy M 50
+optimisation finished successfully after 363 iterations, 526 evaluations
+optimisation finished successfully after 44 iterations, 78 evaluations
+optimisation finished successfully after 319 iterations, 456 evaluations
+optimisation finished successfully after 26 iterations, 49 evaluations
+optimisation finished successfully after 27 iterations, 53 evaluations
+optimisation finished successfully after 87 iterations, 144 evaluations
+optimisation finished successfully after 18 iterations, 42 evaluations
+optimisation finished successfully after 20 iterations, 46 evaluations
+optimisation finished successfully after 35 iterations, 67 evaluations
+optimisation finished successfully after 28 iterations, 58 evaluations
+destroy True (121, 50) (121, 49)
+iter 20 T 1.0 sidx 14 index 10 move create M 49
+optimisation finished successfully after 55 iterations, 92 evaluations
+optimisation finished successfully after 336 iterations, 479 evaluations
+optimisation finished successfully after 173 iterations, 256 evaluations
+optimisation finished successfully after 196 iterations, 288 evaluations
+optimisation finished successfully after 107 iterations, 165 evaluations
+optimisation finished successfully after 166 iterations, 245 evaluations
+accepted move data dn =  -3 0.9513246872371023 0.9513246872371023
+optimisation finished successfully after 90 iterations, 138 evaluations
+create False (121, 49) (123, 50)
+iter 21 T 1 sidx 15 index 11 move percolate M 49
+optimisation finished successfully after 310 iterations, 432 evaluations
+optimisation finished successfully after 31 iterations, 63 evaluations
+optimisation finished successfully after 28 iterations, 58 evaluations
+iter 22 T 1 sidx 16 index 12 move create M 49
+optimisation finished successfully after 73 iterations, 113 evaluations
+optimisation finished successfully after 456 iterations, 654 evaluations
+accepted move data dn =  -11 1.2451645303645529 1.2451645303645529
+optimisation finished successfully after 501 iterations, 706 evaluations
+optimisation finished successfully after 359 iterations, 520 evaluations
+optimisation finished successfully after 620 iterations, 894 evaluations
+accepted move data dn =  4 1.1709502230578168 1.1709502230578168
+optimisation finished successfully after 332 iterations, 461 evaluations
+create True (121, 49) (117, 50)
+iter 23 T 1.0 sidx 17 index 14 move destroy M 50
+optimisation finished successfully after 188 iterations, 272 evaluations
+destroy without percolating (117, 50) (113, 49)
+iter 24 T 1.0 sidx 11 index 9 move destroy M 49
+optimisation finished successfully after 127 iterations, 198 evaluations
+optimisation finished successfully after 48 iterations, 86 evaluations
+optimisation finished successfully after 45 iterations, 84 evaluations
+optimisation finished successfully after 38 iterations, 76 evaluations
+destroy False (113, 49) (118, 48)
+iter 25 T 1.0 sidx 16 index 12 move destroy M 49
+optimisation finished successfully after 216 iterations, 325 evaluations
+optimisation finished successfully after 38 iterations, 66 evaluations
+optimisation finished successfully after 67 iterations, 111 evaluations
+optimisation finished successfully after 38 iterations, 72 evaluations
+optimisation finished successfully after 153 iterations, 231 evaluations
+optimisation finished successfully after 45 iterations, 81 evaluations
+optimisation finished successfully after 39 iterations, 75 evaluations
+destroy False (113, 49) (118, 48)
+iter 26 T 1.0 sidx 18 index 14 move percolate M 49
+optimisation finished successfully after 100 iterations, 150 evaluations
+optimisation finished successfully after 37 iterations, 71 evaluations
+optimisation finished successfully after 95 iterations, 149 evaluations
+optimisation finished successfully after 20 iterations, 49 evaluations
+optimisation finished successfully after 26 iterations, 56 evaluations
+optimisation finished successfully after 34 iterations, 65 evaluations
+optimisation finished successfully after 154 iterations, 227 evaluations
+iter 27 T 1 sidx 19 index 15 move percolate M 49
+optimisation finished successfully after 99 iterations, 157 evaluations
+optimisation finished successfully after 32 iterations, 61 evaluations
+optimisation finished successfully after 23 iterations, 51 evaluations
+optimisation finished successfully after 46 iterations, 78 evaluations
+optimisation finished successfully after 26 iterations, 52 evaluations
+iter 28 T 1 sidx 20 index 16 move destroy M 49
+optimisation finished successfully after 46 iterations, 83 evaluations
+optimisation finished successfully after 113 iterations, 171 evaluations
+optimisation finished successfully after 25 iterations, 51 evaluations
+optimisation finished successfully after 218 iterations, 319 evaluations
+optimisation finished successfully after 66 iterations, 109 evaluations
+optimisation finished successfully after 26 iterations, 55 evaluations
+destroy False (113, 49) (114, 48)
+iter 29 T 1 sidx 21 index 17 move create M 49
+optimisation finished successfully after 77 iterations, 124 evaluations
+optimisation finished successfully after 307 iterations, 446 evaluations
+optimisation finished successfully after 139 iterations, 206 evaluations
+accepted move data dn =  3 1.2673114050974978 1.2673114050974978
+optimisation finished successfully after 214 iterations, 313 evaluations
+optimisation finished successfully after 413 iterations, 568 evaluations
+accepted move data dn =  -6 1.165228106920546 1.165228106920546
+optimisation finished successfully after 148 iterations, 226 evaluations
+optimisation finished successfully after 140 iterations, 212 evaluations
+accepted move data dn =  3 1.1274720328901098 1.1274720328901098
+optimisation finished successfully after 130 iterations, 196 evaluations
+create True (113, 49) (111, 50)
+iter 30 T 1.0 sidx 21 index 17 move percolate M 50
+optimisation finished successfully after 55 iterations, 96 evaluations
+optimisation finished successfully after 20 iterations, 43 evaluations
+optimisation finished successfully after 59 iterations, 108 evaluations
+optimisation finished successfully after 27 iterations, 55 evaluations
+iter 31 T 1.0 sidx 22 index 19 move percolate M 50
+optimisation finished successfully after 145 iterations, 223 evaluations
+optimisation finished successfully after 153 iterations, 231 evaluations
+optimisation finished successfully after 112 iterations, 169 evaluations
+optimisation finished successfully after 28 iterations, 59 evaluations
+optimisation finished successfully after 173 iterations, 250 evaluations
+optimisation finished successfully after 40 iterations, 75 evaluations
+iter 32 T 1 sidx 23 index 20 move destroy M 50
+optimisation finished successfully after 401 iterations, 595 evaluations
+destroy without percolating (111, 50) (106, 49)
+iter 33 T 1.0 sidx 22 index 19 move destroy M 49
+optimisation finished successfully after 160 iterations, 239 evaluations
+optimisation finished successfully after 80 iterations, 129 evaluations
+optimisation finished successfully after 25 iterations, 55 evaluations
+optimisation finished successfully after 82 iterations, 135 evaluations
+optimisation finished successfully after 30 iterations, 62 evaluations
+destroy False (106, 49) (107, 48)
+iter 34 T 1.0 sidx 24 index 20 move create M 49
+optimisation finished successfully after 90 iterations, 148 evaluations
+optimisation finished successfully after 486 iterations, 685 evaluations
+optimisation finished successfully after 135 iterations, 203 evaluations
+optimisation finished successfully after 261 iterations, 382 evaluations
+optimisation finished successfully after 135 iterations, 203 evaluations
+optimisation finished successfully after 312 iterations, 457 evaluations
+create False (106, 49) (107, 50)
+iter 35 T 1 sidx 25 index 21 move destroy M 49
+optimisation finished successfully after 231 iterations, 336 evaluations
+optimisation finished successfully after 308 iterations, 441 evaluations
+optimisation finished successfully after 109 iterations, 165 evaluations
+optimisation finished successfully after 74 iterations, 117 evaluations
+optimisation finished successfully after 209 iterations, 309 evaluations
+optimisation finished successfully after 49 iterations, 87 evaluations
+optimisation finished successfully after 57 iterations, 97 evaluations
+destroy True (106, 49) (100, 48)
+iter 36 T 1.0 sidx 24 index 20 move create M 48
+optimisation finished successfully after 126 iterations, 189 evaluations
+optimisation finished successfully after 381 iterations, 555 evaluations
+optimisation finished successfully after 87 iterations, 141 evaluations
+optimisation finished successfully after 218 iterations, 315 evaluations
+optimisation finished successfully after 255 iterations, 365 evaluations
+optimisation finished successfully after 120 iterations, 183 evaluations
+create False (100, 48) (101, 49)
+iter 37 T 1.0 sidx 26 index 21 move destroy M 48
+optimisation finished successfully after 116 iterations, 183 evaluations
+optimisation finished successfully after 239 iterations, 338 evaluations
+optimisation finished successfully after 34 iterations, 66 evaluations
+optimisation finished successfully after 140 iterations, 215 evaluations
+optimisation finished successfully after 34 iterations, 64 evaluations
+destroy False (100, 48) (104, 47)
+iter 38 T 1 sidx 27 index 22 move create M 48
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 698 iterations, 981 evaluations
+optimisation finished successfully after 218 iterations, 310 evaluations
+optimisation finished successfully after 214 iterations, 310 evaluations
+accepted move data dn =  -6 1.0554279000120275 1.0554279000120275
+optimisation finished successfully after 196 iterations, 284 evaluations
+optimisation finished successfully after 45 iterations, 81 evaluations
+create False (100, 48) (101, 49)
+iter 39 T 1 sidx 28 index 23 move percolate M 48
+optimisation finished successfully after 91 iterations, 147 evaluations
+optimisation finished successfully after 38 iterations, 71 evaluations
+optimisation finished successfully after 24 iterations, 55 evaluations
+optimisation finished successfully after 21 iterations, 49 evaluations
+optimisation finished successfully after 38 iterations, 72 evaluations
+iter 40 T 1 sidx 29 index 24 move percolate M 48
+optimisation finished successfully after 82 iterations, 135 evaluations
+optimisation finished successfully after 312 iterations, 446 evaluations
+optimisation finished successfully after 39 iterations, 73 evaluations
+optimisation finished successfully after 26 iterations, 55 evaluations
+optimisation finished successfully after 104 iterations, 169 evaluations
+iter 41 T 1 sidx 30 index 25 move create M 48
+optimisation finished successfully after 94 iterations, 140 evaluations
+optimisation finished successfully after 186 iterations, 264 evaluations
+accepted move data dn =  -5 0.5816636135157387 0.5816636135157387
+optimisation finished successfully after 460 iterations, 646 evaluations
+optimisation finished successfully after 107 iterations, 168 evaluations
+create True (100, 48) (95, 49)
+iter 42 T 1.0 sidx 30 index 25 move create M 49
+optimisation finished successfully after 241 iterations, 356 evaluations
+create False (95, 49) (95, 50)
+iter 43 T 1.0 sidx 31 index 27 move create M 49
+optimisation finished successfully after 412 iterations, 597 evaluations
+create False (95, 49) (95, 50)
+iter 44 T 1 sidx 32 index 28 move create M 49
+optimisation finished successfully after 205 iterations, 309 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 1436 iterations, 2000 evaluations
+accepted move data dn =  -3 0.6242605649032261 0.6242605649032261
+optimisation finished successfully after 745 iterations, 1050 evaluations
+accepted move data dn =  4 0.6013643048385235 0.6013643048385235
+optimisation finished successfully after 415 iterations, 588 evaluations
+create True (95, 49) (94, 50)
+iter 45 T 1.0 sidx 32 index 28 move create M 50
+did not create at 28
+iter 46 T 1.0 sidx 33 index 30 move destroy M 50
+optimisation finished successfully after 365 iterations, 556 evaluations
+destroy without percolating (94, 50) (94, 49)
+iter 47 T 1.0 sidx 34 index 30 move percolate M 49
+optimisation finished successfully after 224 iterations, 347 evaluations
+optimisation finished successfully after 81 iterations, 140 evaluations
+optimisation finished successfully after 46 iterations, 87 evaluations
+iter 48 T 1 sidx 35 index 31 move create M 49
+optimisation finished successfully after 138 iterations, 228 evaluations
+optimisation finished successfully after 499 iterations, 732 evaluations
+accepted move data dn =  -3 0.9131734955971285 0.9131734955971285
+optimisation finished successfully after 116 iterations, 184 evaluations
+create True (94, 49) (93, 50)
+iter 49 T 1.0 sidx 35 index 31 move destroy M 50
+optimisation finished successfully after 54 iterations, 95 evaluations
+destroy without percolating (93, 50) (91, 49)
+iter 50 T 1.0 sidx 34 index 30 move destroy M 49
+optimisation finished successfully after 647 iterations, 938 evaluations
+destroy without percolating (91, 49) (91, 48)
+iter 51 T 1.0 sidx 36 index 31 move percolate M 48
+optimisation finished successfully after 73 iterations, 117 evaluations
+optimisation finished successfully after 28 iterations, 59 evaluations
+iter 52 T 1 sidx 37 index 32 move destroy M 48
+optimisation finished successfully after 213 iterations, 325 evaluations
+destroy without percolating (91, 48) (90, 47)
+iter 53 T 1.0 sidx 38 index 32 move percolate M 47
+optimisation finished successfully after 215 iterations, 315 evaluations
+optimisation finished successfully after 471 iterations, 670 evaluations
+optimisation finished successfully after 97 iterations, 152 evaluations
+optimisation finished successfully after 35 iterations, 71 evaluations
+optimisation finished successfully after 33 iterations, 68 evaluations
+iter 54 T 1 sidx 39 index 33 move destroy M 47
+optimisation finished successfully after 248 iterations, 374 evaluations
+optimisation finished successfully after 265 iterations, 386 evaluations
+optimisation finished successfully after 178 iterations, 259 evaluations
+optimisation finished successfully after 19 iterations, 46 evaluations
+optimisation finished successfully after 30 iterations, 62 evaluations
+optimisation finished successfully after 30 iterations, 64 evaluations
+destroy False (90, 47) (92, 46)
+iter 55 T 1 sidx 40 index 34 move destroy M 47
+optimisation finished successfully after 304 iterations, 444 evaluations
+destroy without percolating (90, 47) (85, 46)
+iter 56 T 1 sidx 42 index 35 move create M 46
+optimisation finished successfully after 106 iterations, 163 evaluations
+optimisation finished successfully after 563 iterations, 798 evaluations
+optimisation finished successfully after 620 iterations, 858 evaluations
+accepted move data dn =  1 1.0082127355135864 1.0082127355135864
+optimisation finished successfully after 821 iterations, 1135 evaluations
+accepted move data dn =  -5 0.9199795560053944 0.9199795560053944
+optimisation finished successfully after 518 iterations, 740 evaluations
+optimisation finished successfully after 328 iterations, 473 evaluations
+create False (85, 46) (85, 47)
+iter 57 T 1.0 sidx 39 index 33 move percolate M 46
+optimisation finished successfully after 98 iterations, 151 evaluations
+optimisation finished successfully after 24 iterations, 54 evaluations
+optimisation finished successfully after 47 iterations, 87 evaluations
+optimisation finished successfully after 84 iterations, 135 evaluations
+optimisation finished successfully after 42 iterations, 78 evaluations
+optimisation finished successfully after 32 iterations, 65 evaluations
+iter 58 T 1 sidx 43 index 36 move create M 46
+optimisation finished successfully after 152 iterations, 216 evaluations
+optimisation finished successfully after 317 iterations, 457 evaluations
+accepted move data dn =  -3 1.5923962754541818 1.5923962754541818
+accepted move data dn =  0 1.5923962754541816 1.5923962754541816
+optimisation finished successfully after 183 iterations, 269 evaluations
+create True (85, 46) (81, 47)
+iter 59 T 1.0 sidx 44 index 38 move percolate M 47
+optimisation finished successfully after 273 iterations, 394 evaluations
+optimisation finished successfully after 278 iterations, 401 evaluations
+optimisation finished successfully after 25 iterations, 53 evaluations
+iter 60 T 1 sidx 45 index 39 move percolate M 47
+optimisation finished successfully after 752 iterations, 1048 evaluations
+optimisation finished successfully after 40 iterations, 76 evaluations
+optimisation finished successfully after 65 iterations, 115 evaluations
+optimisation finished successfully after 31 iterations, 67 evaluations
+iter 61 T 1 sidx 46 index 40 move destroy M 47
+optimisation finished successfully after 154 iterations, 237 evaluations
+optimisation finished successfully after 180 iterations, 265 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 1436 iterations, 2000 evaluations
+optimisation finished successfully after 55 iterations, 103 evaluations
+optimisation finished successfully after 43 iterations, 85 evaluations
+optimisation finished successfully after 54 iterations, 104 evaluations
+optimisation finished successfully after 35 iterations, 77 evaluations
+destroy True (81, 47) (74, 46)
+iter 62 T 1.0 sidx 36 index 31 move destroy M 46
+optimisation finished successfully after 102 iterations, 161 evaluations
+optimisation finished successfully after 325 iterations, 460 evaluations
+optimisation finished successfully after 100 iterations, 161 evaluations
+optimisation finished successfully after 26 iterations, 57 evaluations
+optimisation finished successfully after 31 iterations, 62 evaluations
+destroy False (74, 46) (78, 45)
+iter 63 T 1.0 sidx 41 index 34 move percolate M 46
+optimisation finished successfully after 263 iterations, 386 evaluations
+optimisation finished successfully after 139 iterations, 215 evaluations
+optimisation finished successfully after 84 iterations, 137 evaluations
+iter 64 T 1.0 sidx 43 index 36 move percolate M 46
+optimisation finished successfully after 376 iterations, 549 evaluations
+optimisation finished successfully after 266 iterations, 394 evaluations
+optimisation finished successfully after 58 iterations, 103 evaluations
+iter 65 T 1.0 sidx 45 index 39 move percolate M 46
+optimisation finished successfully after 168 iterations, 268 evaluations
+optimisation finished successfully after 53 iterations, 111 evaluations
+optimisation finished successfully after 64 iterations, 123 evaluations
+optimisation finished successfully after 57 iterations, 113 evaluations
+iter 66 T 1.0 sidx 47 index 40 move percolate M 46
+optimisation finished successfully after 54 iterations, 104 evaluations
+optimisation finished successfully after 35 iterations, 77 evaluations
+iter 67 T 1 sidx 48 index 41 move percolate M 46
+optimisation finished successfully after 59 iterations, 101 evaluations
+optimisation finished successfully after 233 iterations, 336 evaluations
+optimisation finished successfully after 78 iterations, 131 evaluations
+optimisation finished successfully after 94 iterations, 157 evaluations
+iter 68 T 1 sidx 49 index 42 move percolate M 46
+optimisation finished successfully after 49 iterations, 84 evaluations
+optimisation finished successfully after 231 iterations, 335 evaluations
+optimisation finished successfully after 47 iterations, 89 evaluations
+optimisation finished successfully after 34 iterations, 73 evaluations
+optimisation finished successfully after 45 iterations, 85 evaluations
+optimisation finished successfully after 48 iterations, 85 evaluations
+optimisation finished successfully after 64 iterations, 111 evaluations
+optimisation finished successfully after 38 iterations, 76 evaluations
+iter 69 T 1 sidx 50 index 43 move destroy M 46
+optimisation finished successfully after 170 iterations, 255 evaluations
+destroy without percolating (74, 46) (74, 45)
+iter 70 T 1.0 sidx 49 index 42 move destroy M 45
+optimisation finished successfully after 262 iterations, 393 evaluations
+optimisation finished successfully after 29 iterations, 59 evaluations
+optimisation finished successfully after 48 iterations, 86 evaluations
+optimisation finished successfully after 29 iterations, 57 evaluations
+optimisation finished successfully after 25 iterations, 52 evaluations
+destroy False (74, 45) (78, 44)
+iter 71 T 1.0 sidx 51 index 43 move destroy M 45
+optimisation finished successfully after 24 iterations, 46 evaluations
+destroy without percolating (74, 45) (71, 44)
+iter 72 T 1.0 sidx 49 index 42 move percolate M 44
+optimisation finished successfully after 40 iterations, 76 evaluations
+optimisation finished successfully after 46 iterations, 85 evaluations
+optimisation finished successfully after 29 iterations, 60 evaluations
+optimisation finished successfully after 22 iterations, 50 evaluations
+optimisation finished successfully after 38 iterations, 72 evaluations
+iter 73 T 1 sidx 52 index 43 move percolate M 44
+iter 74 T 1.0 sidx 54 index 2 move percolate M 44
+optimisation finished successfully after 176 iterations, 269 evaluations
+optimisation finished successfully after 39 iterations, 78 evaluations
+optimisation finished successfully after 157 iterations, 229 evaluations
+optimisation finished successfully after 40 iterations, 72 evaluations
+optimisation finished successfully after 20 iterations, 42 evaluations
+optimisation finished successfully after 19 iterations, 46 evaluations
+iter 75 T 1.0 sidx 55 index 8 move create M 44
+optimisation finished successfully after 36 iterations, 62 evaluations
+optimisation finished successfully after 872 iterations, 1222 evaluations
+optimisation finished successfully after 255 iterations, 365 evaluations
+optimisation finished successfully after 213 iterations, 305 evaluations
+optimisation finished successfully after 97 iterations, 149 evaluations
+optimisation finished successfully after 189 iterations, 269 evaluations
+create False (71, 44) (72, 45)
+iter 76 T 1.0 sidx 56 index 13 move create M 44
+optimisation finished successfully after 79 iterations, 121 evaluations
+optimisation finished successfully after 842 iterations, 1209 evaluations
+accepted move data dn =  -10 0.6880786822802007 0.6880786822802007
+optimisation finished successfully after 864 iterations, 1223 evaluations
+optimisation finished successfully after 906 iterations, 1259 evaluations
+optimisation finished successfully after 92 iterations, 149 evaluations
+create False (71, 44) (73, 45)
+iter 77 T 1.0 sidx 57 index 18 move percolate M 44
+optimisation finished successfully after 101 iterations, 160 evaluations
+optimisation finished successfully after 40 iterations, 73 evaluations
+iter 78 T 1.0 sidx 58 index 26 move destroy M 44
+optimisation finished successfully after 55 iterations, 91 evaluations
+destroy without percolating (71, 44) (70, 43)
+iter 79 T 1.0 sidx 30 index 25 move destroy M 43
+optimisation finished successfully after 34 iterations, 69 evaluations
+destroy without percolating (70, 43) (69, 42)
+iter 80 T 1.0 sidx 29 index 24 move destroy M 42
+optimisation finished successfully after 99 iterations, 154 evaluations
+optimisation finished successfully after 542 iterations, 762 evaluations
+optimisation finished successfully after 834 iterations, 1166 evaluations
+optimisation finished successfully after 116 iterations, 175 evaluations
+optimisation finished successfully after 34 iterations, 68 evaluations
+optimisation finished successfully after 50 iterations, 87 evaluations
+destroy False (69, 42) (73, 41)
+iter 81 T 1.0 sidx 31 index 25 move create M 42
+optimisation finished successfully after 46 iterations, 79 evaluations
+optimisation finished successfully after 414 iterations, 584 evaluations
+optimisation finished successfully after 187 iterations, 280 evaluations
+accepted move data dn =  1 0.910427705240075 0.910427705240075
+optimisation finished successfully after 383 iterations, 537 evaluations
+optimisation finished successfully after 56 iterations, 97 evaluations
+create False (69, 42) (70, 43)
+iter 82 T 1.0 sidx 59 index 27 move percolate M 42
+optimisation finished successfully after 575 iterations, 816 evaluations
+optimisation finished successfully after 209 iterations, 310 evaluations
+optimisation finished successfully after 106 iterations, 161 evaluations
+iter 83 T 1.0 sidx 60 index 28 move percolate M 42
+optimisation finished successfully after 315 iterations, 455 evaluations
+optimisation finished successfully after 174 iterations, 273 evaluations
+optimisation finished successfully after 629 iterations, 886 evaluations
+optimisation finished successfully after 183 iterations, 283 evaluations
+optimisation finished successfully after 40 iterations, 79 evaluations
+optimisation finished successfully after 41 iterations, 81 evaluations
+iter 84 T 1.0 sidx 61 index 35 move percolate M 42
+optimisation finished successfully after 308 iterations, 472 evaluations
+optimisation finished successfully after 150 iterations, 244 evaluations
+optimisation finished successfully after 87 iterations, 161 evaluations
+optimisation finished successfully after 345 iterations, 518 evaluations
+iter 85 T 0.8333333333333334 sidx 0 index 0 move percolate M 42
+iter 86 T 0.8333333333333334 sidx 4 index 1 move destroy M 42
+optimisation finished successfully after 157 iterations, 244 evaluations
+optimisation finished successfully after 180 iterations, 273 evaluations
+optimisation finished successfully after 65 iterations, 105 evaluations
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 14 iterations, 33 evaluations
+destroy False (69, 42) (70, 41)
+iter 87 T 0.8333333333333334 sidx 5 index 3 move percolate M 42
+optimisation finished successfully after 123 iterations, 192 evaluations
+optimisation finished successfully after 23 iterations, 48 evaluations
+optimisation finished successfully after 31 iterations, 58 evaluations
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 215 iterations, 307 evaluations
+optimisation finished successfully after 28 iterations, 56 evaluations
+optimisation finished successfully after 34 iterations, 65 evaluations
+iter 88 T 0.8333333333333334 sidx 6 index 4 move create M 42
+optimisation finished successfully after 198 iterations, 298 evaluations
+optimisation finished successfully after 562 iterations, 771 evaluations
+optimisation finished successfully after 56 iterations, 95 evaluations
+accepted move data dn =  3 0.6742855059991519 0.6742855059991519
+optimisation finished successfully after 646 iterations, 900 evaluations
+optimisation finished successfully after 361 iterations, 516 evaluations
+optimisation finished successfully after 77 iterations, 121 evaluations
+create True (69, 42) (67, 43)
+iter 89 T 1.0 sidx 6 index 4 move create M 43
+did not create at 4
+iter 90 T 1.0 sidx 7 index 6 move create M 43
+optimisation finished successfully after 392 iterations, 575 evaluations
+optimisation finished successfully after 215 iterations, 314 evaluations
+create False (67, 43) (68, 44)
+iter 91 T 0.8333333333333334 sidx 6 index 4 move destroy M 43
+optimisation finished successfully after 19 iterations, 41 evaluations
+destroy without percolating (67, 43) (66, 42)
+iter 92 T 1.0 sidx 5 index 3 move create M 42
+optimisation finished successfully after 69 iterations, 109 evaluations
+optimisation finished successfully after 220 iterations, 322 evaluations
+accepted move data dn =  -1 1.2879460808803456 1.2879460808803456
+optimisation finished successfully after 268 iterations, 387 evaluations
+optimisation finished successfully after 154 iterations, 229 evaluations
+create False (66, 42) (68, 43)
+iter 93 T 1.0 sidx 62 index 4 move percolate M 42
+optimisation finished successfully after 21 iterations, 45 evaluations
+optimisation finished successfully after 81 iterations, 126 evaluations
+iter 94 T 0.8333333333333334 sidx 5 index 3 move destroy M 42
+optimisation finished successfully after 497 iterations, 737 evaluations
+optimisation finished successfully after 619 iterations, 867 evaluations
+optimisation finished successfully after 291 iterations, 410 evaluations
+optimisation finished successfully after 146 iterations, 219 evaluations
+optimisation finished successfully after 23 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 79 evaluations
+destroy False (66, 42) (74, 41)
+iter 95 T 0.8333333333333334 sidx 7 index 5 move percolate M 42
+optimisation finished successfully after 144 iterations, 216 evaluations
+optimisation finished successfully after 62 iterations, 102 evaluations
+optimisation finished successfully after 67 iterations, 105 evaluations
+optimisation finished successfully after 29 iterations, 58 evaluations
+iter 96 T 0.8333333333333334 sidx 8 index 6 move create M 42
+optimisation finished successfully after 46 iterations, 77 evaluations
+optimisation finished successfully after 289 iterations, 415 evaluations
+accepted move data dn =  -3 0.5886071142099557 0.5886071142099557
+optimisation finished successfully after 267 iterations, 388 evaluations
+optimisation finished successfully after 390 iterations, 561 evaluations
+accepted move data dn =  3 0.5046606564275791 0.5046606564275791
+optimisation finished successfully after 338 iterations, 475 evaluations
+accepted move data dn =  -3 0.46286582270474186 0.46286582270474186
+optimisation finished successfully after 179 iterations, 270 evaluations
+create False (66, 42) (67, 43)
+iter 97 T 0.8333333333333334 sidx 9 index 7 move create M 42
+optimisation finished successfully after 162 iterations, 242 evaluations
+optimisation finished successfully after 285 iterations, 413 evaluations
+optimisation finished successfully after 224 iterations, 323 evaluations
+optimisation finished successfully after 283 iterations, 387 evaluations
+optimisation finished successfully after 80 iterations, 123 evaluations
+accepted move data dn =  3 0.5344455422521626 0.5344455422521626
+optimisation finished successfully after 191 iterations, 280 evaluations
+optimisation finished successfully after 48 iterations, 81 evaluations
+create False (66, 42) (67, 43)
+iter 98 T 0.8333333333333334 sidx 11 index 9 move create M 42
+optimisation finished successfully after 59 iterations, 99 evaluations
+optimisation finished successfully after 295 iterations, 426 evaluations
+optimisation finished successfully after 182 iterations, 261 evaluations
+optimisation finished successfully after 268 iterations, 381 evaluations
+optimisation finished successfully after 141 iterations, 211 evaluations
+create False (66, 42) (67, 43)
+iter 99 T 0.8333333333333334 sidx 14 index 10 move destroy M 42
+optimisation finished successfully after 203 iterations, 304 evaluations
+optimisation finished successfully after 184 iterations, 272 evaluations
+optimisation finished successfully after 267 iterations, 396 evaluations
+optimisation finished successfully after 25 iterations, 51 evaluations
+optimisation finished successfully after 34 iterations, 68 evaluations
+optimisation finished successfully after 28 iterations, 55 evaluations
+destroy False (66, 42) (73, 41)
+iter 100 T 0.8333333333333334 sidx 15 index 11 move destroy M 42
+optimisation finished successfully after 243 iterations, 357 evaluations
+optimisation finished successfully after 193 iterations, 281 evaluations
+optimisation finished successfully after 188 iterations, 276 evaluations
+optimisation finished successfully after 24 iterations, 48 evaluations
+optimisation finished successfully after 24 iterations, 50 evaluations
+optimisation finished successfully after 35 iterations, 64 evaluations
+optimisation finished successfully after 33 iterations, 64 evaluations
+optimisation finished successfully after 28 iterations, 58 evaluations
+optimisation finished successfully after 24 iterations, 50 evaluations
+destroy False (66, 42) (72, 41)
+iter 101 T 0.8333333333333334 sidx 16 index 12 move create M 42
+optimisation finished successfully after 32 iterations, 60 evaluations
+optimisation finished successfully after 201 iterations, 303 evaluations
+accepted move data dn =  -4 0.6269372001246145 0.6269372001246145
+accepted move data dn =  0 0.6269372001246143 0.6269372001246143
+optimisation finished successfully after 209 iterations, 306 evaluations
+optimisation finished successfully after 129 iterations, 194 evaluations
+create False (66, 42) (68, 43)
+iter 102 T 0.8333333333333334 sidx 18 index 14 move destroy M 42
+optimisation finished successfully after 139 iterations, 201 evaluations
+optimisation finished successfully after 201 iterations, 297 evaluations
+optimisation finished successfully after 27 iterations, 53 evaluations
+optimisation finished successfully after 84 iterations, 140 evaluations
+optimisation finished successfully after 46 iterations, 82 evaluations
+optimisation finished successfully after 21 iterations, 47 evaluations
+optimisation finished successfully after 30 iterations, 56 evaluations
+optimisation finished successfully after 129 iterations, 191 evaluations
+destroy False (66, 42) (72, 41)
+iter 103 T 0.8333333333333334 sidx 19 index 15 move create M 42
+optimisation finished successfully after 53 iterations, 89 evaluations
+optimisation finished successfully after 265 iterations, 380 evaluations
+optimisation finished successfully after 104 iterations, 160 evaluations
+accepted move data dn =  3 0.8343981860834134 0.8343981860834134
+optimisation finished successfully after 83 iterations, 123 evaluations
+optimisation finished successfully after 38 iterations, 70 evaluations
+create False (66, 42) (66, 43)
+iter 104 T 0.8333333333333334 sidx 20 index 16 move percolate M 42
+optimisation finished successfully after 144 iterations, 211 evaluations
+optimisation finished successfully after 36 iterations, 67 evaluations
+optimisation finished successfully after 85 iterations, 132 evaluations
+optimisation finished successfully after 39 iterations, 73 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+iter 105 T 0.8333333333333334 sidx 21 index 17 move destroy M 42
+optimisation finished successfully after 85 iterations, 136 evaluations
+destroy without percolating (66, 42) (66, 41)
+iter 106 T 1.0 sidx 20 index 16 move create M 41
+optimisation finished successfully after 70 iterations, 115 evaluations
+optimisation finished successfully after 234 iterations, 338 evaluations
+optimisation finished successfully after 306 iterations, 438 evaluations
+optimisation finished successfully after 211 iterations, 320 evaluations
+optimisation finished successfully after 203 iterations, 293 evaluations
+accepted move data dn =  5 0.9457371621039299 0.9457371621039299
+optimisation finished successfully after 219 iterations, 313 evaluations
+optimisation finished successfully after 87 iterations, 131 evaluations
+create False (66, 41) (67, 42)
+iter 107 T 1.0 sidx 57 index 17 move percolate M 41
+optimisation finished successfully after 37 iterations, 72 evaluations
+optimisation finished successfully after 374 iterations, 540 evaluations
+optimisation finished successfully after 24 iterations, 52 evaluations
+iter 108 T 0.8333333333333334 sidx 20 index 16 move percolate M 41
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 261 iterations, 371 evaluations
+optimisation finished successfully after 132 iterations, 196 evaluations
+optimisation finished successfully after 30 iterations, 64 evaluations
+optimisation finished successfully after 29 iterations, 63 evaluations
+optimisation finished successfully after 38 iterations, 71 evaluations
+iter 109 T 0.8333333333333334 sidx 22 index 18 move create M 41
+optimisation finished successfully after 86 iterations, 130 evaluations
+optimisation finished successfully after 142 iterations, 217 evaluations
+optimisation finished successfully after 193 iterations, 275 evaluations
+optimisation finished successfully after 88 iterations, 137 evaluations
+optimisation finished successfully after 97 iterations, 151 evaluations
+create False (66, 41) (67, 42)
+iter 110 T 0.8333333333333334 sidx 24 index 19 move destroy M 41
+optimisation finished successfully after 200 iterations, 306 evaluations
+optimisation finished successfully after 326 iterations, 451 evaluations
+optimisation finished successfully after 168 iterations, 230 evaluations
+optimisation finished successfully after 25 iterations, 51 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+optimisation finished successfully after 27 iterations, 55 evaluations
+destroy False (66, 41) (75, 40)
+iter 111 T 0.8333333333333334 sidx 26 index 20 move create M 41
+optimisation finished successfully after 68 iterations, 109 evaluations
+optimisation finished successfully after 239 iterations, 356 evaluations
+optimisation finished successfully after 235 iterations, 347 evaluations
+optimisation finished successfully after 123 iterations, 195 evaluations
+optimisation finished successfully after 176 iterations, 263 evaluations
+optimisation finished successfully after 99 iterations, 159 evaluations
+create False (66, 41) (67, 42)
+iter 112 T 0.8333333333333334 sidx 27 index 21 move destroy M 41
+optimisation finished successfully after 153 iterations, 235 evaluations
+optimisation finished successfully after 86 iterations, 137 evaluations
+optimisation finished successfully after 53 iterations, 92 evaluations
+optimisation finished successfully after 33 iterations, 65 evaluations
+optimisation finished successfully after 30 iterations, 62 evaluations
+optimisation finished successfully after 32 iterations, 64 evaluations
+optimisation finished successfully after 46 iterations, 84 evaluations
+destroy False (66, 41) (74, 40)
+iter 113 T 0.8333333333333334 sidx 28 index 22 move create M 41
+optimisation finished successfully after 99 iterations, 157 evaluations
+optimisation finished successfully after 244 iterations, 349 evaluations
+optimisation finished successfully after 150 iterations, 230 evaluations
+optimisation finished successfully after 313 iterations, 464 evaluations
+optimisation finished successfully after 196 iterations, 282 evaluations
+accepted move data dn =  2 0.6423597751572838 0.6423597751572838
+optimisation finished successfully after 235 iterations, 341 evaluations
+create False (66, 41) (67, 42)
+iter 114 T 0.8333333333333334 sidx 29 index 23 move percolate M 41
+optimisation finished successfully after 84 iterations, 138 evaluations
+optimisation finished successfully after 31 iterations, 64 evaluations
+optimisation finished successfully after 49 iterations, 92 evaluations
+iter 115 T 0.8333333333333334 sidx 31 index 24 move destroy M 41
+optimisation finished successfully after 137 iterations, 212 evaluations
+optimisation finished successfully after 284 iterations, 418 evaluations
+optimisation finished successfully after 741 iterations, 1036 evaluations
+optimisation finished successfully after 100 iterations, 158 evaluations
+optimisation finished successfully after 30 iterations, 64 evaluations
+optimisation finished successfully after 64 iterations, 116 evaluations
+destroy True (66, 41) (64, 40)
+iter 116 T 1.0 sidx 29 index 23 move percolate M 40
+optimisation finished successfully after 88 iterations, 144 evaluations
+optimisation finished successfully after 38 iterations, 78 evaluations
+optimisation finished successfully after 41 iterations, 76 evaluations
+iter 117 T 1.0 sidx 32 index 24 move percolate M 40
+optimisation finished successfully after 30 iterations, 64 evaluations
+optimisation finished successfully after 64 iterations, 116 evaluations
+iter 118 T 0.8333333333333334 sidx 29 index 23 move destroy M 40
+optimisation finished successfully after 127 iterations, 187 evaluations
+optimisation finished successfully after 240 iterations, 347 evaluations
+optimisation finished successfully after 140 iterations, 215 evaluations
+optimisation finished successfully after 348 iterations, 491 evaluations
+optimisation finished successfully after 186 iterations, 279 evaluations
+destroy False (64, 40) (76, 39)
+iter 119 T 0.8333333333333334 sidx 32 index 24 move destroy M 40
+optimisation finished successfully after 137 iterations, 210 evaluations
+optimisation finished successfully after 116 iterations, 174 evaluations
+optimisation finished successfully after 387 iterations, 542 evaluations
+optimisation finished successfully after 73 iterations, 117 evaluations
+optimisation finished successfully after 94 iterations, 147 evaluations
+optimisation finished successfully after 69 iterations, 115 evaluations
+destroy False (64, 40) (70, 39)
+iter 120 T 0.8333333333333334 sidx 36 index 27 move percolate M 40
+optimisation finished successfully after 160 iterations, 233 evaluations
+optimisation finished successfully after 29 iterations, 57 evaluations
+iter 121 T 0.8333333333333334 sidx 38 index 28 move create M 40
+optimisation finished successfully after 156 iterations, 231 evaluations
+optimisation finished successfully after 586 iterations, 833 evaluations
+optimisation finished successfully after 320 iterations, 470 evaluations
+optimisation finished successfully after 175 iterations, 248 evaluations
+optimisation finished successfully after 79 iterations, 124 evaluations
+optimisation finished successfully after 94 iterations, 148 evaluations
+accepted move data dn =  -4 0.9148978470417624 0.9148978470417624
+optimisation finished successfully after 164 iterations, 243 evaluations
+optimisation finished successfully after 21 iterations, 46 evaluations
+create False (64, 40) (64, 41)
+iter 122 T 0.8333333333333334 sidx 39 index 29 move create M 40
+optimisation finished successfully after 146 iterations, 222 evaluations
+optimisation finished successfully after 297 iterations, 423 evaluations
+optimisation finished successfully after 90 iterations, 143 evaluations
+optimisation finished successfully after 164 iterations, 240 evaluations
+optimisation finished successfully after 107 iterations, 162 evaluations
+optimisation finished successfully after 31 iterations, 62 evaluations
+accepted move data dn =  -2 0.5638075045554353 0.5638075045554353
+optimisation finished successfully after 33 iterations, 64 evaluations
+create False (64, 40) (64, 41)
+iter 123 T 0.8333333333333334 sidx 41 index 30 move create M 40
+optimisation finished successfully after 67 iterations, 108 evaluations
+optimisation finished successfully after 554 iterations, 768 evaluations
+optimisation finished successfully after 222 iterations, 328 evaluations
+optimisation finished successfully after 181 iterations, 261 evaluations
+optimisation finished successfully after 122 iterations, 185 evaluations
+accepted move data dn =  1 0.7300647051684397 0.7300647051684397
+optimisation finished successfully after 208 iterations, 306 evaluations
+create False (64, 40) (65, 41)
+iter 124 T 0.8333333333333334 sidx 42 index 31 move percolate M 40
+optimisation finished successfully after 406 iterations, 582 evaluations
+optimisation finished successfully after 183 iterations, 273 evaluations
+optimisation finished successfully after 45 iterations, 88 evaluations
+iter 125 T 0.8333333333333334 sidx 43 index 32 move create M 40
+optimisation finished successfully after 65 iterations, 108 evaluations
+create False (64, 40) (66, 41)
+iter 126 T 0.8333333333333334 sidx 44 index 34 move create M 40
+optimisation finished successfully after 418 iterations, 648 evaluations
+create False (64, 40) (65, 41)
+iter 127 T 0.8333333333333334 sidx 45 index 35 move create M 40
+optimisation finished successfully after 298 iterations, 450 evaluations
+optimisation finished successfully after 119 iterations, 201 evaluations
+optimisation finished successfully after 370 iterations, 549 evaluations
+optimisation finished successfully after 65 iterations, 124 evaluations
+optimisation finished successfully after 127 iterations, 211 evaluations
+create False (64, 40) (65, 41)
+iter 128 T 0.8333333333333334 sidx 47 index 36 move create M 40
+optimisation finished successfully after 88 iterations, 147 evaluations
+optimisation finished successfully after 292 iterations, 435 evaluations
+optimisation finished successfully after 123 iterations, 197 evaluations
+optimisation finished successfully after 167 iterations, 268 evaluations
+optimisation finished successfully after 34 iterations, 71 evaluations
+optimisation finished successfully after 148 iterations, 228 evaluations
+create False (64, 40) (65, 41)
+iter 129 T 0.8333333333333334 sidx 48 index 37 move create M 40
+optimisation finished successfully after 99 iterations, 152 evaluations
+optimisation finished successfully after 955 iterations, 1356 evaluations
+optimisation finished successfully after 124 iterations, 188 evaluations
+optimisation finished successfully after 234 iterations, 335 evaluations
+accepted move data dn =  -5 2.700756128570561 2.700756128570561
+optimisation finished successfully after 166 iterations, 248 evaluations
+optimisation finished successfully after 231 iterations, 346 evaluations
+accepted move data dn =  3 2.639791214997781 2.639791214997781
+optimisation finished successfully after 115 iterations, 179 evaluations
+create False (64, 40) (65, 41)
+iter 130 T 0.8333333333333334 sidx 49 index 38 move create M 40
+optimisation finished successfully after 190 iterations, 285 evaluations
+optimisation finished successfully after 136 iterations, 207 evaluations
+optimisation finished successfully after 514 iterations, 738 evaluations
+optimisation finished successfully after 52 iterations, 88 evaluations
+accepted move data dn =  -3 2.79620966782773 2.79620966782773
+optimisation finished successfully after 540 iterations, 739 evaluations
+optimisation finished successfully after 189 iterations, 281 evaluations
+optimisation finished successfully after 55 iterations, 102 evaluations
+create False (64, 40) (68, 41)
+iter 131 T 0.8333333333333334 sidx 52 index 39 move create M 40
+did not create at 39
+iter 132 T 0.8333333333333334 sidx 55 index 8 move percolate M 40
+optimisation finished successfully after 32 iterations, 64 evaluations
+optimisation finished successfully after 96 iterations, 149 evaluations
+optimisation finished successfully after 27 iterations, 55 evaluations
+optimisation finished successfully after 50 iterations, 83 evaluations
+iter 133 T 0.8333333333333334 sidx 56 index 13 move percolate M 40
+optimisation finished successfully after 23 iterations, 52 evaluations
+optimisation finished successfully after 103 iterations, 163 evaluations
+optimisation finished successfully after 28 iterations, 59 evaluations
+iter 134 T 0.8333333333333334 sidx 57 index 17 move destroy M 40
+optimisation finished successfully after 77 iterations, 125 evaluations
+optimisation finished successfully after 245 iterations, 356 evaluations
+optimisation finished successfully after 50 iterations, 89 evaluations
+optimisation finished successfully after 26 iterations, 55 evaluations
+destroy False (64, 40) (68, 39)
+iter 135 T 0.8333333333333334 sidx 59 index 25 move destroy M 40
+optimisation finished successfully after 142 iterations, 215 evaluations
+optimisation finished successfully after 113 iterations, 170 evaluations
+optimisation finished successfully after 35 iterations, 70 evaluations
+optimisation finished successfully after 85 iterations, 141 evaluations
+optimisation finished successfully after 260 iterations, 371 evaluations
+destroy False (64, 40) (68, 39)
+iter 136 T 0.8333333333333334 sidx 60 index 26 move destroy M 40
+optimisation finished successfully after 110 iterations, 178 evaluations
+optimisation finished successfully after 56 iterations, 99 evaluations
+optimisation finished successfully after 27 iterations, 58 evaluations
+destroy False (64, 40) (68, 39)
+iter 137 T 0.8333333333333334 sidx 62 index 4 move create M 40
+optimisation finished successfully after 18 iterations, 39 evaluations
+optimisation finished successfully after 745 iterations, 1054 evaluations
+optimisation finished successfully after 65 iterations, 104 evaluations
+optimisation finished successfully after 646 iterations, 928 evaluations
+optimisation finished successfully after 65 iterations, 104 evaluations
+optimisation finished successfully after 27 iterations, 53 evaluations
+optimisation finished successfully after 65 iterations, 104 evaluations
+optimisation finished successfully after 32 iterations, 62 evaluations
+create False (64, 40) (65, 41)
+iter 138 T 0.6666666666666666 sidx 0 index 0 move destroy M 40
+iter 139 T 0.6666666666666666 sidx 4 index 1 move create M 40
+optimisation finished successfully after 31 iterations, 55 evaluations
+optimisation finished successfully after 267 iterations, 416 evaluations
+optimisation finished successfully after 135 iterations, 211 evaluations
+optimisation finished successfully after 146 iterations, 216 evaluations
+optimisation finished successfully after 89 iterations, 144 evaluations
+optimisation finished successfully after 229 iterations, 328 evaluations
+accepted move data dn =  -6 1.020442215029571 1.020442215029571
+optimisation finished successfully after 102 iterations, 155 evaluations
+optimisation finished successfully after 120 iterations, 183 evaluations
+accepted move data dn =  4 0.9759909965426613 0.9759909965426613
+optimisation finished successfully after 76 iterations, 120 evaluations
+create False (64, 40) (65, 41)
+iter 140 T 0.6666666666666666 sidx 5 index 3 move percolate M 40
+optimisation finished successfully after 68 iterations, 107 evaluations
+optimisation finished successfully after 47 iterations, 88 evaluations
+iter 141 T 0.6666666666666666 sidx 7 index 5 move destroy M 40
+optimisation finished successfully after 60 iterations, 98 evaluations
+destroy without percolating (64, 40) (63, 39)
+iter 142 T 1.0 sidx 8 index 5 move percolate M 39
+optimisation finished successfully after 82 iterations, 125 evaluations
+optimisation finished successfully after 52 iterations, 88 evaluations
+optimisation finished successfully after 32 iterations, 64 evaluations
+iter 143 T 1.0 sidx 62 index 4 move destroy M 39
+optimisation finished successfully after 190 iterations, 280 evaluations
+optimisation finished successfully after 301 iterations, 441 evaluations
+optimisation finished successfully after 53 iterations, 90 evaluations
+optimisation finished successfully after 171 iterations, 263 evaluations
+optimisation finished successfully after 37 iterations, 70 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+optimisation finished successfully after 87 iterations, 136 evaluations
+optimisation finished successfully after 77 iterations, 123 evaluations
+destroy False (63, 39) (77, 38)
+iter 144 T 0.8333333333333334 sidx 8 index 5 move destroy M 39
+optimisation finished successfully after 134 iterations, 194 evaluations
+optimisation finished successfully after 49 iterations, 86 evaluations
+optimisation finished successfully after 77 iterations, 119 evaluations
+optimisation finished successfully after 44 iterations, 81 evaluations
+destroy False (63, 39) (71, 38)
+iter 145 T 0.8333333333333334 sidx 62 index 4 move percolate M 39
+optimisation finished successfully after 28 iterations, 57 evaluations
+optimisation finished successfully after 106 iterations, 167 evaluations
+optimisation finished successfully after 24 iterations, 51 evaluations
+iter 146 T 0.6666666666666666 sidx 8 index 5 move create M 39
+optimisation finished successfully after 63 iterations, 100 evaluations
+optimisation finished successfully after 201 iterations, 290 evaluations
+optimisation finished successfully after 147 iterations, 210 evaluations
+optimisation finished successfully after 284 iterations, 395 evaluations
+optimisation finished successfully after 96 iterations, 148 evaluations
+optimisation finished successfully after 16 iterations, 36 evaluations
+create False (63, 39) (64, 40)
+iter 147 T 0.6666666666666666 sidx 9 index 6 move destroy M 39
+optimisation finished successfully after 114 iterations, 184 evaluations
+optimisation finished successfully after 24 iterations, 51 evaluations
+optimisation finished successfully after 157 iterations, 234 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+destroy False (63, 39) (70, 38)
+iter 148 T 0.6666666666666666 sidx 11 index 8 move percolate M 39
+optimisation finished successfully after 26 iterations, 56 evaluations
+optimisation finished successfully after 57 iterations, 95 evaluations
+iter 149 T 0.6666666666666666 sidx 14 index 9 move percolate M 39
+optimisation finished successfully after 38 iterations, 71 evaluations
+optimisation finished successfully after 42 iterations, 77 evaluations
+optimisation finished successfully after 39 iterations, 73 evaluations
+iter 150 T 0.6666666666666666 sidx 15 index 10 move create M 39
+optimisation finished successfully after 51 iterations, 89 evaluations
+optimisation finished successfully after 499 iterations, 693 evaluations
+optimisation finished successfully after 234 iterations, 332 evaluations
+accepted move data dn =  1 0.8201104380599697 0.8201104380599697
+accepted move data dn =  0 0.8201104380599693 0.8201104380599693
+optimisation finished successfully after 89 iterations, 140 evaluations
+optimisation finished successfully after 48 iterations, 89 evaluations
+accepted move data dn =  -3 0.7986099995334152 0.7986099995334152
+optimisation finished successfully after 25 iterations, 52 evaluations
+create False (63, 39) (64, 40)
+iter 151 T 0.6666666666666666 sidx 16 index 11 move percolate M 39
+optimisation finished successfully after 109 iterations, 168 evaluations
+optimisation finished successfully after 45 iterations, 82 evaluations
+optimisation finished successfully after 37 iterations, 69 evaluations
+optimisation finished successfully after 31 iterations, 63 evaluations
+iter 152 T 0.6666666666666666 sidx 18 index 13 move create M 39
+optimisation finished successfully after 54 iterations, 88 evaluations
+optimisation finished successfully after 654 iterations, 925 evaluations
+accepted move data dn =  -11 1.1375065332166046 1.1375065332166046
+optimisation finished successfully after 789 iterations, 1102 evaluations
+optimisation finished successfully after 633 iterations, 889 evaluations
+accepted move data dn =  7 1.1144354468795377 1.1144354468795377
+optimisation finished successfully after 66 iterations, 110 evaluations
+optimisation finished successfully after 270 iterations, 394 evaluations
+accepted move data dn =  -4 1.0279879827424288 1.0279879827424288
+optimisation finished successfully after 205 iterations, 306 evaluations
+create False (63, 39) (63, 40)
+iter 153 T 0.6666666666666666 sidx 19 index 14 move destroy M 39
+optimisation finished successfully after 172 iterations, 255 evaluations
+optimisation finished successfully after 31 iterations, 60 evaluations
+optimisation finished successfully after 29 iterations, 56 evaluations
+optimisation finished successfully after 56 iterations, 96 evaluations
+optimisation finished successfully after 41 iterations, 75 evaluations
+optimisation finished successfully after 26 iterations, 59 evaluations
+destroy False (63, 39) (66, 38)
+iter 154 T 0.6666666666666666 sidx 20 index 15 move destroy M 39
+optimisation finished successfully after 81 iterations, 124 evaluations
+optimisation finished successfully after 52 iterations, 91 evaluations
+optimisation finished successfully after 31 iterations, 64 evaluations
+destroy False (63, 39) (65, 38)
+iter 155 T 0.6666666666666666 sidx 22 index 17 move percolate M 39
+optimisation finished successfully after 91 iterations, 137 evaluations
+optimisation finished successfully after 28 iterations, 58 evaluations
+optimisation finished successfully after 28 iterations, 58 evaluations
+iter 156 T 0.6666666666666666 sidx 24 index 18 move percolate M 39
+optimisation finished successfully after 115 iterations, 179 evaluations
+optimisation finished successfully after 30 iterations, 61 evaluations
+iter 157 T 0.6666666666666666 sidx 26 index 19 move percolate M 39
+optimisation finished successfully after 49 iterations, 88 evaluations
+optimisation finished successfully after 104 iterations, 161 evaluations
+optimisation finished successfully after 38 iterations, 71 evaluations
+optimisation finished successfully after 30 iterations, 62 evaluations
+optimisation finished successfully after 38 iterations, 72 evaluations
+iter 158 T 0.6666666666666666 sidx 27 index 20 move percolate M 39
+optimisation finished successfully after 30 iterations, 62 evaluations
+optimisation finished successfully after 26 iterations, 57 evaluations
+iter 159 T 0.6666666666666666 sidx 28 index 21 move destroy M 39
+optimisation finished successfully after 234 iterations, 345 evaluations
+optimisation finished successfully after 129 iterations, 190 evaluations
+optimisation finished successfully after 23 iterations, 51 evaluations
+destroy False (63, 39) (72, 38)
+iter 160 T 0.6666666666666666 sidx 29 index 22 move create M 39
+optimisation finished successfully after 55 iterations, 91 evaluations
+optimisation finished successfully after 344 iterations, 482 evaluations
+optimisation finished successfully after 171 iterations, 255 evaluations
+optimisation finished successfully after 458 iterations, 648 evaluations
+optimisation finished successfully after 105 iterations, 166 evaluations
+optimisation finished successfully after 239 iterations, 336 evaluations
+create False (63, 39) (64, 40)
+iter 161 T 0.6666666666666666 sidx 32 index 23 move create M 39
+optimisation finished successfully after 151 iterations, 225 evaluations
+optimisation finished successfully after 517 iterations, 725 evaluations
+optimisation finished successfully after 247 iterations, 356 evaluations
+accepted move data dn =  1 0.9679937573139028 0.9679937573139028
+optimisation finished successfully after 267 iterations, 383 evaluations
+optimisation finished successfully after 125 iterations, 200 evaluations
+accepted move data dn =  -4 0.9442093001269457 0.9442093001269457
+optimisation finished successfully after 51 iterations, 88 evaluations
+create False (63, 39) (64, 40)
+iter 162 T 0.6666666666666666 sidx 36 index 26 move create M 39
+optimisation finished successfully after 62 iterations, 105 evaluations
+optimisation finished successfully after 66 iterations, 107 evaluations
+accepted move data dn =  -1 0.8577795067603683 0.8577795067603683
+optimisation finished successfully after 355 iterations, 511 evaluations
+optimisation finished successfully after 182 iterations, 264 evaluations
+create False (63, 39) (63, 40)
+iter 163 T 0.6666666666666666 sidx 38 index 27 move destroy M 39
+optimisation finished successfully after 213 iterations, 313 evaluations
+optimisation finished successfully after 244 iterations, 356 evaluations
+optimisation finished successfully after 27 iterations, 56 evaluations
+optimisation finished successfully after 23 iterations, 49 evaluations
+destroy False (63, 39) (71, 38)
+iter 164 T 0.6666666666666666 sidx 39 index 28 move destroy M 39
+optimisation finished successfully after 122 iterations, 187 evaluations
+optimisation finished successfully after 228 iterations, 333 evaluations
+optimisation finished successfully after 64 iterations, 111 evaluations
+optimisation finished successfully after 50 iterations, 88 evaluations
+destroy False (63, 39) (74, 38)
+iter 165 T 0.6666666666666666 sidx 41 index 29 move destroy M 39
+optimisation finished successfully after 284 iterations, 421 evaluations
+optimisation finished successfully after 224 iterations, 329 evaluations
+optimisation finished successfully after 164 iterations, 252 evaluations
+optimisation finished successfully after 378 iterations, 544 evaluations
+optimisation finished successfully after 207 iterations, 298 evaluations
+optimisation finished successfully after 63 iterations, 109 evaluations
+optimisation finished successfully after 199 iterations, 294 evaluations
+optimisation finished successfully after 42 iterations, 80 evaluations
+optimisation finished successfully after 163 iterations, 242 evaluations
+destroy True (63, 39) (62, 38)
+iter 166 T 1.0 sidx 39 index 28 move create M 38
+optimisation finished successfully after 124 iterations, 186 evaluations
+optimisation finished successfully after 283 iterations, 400 evaluations
+optimisation finished successfully after 192 iterations, 291 evaluations
+optimisation finished successfully after 119 iterations, 176 evaluations
+optimisation finished successfully after 82 iterations, 137 evaluations
+optimisation finished successfully after 128 iterations, 187 evaluations
+accepted move data dn =  -2 0.4995161783193225 0.4995161783193225
+optimisation finished successfully after 73 iterations, 121 evaluations
+create False (62, 38) (62, 39)
+iter 167 T 1.0 sidx 42 index 29 move destroy M 38
+optimisation finished successfully after 177 iterations, 259 evaluations
+optimisation finished successfully after 637 iterations, 905 evaluations
+optimisation finished successfully after 323 iterations, 493 evaluations
+optimisation finished successfully after 508 iterations, 749 evaluations
+optimisation finished successfully after 271 iterations, 422 evaluations
+destroy False (62, 38) (68, 37)
+iter 168 T 0.8333333333333334 sidx 39 index 28 move destroy M 38
+optimisation finished successfully after 210 iterations, 319 evaluations
+optimisation finished successfully after 174 iterations, 263 evaluations
+optimisation finished successfully after 134 iterations, 207 evaluations
+optimisation finished successfully after 51 iterations, 86 evaluations
+optimisation finished successfully after 210 iterations, 299 evaluations
+optimisation finished successfully after 37 iterations, 71 evaluations
+destroy False (62, 38) (72, 37)
+iter 169 T 0.8333333333333334 sidx 42 index 29 move percolate M 38
+optimisation finished successfully after 42 iterations, 80 evaluations
+optimisation finished successfully after 163 iterations, 242 evaluations
+iter 170 T 0.6666666666666666 sidx 39 index 28 move percolate M 38
+optimisation finished successfully after 114 iterations, 177 evaluations
+optimisation finished successfully after 33 iterations, 73 evaluations
+optimisation finished successfully after 113 iterations, 176 evaluations
+optimisation finished successfully after 58 iterations, 100 evaluations
+optimisation finished successfully after 26 iterations, 57 evaluations
+iter 171 T 0.6666666666666666 sidx 42 index 29 move create M 38
+optimisation finished successfully after 204 iterations, 307 evaluations
+optimisation finished successfully after 258 iterations, 363 evaluations
+optimisation finished successfully after 108 iterations, 170 evaluations
+optimisation finished successfully after 226 iterations, 322 evaluations
+optimisation finished successfully after 159 iterations, 240 evaluations
+optimisation finished successfully after 129 iterations, 192 evaluations
+create False (62, 38) (63, 39)
+iter 172 T 0.6666666666666666 sidx 43 index 30 move destroy M 38
+optimisation finished successfully after 666 iterations, 965 evaluations
+optimisation finished successfully after 58 iterations, 118 evaluations
+optimisation finished successfully after 65 iterations, 120 evaluations
+optimisation finished successfully after 96 iterations, 168 evaluations
+optimisation finished successfully after 84 iterations, 143 evaluations
+optimisation finished successfully after 55 iterations, 111 evaluations
+optimisation finished successfully after 58 iterations, 113 evaluations
+destroy True (62, 38) (62, 37)
+iter 173 T 1.0 sidx 42 index 29 move create M 37
+optimisation finished successfully after 68 iterations, 113 evaluations
+optimisation finished successfully after 1090 iterations, 1511 evaluations
+optimisation finished successfully after 172 iterations, 257 evaluations
+optimisation finished successfully after 158 iterations, 226 evaluations
+accepted move data dn =  -5 0.8116780762230866 0.8116780762230866
+optimisation finished successfully after 314 iterations, 445 evaluations
+optimisation finished successfully after 161 iterations, 237 evaluations
+create False (62, 37) (63, 38)
+iter 174 T 1.0 sidx 61 index 30 move create M 37
+optimisation finished successfully after 109 iterations, 165 evaluations
+optimisation finished successfully after 908 iterations, 1309 evaluations
+optimisation finished successfully after 750 iterations, 1063 evaluations
+optimisation finished successfully after 337 iterations, 529 evaluations
+accepted move data dn =  -5 0.5812975836560191 0.5812975836560191
+optimisation finished successfully after 272 iterations, 397 evaluations
+optimisation finished successfully after 32 iterations, 67 evaluations
+create False (62, 37) (62, 38)
+iter 175 T 0.8333333333333334 sidx 42 index 29 move destroy M 37
+optimisation finished successfully after 483 iterations, 722 evaluations
+optimisation finished successfully after 63 iterations, 119 evaluations
+optimisation finished successfully after 79 iterations, 144 evaluations
+optimisation finished successfully after 61 iterations, 121 evaluations
+destroy False (62, 37) (68, 36)
+iter 176 T 0.8333333333333334 sidx 61 index 30 move percolate M 37
+optimisation finished successfully after 54 iterations, 107 evaluations
+optimisation finished successfully after 58 iterations, 113 evaluations
+iter 177 T 0.6666666666666666 sidx 42 index 29 move percolate M 37
+optimisation finished successfully after 293 iterations, 453 evaluations
+optimisation finished successfully after 309 iterations, 484 evaluations
+optimisation finished successfully after 346 iterations, 521 evaluations
+iter 178 T 0.6666666666666666 sidx 44 index 31 move destroy M 37
+optimisation finished successfully after 34 iterations, 62 evaluations
+destroy without percolating (62, 37) (61, 36)
+iter 179 T 1.0 sidx 45 index 31 move create M 36
+optimisation finished successfully after 113 iterations, 170 evaluations
+optimisation finished successfully after 429 iterations, 608 evaluations
+optimisation finished successfully after 229 iterations, 329 evaluations
+optimisation finished successfully after 121 iterations, 188 evaluations
+accepted move data dn =  -4 0.7851869189945824 0.7851869189945824
+optimisation finished successfully after 334 iterations, 472 evaluations
+optimisation finished successfully after 90 iterations, 140 evaluations
+create False (61, 36) (62, 37)
+iter 180 T 1.0 sidx 61 index 30 move create M 36
+optimisation finished successfully after 64 iterations, 105 evaluations
+optimisation finished successfully after 273 iterations, 400 evaluations
+optimisation finished successfully after 140 iterations, 208 evaluations
+optimisation finished successfully after 204 iterations, 295 evaluations
+accepted move data dn =  -5 0.7563615100339685 0.7563615100339685
+optimisation finished successfully after 178 iterations, 261 evaluations
+optimisation finished successfully after 42 iterations, 77 evaluations
+create False (61, 36) (61, 37)
+iter 181 T 0.8333333333333334 sidx 45 index 31 move percolate M 36
+optimisation finished successfully after 28 iterations, 56 evaluations
+optimisation finished successfully after 28 iterations, 60 evaluations
+optimisation finished successfully after 24 iterations, 52 evaluations
+optimisation finished successfully after 30 iterations, 62 evaluations
+optimisation finished successfully after 100 iterations, 154 evaluations
+optimisation finished successfully after 36 iterations, 68 evaluations
+iter 182 T 0.8333333333333334 sidx 61 index 30 move destroy M 36
+optimisation finished successfully after 91 iterations, 151 evaluations
+optimisation finished successfully after 162 iterations, 239 evaluations
+optimisation finished successfully after 29 iterations, 64 evaluations
+optimisation finished successfully after 21 iterations, 51 evaluations
+optimisation finished successfully after 29 iterations, 62 evaluations
+destroy False (61, 36) (66, 35)
+iter 183 T 0.6666666666666666 sidx 45 index 31 move destroy M 36
+optimisation finished successfully after 257 iterations, 379 evaluations
+optimisation finished successfully after 35 iterations, 67 evaluations
+optimisation finished successfully after 36 iterations, 72 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+optimisation finished successfully after 97 iterations, 157 evaluations
+optimisation finished successfully after 28 iterations, 57 evaluations
+destroy False (61, 36) (73, 35)
+iter 184 T 0.6666666666666666 sidx 47 index 32 move destroy M 36
+optimisation finished successfully after 181 iterations, 273 evaluations
+optimisation finished successfully after 52 iterations, 96 evaluations
+optimisation finished successfully after 30 iterations, 60 evaluations
+destroy False (61, 36) (68, 35)
+iter 185 T 0.6666666666666666 sidx 48 index 33 move destroy M 36
+optimisation finished successfully after 249 iterations, 372 evaluations
+optimisation finished successfully after 62 iterations, 108 evaluations
+optimisation finished successfully after 21 iterations, 47 evaluations
+destroy False (61, 36) (68, 35)
+iter 186 T 0.6666666666666666 sidx 49 index 34 move destroy M 36
+optimisation finished successfully after 176 iterations, 277 evaluations
+destroy False (61, 36) (72, 35)
+iter 187 T 0.6666666666666666 sidx 52 index 35 move destroy M 36
+optimisation finished successfully after 127 iterations, 212 evaluations
+destroy False (61, 36) (71, 35)
+iter 188 T 0.6666666666666666 sidx 54 index 2 move destroy M 36
+optimisation finished successfully after 241 iterations, 348 evaluations
+optimisation finished successfully after 66 iterations, 110 evaluations
+optimisation finished successfully after 75 iterations, 115 evaluations
+optimisation finished successfully after 17 iterations, 40 evaluations
+optimisation finished successfully after 84 iterations, 129 evaluations
+optimisation finished successfully after 20 iterations, 44 evaluations
+optimisation finished successfully after 20 iterations, 47 evaluations
+optimisation finished successfully after 85 iterations, 133 evaluations
+destroy False (61, 36) (69, 35)
+iter 189 T 0.6666666666666666 sidx 55 index 7 move destroy M 36
+optimisation finished successfully after 138 iterations, 210 evaluations
+optimisation finished successfully after 23 iterations, 48 evaluations
+optimisation finished successfully after 132 iterations, 200 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+destroy False (61, 36) (65, 35)
+iter 190 T 0.6666666666666666 sidx 56 index 12 move destroy M 36
+optimisation finished successfully after 264 iterations, 389 evaluations
+optimisation finished successfully after 69 iterations, 114 evaluations
+optimisation finished successfully after 58 iterations, 98 evaluations
+optimisation finished successfully after 30 iterations, 63 evaluations
+optimisation finished successfully after 75 iterations, 121 evaluations
+optimisation finished successfully after 174 iterations, 262 evaluations
+optimisation finished successfully after 138 iterations, 212 evaluations
+destroy False (61, 36) (62, 35)
+iter 191 T 0.6666666666666666 sidx 57 index 16 move create M 36
+optimisation finished successfully after 43 iterations, 78 evaluations
+optimisation finished successfully after 1144 iterations, 1590 evaluations
+optimisation finished successfully after 542 iterations, 753 evaluations
+accepted move data dn =  1 0.8467492300974945 0.8467492300974945
+optimisation finished successfully after 500 iterations, 723 evaluations
+optimisation finished successfully after 262 iterations, 390 evaluations
+optimisation finished successfully after 218 iterations, 315 evaluations
+create False (61, 36) (62, 37)
+iter 192 T 0.6666666666666666 sidx 59 index 24 move create M 36
+optimisation finished successfully after 61 iterations, 101 evaluations
+optimisation finished successfully after 339 iterations, 495 evaluations
+optimisation finished successfully after 183 iterations, 280 evaluations
+optimisation finished successfully after 41 iterations, 72 evaluations
+optimisation finished successfully after 189 iterations, 275 evaluations
+accepted move data dn =  5 0.9561478700950521 0.9561478700950521
+optimisation finished successfully after 314 iterations, 442 evaluations
+optimisation finished successfully after 34 iterations, 65 evaluations
+create False (61, 36) (61, 37)
+iter 193 T 0.6666666666666666 sidx 60 index 25 move create M 36
+optimisation finished successfully after 105 iterations, 161 evaluations
+optimisation finished successfully after 374 iterations, 539 evaluations
+optimisation finished successfully after 289 iterations, 411 evaluations
+accepted move data dn =  -10 1.0391550914084169 1.0391550914084169
+optimisation finished successfully after 303 iterations, 432 evaluations
+accepted move data dn =  10 0.9863174707858804 0.9863174707858804
+optimisation finished successfully after 128 iterations, 192 evaluations
+optimisation finished successfully after 361 iterations, 527 evaluations
+accepted move data dn =  -5 0.8117372800199468 0.8117372800199468
+optimisation finished successfully after 99 iterations, 156 evaluations
+optimisation finished successfully after 147 iterations, 216 evaluations
+create True (61, 36) (59, 37)
+iter 194 T 1.0 sidx 36 index 27 move destroy M 37
+optimisation finished successfully after 26 iterations, 52 evaluations
+destroy without percolating (59, 37) (58, 36)
+iter 195 T 1.0 sidx 38 index 27 move create M 36
+optimisation finished successfully after 96 iterations, 151 evaluations
+optimisation finished successfully after 753 iterations, 1059 evaluations
+optimisation finished successfully after 260 iterations, 381 evaluations
+optimisation finished successfully after 183 iterations, 270 evaluations
+optimisation finished successfully after 75 iterations, 123 evaluations
+optimisation finished successfully after 181 iterations, 264 evaluations
+accepted move data dn =  -4 0.7771780832638701 0.7771780832638701
+optimisation finished successfully after 134 iterations, 204 evaluations
+optimisation finished successfully after 35 iterations, 65 evaluations
+create False (58, 36) (59, 37)
+iter 196 T 1.0 sidx 60 index 25 move create M 36
+optimisation finished successfully after 30 iterations, 56 evaluations
+optimisation finished successfully after 434 iterations, 629 evaluations
+optimisation finished successfully after 158 iterations, 231 evaluations
+accepted move data dn =  2 0.8010325170363501 0.8010325170363501
+optimisation finished successfully after 587 iterations, 836 evaluations
+optimisation finished successfully after 98 iterations, 159 evaluations
+optimisation finished successfully after 55 iterations, 97 evaluations
+accepted move data dn =  -3 0.7981220765772845 0.7981220765772845
+optimisation finished successfully after 30 iterations, 63 evaluations
+create False (58, 36) (60, 37)
+iter 197 T 1.0 sidx 63 index 26 move percolate M 36
+optimisation finished successfully after 40 iterations, 74 evaluations
+optimisation finished successfully after 43 iterations, 85 evaluations
+iter 198 T 0.8333333333333334 sidx 38 index 27 move destroy M 36
+optimisation finished successfully after 160 iterations, 243 evaluations
+optimisation finished successfully after 37 iterations, 69 evaluations
+optimisation finished successfully after 30 iterations, 57 evaluations
+optimisation finished successfully after 196 iterations, 286 evaluations
+optimisation finished successfully after 26 iterations, 54 evaluations
+optimisation finished successfully after 23 iterations, 50 evaluations
+optimisation finished successfully after 179 iterations, 260 evaluations
+optimisation finished successfully after 29 iterations, 60 evaluations
+destroy False (58, 36) (67, 35)
+iter 199 T 0.8333333333333334 sidx 60 index 25 move percolate M 36
+optimisation finished successfully after 38 iterations, 74 evaluations
+optimisation finished successfully after 39 iterations, 77 evaluations
+optimisation finished successfully after 44 iterations, 82 evaluations
+optimisation finished successfully after 32 iterations, 63 evaluations
+optimisation finished successfully after 25 iterations, 58 evaluations
+iter 200 T 0.8333333333333334 sidx 63 index 26 move destroy M 36
+optimisation finished successfully after 176 iterations, 265 evaluations
+optimisation finished successfully after 75 iterations, 122 evaluations
+optimisation finished successfully after 27 iterations, 57 evaluations
+destroy False (58, 36) (66, 35)
+iter 201 T 0.6666666666666666 sidx 38 index 27 move percolate M 36
+optimisation finished successfully after 45 iterations, 84 evaluations
+optimisation finished successfully after 91 iterations, 145 evaluations
+optimisation finished successfully after 26 iterations, 57 evaluations
+optimisation finished successfully after 52 iterations, 97 evaluations
+iter 202 T 0.6666666666666666 sidx 60 index 25 move destroy M 36
+optimisation finished successfully after 130 iterations, 197 evaluations
+optimisation finished successfully after 46 iterations, 84 evaluations
+optimisation finished successfully after 80 iterations, 129 evaluations
+optimisation finished successfully after 27 iterations, 55 evaluations
+destroy False (58, 36) (66, 35)
+iter 203 T 0.6666666666666666 sidx 61 index 30 move percolate M 36
+optimisation finished successfully after 68 iterations, 119 evaluations
+optimisation finished successfully after 47 iterations, 85 evaluations
+optimisation finished successfully after 26 iterations, 56 evaluations
+iter 204 T 0.6666666666666666 sidx 62 index 4 move create M 36
+optimisation finished successfully after 40 iterations, 67 evaluations
+optimisation finished successfully after 340 iterations, 494 evaluations
+optimisation finished successfully after 100 iterations, 155 evaluations
+optimisation finished successfully after 219 iterations, 315 evaluations
+optimisation finished successfully after 27 iterations, 53 evaluations
+optimisation finished successfully after 268 iterations, 383 evaluations
+optimisation finished successfully after 27 iterations, 53 evaluations
+optimisation finished successfully after 25 iterations, 54 evaluations
+create False (58, 36) (59, 37)
+iter 205 T 0.6666666666666666 sidx 63 index 26 move create M 36
+optimisation finished successfully after 25 iterations, 52 evaluations
+optimisation finished successfully after 403 iterations, 553 evaluations
+optimisation finished successfully after 284 iterations, 410 evaluations
+optimisation finished successfully after 325 iterations, 463 evaluations
+optimisation finished successfully after 106 iterations, 164 evaluations
+optimisation finished successfully after 38 iterations, 71 evaluations
+optimisation finished successfully after 46 iterations, 82 evaluations
+create False (58, 36) (60, 37)
+iter 206 T 0.5 sidx 0 index 0 move destroy M 36
+iter 207 T 0.5 sidx 4 index 1 move destroy M 36
+optimisation finished successfully after 176 iterations, 273 evaluations
+optimisation finished successfully after 25 iterations, 48 evaluations
+optimisation finished successfully after 178 iterations, 266 evaluations
+destroy False (58, 36) (62, 35)
+iter 208 T 0.5 sidx 5 index 3 move create M 36
+optimisation finished successfully after 73 iterations, 113 evaluations
+optimisation finished successfully after 324 iterations, 467 evaluations
+accepted move data dn =  -1 1.334437543081483 1.334437543081483
+optimisation finished successfully after 163 iterations, 239 evaluations
+optimisation finished successfully after 90 iterations, 144 evaluations
+create False (58, 36) (60, 37)
+iter 209 T 0.5 sidx 8 index 5 move create M 36
+optimisation finished successfully after 63 iterations, 100 evaluations
+optimisation finished successfully after 201 iterations, 290 evaluations
+optimisation finished successfully after 147 iterations, 210 evaluations
+optimisation finished successfully after 284 iterations, 395 evaluations
+optimisation finished successfully after 96 iterations, 148 evaluations
+optimisation finished successfully after 16 iterations, 36 evaluations
+create False (58, 36) (59, 37)
+iter 210 T 0.5 sidx 9 index 6 move destroy M 36
+optimisation finished successfully after 114 iterations, 184 evaluations
+optimisation finished successfully after 24 iterations, 51 evaluations
+optimisation finished successfully after 157 iterations, 234 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+destroy False (58, 36) (65, 35)
+iter 211 T 0.5 sidx 11 index 8 move percolate M 36
+optimisation finished successfully after 26 iterations, 56 evaluations
+optimisation finished successfully after 57 iterations, 95 evaluations
+iter 212 T 0.5 sidx 14 index 9 move destroy M 36
+optimisation finished successfully after 197 iterations, 290 evaluations
+optimisation finished successfully after 266 iterations, 380 evaluations
+optimisation finished successfully after 169 iterations, 249 evaluations
+optimisation finished successfully after 26 iterations, 54 evaluations
+optimisation finished successfully after 60 iterations, 103 evaluations
+optimisation finished successfully after 33 iterations, 63 evaluations
+destroy False (58, 36) (65, 35)
+iter 213 T 0.5 sidx 15 index 10 move destroy M 36
+optimisation finished successfully after 243 iterations, 357 evaluations
+optimisation finished successfully after 255 iterations, 375 evaluations
+optimisation finished successfully after 18 iterations, 39 evaluations
+optimisation finished successfully after 100 iterations, 151 evaluations
+optimisation finished successfully after 19 iterations, 45 evaluations
+optimisation finished successfully after 30 iterations, 59 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+optimisation finished successfully after 29 iterations, 60 evaluations
+optimisation finished successfully after 20 iterations, 45 evaluations
+destroy False (58, 36) (63, 35)
+iter 214 T 0.5 sidx 16 index 11 move destroy M 36
+optimisation finished successfully after 186 iterations, 279 evaluations
+optimisation finished successfully after 23 iterations, 49 evaluations
+optimisation finished successfully after 87 iterations, 136 evaluations
+destroy False (58, 36) (63, 35)
+iter 215 T 0.5 sidx 18 index 13 move create M 36
+optimisation finished successfully after 54 iterations, 88 evaluations
+optimisation finished successfully after 654 iterations, 925 evaluations
+accepted move data dn =  -11 1.1375065332166046 1.1375065332166046
+optimisation finished successfully after 789 iterations, 1102 evaluations
+optimisation finished successfully after 633 iterations, 889 evaluations
+accepted move data dn =  7 1.1144354468795377 1.1144354468795377
+optimisation finished successfully after 66 iterations, 110 evaluations
+optimisation finished successfully after 270 iterations, 394 evaluations
+accepted move data dn =  -4 1.0279879827424288 1.0279879827424288
+optimisation finished successfully after 205 iterations, 306 evaluations
+create False (58, 36) (58, 37)
+iter 216 T 0.5 sidx 19 index 14 move destroy M 36
+optimisation finished successfully after 172 iterations, 255 evaluations
+optimisation finished successfully after 31 iterations, 60 evaluations
+optimisation finished successfully after 29 iterations, 56 evaluations
+optimisation finished successfully after 56 iterations, 96 evaluations
+optimisation finished successfully after 41 iterations, 75 evaluations
+optimisation finished successfully after 26 iterations, 59 evaluations
+destroy False (58, 36) (61, 35)
+iter 217 T 0.5 sidx 20 index 15 move create M 36
+optimisation finished successfully after 70 iterations, 115 evaluations
+optimisation finished successfully after 234 iterations, 338 evaluations
+optimisation finished successfully after 306 iterations, 438 evaluations
+optimisation finished successfully after 211 iterations, 320 evaluations
+optimisation finished successfully after 203 iterations, 293 evaluations
+accepted move data dn =  5 0.9457371621039263 0.9457371621039263
+optimisation finished successfully after 219 iterations, 313 evaluations
+optimisation finished successfully after 87 iterations, 131 evaluations
+create False (58, 36) (59, 37)
+iter 218 T 0.5 sidx 22 index 17 move destroy M 36
+optimisation finished successfully after 174 iterations, 251 evaluations
+optimisation finished successfully after 27 iterations, 58 evaluations
+optimisation finished successfully after 72 iterations, 117 evaluations
+optimisation finished successfully after 27 iterations, 57 evaluations
+destroy False (58, 36) (59, 35)
+iter 219 T 0.5 sidx 24 index 18 move destroy M 36
+optimisation finished successfully after 144 iterations, 228 evaluations
+optimisation finished successfully after 393 iterations, 563 evaluations
+optimisation finished successfully after 138 iterations, 211 evaluations
+optimisation finished successfully after 21 iterations, 48 evaluations
+optimisation finished successfully after 34 iterations, 69 evaluations
+optimisation finished successfully after 29 iterations, 60 evaluations
+destroy False (58, 36) (65, 35)
+iter 220 T 0.5 sidx 26 index 19 move create M 36
+optimisation finished successfully after 68 iterations, 109 evaluations
+optimisation finished successfully after 209 iterations, 305 evaluations
+optimisation finished successfully after 287 iterations, 410 evaluations
+optimisation finished successfully after 115 iterations, 184 evaluations
+optimisation finished successfully after 393 iterations, 536 evaluations
+optimisation finished successfully after 99 iterations, 159 evaluations
+create False (58, 36) (59, 37)
+iter 221 T 0.5 sidx 27 index 20 move destroy M 36
+optimisation finished successfully after 133 iterations, 210 evaluations
+optimisation finished successfully after 30 iterations, 61 evaluations
+optimisation finished successfully after 33 iterations, 69 evaluations
+optimisation finished successfully after 109 iterations, 167 evaluations
+optimisation finished successfully after 36 iterations, 71 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+optimisation finished successfully after 25 iterations, 53 evaluations
+destroy False (58, 36) (66, 35)
+iter 222 T 0.5 sidx 28 index 21 move create M 36
+optimisation finished successfully after 95 iterations, 144 evaluations
+optimisation finished successfully after 556 iterations, 790 evaluations
+optimisation finished successfully after 123 iterations, 184 evaluations
+optimisation finished successfully after 392 iterations, 561 evaluations
+optimisation finished successfully after 121 iterations, 184 evaluations
+accepted move data dn =  2 0.6393069209886356 0.6393069209886356
+optimisation finished successfully after 181 iterations, 268 evaluations
+create False (58, 36) (59, 37)
+iter 223 T 0.5 sidx 29 index 22 move destroy M 36
+optimisation finished successfully after 123 iterations, 183 evaluations
+optimisation finished successfully after 23 iterations, 49 evaluations
+optimisation finished successfully after 229 iterations, 339 evaluations
+optimisation finished successfully after 385 iterations, 558 evaluations
+optimisation finished successfully after 32 iterations, 65 evaluations
+destroy False (58, 36) (70, 35)
+iter 224 T 0.5 sidx 32 index 23 move destroy M 36
+optimisation finished successfully after 234 iterations, 348 evaluations
+optimisation finished successfully after 114 iterations, 177 evaluations
+optimisation finished successfully after 34 iterations, 65 evaluations
+optimisation finished successfully after 238 iterations, 345 evaluations
+optimisation finished successfully after 21 iterations, 49 evaluations
+optimisation finished successfully after 78 iterations, 126 evaluations
+destroy False (58, 36) (67, 35)
+iter 225 T 0.5 sidx 38 index 27 move percolate M 36
+optimisation finished successfully after 45 iterations, 84 evaluations
+optimisation finished successfully after 91 iterations, 145 evaluations
+optimisation finished successfully after 26 iterations, 57 evaluations
+optimisation finished successfully after 52 iterations, 97 evaluations
+iter 226 T 0.5 sidx 39 index 28 move create M 36
+optimisation finished successfully after 59 iterations, 95 evaluations
+optimisation finished successfully after 126 iterations, 195 evaluations
+optimisation finished successfully after 230 iterations, 335 evaluations
+optimisation finished successfully after 112 iterations, 170 evaluations
+optimisation finished successfully after 134 iterations, 204 evaluations
+optimisation finished successfully after 101 iterations, 163 evaluations
+accepted move data dn =  -2 0.5804639574397148 0.5804639574397148
+optimisation finished successfully after 100 iterations, 158 evaluations
+create False (58, 36) (59, 37)
+iter 227 T 0.5 sidx 42 index 29 move destroy M 36
+optimisation finished successfully after 96 iterations, 149 evaluations
+optimisation finished successfully after 114 iterations, 172 evaluations
+optimisation finished successfully after 87 iterations, 145 evaluations
+optimisation finished successfully after 30 iterations, 64 evaluations
+destroy False (58, 36) (65, 35)
+iter 228 T 0.5 sidx 45 index 31 move destroy M 36
+optimisation finished successfully after 303 iterations, 442 evaluations
+optimisation finished successfully after 27 iterations, 58 evaluations
+optimisation finished successfully after 39 iterations, 76 evaluations
+optimisation finished successfully after 20 iterations, 46 evaluations
+optimisation finished successfully after 115 iterations, 175 evaluations
+optimisation finished successfully after 23 iterations, 51 evaluations
+destroy False (58, 36) (71, 35)
+iter 229 T 0.5 sidx 47 index 32 move percolate M 36
+optimisation finished successfully after 25 iterations, 55 evaluations
+optimisation finished successfully after 41 iterations, 82 evaluations
+iter 230 T 0.5 sidx 48 index 33 move percolate M 36
+optimisation finished successfully after 41 iterations, 81 evaluations
+optimisation finished successfully after 145 iterations, 220 evaluations
+optimisation finished successfully after 29 iterations, 64 evaluations
+optimisation finished successfully after 40 iterations, 79 evaluations
+iter 231 T 0.5 sidx 49 index 34 move create M 36
+optimisation finished successfully after 76 iterations, 128 evaluations
+optimisation finished successfully after 330 iterations, 455 evaluations
+accepted move data dn =  -5 2.845705379216552 2.845705379216552
+optimisation finished successfully after 385 iterations, 559 evaluations
+optimisation finished successfully after 351 iterations, 493 evaluations
+optimisation finished successfully after 186 iterations, 267 evaluations
+optimisation finished successfully after 63 iterations, 106 evaluations
+accepted move data dn =  3 2.810809314157224 2.810809314157224
+optimisation finished successfully after 64 iterations, 109 evaluations
+create False (58, 36) (60, 37)
+iter 232 T 0.5 sidx 52 index 35 move create M 36
+did not create at 35
+iter 233 T 0.5 sidx 54 index 2 move destroy M 36
+optimisation finished successfully after 241 iterations, 348 evaluations
+optimisation finished successfully after 66 iterations, 110 evaluations
+optimisation finished successfully after 75 iterations, 115 evaluations
+optimisation finished successfully after 17 iterations, 40 evaluations
+optimisation finished successfully after 84 iterations, 129 evaluations
+optimisation finished successfully after 20 iterations, 44 evaluations
+optimisation finished successfully after 20 iterations, 47 evaluations
+optimisation finished successfully after 85 iterations, 133 evaluations
+destroy False (58, 36) (66, 35)
+iter 234 T 0.5 sidx 55 index 7 move destroy M 36
+optimisation finished successfully after 138 iterations, 210 evaluations
+optimisation finished successfully after 23 iterations, 48 evaluations
+optimisation finished successfully after 132 iterations, 200 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+destroy False (58, 36) (62, 35)
+iter 235 T 0.5 sidx 56 index 12 move create M 36
+optimisation finished successfully after 79 iterations, 121 evaluations
+optimisation finished successfully after 578 iterations, 810 evaluations
+optimisation finished successfully after 144 iterations, 205 evaluations
+optimisation finished successfully after 210 iterations, 296 evaluations
+optimisation finished successfully after 113 iterations, 173 evaluations
+accepted move data dn =  3 0.6947366796533069 0.6947366796533069
+optimisation finished successfully after 205 iterations, 298 evaluations
+optimisation finished successfully after 127 iterations, 186 evaluations
+create False (58, 36) (59, 37)
+iter 236 T 0.5 sidx 57 index 16 move create M 36
+optimisation finished successfully after 43 iterations, 78 evaluations
+optimisation finished successfully after 1144 iterations, 1590 evaluations
+optimisation finished successfully after 542 iterations, 753 evaluations
+accepted move data dn =  1 0.8467492300974945 0.8467492300974945
+optimisation finished successfully after 500 iterations, 723 evaluations
+optimisation finished successfully after 262 iterations, 390 evaluations
+optimisation finished successfully after 218 iterations, 315 evaluations
+create False (58, 36) (59, 37)
+iter 237 T 0.5 sidx 59 index 24 move create M 36
+optimisation finished successfully after 31 iterations, 63 evaluations
+optimisation finished successfully after 515 iterations, 731 evaluations
+accepted move data dn =  -3 0.7165315135864525 0.7165315135864525
+optimisation finished successfully after 490 iterations, 698 evaluations
+optimisation finished successfully after 276 iterations, 393 evaluations
+optimisation finished successfully after 300 iterations, 441 evaluations
+create False (58, 36) (60, 37)
+iter 238 T 0.5 sidx 60 index 25 move create M 36
+optimisation finished successfully after 30 iterations, 56 evaluations
+optimisation finished successfully after 434 iterations, 629 evaluations
+optimisation finished successfully after 158 iterations, 231 evaluations
+accepted move data dn =  2 0.8010325170363501 0.8010325170363501
+optimisation finished successfully after 587 iterations, 836 evaluations
+optimisation finished successfully after 98 iterations, 159 evaluations
+optimisation finished successfully after 55 iterations, 97 evaluations
+accepted move data dn =  -3 0.7981220765772845 0.7981220765772845
+optimisation finished successfully after 30 iterations, 63 evaluations
+create False (58, 36) (60, 37)
+iter 239 T 0.5 sidx 61 index 30 move percolate M 36
+optimisation finished successfully after 68 iterations, 119 evaluations
+optimisation finished successfully after 47 iterations, 85 evaluations
+optimisation finished successfully after 26 iterations, 56 evaluations
+iter 240 T 0.5 sidx 62 index 4 move destroy M 36
+optimisation finished successfully after 190 iterations, 280 evaluations
+optimisation finished successfully after 301 iterations, 441 evaluations
+optimisation finished successfully after 53 iterations, 90 evaluations
+optimisation finished successfully after 171 iterations, 263 evaluations
+optimisation finished successfully after 37 iterations, 70 evaluations
+optimisation finished successfully after 35 iterations, 68 evaluations
+optimisation finished successfully after 87 iterations, 136 evaluations
+optimisation finished successfully after 77 iterations, 123 evaluations
+destroy False (58, 36) (72, 35)
+iter 241 T 0.5 sidx 63 index 26 move destroy M 36
+optimisation finished successfully after 176 iterations, 265 evaluations
+optimisation finished successfully after 75 iterations, 122 evaluations
+optimisation finished successfully after 27 iterations, 57 evaluations
+destroy False (58, 36) (66, 35)
+iter 242 T 0.41666666666666674 sidx 0 index 0 move percolate M 36
+iter 243 T 0.41666666666666674 sidx 4 index 1 move create M 36
+optimisation finished successfully after 31 iterations, 55 evaluations
+optimisation finished successfully after 263 iterations, 405 evaluations
+optimisation finished successfully after 138 iterations, 204 evaluations
+optimisation finished successfully after 140 iterations, 212 evaluations
+optimisation finished successfully after 54 iterations, 90 evaluations
+optimisation finished successfully after 138 iterations, 211 evaluations
+accepted move data dn =  -6 1.036410508988311 1.036410508988311
+optimisation finished successfully after 97 iterations, 148 evaluations
+optimisation finished successfully after 64 iterations, 101 evaluations
+accepted move data dn =  4 1.0035120281628176 1.0035120281628176
+optimisation finished successfully after 44 iterations, 75 evaluations
+create False (58, 36) (58, 37)
+iter 244 T 0.41666666666666674 sidx 5 index 3 move percolate M 36
+optimisation finished successfully after 89 iterations, 143 evaluations
+optimisation finished successfully after 114 iterations, 171 evaluations
+optimisation finished successfully after 27 iterations, 57 evaluations
+optimisation finished successfully after 65 iterations, 107 evaluations
+optimisation finished successfully after 33 iterations, 63 evaluations
+optimisation finished successfully after 30 iterations, 61 evaluations
+iter 245 T 0.41666666666666674 sidx 8 index 5 move percolate M 36
+optimisation finished successfully after 82 iterations, 125 evaluations
+optimisation finished successfully after 52 iterations, 88 evaluations
+optimisation finished successfully after 32 iterations, 64 evaluations
+iter 246 T 0.41666666666666674 sidx 9 index 6 move create M 36
+optimisation finished successfully after 140 iterations, 213 evaluations
+optimisation finished successfully after 387 iterations, 537 evaluations
+optimisation finished successfully after 190 iterations, 273 evaluations
+optimisation finished successfully after 246 iterations, 341 evaluations
+optimisation finished successfully after 24 iterations, 49 evaluations
+optimisation finished successfully after 26 iterations, 50 evaluations
+create False (58, 36) (59, 37)
+iter 247 T 0.41666666666666674 sidx 11 index 8 move destroy M 36
+optimisation finished successfully after 130 iterations, 202 evaluations
+optimisation finished successfully after 94 iterations, 156 evaluations
+optimisation finished successfully after 37 iterations, 68 evaluations
+optimisation finished successfully after 40 iterations, 74 evaluations
+destroy False (58, 36) (63, 35)
+iter 248 T 0.41666666666666674 sidx 14 index 9 move percolate M 36
+optimisation finished successfully after 38 iterations, 71 evaluations
+optimisation finished successfully after 42 iterations, 77 evaluations
+optimisation finished successfully after 39 iterations, 73 evaluations
+iter 249 T 0.41666666666666674 sidx 15 index 10 move percolate M 36
+optimisation finished successfully after 60 iterations, 96 evaluations
+optimisation finished successfully after 25 iterations, 54 evaluations
+optimisation finished successfully after 21 iterations, 47 evaluations
+iter 250 T 0.41666666666666674 sidx 16 index 11 move percolate M 36
+optimisation finished successfully after 109 iterations, 168 evaluations
+optimisation finished successfully after 45 iterations, 82 evaluations
+optimisation finished successfully after 37 iterations, 69 evaluations
+optimisation finished successfully after 31 iterations, 63 evaluations
+iter 251 T 0.41666666666666674 sidx 18 index 13 move percolate M 36
+optimisation finished successfully after 22 iterations, 44 evaluations
+optimisation finished successfully after 58 iterations, 95 evaluations
+optimisation finished successfully after 30 iterations, 60 evaluations
+optimisation finished successfully after 17 iterations, 39 evaluations
+optimisation finished successfully after 139 iterations, 206 evaluations
+iter 252 T 0.41666666666666674 sidx 19 index 14 move create M 36
+optimisation finished successfully after 44 iterations, 74 evaluations
+optimisation finished successfully after 340 iterations, 488 evaluations
+accepted move data dn =  -7 1.0540788561133656 1.0540788561133656
+optimisation finished successfully after 919 iterations, 1274 evaluations
+optimisation finished successfully after 338 iterations, 481 evaluations
+optimisation finished successfully after 304 iterations, 444 evaluations
+create False (58, 36) (59, 37)
+iter 253 T 0.41666666666666674 sidx 20 index 15 move percolate M 36
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 261 iterations, 371 evaluations
+optimisation finished successfully after 132 iterations, 196 evaluations
+optimisation finished successfully after 30 iterations, 64 evaluations
+optimisation finished successfully after 29 iterations, 63 evaluations
+optimisation finished successfully after 38 iterations, 71 evaluations
+iter 254 T 0.41666666666666674 sidx 22 index 17 move create M 36
+optimisation finished successfully after 86 iterations, 130 evaluations
+optimisation finished successfully after 142 iterations, 217 evaluations
+optimisation finished successfully after 193 iterations, 275 evaluations
+optimisation finished successfully after 88 iterations, 137 evaluations
+optimisation finished successfully after 97 iterations, 151 evaluations
+create False (58, 36) (59, 37)
+iter 255 T 0.41666666666666674 sidx 24 index 18 move percolate M 36
+optimisation finished successfully after 115 iterations, 179 evaluations
+optimisation finished successfully after 30 iterations, 61 evaluations
+iter 256 T 0.41666666666666674 sidx 26 index 19 move percolate M 36
+optimisation finished successfully after 49 iterations, 88 evaluations
+optimisation finished successfully after 104 iterations, 161 evaluations
+optimisation finished successfully after 38 iterations, 71 evaluations
+optimisation finished successfully after 30 iterations, 62 evaluations
+optimisation finished successfully after 38 iterations, 72 evaluations
+iter 257 T 0.41666666666666674 sidx 27 index 20 move percolate M 36
+optimisation finished successfully after 26 iterations, 56 evaluations
+optimisation finished successfully after 47 iterations, 88 evaluations
+iter 258 T 0.41666666666666674 sidx 28 index 21 move destroy M 36
+optimisation finished successfully after 246 iterations, 366 evaluations
+optimisation finished successfully after 44 iterations, 79 evaluations
+optimisation finished successfully after 24 iterations, 54 evaluations
+destroy False (58, 36) (67, 35)
+iter 259 T 0.41666666666666674 sidx 29 index 22 move create M 36
+optimisation finished successfully after 129 iterations, 200 evaluations
+optimisation finished successfully after 331 iterations, 476 evaluations
+optimisation finished successfully after 122 iterations, 184 evaluations
+optimisation finished successfully after 310 iterations, 453 evaluations
+optimisation finished successfully after 79 iterations, 122 evaluations
+optimisation finished successfully after 174 iterations, 248 evaluations
+create False (58, 36) (59, 37)
+iter 260 T 0.41666666666666674 sidx 32 index 23 move create M 36
+optimisation finished successfully after 196 iterations, 293 evaluations
+optimisation finished successfully after 455 iterations, 652 evaluations
+optimisation finished successfully after 171 iterations, 253 evaluations
+accepted move data dn =  1 0.7706921201478883 0.7706921201478883
+optimisation finished successfully after 178 iterations, 259 evaluations
+optimisation finished successfully after 128 iterations, 195 evaluations
+accepted move data dn =  -4 0.7487289776220534 0.7487289776220534
+optimisation finished successfully after 97 iterations, 153 evaluations
+create False (58, 36) (60, 37)
+iter 261 T 0.41666666666666674 sidx 38 index 27 move destroy M 36
+optimisation finished successfully after 160 iterations, 243 evaluations
+optimisation finished successfully after 37 iterations, 69 evaluations
+optimisation finished successfully after 30 iterations, 57 evaluations
+optimisation finished successfully after 196 iterations, 286 evaluations
+optimisation finished successfully after 26 iterations, 54 evaluations
+optimisation finished successfully after 23 iterations, 50 evaluations
+optimisation finished successfully after 179 iterations, 260 evaluations
+optimisation finished successfully after 29 iterations, 60 evaluations
+destroy False (58, 36) (67, 35)
+iter 262 T 0.41666666666666674 sidx 39 index 28 move destroy M 36
+optimisation finished successfully after 202 iterations, 301 evaluations
+optimisation finished successfully after 49 iterations, 86 evaluations
+optimisation finished successfully after 219 iterations, 315 evaluations
+optimisation finished successfully after 23 iterations, 52 evaluations
+optimisation finished successfully after 117 iterations, 188 evaluations
+optimisation finished successfully after 25 iterations, 54 evaluations
+destroy False (58, 36) (69, 35)
+iter 263 T 0.41666666666666674 sidx 42 index 29 move percolate M 36
+optimisation finished successfully after 34 iterations, 70 evaluations
+optimisation finished successfully after 37 iterations, 74 evaluations
+optimisation finished successfully after 27 iterations, 57 evaluations
+iter 264 T 0.41666666666666674 sidx 45 index 31 move percolate M 36
+optimisation finished successfully after 28 iterations, 57 evaluations
+optimisation finished successfully after 29 iterations, 62 evaluations
+optimisation finished successfully after 27 iterations, 55 evaluations
+optimisation finished successfully after 23 iterations, 52 evaluations
+optimisation finished successfully after 27 iterations, 60 evaluations
+optimisation finished successfully after 47 iterations, 83 evaluations
+iter 265 T 0.41666666666666674 sidx 47 index 32 move destroy M 36
+optimisation finished successfully after 181 iterations, 273 evaluations
+optimisation finished successfully after 52 iterations, 96 evaluations
+optimisation finished successfully after 30 iterations, 60 evaluations
+destroy False (58, 36) (65, 35)
+iter 266 T 0.41666666666666674 sidx 48 index 33 move create M 36
+optimisation finished successfully after 42 iterations, 71 evaluations
+optimisation finished successfully after 242 iterations, 366 evaluations
+optimisation finished successfully after 98 iterations, 157 evaluations
+optimisation finished successfully after 148 iterations, 223 evaluations
+accepted move data dn =  -5 2.726285366694352 2.726285366694352
+optimisation finished successfully after 136 iterations, 207 evaluations
+optimisation finished successfully after 150 iterations, 227 evaluations
+accepted move data dn =  3 2.672045911433849 2.672045911433849
+optimisation finished successfully after 177 iterations, 259 evaluations
+create False (58, 36) (59, 37)
+iter 267 T 0.41666666666666674 sidx 49 index 34 move percolate M 36
+optimisation finished successfully after 40 iterations, 79 evaluations
+optimisation finished successfully after 23 iterations, 51 evaluations
+optimisation finished successfully after 36 iterations, 67 evaluations
+iter 268 T 0.41666666666666674 sidx 52 index 35 move percolate M 36
+iter 269 T 0.41666666666666674 sidx 54 index 2 move create M 36
+optimisation finished successfully after 177 iterations, 262 evaluations
+optimisation finished successfully after 297 iterations, 434 evaluations
+optimisation finished successfully after 129 iterations, 194 evaluations
+accepted move data dn =  -5 1.1699860253672902 1.1699860253672902
+optimisation finished successfully after 214 iterations, 303 evaluations
+optimisation finished successfully after 227 iterations, 335 evaluations
+create False (58, 36) (59, 37)
+iter 270 T 0.41666666666666674 sidx 55 index 7 move create M 36
+optimisation finished successfully after 57 iterations, 90 evaluations
+optimisation finished successfully after 413 iterations, 580 evaluations
+optimisation finished successfully after 171 iterations, 242 evaluations
+optimisation finished successfully after 373 iterations, 520 evaluations
+optimisation finished successfully after 182 iterations, 260 evaluations
+optimisation finished successfully after 153 iterations, 229 evaluations
+create False (58, 36) (59, 37)
+iter 271 T 0.41666666666666674 sidx 56 index 12 move destroy M 36
+optimisation finished successfully after 264 iterations, 389 evaluations
+optimisation finished successfully after 69 iterations, 114 evaluations
+optimisation finished successfully after 58 iterations, 98 evaluations
+optimisation finished successfully after 30 iterations, 63 evaluations
+optimisation finished successfully after 75 iterations, 121 evaluations
+optimisation finished successfully after 174 iterations, 262 evaluations
+optimisation finished successfully after 138 iterations, 212 evaluations
+destroy False (58, 36) (59, 35)
+iter 272 T 0.41666666666666674 sidx 57 index 16 move percolate M 36
+optimisation finished successfully after 37 iterations, 72 evaluations
+optimisation finished successfully after 374 iterations, 540 evaluations
+optimisation finished successfully after 24 iterations, 52 evaluations
+iter 273 T 0.41666666666666674 sidx 59 index 24 move destroy M 36
+optimisation finished successfully after 269 iterations, 388 evaluations
+optimisation finished successfully after 29 iterations, 62 evaluations
+optimisation finished successfully after 41 iterations, 79 evaluations
+optimisation finished successfully after 35 iterations, 70 evaluations
+destroy False (58, 36) (66, 35)
+iter 274 T 0.41666666666666674 sidx 60 index 25 move percolate M 36
+optimisation finished successfully after 38 iterations, 74 evaluations
+optimisation finished successfully after 39 iterations, 77 evaluations
+optimisation finished successfully after 44 iterations, 82 evaluations
+optimisation finished successfully after 32 iterations, 63 evaluations
+optimisation finished successfully after 25 iterations, 58 evaluations
+iter 275 T 0.41666666666666674 sidx 61 index 30 move create M 36
+optimisation finished successfully after 136 iterations, 212 evaluations
+optimisation finished successfully after 125 iterations, 191 evaluations
+optimisation finished successfully after 211 iterations, 311 evaluations
+optimisation finished successfully after 80 iterations, 131 evaluations
+accepted move data dn =  -5 0.7688438419633344 0.7688438419633344
+optimisation finished successfully after 105 iterations, 158 evaluations
+optimisation finished successfully after 54 iterations, 96 evaluations
+create False (58, 36) (58, 37)
+iter 276 T 0.41666666666666674 sidx 62 index 4 move percolate M 36
+optimisation finished successfully after 28 iterations, 57 evaluations
+optimisation finished successfully after 106 iterations, 167 evaluations
+optimisation finished successfully after 24 iterations, 51 evaluations
+iter 277 T 0.41666666666666674 sidx 63 index 26 move percolate M 36
+optimisation finished successfully after 40 iterations, 74 evaluations
+optimisation finished successfully after 43 iterations, 85 evaluations
+iter 278 T 0.33333333333333326 sidx 0 index 0 move create M 36
+optimisation finished successfully after 54 iterations, 88 evaluations
+create False (58, 36) (58, 36)
+iter 279 T 0.33333333333333326 sidx 4 index 1 move percolate M 36
+optimisation finished successfully after 35 iterations, 61 evaluations
+optimisation finished successfully after 31 iterations, 59 evaluations
+optimisation finished successfully after 68 iterations, 114 evaluations
+optimisation finished successfully after 49 iterations, 81 evaluations
+optimisation finished successfully after 27 iterations, 49 evaluations
+optimisation finished successfully after 10 iterations, 25 evaluations
+iter 280 T 0.33333333333333326 sidx 5 index 3 move destroy M 36
+optimisation finished successfully after 206 iterations, 308 evaluations
+optimisation finished successfully after 756 iterations, 1053 evaluations
+optimisation finished successfully after 27 iterations, 53 evaluations
+optimisation finished successfully after 29 iterations, 58 evaluations
+optimisation finished successfully after 35 iterations, 65 evaluations
+destroy False (58, 36) (66, 35)
+iter 281 T 0.33333333333333326 sidx 8 index 5 move destroy M 36
+optimisation finished successfully after 134 iterations, 194 evaluations
+optimisation finished successfully after 49 iterations, 86 evaluations
+optimisation finished successfully after 77 iterations, 119 evaluations
+optimisation finished successfully after 44 iterations, 81 evaluations
+destroy False (58, 36) (66, 35)
+iter 282 T 0.33333333333333326 sidx 9 index 6 move percolate M 36
+optimisation finished successfully after 39 iterations, 73 evaluations
+optimisation finished successfully after 40 iterations, 71 evaluations
+optimisation finished successfully after 30 iterations, 59 evaluations
+iter 283 T 0.33333333333333326 sidx 11 index 8 move create M 36
+optimisation finished successfully after 78 iterations, 125 evaluations
+optimisation finished successfully after 308 iterations, 438 evaluations
+optimisation finished successfully after 301 iterations, 430 evaluations
+optimisation finished successfully after 150 iterations, 220 evaluations
+optimisation finished successfully after 170 iterations, 256 evaluations
+create False (58, 36) (59, 37)
+iter 284 T 0.33333333333333326 sidx 14 index 9 move create M 36
+optimisation finished successfully after 59 iterations, 98 evaluations
+optimisation finished successfully after 633 iterations, 890 evaluations
+optimisation finished successfully after 120 iterations, 180 evaluations
+optimisation finished successfully after 268 iterations, 390 evaluations
+optimisation finished successfully after 36 iterations, 67 evaluations
+optimisation finished successfully after 146 iterations, 221 evaluations
+accepted move data dn =  -3 0.6730540154335118 0.6730540154335118
+optimisation finished successfully after 167 iterations, 248 evaluations
+create False (58, 36) (60, 37)
+iter 285 T 0.33333333333333326 sidx 15 index 10 move create M 36
+optimisation finished successfully after 51 iterations, 89 evaluations
+optimisation finished successfully after 499 iterations, 693 evaluations
+optimisation finished successfully after 234 iterations, 332 evaluations
+accepted move data dn =  1 0.8201104380599697 0.8201104380599697
+accepted move data dn =  0 0.8201104380599693 0.8201104380599693
+optimisation finished successfully after 89 iterations, 140 evaluations
+optimisation finished successfully after 48 iterations, 89 evaluations
+accepted move data dn =  -3 0.7986099995334152 0.7986099995334152
+optimisation finished successfully after 25 iterations, 52 evaluations
+create False (58, 36) (59, 37)
+iter 286 T 0.33333333333333326 sidx 16 index 11 move create M 36

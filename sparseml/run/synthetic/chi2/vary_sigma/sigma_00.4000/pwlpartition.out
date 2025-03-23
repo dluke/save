@@ -1,0 +1,643 @@
+writing to  sigma_00.4000/initial_guess.pkl
+optimisation finished successfully after 149 iterations, 208 evaluations
+optimisation finished successfully after 95 iterations, 142 evaluations
+optimisation finished successfully after 18 iterations, 38 evaluations
+optimisation finished successfully after 48 iterations, 84 evaluations
+optimisation finished successfully after 13 iterations, 34 evaluations
+optimisation finished successfully after 16 iterations, 38 evaluations
+optimisation finished successfully after 9 iterations, 24 evaluations
+optimisation finished successfully after 8 iterations, 28 evaluations
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 8 iterations, 26 evaluations
+optimisation finished successfully after 14 iterations, 37 evaluations
+0 index 6 pvalue 0.22987521917608755
+score (1, 11, 18.703693778254795)
+optimisation finished successfully after 16 iterations, 33 evaluations
+score (1, 10, 17.60310457883172)
+destroy without percolating (1, 11, 18.703693778254795) (1, 10, 17.60310457883172)
+score (1, 10, 17.60310457883172)
+1 index 7 pvalue 0.009598786594347541
+optimisation finished successfully after 15 iterations, 36 evaluations
+optimisation finished successfully after 16 iterations, 38 evaluations
+score (1, 10, 17.60310457883172)
+2 index 1 pvalue 0.049993724227651914
+optimisation finished successfully after 4 iterations, 15 evaluations
+optimisation finished successfully after 15 iterations, 32 evaluations
+optimisation finished successfully after 3 iterations, 13 evaluations
+score (1, 10, 17.60310457883172)
+3 index 2 pvalue 0.4965929043302505
+score (1, 10, 17.60310457883172)
+optimisation finished successfully after 26 iterations, 47 evaluations
+score (1, 9, 15.641348938975176)
+destroy without percolating (1, 10, 17.60310457883172) (1, 9, 15.641348938975176)
+score (1, 9, 15.641348938975176)
+4 index 1 pvalue 0.23025576986707896
+score (1, 9, 15.641348938975176)
+optimisation finished successfully after 4 iterations, 13 evaluations
+score (1, 8, 14.119280930636988)
+destroy without percolating (1, 9, 15.641348938975176) (1, 8, 14.119280930636988)
+score (1, 8, 14.119280930636988)
+5 index 5 pvalue 0.009598786594347541
+score (1, 8, 14.119280930636988)
+optimisation finished successfully after 111 iterations, 166 evaluations
+optimisation finished successfully after 207 iterations, 297 evaluations
+optimisation finished successfully after 27 iterations, 52 evaluations
+optimisation finished successfully after 17 iterations, 39 evaluations
+optimisation finished successfully after 15 iterations, 37 evaluations
+optimisation finished successfully after 18 iterations, 42 evaluations
+optimisation finished successfully after 16 iterations, 39 evaluations
+score (0, 9, 15.28033852338736)
+create True (1, 8, 14.119280930636988) (0, 9, 15.28033852338736)
+score (0, 9, 15.28033852338736)
+6 index 2 pvalue 0.45097065068320735
+score (0, 9, 15.28033852338736)
+optimisation finished successfully after 8 iterations, 21 evaluations
+score (0, 8, 14.754042092871153)
+destroy without percolating (0, 9, 15.28033852338736) (0, 8, 14.754042092871153)
+score (0, 8, 14.754042092871153)
+7 index 4 pvalue 0.05309919130005514
+optimisation finished successfully after 32 iterations, 60 evaluations
+optimisation finished successfully after 31 iterations, 61 evaluations
+score (0, 8, 14.754042092871153)
+8 index 6 pvalue 0.057816407247475166
+optimisation finished successfully after 23 iterations, 47 evaluations
+optimisation finished successfully after 21 iterations, 41 evaluations
+score (0, 8, 14.754042092871153)
+9 index 6 pvalue 0.057816407247475166
+score (0, 8, 14.754042092871153)
+optimisation finished successfully after 69 iterations, 111 evaluations
+score (1, 7, 12.485374500561477)
+score (1, 7, 12.485374500561477)
+destroy False (0, 8, 14.754042092871153) (1, 7, 12.485374500561477)
+score (0, 8, 14.754042092871153)
+10 index 6 pvalue 0.057816407247475166
+optimisation finished successfully after 23 iterations, 47 evaluations
+optimisation finished successfully after 21 iterations, 41 evaluations
+score (0, 8, 14.754042092871153)
+11 index 4 pvalue 0.05309919130005514
+score (0, 8, 14.754042092871153)
+optimisation finished successfully after 37 iterations, 66 evaluations
+score (0, 7, 13.267133262327784)
+destroy without percolating (0, 8, 14.754042092871153) (0, 7, 13.267133262327784)
+score (0, 7, 13.267133262327784)
+12 index 1 pvalue 0.33597362275467696
+score (0, 7, 13.267133262327784)
+optimisation finished successfully after 77 iterations, 125 evaluations
+score (0, 6, 13.199130954206225)
+destroy without percolating (0, 7, 13.267133262327784) (0, 6, 13.199130954206225)
+score (0, 6, 13.199130954206225)
+13 index 0 pvalue 0.14190228225680734
+score (0, 6, 13.199130954206225)
+14 index 2 pvalue 0.06011524710951366
+optimisation finished successfully after 55 iterations, 95 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+optimisation finished successfully after 15 iterations, 37 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+optimisation finished successfully after 24 iterations, 50 evaluations
+score (0, 6, 13.199130954206225)
+15 index 0 pvalue 0.14190228225680734
+score (0, 6, 13.199130954206225)
+16 index 2 pvalue 0.06011524710951366
+score (0, 6, 13.199130954206225)
+optimisation finished successfully after 181 iterations, 266 evaluations
+score (1, 5, 12.077765300924435)
+optimisation finished successfully after 17 iterations, 39 evaluations
+optimisation finished successfully after 14 iterations, 34 evaluations
+score (1, 5, 12.077765300924435)
+destroy False (0, 6, 13.199130954206225) (1, 5, 12.077765300924435)
+score (0, 6, 13.199130954206225)
+17 index 2 pvalue 0.06011524710951366
+score (0, 6, 13.199130954206225)
+optimisation finished successfully after 181 iterations, 266 evaluations
+score (1, 5, 12.077765300924435)
+optimisation finished successfully after 17 iterations, 39 evaluations
+optimisation finished successfully after 14 iterations, 34 evaluations
+score (1, 5, 12.077765300924435)
+destroy False (0, 6, 13.199130954206225) (1, 5, 12.077765300924435)
+score (0, 6, 13.199130954206225)
+18 index 4 pvalue 0.05564986984476206
+score (0, 6, 13.199130954206225)
+optimisation finished successfully after 47 iterations, 85 evaluations
+score (1, 5, 10.807636997484657)
+score (1, 5, 10.807636997484657)
+destroy False (0, 6, 13.199130954206225) (1, 5, 10.807636997484657)
+score (0, 6, 13.199130954206225)
+19 index 2 pvalue 0.06011524710951366
+optimisation finished successfully after 55 iterations, 95 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+optimisation finished successfully after 15 iterations, 37 evaluations
+optimisation finished successfully after 19 iterations, 43 evaluations
+optimisation finished successfully after 24 iterations, 50 evaluations
+score (0, 6, 13.199130954206225)
+20 index 3 pvalue 0.030180558626043297
+score (0, 6, 13.199130954206225)
+optimisation finished successfully after 31 iterations, 55 evaluations
+score (1, 5, 11.566399341627065)
+optimisation finished successfully after 15 iterations, 31 evaluations
+optimisation finished successfully after 18 iterations, 36 evaluations
+score (1, 5, 11.566399341627065)
+destroy False (0, 6, 13.199130954206225) (1, 5, 11.566399341627065)
+score (0, 6, 13.199130954206225)
+21 index 1 pvalue 0.12927805712077345
+score (0, 6, 13.199130954206225)
+optimisation finished successfully after 75 iterations, 122 evaluations
+score (0, 5, 11.134187868062963)
+destroy without percolating (0, 6, 13.199130954206225) (0, 5, 11.134187868062963)
+score (0, 5, 11.134187868062963)
+22 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+23 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+24 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+25 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+26 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+27 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+28 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+29 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+30 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+31 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+32 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+33 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+34 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+35 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+36 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+37 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+38 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+39 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+40 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+41 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+42 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+43 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+44 index 3 pvalue 0.05564986984476206
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 66 iterations, 107 evaluations
+score (1, 4, 8.90907204381272)
+score (1, 4, 8.90907204381272)
+destroy False (0, 5, 11.134187868062963) (1, 4, 8.90907204381272)
+score (0, 5, 11.134187868062963)
+45 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+46 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+47 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+48 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+49 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+50 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+51 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+52 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+53 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+54 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+55 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+56 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+57 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+58 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+59 index 3 pvalue 0.05564986984476206
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 66 iterations, 107 evaluations
+score (1, 4, 8.90907204381272)
+score (1, 4, 8.90907204381272)
+destroy False (0, 5, 11.134187868062963) (1, 4, 8.90907204381272)
+score (0, 5, 11.134187868062963)
+60 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+61 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+62 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+63 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+64 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+65 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+66 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+67 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+68 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+69 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+70 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+71 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+72 index 1 pvalue 0.06843055443923585
+optimisation finished successfully after 14 iterations, 35 evaluations
+optimisation finished successfully after 22 iterations, 45 evaluations
+optimisation finished successfully after 15 iterations, 35 evaluations
+optimisation finished successfully after 16 iterations, 37 evaluations
+score (0, 5, 11.134187868062963)
+73 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+74 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+75 index 3 pvalue 0.05564986984476206
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 66 iterations, 107 evaluations
+score (1, 4, 8.90907204381272)
+score (1, 4, 8.90907204381272)
+destroy False (0, 5, 11.134187868062963) (1, 4, 8.90907204381272)
+score (0, 5, 11.134187868062963)
+76 index 3 pvalue 0.05564986984476206
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 66 iterations, 107 evaluations
+score (1, 4, 8.90907204381272)
+score (1, 4, 8.90907204381272)
+destroy False (0, 5, 11.134187868062963) (1, 4, 8.90907204381272)
+score (0, 5, 11.134187868062963)
+77 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+78 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+79 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+80 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+81 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+82 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+83 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+84 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+85 index 3 pvalue 0.05564986984476206
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 66 iterations, 107 evaluations
+score (1, 4, 8.90907204381272)
+score (1, 4, 8.90907204381272)
+destroy False (0, 5, 11.134187868062963) (1, 4, 8.90907204381272)
+score (0, 5, 11.134187868062963)
+86 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+87 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+88 index 3 pvalue 0.05564986984476206
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 66 iterations, 107 evaluations
+score (1, 4, 8.90907204381272)
+score (1, 4, 8.90907204381272)
+destroy False (0, 5, 11.134187868062963) (1, 4, 8.90907204381272)
+score (0, 5, 11.134187868062963)
+89 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+90 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+91 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+92 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+93 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+94 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+95 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+96 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+97 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+98 index 2 pvalue 0.025745308046369875
+optimisation finished successfully after 25 iterations, 49 evaluations
+optimisation finished successfully after 44 iterations, 73 evaluations
+score (0, 5, 11.134187868062963)
+99 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+100 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+101 index 1 pvalue 0.06843055443923585
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 112 iterations, 178 evaluations
+score (2, 4, 14.063651711667635)
+optimisation finished successfully after 11 iterations, 28 evaluations
+optimisation finished successfully after 9 iterations, 25 evaluations
+score (2, 4, 14.063651711667635)
+destroy False (0, 5, 11.134187868062963) (2, 4, 14.063651711667635)
+score (0, 5, 11.134187868062963)
+102 index 3 pvalue 0.05564986984476206
+optimisation finished successfully after 20 iterations, 40 evaluations
+optimisation finished successfully after 12 iterations, 30 evaluations
+optimisation finished successfully after 43 iterations, 77 evaluations
+score (0, 5, 11.134187868062963)
+103 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+104 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+105 index 0 pvalue 0.14896057640270977
+score (0, 5, 11.134187868062963)
+106 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False (0, 5, 11.134187868062963) (1, 4, 9.137822989362242)
+score (0, 5, 11.134187868062963)
+107 index 2 pvalue 0.025745308046369875
+score (0, 5, 11.134187868062963)
+optimisation finished successfully after 23 iterations, 47 evaluations
+score (1, 4, 9.137822989362242)
+optimisation finished successfully after 21 iterations, 44 evaluations
+optimisation finished successfully after 18 iterations, 40 evaluations
+score (1, 4, 9.137822989362242)
+destroy False 

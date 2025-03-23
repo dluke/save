@@ -1,0 +1,2520 @@
+----------------------------------------------------------
+initial solve
+optimisation finished successfully after 93 iterations, 156 evaluations
+optimisation finished successfully after 129 iterations, 213 evaluations
+optimisation finished successfully after 116 iterations, 204 evaluations
+optimisation finished successfully after 109 iterations, 202 evaluations
+optimisation finished successfully after 71 iterations, 158 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 228 iterations, 2000 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 206 iterations, 2000 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 238 iterations, 2000 evaluations
+optimisation finished successfully after 75 iterations, 162 evaluations
+optimisation finished successfully after 89 iterations, 174 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 252 iterations, 2000 evaluations
+optimisation finished successfully after 63 iterations, 153 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 245 iterations, 2000 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 234 iterations, 2000 evaluations
+optimisation finished successfully after 87 iterations, 171 evaluations
+optimisation finished successfully after 139 iterations, 251 evaluations
+optimisation finished successfully after 138 iterations, 257 evaluations
+optimisation finished successfully after 109 iterations, 225 evaluations
+optimisation finished successfully after 206 iterations, 342 evaluations
+optimisation finished successfully after 105 iterations, 226 evaluations
+optimisation finished successfully after 79 iterations, 167 evaluations
+optimisation finished successfully after 79 iterations, 176 evaluations
+optimisation finished successfully after 85 iterations, 190 evaluations
+optimisation finished successfully after 152 iterations, 273 evaluations
+optimisation finished successfully after 82 iterations, 170 evaluations
+optimisation finished successfully after 76 iterations, 170 evaluations
+optimisation finished successfully after 86 iterations, 211 evaluations
+optimisation finished successfully after 142 iterations, 260 evaluations
+optimisation finished successfully after 83 iterations, 179 evaluations
+optimisation finished successfully after 165 iterations, 295 evaluations
+optimisation finished successfully after 137 iterations, 246 evaluations
+optimisation finished successfully after 125 iterations, 229 evaluations
+optimisation finished successfully after 162 iterations, 287 evaluations
+optimisation finished successfully after 88 iterations, 189 evaluations
+optimisation finished successfully after 89 iterations, 182 evaluations
+optimisation finished successfully after 228 iterations, 382 evaluations
+optimisation finished successfully after 71 iterations, 174 evaluations
+optimisation finished successfully after 77 iterations, 173 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 256 iterations, 2000 evaluations
+optimisation finished successfully after 163 iterations, 315 evaluations
+optimisation finished successfully after 105 iterations, 211 evaluations
+optimisation finished successfully after 132 iterations, 237 evaluations
+optimisation finished successfully after 162 iterations, 326 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 244 iterations, 2000 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 832 iterations, 2000 evaluations
+optimisation finished successfully after 343 iterations, 528 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 617 iterations, 2000 evaluations
+optimisation finished successfully after 254 iterations, 395 evaluations
+optimisation finished successfully after 364 iterations, 557 evaluations
+optimisation finished successfully after 115 iterations, 208 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 233 iterations, 2000 evaluations
+optimisation finished successfully after 216 iterations, 343 evaluations
+optimisation finished successfully after 235 iterations, 373 evaluations
+optimisation finished successfully after 114 iterations, 207 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 791 iterations, 2000 evaluations
+optimisation finished successfully after 158 iterations, 265 evaluations
+optimisation finished successfully after 165 iterations, 270 evaluations
+optimisation finished successfully after 139 iterations, 242 evaluations
+optimisation finished successfully after 131 iterations, 219 evaluations
+optimisation finished successfully after 200 iterations, 330 evaluations
+optimisation finished successfully after 248 iterations, 376 evaluations
+optimisation finished successfully after 207 iterations, 320 evaluations
+optimisation finished successfully after 200 iterations, 349 evaluations
+optimisation finished successfully after 155 iterations, 267 evaluations
+optimisation finished successfully after 184 iterations, 290 evaluations
+optimisation finished successfully after 227 iterations, 388 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 793 iterations, 2000 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 599 iterations, 2000 evaluations
+optimisation finished successfully after 165 iterations, 292 evaluations
+optimisation finished successfully after 153 iterations, 266 evaluations
+optimisation finished successfully after 139 iterations, 252 evaluations
+optimisation finished successfully after 171 iterations, 298 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 252 iterations, 2000 evaluations
+optimisation finished successfully after 131 iterations, 240 evaluations
+optimisation finished successfully after 191 iterations, 367 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 563 iterations, 2000 evaluations
+optimisation finished successfully after 115 iterations, 245 evaluations
+optimisation finished successfully after 112 iterations, 213 evaluations
+optimisation finished successfully after 107 iterations, 214 evaluations
+optimisation finished successfully after 113 iterations, 203 evaluations
+optimisation finished successfully after 68 iterations, 158 evaluations
+optimisation finished successfully after 60 iterations, 128 evaluations
+----------------------------------------------------------
+priority solve
+random destroy transition at 67
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 179 iterations, 1600 evaluations
+accept destroy segment 67
+random destroy transition at 15
+optimisation finished successfully after 93 iterations, 175 evaluations
+accept destroy segment 15
+random create transition at 7
+random destroy transition at 28
+optimisation finished successfully after 99 iterations, 179 evaluations
+accept destroy segment 28
+random create transition at 25
+optimisation finished successfully after 77 iterations, 170 evaluations
+accept create segment at 25
+random destroy transition at 47
+optimisation finished successfully after 220 iterations, 342 evaluations
+accept destroy segment 47
+random create transition at 8
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 221 iterations, 2000 evaluations
+random create transition at 17
+random create transition at 20
+optimisation finished successfully after 117 iterations, 211 evaluations
+accept create segment at 20
+random destroy transition at 26
+optimisation finished successfully after 60 iterations, 142 evaluations
+accept destroy segment 26
+random destroy transition at 29
+optimisation finished successfully after 81 iterations, 165 evaluations
+accept destroy segment 29
+random destroy transition at 35
+optimisation finished successfully after 200 iterations, 346 evaluations
+accept destroy segment 35
+random create transition at 51
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 220 iterations, 2000 evaluations
+random destroy transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 301 iterations, 1600 evaluations
+random destroy transition at 18
+optimisation finished successfully after 63 iterations, 156 evaluations
+random create transition at 44
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 797 iterations, 2000 evaluations
+accept create segment at 44
+random create transition at 32
+optimisation finished successfully after 93 iterations, 211 evaluations
+accept create segment at 32
+random destroy transition at 40
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 209 iterations, 1600 evaluations
+random destroy transition at 48
+optimisation finished successfully after 172 iterations, 292 evaluations
+accept destroy segment 48
+random create transition at 54
+random create transition at 6
+optimisation finished successfully after 69 iterations, 159 evaluations
+accept create segment at 6
+random destroy transition at 9
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 609 iterations, 1600 evaluations
+random create transition at 1
+optimisation finished successfully after 74 iterations, 146 evaluations
+accept create segment at 1
+random destroy transition at 2
+optimisation finished successfully after 72 iterations, 137 evaluations
+accept destroy segment 2
+random destroy transition at 3
+optimisation finished successfully after 57 iterations, 132 evaluations
+accept destroy segment 3
+random create transition at 4
+random destroy transition at 7
+optimisation finished successfully after 84 iterations, 165 evaluations
+random destroy transition at 31
+optimisation finished successfully after 76 iterations, 155 evaluations
+accept destroy segment 31
+random destroy transition at 22
+optimisation finished successfully after 60 iterations, 137 evaluations
+random destroy transition at 39
+optimisation finished successfully after 35 iterations, 121 evaluations
+accept destroy segment 39
+random create transition at 40
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 248 iterations, 2000 evaluations
+random destroy transition at 41
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 183 iterations, 1600 evaluations
+random destroy transition at 45
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 200 iterations, 1600 evaluations
+accept destroy segment 45
+random destroy transition at 49
+optimisation finished successfully after 217 iterations, 349 evaluations
+random destroy transition at 53
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 442 iterations, 1600 evaluations
+random create transition at 55
+random create transition at 5
+optimisation finished successfully after 109 iterations, 207 evaluations
+accept create segment at 5
+random create transition at 57
+random destroy transition at 11
+optimisation finished successfully after 177 iterations, 306 evaluations
+accept destroy segment 11
+random destroy transition at 21
+optimisation finished successfully after 81 iterations, 171 evaluations
+accept destroy segment 21
+random create transition at 33
+optimisation finished successfully after 54 iterations, 159 evaluations
+random create transition at 36
+optimisation finished successfully after 132 iterations, 272 evaluations
+accept create segment at 36
+random destroy transition at 56
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 240 iterations, 1600 evaluations
+accept destroy segment 56
+random create transition at 59
+random destroy transition at 61
+optimisation finished successfully after 161 iterations, 280 evaluations
+accept destroy segment 61
+random create transition at 16
+optimisation finished successfully after 37 iterations, 113 evaluations
+random create transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 629 iterations, 2000 evaluations
+random destroy transition at 52
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 207 iterations, 1600 evaluations
+random create transition at 0
+optimisation finished successfully after 62 iterations, 126 evaluations
+random destroy transition at 57
+optimisation finished successfully after 183 iterations, 296 evaluations
+accept destroy segment 57
+random destroy transition at 58
+optimisation finished successfully after 103 iterations, 176 evaluations
+accept destroy segment 58
+random destroy transition at 62
+optimisation finished successfully after 383 iterations, 627 evaluations
+accept destroy segment 62
+random destroy transition at 65
+optimisation finished successfully after 174 iterations, 311 evaluations
+accept destroy segment 65
+random destroy transition at 68
+optimisation finished successfully after 147 iterations, 251 evaluations
+random destroy transition at 69
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 232 iterations, 1600 evaluations
+random destroy transition at 70
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 261 iterations, 1600 evaluations
+accept destroy segment 70
+random create transition at 12
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 288 iterations, 2000 evaluations
+random create transition at 22
+optimisation finished successfully after 96 iterations, 201 evaluations
+accept create segment at 22
+random create transition at 23
+optimisation finished successfully after 64 iterations, 168 evaluations
+random destroy transition at 59
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 694 iterations, 1600 evaluations
+random create transition at 71
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 227 iterations, 2000 evaluations
+random destroy transition at 72
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 211 iterations, 1600 evaluations
+random destroy transition at 43
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 203 iterations, 1600 evaluations
+random destroy transition at 73
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 602 iterations, 1600 evaluations
+random create transition at 63
+random create transition at 74
+random create transition at 75
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 268 iterations, 2000 evaluations
+random create transition at 13
+optimisation finished successfully after 104 iterations, 189 evaluations
+random create transition at 19
+random create transition at 24
+optimisation finished successfully after 93 iterations, 188 evaluations
+accept create segment at 24
+random destroy transition at 50
+optimisation finished successfully after 121 iterations, 217 evaluations
+accept destroy segment 50
+random destroy transition at 76
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 206 iterations, 1600 evaluations
+accept destroy segment 76
+random create transition at 51
+optimisation finished successfully after 242 iterations, 394 evaluations
+accept create segment at 51
+random destroy transition at 52
+optimisation finished successfully after 118 iterations, 209 evaluations
+random destroy transition at 77
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 231 iterations, 1600 evaluations
+random destroy transition at 78
+optimisation finished successfully after 126 iterations, 226 evaluations
+random destroy transition at 79
+optimisation finished successfully after 73 iterations, 159 evaluations
+random create transition at 80
+optimisation finished successfully after 77 iterations, 167 evaluations
+random create transition at 81
+optimisation finished successfully after 161 iterations, 297 evaluations
+accept create segment at 81
+random create transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 763 iterations, 2000 evaluations
+random create transition at 82
+optimisation finished successfully after 142 iterations, 247 evaluations
+accept create segment at 82
+random destroy transition at 83
+optimisation finished successfully after 256 iterations, 407 evaluations
+random destroy transition at 84
+optimisation finished successfully after 60 iterations, 136 evaluations
+random destroy transition at 86
+optimisation finished successfully after 136 iterations, 233 evaluations
+random create transition at 89
+optimisation finished successfully after 95 iterations, 201 evaluations
+accept create segment at 89
+random destroy transition at 91
+optimisation finished successfully after 73 iterations, 145 evaluations
+random destroy transition at 92
+optimisation finished successfully after 72 iterations, 151 evaluations
+accept destroy segment 92
+random create transition at 93
+optimisation finished successfully after 95 iterations, 198 evaluations
+accept create segment at 93
+random create transition at 94
+random destroy transition at 96
+optimisation finished successfully after 75 iterations, 160 evaluations
+accept destroy segment 96
+random destroy transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 195 iterations, 1600 evaluations
+random destroy transition at 99
+optimisation finished successfully after 48 iterations, 127 evaluations
+accept destroy segment 99
+random create transition at 101
+random destroy transition at 104
+optimisation finished successfully after 46 iterations, 108 evaluations
+accept destroy segment 104
+random destroy transition at 4
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 640 iterations, 1600 evaluations
+random create transition at 97
+random destroy transition at 100
+optimisation finished successfully after 174 iterations, 297 evaluations
+accept destroy segment 100
+random create transition at 7
+optimisation finished successfully after 95 iterations, 211 evaluations
+random create transition at 106
+optimisation finished successfully after 243 iterations, 444 evaluations
+random create transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 572 iterations, 2000 evaluations
+random destroy transition at 108
+optimisation finished successfully after 63 iterations, 127 evaluations
+random create transition at 110
+random destroy transition at 111
+optimisation finished successfully after 50 iterations, 112 evaluations
+accept destroy segment 111
+random destroy transition at 112
+optimisation finished successfully after 68 iterations, 154 evaluations
+random destroy transition at 113
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 650 iterations, 1600 evaluations
+random create transition at 117
+random destroy transition at 118
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 484 iterations, 1600 evaluations
+accept destroy segment 118
+random create transition at 63
+random create transition at 119
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 558 iterations, 2000 evaluations
+random create transition at 120
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 799 iterations, 2000 evaluations
+random destroy transition at 121
+optimisation finished successfully after 149 iterations, 274 evaluations
+random destroy transition at 122
+optimisation finished successfully after 78 iterations, 168 evaluations
+random create transition at 123
+optimisation finished successfully after 90 iterations, 184 evaluations
+accept create segment at 123
+random destroy transition at 124
+optimisation finished successfully after 106 iterations, 193 evaluations
+accept destroy segment 124
+random create transition at 86
+random create transition at 125
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 688 iterations, 2000 evaluations
+random destroy transition at 126
+optimisation finished successfully after 123 iterations, 237 evaluations
+random destroy transition at 127
+optimisation finished successfully after 96 iterations, 170 evaluations
+random destroy transition at 128
+optimisation finished successfully after 524 iterations, 795 evaluations
+random destroy transition at 129
+optimisation finished successfully after 119 iterations, 241 evaluations
+random destroy transition at 130
+optimisation finished successfully after 99 iterations, 189 evaluations
+random destroy transition at 131
+optimisation finished successfully after 96 iterations, 195 evaluations
+random destroy transition at 132
+optimisation finished successfully after 59 iterations, 119 evaluations
+random destroy transition at 133
+optimisation finished successfully after 117 iterations, 209 evaluations
+accept destroy segment 133
+random destroy transition at 135
+optimisation finished successfully after 98 iterations, 185 evaluations
+random destroy transition at 136
+optimisation finished successfully after 86 iterations, 182 evaluations
+random create transition at 137
+optimisation finished successfully after 95 iterations, 214 evaluations
+accept create segment at 137
+random create transition at 112
+random destroy transition at 138
+optimisation finished successfully after 152 iterations, 258 evaluations
+accept destroy segment 138
+random create transition at 97
+optimisation finished successfully after 112 iterations, 210 evaluations
+accept create segment at 97
+random destroy transition at 33
+optimisation finished successfully after 95 iterations, 186 evaluations
+random create transition at 140
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 243 iterations, 2000 evaluations
+random destroy transition at 141
+optimisation finished successfully after 76 iterations, 161 evaluations
+random create transition at 142
+optimisation finished successfully after 121 iterations, 231 evaluations
+accept create segment at 142
+random create transition at 121
+optimisation finished successfully after 62 iterations, 170 evaluations
+random destroy transition at 143
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 285 iterations, 1600 evaluations
+accept destroy segment 143
+random create transition at 63
+random destroy transition at 144
+optimisation finished successfully after 74 iterations, 167 evaluations
+accept destroy segment 144
+random destroy transition at 146
+optimisation finished successfully after 89 iterations, 181 evaluations
+random create transition at 147
+optimisation finished successfully after 78 iterations, 197 evaluations
+accept create segment at 147
+random destroy transition at 148
+optimisation finished successfully after 45 iterations, 121 evaluations
+random destroy transition at 149
+optimisation finished successfully after 86 iterations, 169 evaluations
+random create transition at 150
+optimisation finished successfully after 111 iterations, 220 evaluations
+accept create segment at 150
+random create transition at 152
+optimisation finished successfully after 77 iterations, 167 evaluations
+random destroy transition at 151
+optimisation finished successfully after 59 iterations, 136 evaluations
+random destroy transition at 153
+optimisation finished successfully after 55 iterations, 149 evaluations
+accept destroy segment 153
+random create transition at 154
+optimisation finished successfully after 143 iterations, 278 evaluations
+accept create segment at 154
+random destroy transition at 121
+optimisation finished successfully after 94 iterations, 197 evaluations
+random destroy transition at 155
+optimisation finished successfully after 81 iterations, 176 evaluations
+accept destroy segment 155
+random destroy transition at 63
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 464 iterations, 1600 evaluations
+random create transition at 156
+optimisation finished successfully after 87 iterations, 184 evaluations
+random destroy transition at 157
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 586 iterations, 1600 evaluations
+random destroy transition at 159
+optimisation finished successfully after 86 iterations, 163 evaluations
+random create transition at 160
+optimisation finished successfully after 74 iterations, 169 evaluations
+accept create segment at 160
+random destroy transition at 151
+optimisation finished successfully after 89 iterations, 172 evaluations
+random destroy transition at 161
+optimisation finished successfully after 123 iterations, 237 evaluations
+random create transition at 162
+random destroy transition at 163
+optimisation finished successfully after 83 iterations, 175 evaluations
+accept destroy segment 163
+random destroy transition at 121
+optimisation finished successfully after 99 iterations, 202 evaluations
+random create transition at 164
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 234 iterations, 2000 evaluations
+accept create segment at 164
+random create transition at 63
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 914 iterations, 2000 evaluations
+random create transition at 165
+random destroy transition at 166
+optimisation finished successfully after 57 iterations, 128 evaluations
+accept destroy segment 166
+random create transition at 151
+random destroy transition at 167
+optimisation finished successfully after 166 iterations, 286 evaluations
+accept destroy segment 167
+random destroy transition at 121
+optimisation finished successfully after 70 iterations, 154 evaluations
+random create transition at 168
+optimisation finished successfully after 163 iterations, 302 evaluations
+accept create segment at 168
+random destroy transition at 169
+optimisation finished successfully after 90 iterations, 184 evaluations
+accept destroy segment 169
+random destroy transition at 63
+optimisation finished successfully after 112 iterations, 218 evaluations
+random destroy transition at 170
+optimisation finished successfully after 70 iterations, 149 evaluations
+accept destroy segment 170
+random destroy transition at 151
+optimisation finished successfully after 93 iterations, 181 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 242 iterations, 1600 evaluations
+random destroy transition at 172
+optimisation finished successfully after 102 iterations, 211 evaluations
+random destroy transition at 174
+optimisation finished successfully after 203 iterations, 389 evaluations
+random create transition at 175
+optimisation finished successfully after 59 iterations, 147 evaluations
+random create transition at 0
+optimisation finished successfully after 69 iterations, 138 evaluations
+random destroy transition at 7
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 211 iterations, 1600 evaluations
+random destroy transition at 8
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 605 iterations, 1600 evaluations
+accept destroy segment 8
+random destroy transition at 9
+optimisation finished successfully after 145 iterations, 269 evaluations
+random create transition at 176
+optimisation finished successfully after 103 iterations, 206 evaluations
+random create transition at 12
+optimisation finished successfully after 311 iterations, 476 evaluations
+random create transition at 13
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 646 iterations, 2000 evaluations
+random destroy transition at 16
+optimisation finished successfully after 64 iterations, 151 evaluations
+accept destroy segment 16
+random create transition at 17
+random create transition at 177
+optimisation finished successfully after 95 iterations, 204 evaluations
+accept create segment at 177
+random destroy transition at 17
+optimisation finished successfully after 79 iterations, 151 evaluations
+accept destroy segment 17
+random create transition at 18
+optimisation finished successfully after 73 iterations, 166 evaluations
+random destroy transition at 178
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 480 iterations, 1600 evaluations
+accept destroy segment 178
+random destroy transition at 180
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 534 iterations, 1600 evaluations
+accept destroy segment 180
+random destroy transition at 18
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 214 iterations, 1600 evaluations
+random create transition at 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 472 iterations, 2000 evaluations
+random create transition at 18
+optimisation finished successfully after 101 iterations, 188 evaluations
+random create transition at 33
+optimisation finished successfully after 201 iterations, 329 evaluations
+random create transition at 9
+optimisation finished successfully after 99 iterations, 210 evaluations
+accept create segment at 9
+random destroy transition at 110
+optimisation finished successfully after 683 iterations, 1037 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 239 iterations, 2000 evaluations
+random destroy transition at 184
+optimisation finished successfully after 85 iterations, 167 evaluations
+random destroy transition at 37
+optimisation finished successfully after 50 iterations, 132 evaluations
+random create transition at 40
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 258 iterations, 2000 evaluations
+accept create segment at 40
+random create transition at 41
+random create transition at 185
+optimisation finished successfully after 103 iterations, 230 evaluations
+accept create segment at 185
+random create transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 217 iterations, 2000 evaluations
+random create transition at 187
+random destroy transition at 188
+optimisation finished successfully after 75 iterations, 155 evaluations
+accept destroy segment 188
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 220 iterations, 1600 evaluations
+random create transition at 189
+random destroy transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 211 iterations, 1600 evaluations
+random create transition at 43
+random create transition at 52
+optimisation finished successfully after 285 iterations, 470 evaluations
+accept create segment at 52
+random create transition at 53
+optimisation finished successfully after 70 iterations, 192 evaluations
+random create transition at 190
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 245 iterations, 2000 evaluations
+random create transition at 191
+random destroy transition at 53
+optimisation finished successfully after 117 iterations, 223 evaluations
+accept destroy segment 53
+random destroy transition at 172
+optimisation finished successfully after 56 iterations, 146 evaluations
+accept destroy segment 172
+random create transition at 174
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 710 iterations, 2000 evaluations
+random destroy transition at 193
+optimisation finished successfully after 283 iterations, 460 evaluations
+random destroy transition at 63
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 177 iterations, 1600 evaluations
+random create transition at 68
+optimisation finished successfully after 93 iterations, 209 evaluations
+accept create segment at 68
+random destroy transition at 120
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 600 iterations, 1600 evaluations
+random destroy transition at 194
+optimisation finished successfully after 90 iterations, 172 evaluations
+random destroy transition at 195
+optimisation finished successfully after 99 iterations, 192 evaluations
+accept destroy segment 195
+random destroy transition at 120
+optimisation finished successfully after 144 iterations, 244 evaluations
+random destroy transition at 196
+optimisation finished successfully after 228 iterations, 373 evaluations
+random create transition at 4
+random create transition at 71
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 774 iterations, 2000 evaluations
+accept create segment at 71
+random create transition at 72
+optimisation finished successfully after 100 iterations, 230 evaluations
+accept create segment at 72
+random destroy transition at 73
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 608 iterations, 1600 evaluations
+random destroy transition at 197
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 241 iterations, 1600 evaluations
+accept destroy segment 197
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 203 iterations, 1600 evaluations
+random destroy transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 212 iterations, 1600 evaluations
+random destroy transition at 200
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 291 iterations, 1600 evaluations
+random create transition at 201
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 243 iterations, 2000 evaluations
+accept create segment at 201
+random create transition at 198
+optimisation finished successfully after 151 iterations, 307 evaluations
+random destroy transition at 202
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 477 iterations, 1600 evaluations
+random destroy transition at 203
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 218 iterations, 1600 evaluations
+accept destroy segment 203
+random create transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 757 iterations, 2000 evaluations
+random destroy transition at 204
+optimisation finished successfully after 114 iterations, 228 evaluations
+random create transition at 73
+random destroy transition at 77
+optimisation finished successfully after 94 iterations, 193 evaluations
+accept destroy segment 77
+random destroy transition at 78
+optimisation finished successfully after 258 iterations, 401 evaluations
+random create transition at 205
+optimisation finished successfully after 395 iterations, 631 evaluations
+random destroy transition at 79
+optimisation finished successfully after 96 iterations, 186 evaluations
+random destroy transition at 80
+optimisation finished successfully after 95 iterations, 174 evaluations
+random create transition at 78
+optimisation finished successfully after 105 iterations, 213 evaluations
+accept create segment at 78
+random create transition at 79
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 385 iterations, 2000 evaluations
+random create transition at 206
+optimisation finished successfully after 99 iterations, 188 evaluations
+random create transition at 207
+optimisation finished successfully after 119 iterations, 217 evaluations
+accept create segment at 207
+random destroy transition at 79
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 518 iterations, 1600 evaluations
+random create transition at 208
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 828 iterations, 2000 evaluations
+random create transition at 209
+optimisation finished successfully after 110 iterations, 241 evaluations
+accept create segment at 209
+random destroy transition at 79
+optimisation finished successfully after 82 iterations, 174 evaluations
+random destroy transition at 210
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 659 iterations, 1600 evaluations
+random create transition at 211
+optimisation finished successfully after 97 iterations, 220 evaluations
+accept create segment at 211
+random destroy transition at 79
+optimisation finished successfully after 66 iterations, 165 evaluations
+random create transition at 212
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 305 iterations, 2000 evaluations
+random destroy transition at 213
+optimisation finished successfully after 70 iterations, 154 evaluations
+accept destroy segment 213
+random create transition at 79
+optimisation finished successfully after 58 iterations, 164 evaluations
+accept create segment at 79
+random destroy transition at 80
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 693 iterations, 1600 evaluations
+accept destroy segment 80
+random create transition at 129
+optimisation finished successfully after 124 iterations, 241 evaluations
+accept create segment at 129
+random create transition at 130
+optimisation finished successfully after 121 iterations, 237 evaluations
+accept create segment at 130
+random create transition at 131
+optimisation finished successfully after 34 iterations, 123 evaluations
+accept create segment at 131
+random destroy transition at 132
+optimisation finished successfully after 36 iterations, 89 evaluations
+accept destroy segment 132
+random create transition at 214
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 726 iterations, 2000 evaluations
+random create transition at 215
+optimisation finished successfully after 74 iterations, 182 evaluations
+accept create segment at 215
+random create transition at 217
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 312 iterations, 2000 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 856 iterations, 2000 evaluations
+random destroy transition at 219
+optimisation finished successfully after 170 iterations, 278 evaluations
+random create transition at 220
+optimisation finished successfully after 244 iterations, 410 evaluations
+accept create segment at 220
+random create transition at 221
+optimisation finished successfully after 152 iterations, 276 evaluations
+accept create segment at 221
+random create transition at 222
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 703 iterations, 2000 evaluations
+random create transition at 224
+optimisation finished successfully after 54 iterations, 127 evaluations
+random create transition at 225
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 647 iterations, 2000 evaluations
+random create transition at 226
+optimisation finished successfully after 72 iterations, 166 evaluations
+accept create segment at 226
+random destroy transition at 217
+optimisation finished successfully after 82 iterations, 171 evaluations
+accept destroy segment 217
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 877 iterations, 2000 evaluations
+random destroy transition at 227
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 223 iterations, 1600 evaluations
+random create transition at 228
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 278 iterations, 2000 evaluations
+random create transition at 229
+optimisation finished successfully after 86 iterations, 205 evaluations
+random destroy transition at 230
+optimisation finished successfully after 61 iterations, 156 evaluations
+accept destroy segment 230
+random create transition at 222
+optimisation finished successfully after 102 iterations, 224 evaluations
+accept create segment at 222
+random create transition at 224
+optimisation finished successfully after 62 iterations, 147 evaluations
+random create transition at 231
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 879 iterations, 2000 evaluations
+random destroy transition at 233
+optimisation finished successfully after 272 iterations, 460 evaluations
+random destroy transition at 234
+optimisation finished successfully after 114 iterations, 222 evaluations
+random create transition at 235
+optimisation finished successfully after 106 iterations, 223 evaluations
+accept create segment at 235
+random create transition at 236
+optimisation finished successfully after 99 iterations, 203 evaluations
+random destroy transition at 237
+optimisation finished successfully after 98 iterations, 189 evaluations
+accept destroy segment 237
+random destroy transition at 238
+optimisation finished successfully after 75 iterations, 180 evaluations
+accept destroy segment 238
+random create transition at 236
+optimisation finished successfully after 100 iterations, 235 evaluations
+accept create segment at 236
+random destroy transition at 224
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 382 iterations, 1200 evaluations
+random create transition at 240
+optimisation finished successfully after 102 iterations, 224 evaluations
+random create transition at 241
+optimisation finished successfully after 119 iterations, 247 evaluations
+random destroy transition at 242
+optimisation finished successfully after 75 iterations, 160 evaluations
+accept destroy segment 242
+random create transition at 224
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 190 iterations, 1600 evaluations
+random destroy transition at 243
+optimisation finished successfully after 115 iterations, 211 evaluations
+accept destroy segment 243
+random create transition at 224
+optimisation finished successfully after 37 iterations, 118 evaluations
+random create transition at 244
+optimisation finished successfully after 86 iterations, 194 evaluations
+random create transition at 83
+random destroy transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 217 iterations, 1600 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 799 iterations, 2000 evaluations
+random destroy transition at 107
+optimisation finished successfully after 114 iterations, 216 evaluations
+random create transition at 108
+optimisation finished successfully after 69 iterations, 168 evaluations
+accept create segment at 108
+random create transition at 141
+optimisation finished successfully after 53 iterations, 149 evaluations
+accept create segment at 141
+random destroy transition at 176
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 650 iterations, 1600 evaluations
+random destroy transition at 245
+optimisation finished successfully after 66 iterations, 143 evaluations
+random create transition at 246
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 234 iterations, 2000 evaluations
+random create transition at 247
+optimisation finished successfully after 73 iterations, 160 evaluations
+random create transition at 248
+optimisation finished successfully after 58 iterations, 144 evaluations
+random destroy transition at 110
+optimisation finished successfully after 166 iterations, 283 evaluations
+random create transition at 113
+optimisation finished successfully after 78 iterations, 173 evaluations
+random create transition at 119
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 616 iterations, 2000 evaluations
+random create transition at 121
+optimisation finished successfully after 102 iterations, 196 evaluations
+random create transition at 122
+optimisation finished successfully after 108 iterations, 218 evaluations
+random destroy transition at 125
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 703 iterations, 1600 evaluations
+random destroy transition at 127
+optimisation finished successfully after 113 iterations, 222 evaluations
+random destroy transition at 128
+optimisation finished successfully after 136 iterations, 230 evaluations
+accept destroy segment 128
+random destroy transition at 190
+optimisation finished successfully after 249 iterations, 413 evaluations
+random destroy transition at 249
+optimisation finished successfully after 294 iterations, 458 evaluations
+accept destroy segment 249
+random create transition at 190
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 689 iterations, 2000 evaluations
+random create transition at 250
+optimisation finished successfully after 142 iterations, 255 evaluations
+accept create segment at 250
+random destroy transition at 190
+optimisation finished successfully after 541 iterations, 854 evaluations
+random create transition at 251
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 423 iterations, 2000 evaluations
+random destroy transition at 252
+optimisation finished successfully after 92 iterations, 176 evaluations
+accept destroy segment 252
+random create transition at 190
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 537 iterations, 2000 evaluations
+random create transition at 253
+optimisation finished successfully after 147 iterations, 261 evaluations
+accept create segment at 253
+random create transition at 190
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 764 iterations, 2000 evaluations
+random destroy transition at 254
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 478 iterations, 1600 evaluations
+random destroy transition at 255
+optimisation finished successfully after 99 iterations, 188 evaluations
+accept destroy segment 255
+random destroy transition at 190
+optimisation finished successfully after 329 iterations, 521 evaluations
+random create transition at 256
+optimisation finished successfully after 182 iterations, 294 evaluations
+accept create segment at 256
+random destroy transition at 190
+optimisation finished successfully after 296 iterations, 498 evaluations
+random create transition at 257
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 272 iterations, 2000 evaluations
+random create transition at 258
+optimisation finished successfully after 180 iterations, 295 evaluations
+accept create segment at 258
+random create transition at 190
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 276 iterations, 2000 evaluations
+random destroy transition at 259
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 237 iterations, 1600 evaluations
+random destroy transition at 260
+optimisation finished successfully after 111 iterations, 212 evaluations
+accept destroy segment 260
+random destroy transition at 190
+optimisation finished successfully after 197 iterations, 327 evaluations
+random destroy transition at 261
+optimisation finished successfully after 114 iterations, 200 evaluations
+accept destroy segment 261
+random destroy transition at 190
+optimisation finished successfully after 183 iterations, 305 evaluations
+random destroy transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 544 iterations, 1600 evaluations
+random create transition at 136
+optimisation finished successfully after 102 iterations, 221 evaluations
+random destroy transition at 140
+optimisation finished successfully after 46 iterations, 102 evaluations
+random create transition at 146
+optimisation finished successfully after 120 iterations, 224 evaluations
+random create transition at 148
+optimisation finished successfully after 45 iterations, 140 evaluations
+accept create segment at 148
+random destroy transition at 149
+optimisation finished successfully after 37 iterations, 115 evaluations
+random create transition at 263
+optimisation finished successfully after 76 iterations, 183 evaluations
+random destroy transition at 264
+optimisation finished successfully after 83 iterations, 172 evaluations
+accept destroy segment 264
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random destroy transition at 265
+optimisation finished successfully after 92 iterations, 193 evaluations
+random destroy transition at 151
+optimisation finished successfully after 68 iterations, 139 evaluations
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random create transition at 156
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 265 iterations, 2000 evaluations
+random create transition at 157
+optimisation finished successfully after 82 iterations, 171 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 516 iterations, 1600 evaluations
+random destroy transition at 174
+optimisation finished successfully after 106 iterations, 203 evaluations
+random create transition at 175
+optimisation finished successfully after 59 iterations, 147 evaluations
+random destroy transition at 176
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 650 iterations, 1600 evaluations
+random destroy transition at 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 610 iterations, 1600 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 265 iterations, 2000 evaluations
+random destroy transition at 184
+optimisation finished successfully after 68 iterations, 139 evaluations
+random create transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 218 iterations, 2000 evaluations
+random create transition at 190
+optimisation finished successfully after 186 iterations, 338 evaluations
+random destroy transition at 193
+optimisation finished successfully after 303 iterations, 477 evaluations
+random destroy transition at 196
+optimisation finished successfully after 46 iterations, 123 evaluations
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 195 iterations, 1600 evaluations
+random create transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 733 iterations, 2000 evaluations
+random destroy transition at 200
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 203 iterations, 1600 evaluations
+random create transition at 204
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 501 iterations, 2000 evaluations
+accept create segment at 204
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 215 iterations, 1600 evaluations
+random create transition at 266
+random create transition at 267
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 207 iterations, 1600 evaluations
+random create transition at 205
+optimisation finished successfully after 277 iterations, 457 evaluations
+random destroy transition at 206
+optimisation finished successfully after 146 iterations, 275 evaluations
+random destroy transition at 208
+optimisation finished successfully after 146 iterations, 276 evaluations
+random create transition at 210
+random destroy transition at 214
+optimisation finished successfully after 73 iterations, 158 evaluations
+accept destroy segment 214
+random create transition at 225
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 824 iterations, 2000 evaluations
+random create transition at 268
+random destroy transition at 218
+optimisation finished successfully after 209 iterations, 355 evaluations
+random create transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 723 iterations, 2000 evaluations
+random destroy transition at 224
+optimisation finished successfully after 58 iterations, 120 evaluations
+accept destroy segment 224
+random create transition at 269
+optimisation finished successfully after 89 iterations, 185 evaluations
+accept create segment at 269
+random create transition at 270
+optimisation finished successfully after 85 iterations, 210 evaluations
+accept create segment at 270
+random destroy transition at 271
+optimisation finished successfully after 42 iterations, 101 evaluations
+accept destroy segment 271
+random create transition at 272
+optimisation finished successfully after 115 iterations, 228 evaluations
+random destroy transition at 274
+optimisation finished successfully after 52 iterations, 106 evaluations
+accept destroy segment 274
+random destroy transition at 275
+optimisation finished successfully after 114 iterations, 204 evaluations
+random create transition at 225
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 251 iterations, 2000 evaluations
+random destroy transition at 227
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 482 iterations, 1600 evaluations
+random create transition at 228
+optimisation finished successfully after 142 iterations, 271 evaluations
+random destroy transition at 231
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 691 iterations, 1600 evaluations
+random destroy transition at 233
+optimisation finished successfully after 147 iterations, 268 evaluations
+random create transition at 245
+random destroy transition at 246
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 489 iterations, 1600 evaluations
+accept destroy segment 246
+random create transition at 247
+optimisation finished successfully after 382 iterations, 601 evaluations
+random destroy transition at 276
+optimisation finished successfully after 81 iterations, 147 evaluations
+random create transition at 247
+optimisation finished successfully after 382 iterations, 601 evaluations
+random destroy transition at 248
+optimisation finished successfully after 52 iterations, 125 evaluations
+random destroy transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 526 iterations, 1600 evaluations
+random create transition at 265
+optimisation finished successfully after 73 iterations, 166 evaluations
+random destroy transition at 275
+optimisation finished successfully after 114 iterations, 204 evaluations
+random destroy transition at 276
+optimisation finished successfully after 81 iterations, 147 evaluations
+random destroy transition at 0
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 139 iterations, 800 evaluations
+random destroy transition at 12
+optimisation finished successfully after 55 iterations, 140 evaluations
+random destroy transition at 18
+optimisation finished successfully after 146 iterations, 246 evaluations
+random create transition at 33
+optimisation finished successfully after 172 iterations, 298 evaluations
+random create transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 569 iterations, 2000 evaluations
+random destroy transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 218 iterations, 1600 evaluations
+random destroy transition at 63
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 624 iterations, 1600 evaluations
+random create transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 496 iterations, 2000 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 811 iterations, 2000 evaluations
+random destroy transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 594 iterations, 1600 evaluations
+random destroy transition at 110
+optimisation finished successfully after 201 iterations, 335 evaluations
+random create transition at 113
+optimisation finished successfully after 53 iterations, 172 evaluations
+random destroy transition at 119
+optimisation finished successfully after 84 iterations, 170 evaluations
+accept destroy segment 119
+random destroy transition at 83
+optimisation finished successfully after 116 iterations, 223 evaluations
+random create transition at 277
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 749 iterations, 2000 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 759 iterations, 2000 evaluations
+random create transition at 277
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 749 iterations, 2000 evaluations
+random destroy transition at 83
+optimisation finished successfully after 116 iterations, 223 evaluations
+random destroy transition at 121
+optimisation finished successfully after 67 iterations, 140 evaluations
+random create transition at 122
+optimisation finished successfully after 108 iterations, 218 evaluations
+random create transition at 136
+optimisation finished successfully after 121 iterations, 247 evaluations
+random create transition at 140
+optimisation finished successfully after 99 iterations, 189 evaluations
+accept create segment at 140
+random create transition at 4
+optimisation finished successfully after 110 iterations, 215 evaluations
+accept create segment at 4
+random destroy transition at 276
+optimisation finished successfully after 85 iterations, 160 evaluations
+accept destroy segment 276
+random destroy transition at 247
+optimisation finished successfully after 62 iterations, 130 evaluations
+accept destroy segment 247
+random create transition at 248
+optimisation finished successfully after 106 iterations, 197 evaluations
+accept create segment at 248
+random create transition at 176
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 256 iterations, 2000 evaluations
+random create transition at 278
+optimisation finished successfully after 69 iterations, 147 evaluations
+random create transition at 279
+optimisation finished successfully after 43 iterations, 109 evaluations
+random destroy transition at 280
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 207 iterations, 1600 evaluations
+random destroy transition at 283
+optimisation finished successfully after 78 iterations, 148 evaluations
+random create transition at 284
+optimisation finished successfully after 108 iterations, 218 evaluations
+random destroy transition at 285
+optimisation finished successfully after 63 iterations, 136 evaluations
+accept destroy segment 285
+random destroy transition at 176
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 684 iterations, 1600 evaluations
+accept destroy segment 176
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 204 iterations, 2000 evaluations
+random create transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 262 iterations, 2000 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 204 iterations, 2000 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random destroy transition at 279
+optimisation finished successfully after 43 iterations, 123 evaluations
+random destroy transition at 280
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 476 iterations, 1600 evaluations
+random create transition at 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 845 iterations, 2000 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 348 iterations, 1600 evaluations
+random destroy transition at 146
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 239 iterations, 1600 evaluations
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random create transition at 151
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random create transition at 156
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 239 iterations, 2000 evaluations
+random destroy transition at 157
+optimisation finished successfully after 125 iterations, 231 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 253 iterations, 1600 evaluations
+random destroy transition at 174
+optimisation finished successfully after 100 iterations, 185 evaluations
+random destroy transition at 175
+optimisation finished successfully after 83 iterations, 170 evaluations
+random destroy transition at 182
+optimisation finished successfully after 575 iterations, 841 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 566 iterations, 2000 evaluations
+random destroy transition at 184
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 385 iterations, 1600 evaluations
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 370 iterations, 1600 evaluations
+random destroy transition at 190
+optimisation finished successfully after 363 iterations, 565 evaluations
+random create transition at 193
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 817 iterations, 2000 evaluations
+accept create segment at 193
+random create transition at 174
+optimisation finished successfully after 92 iterations, 220 evaluations
+random create transition at 288
+optimisation finished successfully after 184 iterations, 335 evaluations
+random destroy transition at 289
+optimisation finished successfully after 82 iterations, 173 evaluations
+random create transition at 174
+optimisation finished successfully after 92 iterations, 220 evaluations
+random destroy transition at 288
+optimisation finished successfully after 423 iterations, 640 evaluations
+accept destroy segment 288
+random create transition at 289
+optimisation finished successfully after 145 iterations, 279 evaluations
+random create transition at 290
+optimisation finished successfully after 215 iterations, 346 evaluations
+random destroy transition at 289
+optimisation finished successfully after 556 iterations, 841 evaluations
+accept destroy segment 289
+random destroy transition at 174
+optimisation finished successfully after 203 iterations, 337 evaluations
+random create transition at 291
+optimisation finished successfully after 429 iterations, 649 evaluations
+random destroy transition at 174
+optimisation finished successfully after 203 iterations, 337 evaluations
+random destroy transition at 291
+optimisation finished successfully after 338 iterations, 541 evaluations
+random destroy transition at 174
+optimisation finished successfully after 203 iterations, 337 evaluations
+random create transition at 196
+optimisation finished successfully after 146 iterations, 309 evaluations
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 226 iterations, 1600 evaluations
+random destroy transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 223 iterations, 1600 evaluations
+random create transition at 200
+random destroy transition at 205
+optimisation finished successfully after 173 iterations, 292 evaluations
+random destroy transition at 206
+optimisation finished successfully after 133 iterations, 280 evaluations
+random destroy transition at 208
+optimisation finished successfully after 85 iterations, 171 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 786 iterations, 2000 evaluations
+random destroy transition at 219
+optimisation finished successfully after 120 iterations, 234 evaluations
+random destroy transition at 225
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 200 iterations, 1600 evaluations
+random create transition at 227
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 795 iterations, 2000 evaluations
+random create transition at 228
+optimisation finished successfully after 142 iterations, 271 evaluations
+random create transition at 231
+optimisation finished successfully after 81 iterations, 175 evaluations
+accept create segment at 231
+random create transition at 233
+optimisation finished successfully after 104 iterations, 207 evaluations
+accept create segment at 233
+random destroy transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 638 iterations, 1600 evaluations
+random create transition at 292
+optimisation finished successfully after 97 iterations, 224 evaluations
+random destroy transition at 293
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 228 iterations, 1600 evaluations
+random destroy transition at 294
+optimisation finished successfully after 98 iterations, 197 evaluations
+accept destroy segment 294
+random create transition at 295
+optimisation finished successfully after 83 iterations, 181 evaluations
+random create transition at 296
+optimisation finished successfully after 58 iterations, 150 evaluations
+accept create segment at 296
+random destroy transition at 295
+optimisation finished successfully after 78 iterations, 154 evaluations
+accept destroy segment 295
+random destroy transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 488 iterations, 1600 evaluations
+random destroy transition at 297
+optimisation finished successfully after 134 iterations, 259 evaluations
+accept destroy segment 297
+random create transition at 299
+optimisation finished successfully after 122 iterations, 227 evaluations
+random destroy transition at 300
+optimisation finished successfully after 48 iterations, 118 evaluations
+accept destroy segment 300
+random create transition at 299
+optimisation finished successfully after 136 iterations, 265 evaluations
+random destroy transition at 301
+optimisation finished successfully after 58 iterations, 143 evaluations
+accept destroy segment 301
+random destroy transition at 299
+optimisation finished successfully after 116 iterations, 221 evaluations
+accept destroy segment 299
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 828 iterations, 2000 evaluations
+random destroy transition at 303
+optimisation finished successfully after 121 iterations, 231 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 828 iterations, 2000 evaluations
+random create transition at 303
+optimisation finished successfully after 44 iterations, 144 evaluations
+random destroy transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 352 iterations, 1600 evaluations
+random create transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 813 iterations, 2000 evaluations
+random create transition at 265
+optimisation finished successfully after 57 iterations, 151 evaluations
+random destroy transition at 275
+optimisation finished successfully after 62 iterations, 131 evaluations
+random create transition at 277
+optimisation finished successfully after 349 iterations, 559 evaluations
+random create transition at 278
+optimisation finished successfully after 63 iterations, 142 evaluations
+random create transition at 279
+optimisation finished successfully after 48 iterations, 121 evaluations
+random create transition at 280
+optimisation finished successfully after 136 iterations, 239 evaluations
+random destroy transition at 283
+optimisation finished successfully after 258 iterations, 409 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 648 iterations, 1600 evaluations
+random destroy transition at 291
+optimisation finished successfully after 338 iterations, 541 evaluations
+random destroy transition at 303
+optimisation finished successfully after 121 iterations, 231 evaluations
+random destroy transition at 0
+optimisation finished successfully after 58 iterations, 126 evaluations
+random destroy transition at 12
+optimisation finished successfully after 116 iterations, 214 evaluations
+random destroy transition at 18
+optimisation finished successfully after 174 iterations, 293 evaluations
+random destroy transition at 33
+optimisation finished successfully after 80 iterations, 150 evaluations
+random create transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 569 iterations, 2000 evaluations
+random destroy transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 214 iterations, 1600 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 209 iterations, 2000 evaluations
+random create transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 327 iterations, 2000 evaluations
+random destroy transition at 106
+optimisation finished successfully after 47 iterations, 133 evaluations
+random destroy transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 615 iterations, 1600 evaluations
+random destroy transition at 110
+optimisation finished successfully after 102 iterations, 185 evaluations
+random create transition at 113
+optimisation finished successfully after 53 iterations, 172 evaluations
+random destroy transition at 121
+optimisation finished successfully after 67 iterations, 140 evaluations
+random create transition at 122
+optimisation finished successfully after 108 iterations, 218 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random create transition at 146
+optimisation finished successfully after 120 iterations, 224 evaluations
+random create transition at 149
+optimisation finished successfully after 70 iterations, 177 evaluations
+random create transition at 152
+optimisation finished successfully after 94 iterations, 193 evaluations
+random destroy transition at 156
+optimisation finished successfully after 108 iterations, 199 evaluations
+random destroy transition at 157
+optimisation finished successfully after 125 iterations, 231 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 256 iterations, 1600 evaluations
+random destroy transition at 174
+optimisation finished successfully after 203 iterations, 337 evaluations
+random destroy transition at 175
+optimisation finished successfully after 83 iterations, 170 evaluations
+random create transition at 182
+optimisation finished successfully after 190 iterations, 309 evaluations
+random destroy transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 306 iterations, 1600 evaluations
+random create transition at 184
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 750 iterations, 2000 evaluations
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 371 iterations, 1600 evaluations
+random destroy transition at 196
+optimisation finished successfully after 110 iterations, 212 evaluations
+random create transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 585 iterations, 2000 evaluations
+random create transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 206 iterations, 2000 evaluations
+random create transition at 205
+optimisation finished successfully after 191 iterations, 343 evaluations
+random create transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 262 iterations, 2000 evaluations
+random create transition at 208
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 238 iterations, 2000 evaluations
+accept create segment at 208
+random destroy transition at 303
+optimisation finished successfully after 54 iterations, 137 evaluations
+accept destroy segment 303
+random destroy transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 504 iterations, 1600 evaluations
+random destroy transition at 304
+optimisation finished successfully after 174 iterations, 314 evaluations
+random destroy transition at 306
+optimisation finished successfully after 94 iterations, 198 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 222 iterations, 2000 evaluations
+random create transition at 304
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 255 iterations, 2000 evaluations
+accept create segment at 304
+random create transition at 306
+optimisation finished successfully after 67 iterations, 172 evaluations
+random destroy transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 491 iterations, 1600 evaluations
+random create transition at 308
+random destroy transition at 306
+optimisation finished successfully after 45 iterations, 129 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 255 iterations, 2000 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 640 iterations, 2000 evaluations
+random create transition at 306
+optimisation finished successfully after 67 iterations, 172 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 811 iterations, 2000 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 640 iterations, 2000 evaluations
+random destroy transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 558 iterations, 1600 evaluations
+random destroy transition at 227
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 386 iterations, 1600 evaluations
+random destroy transition at 228
+optimisation finished successfully after 67 iterations, 161 evaluations
+random create transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 806 iterations, 2000 evaluations
+random destroy transition at 265
+optimisation finished successfully after 71 iterations, 165 evaluations
+random destroy transition at 275
+optimisation finished successfully after 66 iterations, 143 evaluations
+random create transition at 277
+optimisation finished successfully after 349 iterations, 559 evaluations
+random create transition at 278
+optimisation finished successfully after 63 iterations, 142 evaluations
+random create transition at 279
+optimisation finished successfully after 48 iterations, 121 evaluations
+random create transition at 280
+optimisation finished successfully after 69 iterations, 153 evaluations
+random destroy transition at 283
+optimisation finished successfully after 72 iterations, 157 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 470 iterations, 1600 evaluations
+random destroy transition at 291
+optimisation finished successfully after 338 iterations, 541 evaluations
+random destroy transition at 306
+optimisation finished successfully after 45 iterations, 129 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 827 iterations, 2000 evaluations
+random create transition at 0
+optimisation finished successfully after 91 iterations, 163 evaluations
+random create transition at 12
+optimisation finished successfully after 163 iterations, 266 evaluations
+random create transition at 18
+optimisation finished successfully after 119 iterations, 219 evaluations
+random destroy transition at 33
+optimisation finished successfully after 80 iterations, 150 evaluations
+random create transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 569 iterations, 2000 evaluations
+random create transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 842 iterations, 2000 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 208 iterations, 2000 evaluations
+random destroy transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 611 iterations, 1600 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 806 iterations, 2000 evaluations
+random destroy transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 615 iterations, 1600 evaluations
+random destroy transition at 110
+optimisation finished successfully after 102 iterations, 185 evaluations
+random destroy transition at 113
+optimisation finished successfully after 39 iterations, 115 evaluations
+random create transition at 121
+optimisation finished successfully after 102 iterations, 196 evaluations
+random destroy transition at 122
+optimisation finished successfully after 74 iterations, 155 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random create transition at 146
+optimisation finished successfully after 120 iterations, 224 evaluations
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random destroy transition at 156
+optimisation finished successfully after 108 iterations, 199 evaluations
+random destroy transition at 157
+optimisation finished successfully after 125 iterations, 231 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 254 iterations, 1600 evaluations
+random destroy transition at 174
+optimisation finished successfully after 203 iterations, 337 evaluations
+random destroy transition at 175
+optimisation finished successfully after 83 iterations, 170 evaluations
+random destroy transition at 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 206 iterations, 1600 evaluations
+random create transition at 183
+optimisation finished successfully after 97 iterations, 195 evaluations
+random create transition at 184
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 741 iterations, 2000 evaluations
+random create transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 215 iterations, 2000 evaluations
+random destroy transition at 196
+optimisation finished successfully after 110 iterations, 212 evaluations
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 225 iterations, 1600 evaluations
+random destroy transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 210 iterations, 1600 evaluations
+random destroy transition at 205
+optimisation finished successfully after 165 iterations, 286 evaluations
+random destroy transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 629 iterations, 1600 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 251 iterations, 2000 evaluations
+random create transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 783 iterations, 2000 evaluations
+random create transition at 227
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 791 iterations, 2000 evaluations
+random destroy transition at 228
+optimisation finished successfully after 67 iterations, 161 evaluations
+random destroy transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 208 iterations, 1600 evaluations
+random create transition at 265
+optimisation finished successfully after 57 iterations, 151 evaluations
+random create transition at 275
+optimisation finished successfully after 63 iterations, 172 evaluations
+accept create segment at 275
+random destroy transition at 309
+optimisation finished successfully after 54 iterations, 190 evaluations
+random destroy transition at 310
+optimisation finished successfully after 47 iterations, 108 evaluations
+accept destroy segment 310
+random destroy transition at 311
+optimisation finished successfully after 49 iterations, 110 evaluations
+random destroy transition at 311
+optimisation finished successfully after 49 iterations, 110 evaluations
+random destroy transition at 311
+optimisation finished successfully after 49 iterations, 110 evaluations
+random destroy transition at 311
+optimisation finished successfully after 49 iterations, 110 evaluations
+random destroy transition at 277
+optimisation finished successfully after 294 iterations, 457 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random destroy transition at 279
+optimisation finished successfully after 67 iterations, 133 evaluations
+random create transition at 280
+optimisation finished successfully after 69 iterations, 153 evaluations
+random create transition at 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 245 iterations, 2000 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 291 iterations, 1600 evaluations
+random create transition at 291
+optimisation finished successfully after 429 iterations, 649 evaluations
+random create transition at 306
+optimisation finished successfully after 84 iterations, 190 evaluations
+random destroy transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 717 iterations, 1600 evaluations
+random create transition at 311
+optimisation finished successfully after 82 iterations, 182 evaluations
+accept create segment at 311
+random create transition at 312
+optimisation finished successfully after 89 iterations, 208 evaluations
+accept create segment at 312
+random create transition at 313
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 441 iterations, 1600 evaluations
+random create transition at 314
+optimisation finished successfully after 69 iterations, 185 evaluations
+random destroy transition at 315
+optimisation finished successfully after 68 iterations, 179 evaluations
+random create transition at 313
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 441 iterations, 1600 evaluations
+random create transition at 314
+optimisation finished successfully after 69 iterations, 185 evaluations
+random destroy transition at 315
+optimisation finished successfully after 68 iterations, 179 evaluations
+random create transition at 313
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 441 iterations, 1600 evaluations
+random destroy transition at 314
+optimisation finished successfully after 45 iterations, 127 evaluations
+accept destroy segment 314
+random create transition at 315
+optimisation finished successfully after 76 iterations, 184 evaluations
+accept create segment at 315
+random destroy transition at 313
+optimisation finished successfully after 36 iterations, 97 evaluations
+accept destroy segment 313
+random destroy transition at 316
+optimisation finished successfully after 52 iterations, 130 evaluations
+random create transition at 317
+optimisation finished successfully after 87 iterations, 201 evaluations
+accept create segment at 317
+random destroy transition at 319
+optimisation finished successfully after 44 iterations, 99 evaluations
+accept destroy segment 319
+random create transition at 320
+optimisation finished successfully after 155 iterations, 272 evaluations
+accept create segment at 320
+random destroy transition at 322
+optimisation finished successfully after 30 iterations, 84 evaluations
+accept destroy segment 322
+random create transition at 323
+optimisation finished successfully after 97 iterations, 195 evaluations
+random destroy transition at 325
+optimisation finished successfully after 81 iterations, 164 evaluations
+random destroy transition at 316
+optimisation finished successfully after 107 iterations, 223 evaluations
+random create transition at 323
+optimisation finished successfully after 97 iterations, 195 evaluations
+accept create segment at 323
+random create transition at 325
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 218 iterations, 1600 evaluations
+random destroy transition at 326
+optimisation finished successfully after 138 iterations, 268 evaluations
+accept destroy segment 326
+random create transition at 327
+optimisation finished successfully after 113 iterations, 220 evaluations
+accept create segment at 327
+random create transition at 325
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 225 iterations, 1600 evaluations
+random create transition at 328
+optimisation finished successfully after 174 iterations, 326 evaluations
+accept create segment at 328
+random destroy transition at 329
+optimisation finished successfully after 65 iterations, 175 evaluations
+accept destroy segment 329
+random create transition at 330
+optimisation finished successfully after 134 iterations, 239 evaluations
+accept create segment at 330
+random create transition at 325
+optimisation finished successfully after 39 iterations, 127 evaluations
+random destroy transition at 331
+optimisation finished successfully after 124 iterations, 238 evaluations
+accept destroy segment 331
+random destroy transition at 333
+optimisation finished successfully after 48 iterations, 130 evaluations
+random destroy transition at 334
+optimisation finished successfully after 85 iterations, 174 evaluations
+accept destroy segment 334
+random destroy transition at 335
+optimisation finished successfully after 233 iterations, 397 evaluations
+random destroy transition at 336
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 215 iterations, 1600 evaluations
+random destroy transition at 337
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 616 iterations, 1600 evaluations
+random destroy transition at 325
+optimisation finished successfully after 131 iterations, 228 evaluations
+accept destroy segment 325
+random create transition at 338
+optimisation finished successfully after 91 iterations, 184 evaluations
+accept create segment at 338
+random create transition at 339
+optimisation finished successfully after 97 iterations, 206 evaluations
+accept create segment at 339
+random destroy transition at 340
+optimisation finished successfully after 54 iterations, 132 evaluations
+accept destroy segment 340
+random create transition at 341
+optimisation finished successfully after 116 iterations, 236 evaluations
+accept create segment at 341
+random destroy transition at 343
+optimisation finished successfully after 82 iterations, 167 evaluations
+random create transition at 344
+optimisation finished successfully after 79 iterations, 173 evaluations
+random destroy transition at 345
+optimisation finished successfully after 85 iterations, 165 evaluations
+accept destroy segment 345
+random destroy transition at 343
+optimisation finished successfully after 88 iterations, 165 evaluations
+random destroy transition at 346
+optimisation finished successfully after 89 iterations, 204 evaluations
+random create transition at 336
+optimisation finished successfully after 140 iterations, 271 evaluations
+random destroy transition at 337
+optimisation finished successfully after 59 iterations, 150 evaluations
+random create transition at 343
+optimisation finished successfully after 68 iterations, 153 evaluations
+accept create segment at 343
+random create transition at 347
+optimisation finished successfully after 54 iterations, 151 evaluations
+random create transition at 348
+optimisation finished successfully after 44 iterations, 125 evaluations
+random destroy transition at 346
+optimisation finished successfully after 105 iterations, 211 evaluations
+random destroy transition at 347
+optimisation finished successfully after 103 iterations, 196 evaluations
+accept destroy segment 347
+random create transition at 348
+optimisation finished successfully after 73 iterations, 153 evaluations
+random create transition at 349
+optimisation finished successfully after 104 iterations, 230 evaluations
+accept create segment at 349
+random create transition at 348
+random destroy transition at 350
+optimisation finished successfully after 186 iterations, 346 evaluations
+accept destroy segment 350
+random create transition at 351
+optimisation finished successfully after 121 iterations, 233 evaluations
+accept create segment at 351
+random create transition at 348
+random destroy transition at 352
+optimisation finished successfully after 61 iterations, 147 evaluations
+random destroy transition at 353
+optimisation finished successfully after 155 iterations, 277 evaluations
+accept destroy segment 353
+random destroy transition at 354
+optimisation finished successfully after 129 iterations, 257 evaluations
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 585 iterations, 2000 evaluations
+random destroy transition at 354
+optimisation finished successfully after 129 iterations, 257 evaluations
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 585 iterations, 2000 evaluations
+random destroy transition at 336
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 617 iterations, 1600 evaluations
+random create transition at 354
+random destroy transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 258 iterations, 1600 evaluations
+random destroy transition at 336
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 617 iterations, 1600 evaluations
+random destroy transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 258 iterations, 1600 evaluations
+random create transition at 336
+optimisation finished successfully after 37 iterations, 138 evaluations
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 585 iterations, 2000 evaluations
+random create transition at 0
+optimisation finished successfully after 91 iterations, 163 evaluations
+random destroy transition at 12
+optimisation finished successfully after 106 iterations, 213 evaluations
+random create transition at 18
+optimisation finished successfully after 119 iterations, 219 evaluations
+random destroy transition at 33
+optimisation finished successfully after 80 iterations, 150 evaluations
+random destroy transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 275 iterations, 1600 evaluations
+random destroy transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 226 iterations, 1600 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 419 iterations, 2000 evaluations
+random create transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 332 iterations, 2000 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 798 iterations, 2000 evaluations
+random create transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 778 iterations, 2000 evaluations
+random create transition at 110
+random destroy transition at 113
+optimisation finished successfully after 39 iterations, 115 evaluations
+random destroy transition at 121
+optimisation finished successfully after 67 iterations, 140 evaluations
+random create transition at 122
+optimisation finished successfully after 108 iterations, 218 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random destroy transition at 146
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 219 iterations, 1600 evaluations
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random destroy transition at 156
+optimisation finished successfully after 108 iterations, 199 evaluations
+random create transition at 157
+optimisation finished successfully after 82 iterations, 171 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 487 iterations, 1600 evaluations
+random create transition at 174
+optimisation finished successfully after 196 iterations, 311 evaluations
+accept create segment at 174
+random destroy transition at 277
+optimisation finished successfully after 143 iterations, 254 evaluations
+random create transition at 356
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 192 iterations, 2000 evaluations
+random destroy transition at 357
+optimisation finished successfully after 137 iterations, 240 evaluations
+random destroy transition at 277
+optimisation finished successfully after 143 iterations, 254 evaluations
+random destroy transition at 356
+optimisation finished successfully after 144 iterations, 298 evaluations
+accept destroy segment 356
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random destroy transition at 358
+optimisation finished successfully after 492 iterations, 804 evaluations
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random destroy transition at 358
+optimisation finished successfully after 492 iterations, 804 evaluations
+random destroy transition at 277
+optimisation finished successfully after 390 iterations, 596 evaluations
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random destroy transition at 358
+optimisation finished successfully after 492 iterations, 804 evaluations
+random create transition at 277
+optimisation finished successfully after 73 iterations, 176 evaluations
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random create transition at 358
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 946 iterations, 2000 evaluations
+random create transition at 277
+optimisation finished successfully after 73 iterations, 176 evaluations
+random create transition at 357
+optimisation finished successfully after 170 iterations, 320 evaluations
+random create transition at 358
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 946 iterations, 2000 evaluations
+random create transition at 175
+optimisation finished successfully after 59 iterations, 147 evaluations
+random create transition at 182
+optimisation finished successfully after 91 iterations, 191 evaluations
+random destroy transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 372 iterations, 1600 evaluations
+random destroy transition at 184
+optimisation finished successfully after 120 iterations, 222 evaluations
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 363 iterations, 1600 evaluations
+random destroy transition at 196
+optimisation finished successfully after 262 iterations, 409 evaluations
+random create transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 715 iterations, 2000 evaluations
+random destroy transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 217 iterations, 1600 evaluations
+random destroy transition at 205
+optimisation finished successfully after 165 iterations, 286 evaluations
+random destroy transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 630 iterations, 1600 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 929 iterations, 2000 evaluations
+random create transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 224 iterations, 2000 evaluations
+random destroy transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 628 iterations, 1600 evaluations
+random create transition at 265
+optimisation finished successfully after 57 iterations, 151 evaluations
+random destroy transition at 277
+optimisation finished successfully after 390 iterations, 596 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random create transition at 279
+optimisation finished successfully after 48 iterations, 121 evaluations
+random create transition at 280
+optimisation finished successfully after 69 iterations, 153 evaluations
+random destroy transition at 283
+optimisation finished successfully after 72 iterations, 157 evaluations
+random create transition at 287
+optimisation finished successfully after 67 iterations, 167 evaluations
+random destroy transition at 306
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 244 iterations, 1600 evaluations
+random destroy transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 496 iterations, 1600 evaluations
+random create transition at 336
+optimisation finished successfully after 37 iterations, 138 evaluations
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 584 iterations, 2000 evaluations
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random destroy transition at 358
+optimisation finished successfully after 492 iterations, 804 evaluations
+random create transition at 0
+optimisation finished successfully after 91 iterations, 163 evaluations
+random create transition at 12
+optimisation finished successfully after 163 iterations, 266 evaluations
+random create transition at 18
+optimisation finished successfully after 119 iterations, 219 evaluations
+random create transition at 33
+optimisation finished successfully after 172 iterations, 298 evaluations
+random create transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 569 iterations, 2000 evaluations
+random create transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 840 iterations, 2000 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 757 iterations, 2000 evaluations
+random destroy transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 239 iterations, 1600 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 805 iterations, 2000 evaluations
+random destroy transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 547 iterations, 1600 evaluations
+random destroy transition at 113
+optimisation finished successfully after 39 iterations, 115 evaluations
+random create transition at 121
+optimisation finished successfully after 102 iterations, 196 evaluations
+random destroy transition at 122
+optimisation finished successfully after 74 iterations, 155 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random create transition at 146
+optimisation finished successfully after 120 iterations, 224 evaluations
+random create transition at 149
+optimisation finished successfully after 70 iterations, 177 evaluations
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random create transition at 156
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 314 iterations, 2000 evaluations
+random destroy transition at 157
+optimisation finished successfully after 125 iterations, 231 evaluations
+random destroy transition at 171
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 485 iterations, 1600 evaluations
+random create transition at 175
+optimisation finished successfully after 59 iterations, 147 evaluations
+random destroy transition at 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 210 iterations, 1600 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 831 iterations, 2000 evaluations
+random destroy transition at 184
+optimisation finished successfully after 120 iterations, 222 evaluations
+random create transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 227 iterations, 2000 evaluations
+random destroy transition at 196
+optimisation finished successfully after 262 iterations, 409 evaluations
+random destroy transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 288 iterations, 1600 evaluations
+random destroy transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 224 iterations, 1600 evaluations
+random destroy transition at 205
+optimisation finished successfully after 165 iterations, 286 evaluations
+random create transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 655 iterations, 2000 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 928 iterations, 2000 evaluations
+random destroy transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 635 iterations, 1600 evaluations
+random create transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 793 iterations, 2000 evaluations
+random create transition at 265
+optimisation finished successfully after 57 iterations, 151 evaluations
+random create transition at 277
+optimisation finished successfully after 73 iterations, 176 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random destroy transition at 279
+optimisation finished successfully after 67 iterations, 133 evaluations
+random create transition at 280
+optimisation finished successfully after 69 iterations, 153 evaluations
+random create transition at 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 247 iterations, 2000 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 209 iterations, 1600 evaluations
+random destroy transition at 306
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 244 iterations, 1600 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 681 iterations, 2000 evaluations
+random destroy transition at 336
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 602 iterations, 1600 evaluations
+random destroy transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 265 iterations, 1600 evaluations
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random create transition at 358
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 932 iterations, 2000 evaluations
+----------------------------------------------------------
+greedy solve
+random create transition at 277
+optimisation finished successfully after 73 iterations, 176 evaluations
+random destroy transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 542 iterations, 1600 evaluations
+random create transition at 112
+random destroy transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 634 iterations, 1600 evaluations
+random create transition at 151
+random create transition at 157
+optimisation finished successfully after 92 iterations, 186 evaluations
+random destroy transition at 74
+optimisation finished successfully after 239 iterations, 407 evaluations
+random create transition at 12
+optimisation finished successfully after 163 iterations, 266 evaluations
+random create transition at 73
+random create transition at 113
+optimisation finished successfully after 53 iterations, 172 evaluations
+random destroy transition at 218
+optimisation finished successfully after 78 iterations, 168 evaluations
+random destroy transition at 18
+optimisation finished successfully after 178 iterations, 298 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 726 iterations, 2000 evaluations
+random create transition at 94
+random create transition at 265
+optimisation finished successfully after 58 iterations, 152 evaluations
+random create transition at 43
+random create transition at 171
+optimisation finished successfully after 119 iterations, 230 evaluations
+random destroy transition at 146
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 221 iterations, 1600 evaluations
+random destroy transition at 33
+optimisation finished successfully after 80 iterations, 150 evaluations
+random create transition at 184
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 222 iterations, 2000 evaluations
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 434 iterations, 1600 evaluations
+random create transition at 198
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 644 iterations, 2000 evaluations
+random create transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 212 iterations, 2000 evaluations
+random create transition at 41
+random destroy transition at 205
+optimisation finished successfully after 165 iterations, 286 evaluations
+random destroy transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 268 iterations, 1600 evaluations
+random destroy transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 627 iterations, 1600 evaluations
+random create transition at 279
+optimisation finished successfully after 48 iterations, 121 evaluations
+random create transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 233 iterations, 2000 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 801 iterations, 2000 evaluations
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random destroy transition at 156
+optimisation finished successfully after 108 iterations, 199 evaluations
+random destroy transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 369 iterations, 1600 evaluations
+random destroy transition at 280
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 571 iterations, 1600 evaluations
+random create transition at 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 248 iterations, 2000 evaluations
+random destroy transition at 86
+optimisation finished successfully after 130 iterations, 221 evaluations
+random create transition at 110
+random create transition at 121
+optimisation finished successfully after 83 iterations, 170 evaluations
+random destroy transition at 122
+optimisation finished successfully after 74 iterations, 155 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random destroy transition at 267
+optimisation finished successfully after 67 iterations, 159 evaluations
+random destroy transition at 306
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 260 iterations, 1600 evaluations
+random destroy transition at 175
+optimisation finished successfully after 83 iterations, 170 evaluations
+random create transition at 196
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 222 iterations, 2000 evaluations
+random create transition at 308
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 217 iterations, 1600 evaluations
+random create transition at 348
+random destroy transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 226 iterations, 1600 evaluations
+random create transition at 200
+random create transition at 354
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 588 iterations, 2000 evaluations
+random create transition at 266
+random destroy transition at 0
+optimisation finished successfully after 58 iterations, 126 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 575 iterations, 2000 evaluations
+random destroy transition at 336
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 605 iterations, 1600 evaluations
+random destroy transition at 189
+optimisation finished successfully after 32 iterations, 108 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random destroy transition at 357
+optimisation finished successfully after 84 iterations, 162 evaluations
+random destroy transition at 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 551 iterations, 1600 evaluations
+random destroy transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 626 iterations, 1600 evaluations
+random create transition at 358
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 290 iterations, 2000 evaluations
+random create transition at 0
+optimisation finished successfully after 91 iterations, 163 evaluations
+random create transition at 12
+optimisation finished successfully after 163 iterations, 266 evaluations
+random destroy transition at 18
+optimisation finished successfully after 178 iterations, 298 evaluations
+random create transition at 33
+optimisation finished successfully after 172 iterations, 298 evaluations
+random destroy transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 267 iterations, 1600 evaluations
+random create transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 928 iterations, 2000 evaluations
+random create transition at 74
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 800 iterations, 2000 evaluations
+accept create segment at 74
+random destroy transition at 205
+optimisation finished successfully after 217 iterations, 371 evaluations
+random create transition at 359
+random destroy transition at 360
+optimisation finished successfully after 97 iterations, 202 evaluations
+accept destroy segment 360
+random destroy transition at 205
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 675 iterations, 1600 evaluations
+random destroy transition at 361
+optimisation finished successfully after 144 iterations, 292 evaluations
+random create transition at 83
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 759 iterations, 2000 evaluations
+random destroy transition at 86
+optimisation finished successfully after 130 iterations, 221 evaluations
+random destroy transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 238 iterations, 1600 evaluations
+random create transition at 106
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 791 iterations, 2000 evaluations
+random create transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 843 iterations, 2000 evaluations
+random create transition at 113
+optimisation finished successfully after 53 iterations, 172 evaluations
+random destroy transition at 121
+optimisation finished successfully after 67 iterations, 140 evaluations
+random create transition at 122
+optimisation finished successfully after 108 iterations, 218 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random create transition at 146
+optimisation finished successfully after 120 iterations, 224 evaluations
+random create transition at 149
+optimisation finished successfully after 70 iterations, 177 evaluations
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random destroy transition at 156
+optimisation finished successfully after 108 iterations, 199 evaluations
+random destroy transition at 157
+optimisation finished successfully after 125 iterations, 231 evaluations
+random create transition at 171
+optimisation finished successfully after 119 iterations, 230 evaluations
+random destroy transition at 175
+optimisation finished successfully after 83 iterations, 170 evaluations
+random create transition at 182
+optimisation finished successfully after 126 iterations, 230 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 838 iterations, 2000 evaluations
+random destroy transition at 184
+optimisation finished successfully after 120 iterations, 222 evaluations
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 217 iterations, 1600 evaluations
+random destroy transition at 189
+optimisation finished successfully after 47 iterations, 130 evaluations
+random destroy transition at 196
+optimisation finished successfully after 262 iterations, 409 evaluations
+random create transition at 198
+optimisation finished successfully after 183 iterations, 332 evaluations
+random create transition at 199
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 800 iterations, 2000 evaluations
+random destroy transition at 205
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 665 iterations, 1600 evaluations
+random destroy transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 466 iterations, 1600 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 829 iterations, 2000 evaluations
+random create transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 228 iterations, 2000 evaluations
+random create transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 798 iterations, 2000 evaluations
+random destroy transition at 265
+optimisation finished successfully after 71 iterations, 165 evaluations
+random destroy transition at 267
+optimisation finished successfully after 123 iterations, 236 evaluations
+random create transition at 277
+optimisation finished successfully after 73 iterations, 176 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random create transition at 279
+optimisation finished successfully after 48 iterations, 121 evaluations
+random destroy transition at 280
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 555 iterations, 1600 evaluations
+random create transition at 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 247 iterations, 2000 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 221 iterations, 1600 evaluations
+random destroy transition at 306
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 256 iterations, 1600 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 750 iterations, 2000 evaluations
+random create transition at 336
+optimisation finished successfully after 37 iterations, 138 evaluations
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 616 iterations, 2000 evaluations
+random create transition at 357
+optimisation finished successfully after 170 iterations, 320 evaluations
+random destroy transition at 358
+optimisation finished successfully after 492 iterations, 804 evaluations
+random create transition at 361
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 811 iterations, 2000 evaluations
+random destroy transition at 0
+optimisation finished successfully after 58 iterations, 126 evaluations
+random create transition at 12
+optimisation finished successfully after 163 iterations, 266 evaluations
+random create transition at 18
+optimisation finished successfully after 119 iterations, 219 evaluations
+random create transition at 33
+optimisation finished successfully after 172 iterations, 298 evaluations
+random destroy transition at 37
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 273 iterations, 1600 evaluations
+random destroy transition at 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 226 iterations, 1600 evaluations
+random destroy transition at 83
+optimisation finished successfully after 140 iterations, 248 evaluations
+random create transition at 86
+optimisation finished successfully after 82 iterations, 176 evaluations
+random create transition at 98
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 235 iterations, 2000 evaluations
+random destroy transition at 106
+optimisation finished successfully after 47 iterations, 133 evaluations
+random destroy transition at 107
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 527 iterations, 1600 evaluations
+random destroy transition at 113
+optimisation finished successfully after 39 iterations, 115 evaluations
+random create transition at 121
+optimisation finished successfully after 102 iterations, 196 evaluations
+random create transition at 122
+optimisation finished successfully after 108 iterations, 218 evaluations
+random destroy transition at 136
+optimisation finished successfully after 107 iterations, 199 evaluations
+random create transition at 146
+optimisation finished successfully after 120 iterations, 224 evaluations
+random destroy transition at 149
+optimisation finished successfully after 78 iterations, 155 evaluations
+random destroy transition at 152
+optimisation finished successfully after 90 iterations, 174 evaluations
+random destroy transition at 156
+optimisation finished successfully after 108 iterations, 199 evaluations
+random create transition at 157
+optimisation finished successfully after 82 iterations, 171 evaluations
+random create transition at 171
+optimisation finished successfully after 119 iterations, 230 evaluations
+random destroy transition at 175
+optimisation finished successfully after 83 iterations, 170 evaluations
+random destroy transition at 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 208 iterations, 1600 evaluations
+random create transition at 183
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 827 iterations, 2000 evaluations
+random destroy transition at 184
+optimisation finished successfully after 120 iterations, 222 evaluations
+random destroy transition at 186
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 220 iterations, 1600 evaluations
+random destroy transition at 189
+optimisation finished successfully after 47 iterations, 130 evaluations
+random destroy transition at 196
+optimisation finished successfully after 262 iterations, 409 evaluations
+random create transition at 198
+optimisation finished successfully after 183 iterations, 332 evaluations
+random destroy transition at 199
+optimisation finished successfully after 99 iterations, 197 evaluations
+accept destroy segment 199
+random destroy transition at 200
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 604 iterations, 1600 evaluations
+random create transition at 362
+optimisation finished successfully after 60 iterations, 161 evaluations
+random destroy transition at 200
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 604 iterations, 1600 evaluations
+random create transition at 362
+optimisation finished successfully after 60 iterations, 161 evaluations
+random destroy transition at 200
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 604 iterations, 1600 evaluations
+random create transition at 205
+optimisation finished successfully after 206 iterations, 368 evaluations
+random destroy transition at 206
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 521 iterations, 1600 evaluations
+random create transition at 218
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 856 iterations, 2000 evaluations
+random destroy transition at 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 628 iterations, 1600 evaluations
+random destroy transition at 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 629 iterations, 1600 evaluations
+random create transition at 265
+optimisation finished successfully after 57 iterations, 151 evaluations
+random create transition at 267
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 273 iterations, 2000 evaluations
+random create transition at 277
+optimisation finished successfully after 73 iterations, 176 evaluations
+random destroy transition at 278
+optimisation finished successfully after 145 iterations, 250 evaluations
+random destroy transition at 279
+optimisation finished successfully after 67 iterations, 133 evaluations
+random create transition at 280
+optimisation finished successfully after 69 iterations, 153 evaluations
+random create transition at 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 247 iterations, 2000 evaluations
+random destroy transition at 287
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 217 iterations, 1600 evaluations
+random create transition at 306
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 267 iterations, 2000 evaluations
+random create transition at 307
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 645 iterations, 2000 evaluations
+random create transition at 336
+optimisation finished successfully after 37 iterations, 138 evaluations
+random create transition at 355
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 584 iterations, 2000 evaluations
+random create transition at 357
+optimisation finished successfully after 170 iterations, 320 evaluations
+random create transition at 358
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 934 iterations, 2000 evaluations
+random create transition at 361
+optimisation finished successfully after 381 iterations, 588 evaluations
+random create transition at 362
+optimisation finished successfully after 60 iterations, 161 evaluations
+----------------------------------------------------------
+remapping
+optimisation finished successfully after 202 iterations, 328 evaluations
+noremap 7 278 1.5509329886368988 1.551358833271959
+optimisation finished successfully after 59 iterations, 101 evaluations
+noremap 8 0 1.5505568637353404 1.5512313178010508
+optimisation finished successfully after 95 iterations, 173 evaluations
+noremap 17 279 1.5505568637353404 1.55063236707366
+optimisation finished successfully after 186 iterations, 299 evaluations
+accepted remapping point 18 segment 278
+optimisation finished successfully after 59 iterations, 140 evaluations
+noremap 66 280 1.5501523911913107 1.5548753134891626
+optimisation finished successfully after 111 iterations, 206 evaluations
+noremap 48 279 1.5501523911913107 1.5510961887193186
+optimisation finished successfully after 91 iterations, 177 evaluations
+noremap 68 283 1.5548767584545384 1.5767011752565323
+optimisation finished successfully after 80 iterations, 161 evaluations
+noremap 69 280 1.5501523911913107 1.5601791298056167
+optimisation finished successfully after 70 iterations, 162 evaluations
+noremap 78 287 1.553069971678224 1.5599165710929488
+optimisation finished successfully after 84 iterations, 171 evaluations
+accepted remapping point 79 segment 283
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 185 iterations, 1200 evaluations
+accepted remapping point 114 segment 183
+optimisation finished successfully after 249 iterations, 423 evaluations
+noremap 86 287 1.5494209119089688 1.5727525709487733
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 302 iterations, 1200 evaluations
+noremap 139 184 1.547953019792613 1.8048252786167376
+optimisation finished successfully after 285 iterations, 460 evaluations
+noremap 141 183 1.5656007484156818 1.587520832731797
+optimisation finished successfully after 163 iterations, 297 evaluations
+accepted remapping point 155 segment 110
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 178 iterations, 1200 evaluations
+noremap 140 184 1.5353454149164412 1.8930071364401617
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 437 iterations, 1200 evaluations
+noremap 156 12 1.5353454149164412 4.1118297663026615
+optimisation finished successfully after 277 iterations, 487 evaluations
+noremap 157 110 1.5353584072856967 1.8003193192278801
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 185 iterations, 1200 evaluations
+accepted remapping point 190 segment 182
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 196 iterations, 1200 evaluations
+noremap 191 12 1.5353383933672429 2.430350997143754
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 193 iterations, 1200 evaluations
+noremap 199 18 1.5353383933672429 1.5394419593323838
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 440 iterations, 1200 evaluations
+accepted remapping point 200 segment 182
+optimisation finished successfully after 125 iterations, 229 evaluations
+noremap 247 157 1.537288258834307 1.5380127141637014
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 173 iterations, 1200 evaluations
+noremap 232 18 1.5349433914551518 1.5385384422559663
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 197 iterations, 1200 evaluations
+noremap 250 171 1.5392854818776769 1.5467975390009652
+optimisation finished successfully after 169 iterations, 287 evaluations
+noremap 251 157 1.537288258834307 1.5394523132539129
+optimisation finished successfully after 95 iterations, 177 evaluations
+noremap 266 121 1.5351983241318599 1.5369081915347758
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 209 iterations, 1200 evaluations
+noremap 261 171 1.5392854818776769 1.5447905189515987
+optimisation finished successfully after 102 iterations, 194 evaluations
+accepted remapping point 314 segment 122
+optimisation finished successfully after 120 iterations, 218 evaluations
+accepted remapping point 286 segment 121
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 187 iterations, 1200 evaluations
+noremap 320 156 1.5355735388823488 1.7264929394625235
+optimisation finished successfully after 88 iterations, 179 evaluations
+accepted remapping point 321 segment 122
+optimisation finished successfully after 125 iterations, 230 evaluations
+accepted remapping point 332 segment 146
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 228 iterations, 1200 evaluations
+noremap 333 156 1.5344337110371726 1.7367716926790377
+optimisation finished successfully after 197 iterations, 329 evaluations
+noremap 381 86 1.5344337110371726 1.5352926933883533
+optimisation finished successfully after 98 iterations, 180 evaluations
+accepted remapping point 382 segment 146
+optimisation finished successfully after 104 iterations, 184 evaluations
+accepted remapping point 390 segment 175
+optimisation finished successfully after 110 iterations, 189 evaluations
+noremap 391 86 1.5323870737685967 1.5360188829899923
+optimisation finished successfully after 121 iterations, 222 evaluations
+accepted remapping point 444 segment 151
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 215 iterations, 1200 evaluations
+noremap 445 175 1.5316698481721498 1.5366280580212937
+optimisation finished successfully after 55 iterations, 150 evaluations
+noremap 446 152 1.5316698481721498 1.5326658481149802
+optimisation finished successfully after 81 iterations, 159 evaluations
+accepted remapping point 447 segment 151
+optimisation finished successfully after 105 iterations, 208 evaluations
+noremap 485 33 1.5315233797858443 1.5324299468603555
+optimisation finished successfully after 144 iterations, 256 evaluations
+noremap 486 152 1.5314174802697824 1.5325149702009233
+optimisation finished successfully after 74 iterations, 153 evaluations
+accepted remapping point 499 segment 136
+optimisation finished successfully after 138 iterations, 241 evaluations
+noremap 500 33 1.5315836578803925 1.5334176596558327
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 220 iterations, 1200 evaluations
+noremap 516 265 1.5315836578803925 1.5320167456168767
+optimisation finished successfully after 128 iterations, 232 evaluations
+accepted remapping point 509 segment 136
+optimisation finished successfully after 77 iterations, 166 evaluations
+noremap 553 149 1.5313063614821836 1.5315450252274716
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 445 iterations, 1200 evaluations
+noremap 550 265 1.5313063614821836 1.5331601234214471
+optimisation finished successfully after 63 iterations, 153 evaluations
+accepted remapping point 578 segment 112
+optimisation finished successfully after 103 iterations, 187 evaluations
+noremap 579 149 1.5314361923257076 1.5319839778610966
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 365 iterations, 1200 evaluations
+noremap 580 113 1.5315358949335132 1.5322720473371003
+optimisation finished successfully after 126 iterations, 235 evaluations
+noremap 581 112 1.5314361923257076 1.5325676480871326
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 361 iterations, 1200 evaluations
+noremap 587 37 1.5314773706925697 1.5328827447073121
+optimisation finished successfully after 72 iterations, 158 evaluations
+accepted remapping point 588 segment 113
+optimisation finished successfully after 182 iterations, 333 evaluations
+accepted remapping point 623 segment 106
+optimisation finished successfully after 214 iterations, 356 evaluations
+noremap 624 37 1.530881016577431 1.5337237263556671
+optimisation finished successfully after 125 iterations, 238 evaluations
+accepted remapping point 631 segment 189
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 220 iterations, 1200 evaluations
+noremap 632 106 1.5306062439831798 1.5407601270669382
+optimisation finished successfully after 93 iterations, 175 evaluations
+accepted remapping point 633 segment 186
+optimisation finished successfully after 201 iterations, 339 evaluations
+noremap 634 189 1.530578318560365 1.534687417104285
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 488 iterations, 1200 evaluations
+noremap 641 41 1.530578318560365 1.7915755795441948
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 340 iterations, 1200 evaluations
+noremap 640 186 1.530578318560365 1.5352895763046197
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 175 iterations, 1200 evaluations
+noremap 642 42 1.530578318560365 12.745788997575271
+optimisation finished successfully after 167 iterations, 306 evaluations
+noremap 645 41 1.530578318560365 1.6715581639686146
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 170 iterations, 1200 evaluations
+accepted remapping point 699 segment 43
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 388 iterations, 1200 evaluations
+noremap 643 42 1.3594422210152968 33.55579644016033
+optimisation finished successfully after 378 iterations, 602 evaluations
+noremap 644 94 1.3594422210152968 14.680623892008715
+optimisation finished successfully after 323 iterations, 556 evaluations
+noremap 700 43 1.3630322851821526 15.65655511981744
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 420 iterations, 1200 evaluations
+noremap 700 107 1.332930151629295 14.234965517568721
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 203 iterations, 1200 evaluations
+accepted remapping point 701 segment 94
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 253 iterations, 1200 evaluations
+noremap 802 98 1.3544627262595725 1.3938125092857678
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 362 iterations, 1200 evaluations
+noremap 764 107 1.3615149966210935 2.2858824679964416
+optimisation finished successfully after 98 iterations, 184 evaluations
+accepted remapping point 953 segment 262
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 228 iterations, 1200 evaluations
+noremap 954 98 1.3521519693979966 1.3918701792952681
+optimisation finished successfully after 121 iterations, 226 evaluations
+accepted remapping point 1087 segment 358
+optimisation finished successfully after 129 iterations, 251 evaluations
+noremap 1088 262 1.3622959154359886 1.4475865757515272
+optimisation finished successfully after 97 iterations, 220 evaluations
+noremap 1147 357 1.3386922300721054 1.3387739150672027
+optimisation finished successfully after 88 iterations, 205 evaluations
+noremap 1110 358 1.3399027440263804 1.3417132120211037
+optimisation finished successfully after 92 iterations, 195 evaluations
+accepted remapping point 1171 segment 277
+optimisation finished successfully after 270 iterations, 480 evaluations
+noremap 1172 357 1.3317120984106523 1.3433367987099922
+optimisation finished successfully after 530 iterations, 835 evaluations
+noremap 1197 83 1.3238921261336205 1.4790854486970924
+optimisation finished successfully after 217 iterations, 378 evaluations
+noremap 1179 277 1.3235980578972484 1.368814719623944
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 182 iterations, 1200 evaluations
+noremap 1198 196 1.3309417328209308 12.47632424651148
+optimisation finished successfully after 384 iterations, 676 evaluations
+noremap 1199 83 1.3238921261336205 1.3949631724155245
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 290 iterations, 1200 evaluations
+accepted remapping point 1215 segment 266
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 188 iterations, 1200 evaluations
+noremap 1216 196 1.3440645919349743 12.63292967242888
+optimisation finished successfully after 55 iterations, 153 evaluations
+noremap 1220 267 1.3440640481072754 1.6999117030505628
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 209 iterations, 1200 evaluations
+noremap 1221 266 1.3863644161410373 1.3991613714787643
+optimisation finished successfully after 115 iterations, 226 evaluations
+accepted remapping point 1224 segment 362
+optimisation finished successfully after 146 iterations, 274 evaluations
+noremap 1225 267 1.340292265001306 1.596203155658454
+optimisation finished successfully after 69 iterations, 155 evaluations
+noremap 1228 200 1.340292265001306 1.3407237275603618
+optimisation finished successfully after 162 iterations, 276 evaluations
+noremap 1229 362 1.340292265001306 1.3414263485938867
+optimisation finished successfully after 470 iterations, 808 evaluations
+accepted remapping point 1235 segment 73
+optimisation finished successfully after 123 iterations, 246 evaluations
+accepted remapping point 1232 segment 200
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 172 iterations, 1200 evaluations
+noremap 1233 361 1.3324701207817118 1.337084777662712
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 192 iterations, 1200 evaluations
+noremap 1236 73 1.3324701207817118 1.3331333268161882
+optimisation finished successfully after 116 iterations, 217 evaluations
+noremap 1257 205 1.3324701207817118 1.3703835147633425
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 211 iterations, 1200 evaluations
+noremap 1258 361 1.3324701207817118 1.3540133118522004
+optimisation finished successfully after 225 iterations, 369 evaluations
+noremap 1388 206 1.3324701207817118 1.4493043020626595
+optimisation finished successfully after 297 iterations, 529 evaluations
+noremap 1389 205 1.3324701207817118 1.445460301168448
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 465 iterations, 1200 evaluations
+noremap 1396 307 1.332701428271477 1.3983426314166374
+optimisation finished successfully after 260 iterations, 452 evaluations
+noremap 1397 206 1.3324701207817118 1.4884167363045648
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 205 iterations, 1200 evaluations
+noremap 1407 308 1.3324701207817118 1.5432249413482022
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 478 iterations, 1200 evaluations
+noremap 1408 307 1.332701428271477 1.3529753284766965
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 187 iterations, 1200 evaluations
+accepted remapping point 1411 segment 306
+optimisation finished successfully after 401 iterations, 669 evaluations
+noremap 1409 308 1.3509489534436454 1.5639157251773679
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 195 iterations, 1200 evaluations
+noremap 1467 218 1.3517484603482173 4.48569353581563
+optimisation finished successfully after 378 iterations, 659 evaluations
+accepted remapping point 1468 segment 306
+optimisation finished successfully after 123 iterations, 253 evaluations
+accepted remapping point 1500 segment 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 219 iterations, 1200 evaluations
+noremap 1501 218 1.330160410144991 2.5738789351570657
+optimisation finished successfully after 167 iterations, 333 evaluations
+noremap 1580 336 1.3290905796891839 1.3298982353033963
+optimisation finished successfully after 72 iterations, 169 evaluations
+accepted remapping point 1555 segment 219
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 416 iterations, 1200 evaluations
+noremap 1578 355 1.3290900829094274 1.6469001316728662
+optimisation finished successfully after 177 iterations, 348 evaluations
+noremap 1581 336 1.3290900829094274 1.3466900272058087
+optimisation finished successfully after 198 iterations, 329 evaluations
+noremap 1674 354 1.329364160096098 1.329596050598222
+optimisation finished successfully after 100 iterations, 213 evaluations
+noremap 1675 355 1.3290900829094274 1.329149772039648
+optimisation finished successfully after 326 iterations, 547 evaluations
+noremap 1675 348 1.329364160096098 1.3299204680662877
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 182 iterations, 1200 evaluations
+noremap 1676 354 1.329364160096098 1.329399654710976
+----------------------------------------------------------
+cleanup
+optimisation finished successfully after 73 iterations, 130 evaluations
+optimisation finished successfully after 42 iterations, 93 evaluations
+optimisation finished successfully after 70 iterations, 130 evaluations
+optimisation finished successfully after 105 iterations, 202 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 244 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 208 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 587 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 462 iterations, 1600 evaluations
+optimisation finished successfully after 259 iterations, 429 evaluations
+optimisation finished successfully after 89 iterations, 180 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 226 iterations, 1600 evaluations
+optimisation finished successfully after 39 iterations, 119 evaluations
+optimisation finished successfully after 118 iterations, 210 evaluations
+optimisation finished successfully after 168 iterations, 282 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 197 iterations, 1600 evaluations
+optimisation finished successfully after 126 iterations, 229 evaluations
+optimisation finished successfully after 95 iterations, 176 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 606 iterations, 1600 evaluations
+optimisation finished successfully after 132 iterations, 229 evaluations
+optimisation finished successfully after 111 iterations, 200 evaluations
+optimisation finished successfully after 82 iterations, 161 evaluations
+optimisation finished successfully after 129 iterations, 222 evaluations
+optimisation finished successfully after 149 iterations, 252 evaluations
+optimisation finished successfully after 74 iterations, 155 evaluations
+optimisation finished successfully after 80 iterations, 172 evaluations
+optimisation finished successfully after 83 iterations, 170 evaluations
+optimisation finished successfully after 54 iterations, 137 evaluations
+optimisation finished successfully after 76 iterations, 157 evaluations
+optimisation finished successfully after 82 iterations, 187 evaluations
+optimisation finished successfully after 60 iterations, 158 evaluations
+optimisation finished successfully after 81 iterations, 170 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 548 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 321 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 203 iterations, 1600 evaluations
+accept destroy segment 42
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 224 iterations, 1600 evaluations
+optimisation finished successfully after 135 iterations, 261 evaluations
+accept destroy segment 94
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 272 iterations, 1600 evaluations
+optimisation finished successfully after 112 iterations, 201 evaluations
+optimisation finished successfully after 211 iterations, 363 evaluations
+optimisation finished successfully after 156 iterations, 296 evaluations
+optimisation finished successfully after 106 iterations, 201 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 537 iterations, 1600 evaluations
+optimisation finished successfully after 128 iterations, 217 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 598 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 224 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 644 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 224 iterations, 1600 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 205 iterations, 1600 evaluations
+accept destroy segment 200
+optimisation finished successfully after 109 iterations, 236 evaluations
+optimisation finished successfully after 131 iterations, 247 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 508 iterations, 1600 evaluations
+optimisation finished successfully after 127 iterations, 234 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 511 iterations, 1600 evaluations
+optimisation finished successfully after 37 iterations, 125 evaluations
+accept destroy segment 308
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 231 iterations, 1600 evaluations
+optimisation finished successfully after 155 iterations, 276 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 563 iterations, 1600 evaluations
+optimisation finished successfully after 55 iterations, 141 evaluations
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 233 iterations, 1600 evaluations
+optimisation finished successfully after 66 iterations, 174 evaluations
+optimisation finished successfully after 55 iterations, 117 evaluations
+accept destroy segment 348

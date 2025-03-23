@@ -1,0 +1,347 @@
+----------------------------------------------------------
+initial solve
+optimisation finished successfully after 72 iterations, 148 evaluations
+optimisation finished successfully after 85 iterations, 162 evaluations
+optimisation finished successfully after 100 iterations, 185 evaluations
+optimisation finished successfully after 64 iterations, 133 evaluations
+optimisation finished successfully after 48 iterations, 126 evaluations
+optimisation finished successfully after 47 iterations, 118 evaluations
+optimisation finished successfully after 71 iterations, 140 evaluations
+optimisation finished successfully after 52 iterations, 109 evaluations
+optimisation finished successfully after 44 iterations, 105 evaluations
+----------------------------------------------------------
+priority solve
+random destroy transition at 3
+optimisation finished successfully after 55 iterations, 116 evaluations
+accept destroy segment 3
+random create transition at 1
+optimisation finished successfully after 91 iterations, 173 evaluations
+random destroy transition at 0
+optimisation finished successfully after 58 iterations, 108 evaluations
+random destroy transition at 4
+optimisation finished successfully after 83 iterations, 152 evaluations
+accept destroy segment 4
+random create transition at 5
+optimisation finished successfully after 91 iterations, 181 evaluations
+random create transition at 6
+optimisation finished successfully after 55 iterations, 123 evaluations
+accept create segment at 6
+random create transition at 7
+optimisation finished successfully after 84 iterations, 173 evaluations
+random create transition at 8
+optimisation finished successfully after 67 iterations, 129 evaluations
+random destroy transition at 9
+optimisation finished successfully after 41 iterations, 82 evaluations
+accept destroy segment 9
+random create transition at 11
+optimisation finished successfully after 112 iterations, 195 evaluations
+random destroy transition at 12
+optimisation finished successfully after 70 iterations, 127 evaluations
+accept destroy segment 12
+random destroy transition at 13
+optimisation finished successfully after 70 iterations, 136 evaluations
+accept destroy segment 13
+random create transition at 7
+optimisation finished successfully after 44 iterations, 109 evaluations
+random destroy transition at 14
+optimisation finished successfully after 34 iterations, 70 evaluations
+accept destroy segment 14
+random create transition at 16
+optimisation finished successfully after 73 iterations, 134 evaluations
+random create transition at 17
+optimisation finished successfully after 33 iterations, 75 evaluations
+accept create segment at 17
+random create transition at 18
+optimisation finished successfully after 68 iterations, 126 evaluations
+random create transition at 19
+optimisation finished successfully after 33 iterations, 66 evaluations
+accept create segment at 19
+random destroy transition at 20
+optimisation finished successfully after 42 iterations, 81 evaluations
+accept destroy segment 20
+random destroy transition at 21
+optimisation finished successfully after 30 iterations, 63 evaluations
+accept destroy segment 21
+random destroy transition at 23
+optimisation finished successfully after 88 iterations, 151 evaluations
+accept destroy segment 23
+random destroy transition at 24
+optimisation finished successfully after 66 iterations, 115 evaluations
+random destroy transition at 0
+optimisation finished successfully after 32 iterations, 68 evaluations
+random destroy transition at 1
+optimisation finished successfully after 70 iterations, 138 evaluations
+random create transition at 11
+optimisation finished successfully after 72 iterations, 143 evaluations
+accept create segment at 11
+random create transition at 24
+optimisation finished successfully after 43 iterations, 88 evaluations
+random create transition at 25
+optimisation finished successfully after 88 iterations, 170 evaluations
+accept create segment at 25
+random create transition at 26
+optimisation finished successfully after 97 iterations, 170 evaluations
+random create transition at 27
+optimisation finished successfully after 102 iterations, 185 evaluations
+accept create segment at 27
+random destroy transition at 28
+optimisation finished successfully after 68 iterations, 136 evaluations
+accept destroy segment 28
+random create transition at 26
+optimisation finished successfully after 96 iterations, 177 evaluations
+random create transition at 29
+random create transition at 31
+optimisation finished successfully after 73 iterations, 148 evaluations
+random destroy transition at 24
+optimisation finished successfully after 118 iterations, 187 evaluations
+accept destroy segment 24
+random destroy transition at 32
+optimisation finished successfully after 61 iterations, 111 evaluations
+random destroy transition at 31
+optimisation finished successfully after 57 iterations, 108 evaluations
+random destroy transition at 32
+optimisation finished successfully after 61 iterations, 111 evaluations
+random create transition at 0
+optimisation finished successfully after 79 iterations, 161 evaluations
+random create transition at 1
+optimisation finished successfully after 128 iterations, 222 evaluations
+random create transition at 31
+optimisation finished successfully after 94 iterations, 165 evaluations
+accept create segment at 31
+random create transition at 32
+optimisation finished successfully after 49 iterations, 95 evaluations
+random create transition at 33
+optimisation finished successfully after 78 iterations, 153 evaluations
+accept create segment at 33
+random create transition at 34
+optimisation finished successfully after 35 iterations, 112 evaluations
+random destroy transition at 35
+optimisation finished successfully after 55 iterations, 113 evaluations
+accept destroy segment 35
+random create transition at 36
+optimisation finished successfully after 69 iterations, 150 evaluations
+accept create segment at 36
+random create transition at 34
+optimisation finished successfully after 102 iterations, 182 evaluations
+accept create segment at 34
+random destroy transition at 32
+optimisation finished successfully after 41 iterations, 82 evaluations
+accept destroy segment 32
+random create transition at 37
+optimisation finished successfully after 88 iterations, 175 evaluations
+random create transition at 38
+optimisation finished successfully after 45 iterations, 119 evaluations
+accept create segment at 38
+random create transition at 39
+optimisation finished successfully after 90 iterations, 162 evaluations
+accept create segment at 39
+random create transition at 40
+optimisation finished successfully after 49 iterations, 127 evaluations
+accept create segment at 40
+random destroy transition at 42
+optimisation finished successfully after 30 iterations, 80 evaluations
+accept destroy segment 42
+random create transition at 43
+random destroy transition at 44
+optimisation finished successfully after 69 iterations, 133 evaluations
+accept destroy segment 44
+random create transition at 45
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 214 iterations, 2000 evaluations
+random destroy transition at 46
+optimisation finished successfully after 75 iterations, 150 evaluations
+accept destroy segment 46
+random create transition at 47
+optimisation finished successfully after 81 iterations, 169 evaluations
+random create transition at 49
+optimisation finished successfully after 42 iterations, 82 evaluations
+random create transition at 50
+optimisation finished successfully after 95 iterations, 195 evaluations
+random create transition at 51
+optimisation finished successfully after 96 iterations, 184 evaluations
+accept create segment at 51
+random destroy transition at 47
+optimisation finished successfully after 59 iterations, 115 evaluations
+accept destroy segment 47
+random destroy transition at 49
+optimisation finished successfully after 58 iterations, 105 evaluations
+accept destroy segment 49
+random create transition at 52
+optimisation finished successfully after 64 iterations, 148 evaluations
+accept create segment at 52
+random destroy transition at 55
+optimisation finished successfully after 42 iterations, 81 evaluations
+accept destroy segment 55
+random create transition at 56
+optimisation finished successfully after 42 iterations, 107 evaluations
+random create transition at 58
+optimisation finished successfully after 55 iterations, 108 evaluations
+accept create segment at 58
+random create transition at 59
+optimisation finished successfully after 53 iterations, 114 evaluations
+accept create segment at 59
+random create transition at 60
+optimisation finished successfully after 53 iterations, 101 evaluations
+random create transition at 61
+optimisation finished successfully after 66 iterations, 151 evaluations
+random destroy transition at 62
+optimisation finished successfully after 43 iterations, 89 evaluations
+accept destroy segment 62
+random create transition at 60
+optimisation finished successfully after 32 iterations, 70 evaluations
+random destroy transition at 63
+optimisation finished successfully after 72 iterations, 125 evaluations
+accept destroy segment 63
+random create transition at 60
+optimisation finished successfully after 42 iterations, 80 evaluations
+random destroy transition at 64
+optimisation finished successfully after 62 iterations, 117 evaluations
+random create transition at 37
+optimisation finished successfully after 54 iterations, 127 evaluations
+accept create segment at 37
+random create transition at 50
+optimisation finished successfully after 57 iterations, 117 evaluations
+random destroy transition at 65
+optimisation finished successfully after 34 iterations, 97 evaluations
+random create transition at 66
+optimisation finished successfully after 71 iterations, 154 evaluations
+random destroy transition at 50
+optimisation finished successfully after 64 iterations, 120 evaluations
+accept destroy segment 50
+random destroy transition at 64
+optimisation finished successfully after 70 iterations, 128 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+random destroy transition at 60
+optimisation finished successfully after 43 iterations, 93 evaluations
+random create transition at 64
+optimisation finished successfully after 55 iterations, 103 evaluations
+random destroy transition at 65
+optimisation finished successfully after 63 iterations, 147 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+random destroy transition at 60
+optimisation finished successfully after 43 iterations, 93 evaluations
+random create transition at 64
+optimisation finished successfully after 55 iterations, 103 evaluations
+random destroy transition at 65
+optimisation finished successfully after 63 iterations, 147 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+random create transition at 0
+optimisation finished successfully after 103 iterations, 190 evaluations
+random create transition at 1
+optimisation finished successfully after 106 iterations, 199 evaluations
+random destroy transition at 60
+optimisation finished successfully after 43 iterations, 93 evaluations
+random destroy transition at 64
+optimisation finished successfully after 70 iterations, 128 evaluations
+random create transition at 65
+optimisation finished successfully after 63 iterations, 140 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+random destroy transition at 0
+optimisation finished successfully after 39 iterations, 79 evaluations
+random destroy transition at 1
+optimisation finished successfully after 87 iterations, 164 evaluations
+random destroy transition at 60
+optimisation finished successfully after 43 iterations, 93 evaluations
+random create transition at 64
+optimisation finished successfully after 55 iterations, 103 evaluations
+random destroy transition at 65
+optimisation finished successfully after 63 iterations, 147 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+random destroy transition at 0
+optimisation finished successfully after 39 iterations, 79 evaluations
+random create transition at 1
+optimisation finished successfully after 106 iterations, 199 evaluations
+random create transition at 60
+optimisation finished successfully after 62 iterations, 105 evaluations
+random destroy transition at 64
+optimisation finished successfully after 70 iterations, 128 evaluations
+random destroy transition at 65
+optimisation finished successfully after 63 iterations, 147 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+random create transition at 0
+optimisation finished successfully after 103 iterations, 190 evaluations
+random create transition at 1
+optimisation finished successfully after 106 iterations, 199 evaluations
+random create transition at 60
+optimisation finished successfully after 62 iterations, 105 evaluations
+random create transition at 64
+optimisation finished successfully after 55 iterations, 103 evaluations
+random destroy transition at 65
+optimisation finished successfully after 63 iterations, 147 evaluations
+random create transition at 67
+optimisation finished successfully after 67 iterations, 132 evaluations
+End Priority Solve
+----------------------------------------------------------
+greedy solve
+random create transition at 65
+optimisation finished successfully after 63 iterations, 140 evaluations
+random destroy transition at 0
+optimisation finished successfully after 39 iterations, 79 evaluations
+random create transition at 60
+optimisation finished successfully after 62 iterations, 105 evaluations
+random create transition at 67
+optimisation finished successfully after 67 iterations, 132 evaluations
+random create transition at 1
+optimisation finished successfully after 106 iterations, 199 evaluations
+random create transition at 64
+optimisation finished successfully after 55 iterations, 103 evaluations
+random destroy transition at 0
+optimisation finished successfully after 39 iterations, 79 evaluations
+random destroy transition at 1
+optimisation finished successfully after 87 iterations, 164 evaluations
+random destroy transition at 60
+optimisation finished successfully after 43 iterations, 93 evaluations
+random create transition at 64
+optimisation finished successfully after 55 iterations, 103 evaluations
+random destroy transition at 65
+optimisation finished successfully after 63 iterations, 147 evaluations
+random create transition at 67
+optimisation finished successfully after 67 iterations, 132 evaluations
+random create transition at 0
+optimisation finished successfully after 103 iterations, 190 evaluations
+random destroy transition at 1
+optimisation finished successfully after 87 iterations, 164 evaluations
+random destroy transition at 60
+optimisation finished successfully after 43 iterations, 93 evaluations
+random destroy transition at 64
+optimisation finished successfully after 70 iterations, 128 evaluations
+random create transition at 65
+optimisation finished successfully after 63 iterations, 140 evaluations
+random destroy transition at 67
+optimisation finished successfully after 79 iterations, 141 evaluations
+End Priority Solve
+----------------------------------------------------------
+remapping
+optimisation finished successfully after 131 iterations, 223 evaluations
+accepted remapping point 49 segment 1
+optimisation finished successfully after 42 iterations, 95 evaluations
+noremap 13 0 0.034875359631428196 0.03524693055618952
+optimisation finished successfully after 152 iterations, 263 evaluations
+noremap 67 65 0.034875359631428196 0.03493183349628441
+optimisation finished successfully after 99 iterations, 190 evaluations
+noremap 68 1 0.034875359631428196 0.0362134667995132
+optimisation finished successfully after 109 iterations, 190 evaluations
+accepted remapping point 71 segment 67
+optimisation finished successfully after 108 iterations, 196 evaluations
+accepted remapping point 72 segment 65
+optimisation finished successfully after 152 iterations, 267 evaluations
+noremap 165 64 0.0345354735828138 0.037381164051850255
+optimisation finished successfully after 140 iterations, 237 evaluations
+accepted remapping point 166 segment 67
+optimisation finished successfully after 151 iterations, 247 evaluations
+accepted remapping point 195 segment 60
+optimisation failed with message Maximum number of function evaluations has been exceeded. after 202 iterations, 1200 evaluations
+noremap 196 64 0.03438071666181107 0.048516337549038765
+----------------------------------------------------------
+cleanup
+optimisation finished successfully after 49 iterations, 93 evaluations
+optimisation finished successfully after 84 iterations, 146 evaluations
+optimisation finished successfully after 61 iterations, 127 evaluations
+optimisation finished successfully after 59 iterations, 126 evaluations
+optimisation finished successfully after 68 iterations, 126 evaluations
+optimisation finished successfully after 49 iterations, 86 evaluations

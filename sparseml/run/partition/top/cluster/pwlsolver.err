@@ -1,0 +1,2060 @@
+Traceback (most recent call last):
+  File "run_pwl.py", line 19, in <module>
+    import pwlpartition 
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 22, in <module>
+    from skimage.restoration import estimate_sigma, denoise_wavelet
+ModuleNotFoundError: No module named 'skimage'
+/opt/sge/default/spool/c6420-2-2/job_scripts/511476: line 18: unexpected EOF while looking for matching `"'
+/opt/sge/default/spool/c6420-2-2/job_scripts/511476: line 20: syntax error: unexpected end of file
+  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 208.20it/s]100%|██████████| 1/1 [00:00<00:00, 98.72it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 86.61it/s]100%|██████████| 1/1 [00:00<00:00, 82.76it/s]100%|██████████| 1/1 [00:00<00:00, 80.20it/s]100%|██████████| 1/1 [00:00<00:00, 238.56it/s]100%|██████████| 1/1 [00:00<00:00, 66.99it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 216.93it/s]100%|██████████| 1/1 [00:00<00:00, 240.96it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 296.82it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 276.16it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 258.46it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 197.02it/s]100%|██████████| 1/1 [00:00<00:00, 221.62it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 245.78it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 167.91it/s]100%|██████████| 1/1 [00:00<00:00, 254.32it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 231.22it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 241.19it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 250.24it/s]100%|██████████| 1/1 [00:00<00:00, 262.11it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 247.82it/s]100%|██████████| 1/1 [00:00<00:00, 255.69it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 217.55it/s]100%|██████████| 1/1 [00:00<00:00, 232.27it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 269.76it/s]100%|██████████| 1/1 [00:00<00:00, 151.47it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 303.85it/s]100%|██████████| 1/1 [00:00<00:00, 193.65it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 307.73it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 205.12it/s]100%|██████████| 1/1 [00:00<00:00, 252.47it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 273.53it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 269.40it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 264.88it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 250.09it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 293.31it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 239.40it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 313.34it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 263.21it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 203.62it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 173.99it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 197.09it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 181.77it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 231.54it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 237.05it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 146.86it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 203.50it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 254.79it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 230.11it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 205.78it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 315.74it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 125.86it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 207.93it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 65.41it/s]100%|██████████| 1/1 [00:00<00:00, 67.35it/s]100%|██████████| 1/1 [00:00<00:00, 181.56it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 127.36it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 88.50it/s]100%|██████████| 1/1 [00:00<00:00, 92.37it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 62.90it/s]  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 105.56it/s]100%|██████████| 1/1 [00:00<00:00, 32.34it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 138.60it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-3:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 68.02it/s]
+Process Process-5:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 128.25it/s]
+Process Process-7:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.44it/s]
+Process Process-2:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 20.04it/s]
+Process Process-8:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 214.55it/s]
+Process Process-19:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.49it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/support.py:52: RuntimeWarning: invalid value encountered in true_divide
+  d_hat = np.divide(d_ba, d)
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py:103: RuntimeWarning: invalid value encountered in true_divide
+  u = vector/length[:,np.newaxis]
+Process Process-52:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 145, in pwl_solve
+    solver.priority_solve(control, output=output)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 693, in priority_solve
+    accepted = self.destroy_at(index)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 839, in destroy_at
+    clone.delete_at(index)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 359, in delete_at
+    self.update_residuals()
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 171, in update_residuals
+    self.residual_at(0, self.model.M)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 256, in residual_at
+    residual = np.concatenate(distance_list)
+  File "<__array_function__ internals>", line 5, in concatenate
+ValueError: need at least one array to concatenate
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 79.50it/s]
+Process Process-62:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 66.69it/s]
+Process Process-14:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 140.11it/s]
+Process Process-12:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 54.66it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-6:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 62.30it/s]
+Process Process-33:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 54.83it/s]
+Process Process-22:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 19.32it/s]
+Process Process-30:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.37it/s]
+Process Process-60:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 25.27it/s]
+Process Process-10:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 78.72it/s]
+Process Process-23:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 174.36it/s]
+Process Process-57:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 138.72it/s]
+Process Process-64:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 73.49it/s]
+Process Process-39:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 73.16it/s]
+Process Process-35:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.75it/s]
+Process Process-67:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.46it/s]
+Process Process-71:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 243.54it/s]
+Process Process-40:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 126.37it/s]
+Process Process-37:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.95it/s]
+Process Process-38:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.93it/s]
+Process Process-1:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.75it/s]
+Process Process-46:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.25it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-16:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.87it/s]
+Process Process-68:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 79.21it/s]
+Process Process-69:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 20.91it/s]
+Process Process-49:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 78.18it/s]
+Process Process-18:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 119.65it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-13:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 140.77it/s]
+Process Process-56:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.65it/s]
+Process Process-47:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.26it/s]
+Process Process-92:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.59it/s]
+Process Process-24:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.52it/s]
+Process Process-66:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 77.70it/s]
+Process Process-63:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 68.19it/s]
+Process Process-11:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.30it/s]
+Process Process-74:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 156.98it/s]
+Process Process-29:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 144.08it/s]
+Process Process-54:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.22it/s]
+Process Process-15:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 169.08it/s]
+Process Process-36:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 21.35it/s]
+Process Process-45:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 136.10it/s]
+Process Process-43:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 73.28it/s]
+Process Process-48:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.35it/s]
+Process Process-21:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 23.31it/s]
+Process Process-77:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.63it/s]
+Process Process-72:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 186.47it/s]
+Process Process-84:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.28it/s]
+Process Process-34:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.60it/s]
+Process Process-83:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.95it/s]
+Process Process-50:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 19.67it/s]
+Process Process-17:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 172.05it/s]
+Process Process-81:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 56.00it/s]
+Process Process-80:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.57it/s]
+Process Process-31:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 196.12it/s]
+Process Process-20:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 173.00it/s]
+Process Process-59:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 140.59it/s]
+Process Process-100:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 22.80it/s]
+Process Process-25:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.37it/s]
+Process Process-32:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.94it/s]
+Process Process-79:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 20.41it/s]
+Process Process-86:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 19.30it/s]
+Process Process-61:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.92it/s]
+Process Process-70:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.44it/s]
+Process Process-91:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.67it/s]
+Process Process-88:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 130.75it/s]
+Process Process-98:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 143.23it/s]
+Process Process-51:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 172.21it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-41:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 163.29it/s]
+Process Process-111:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 135.26it/s]
+Process Process-78:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.70it/s]
+Process Process-118:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.49it/s]
+Process Process-65:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 115.28it/s]
+Process Process-73:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 55.44it/s]
+Process Process-90:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 87.17it/s]
+Process Process-110:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 55.85it/s]
+Process Process-27:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.91it/s]
+Process Process-89:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 132.24it/s]
+Process Process-82:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.68it/s]
+Process Process-106:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.96it/s]
+Process Process-107:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.75it/s]
+Process Process-87:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.93it/s]
+Process Process-44:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.68it/s]
+Process Process-42:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 131.52it/s]
+Process Process-97:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.28it/s]
+Process Process-94:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 22.37it/s]
+Process Process-104:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 20.95it/s]
+Process Process-55:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.39it/s]
+Process Process-130:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.22it/s]
+Process Process-101:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 72.52it/s]
+Process Process-99:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 62.74it/s]
+Process Process-116:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.21it/s]
+Process Process-148:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.61it/s]
+Process Process-105:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 148.34it/s]
+Process Process-95:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 31.42it/s]
+Process Process-58:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 125.32it/s]
+Process Process-121:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.17it/s]
+Process Process-96:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 77.62it/s]
+Process Process-112:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 64.59it/s]
+Process Process-155:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 153.81it/s]
+Process Process-75:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 18.26it/s]
+Process Process-53:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.30it/s]
+Process Process-171:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 145, in pwl_solve
+    solver.priority_solve(control, output=output)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 693, in priority_solve
+    accepted = self.destroy_at(index)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 839, in destroy_at
+    clone.delete_at(index)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 359, in delete_at
+    self.update_residuals()
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 171, in update_residuals
+    self.residual_at(0, self.model.M)
+  File "/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/pwlpartition.py", line 256, in residual_at
+    residual = np.concatenate(distance_list)
+  File "<__array_function__ internals>", line 5, in concatenate
+ValueError: need at least one array to concatenate
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 46.00it/s]
+Process Process-144:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 59.52it/s]
+Process Process-123:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 189.43it/s]
+Process Process-125:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 59.43it/s]
+Process Process-131:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 142.31it/s]
+Process Process-76:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 33.61it/s]
+Process Process-85:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.43it/s]
+Process Process-137:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 146.61it/s]
+Process Process-119:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-117:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 65.18it/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 25.10it/s]
+Process Process-4:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 83.01it/s]
+Process Process-122:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 67.04it/s]
+Process Process-26:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 61.58it/s]
+Process Process-154:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 17.62it/s]
+Process Process-141:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 56.28it/s]
+Process Process-138:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 124.56it/s]
+Process Process-120:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 132.98it/s]
+Process Process-139:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 143.81it/s]
+Process Process-124:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 37.51it/s]
+Process Process-128:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 48.02it/s]
+Process Process-152:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 63.44it/s]
+Process Process-9:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 59.43it/s]
+Process Process-133:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 20.98it/s]
+/cluster/rs_lab/dbarton/usb_twitching/pili/support.py:52: RuntimeWarning: invalid value encountered in true_divide
+  d_hat = np.divide(d_ba, d)
+Process Process-109:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 57.08it/s]
+Process Process-159:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 59.41it/s]
+Process Process-102:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 130.36it/s]
+Process Process-150:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 59.56it/s]
+Process Process-147:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 151.01it/s]
+Process Process-151:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 68.05it/s]
+Process Process-163:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-28:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-136:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-129:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-176:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-146:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-156:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-181:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-132:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-182:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-158:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-140:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-168:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-167:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-108:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-153:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-169:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-183:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-166:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-195:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-113:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-126:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-188:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-164:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-174:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-189:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+/cluster/rs_lab/dbarton/usb_twitching/pili/support.py:52: RuntimeWarning: invalid value encountered in true_divide
+  d_hat = np.divide(d_ba, d)
+Process Process-200:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-143:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-103:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-127:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-157:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-135:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-134:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-115:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-149:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-170:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-161:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-192:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-160:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-180:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-173:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-194:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-178:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-162:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+/cluster/rs_lab/dbarton/usb_twitching/pili/support.py:52: RuntimeWarning: invalid value encountered in true_divide
+  d_hat = np.divide(d_ba, d)
+Process Process-165:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-190:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-186:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-93:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-198:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-197:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-191:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-114:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-193:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-199:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-142:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-179:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-175:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-184:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-145:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-172:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+/cluster/rs_lab/dbarton/usb_twitching/pili/src/analysis/mdl.py:182: RuntimeWarning: invalid value encountered in arccos
+  theta = np.arccos(np.sum(norm_dx * norm_dy,axis=1))
+Process Process-185:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-177:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+Process Process-187:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+
+/cluster/rs_lab/dbarton/usb_twitching/pili/support.py:52: RuntimeWarning: invalid value encountered in true_divide
+  d_hat = np.divide(d_ba, d)
+Process Process-196:
+Traceback (most recent call last):
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cluster/rs_lab/dbarton/env/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "run_pwl.py", line 152, in pwl_solve
+    fig, ax = pwlpartition.model_plot(solver, lptr, config = {"shaded":False})
+TypeError: model_plot() got an unexpected keyword argument 'config'
+/opt/sge/default/spool/c6420-2-2/job_scripts/511479: line 18: unexpected EOF while looking for matching `"'
+/opt/sge/default/spool/c6420-2-2/job_scripts/511479: line 20: syntax error: unexpected end of file

@@ -1,0 +1,4943 @@
+------------------------------------------------------------------------
+Job started on Wed Jul 20 02:11:09 BST 2022
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Job ended on Wed Jul 20 02:11:18 BST 2022
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Job started on Wed Jul 20 02:39:28 BST 2022
+------------------------------------------------------------------------
+starting job number 0 on track 2658
+starting job number 1 on track 2646
+starting job number 2 on track 621
+starting job number 3 on track 1052
+starting job number 4 on track 1998
+starting job number 5 on track 618
+starting job number 6 on track 377
+starting job number 7 on track 2722
+starting job number 8 on track 2924
+starting job number 9 on track 2742
+starting job number 10 on track 1915
+starting job number 11 on track 2743
+starting job number 12 on track 2285
+starting job number 13 on track 503
+starting job number 14 on track 2040
+starting job number 15 on track 2135
+starting job number 16 on track 331
+starting job number 17 on track 2388
+starting job number 18 on track 2710
+starting job number 19 on track 2396
+starting job number 20 on track 2173
+starting job number 21 on track 1106
+starting job number 22 on track 3008
+starting job number 23 on track 2414
+starting job number 24 on track 2408
+starting job number 25 on track 1526
+starting job number 26 on track 387
+starting job number 27 on track 1033
+starting job number 28 on track 2638
+starting job number 29 on track 3017
+starting job number 30 on track 2387
+starting job number 31 on track 3066
+starting job number 32 on track 983
+starting job number 33 on track 3067
+starting job number 34 on track 3006
+starting job number 35 on track 2928
+starting job number 36 on track 436
+starting job number 37 on track 1215
+starting job number 38 on track 1492
+starting job number 39 on track 2413
+starting job number 40 on track 478
+starting job number 41 on track 697
+starting job number 42 on track 2389
+starting job number 43 on track 326
+starting job number 44 on track 2127
+starting job number 45 on track 2498
+starting job number 46 on track 2977
+starting job number 47 on track 2903
+starting job number 48 on track 1090
+starting job number 49 on track 1583
+starting job number 50 on track 2699
+starting job number 51 on track 2481
+starting job number 52 on track 1977
+starting job number 53 on track 233
+starting job number 54 on track 2937
+starting job number 55 on track 662
+starting job number 56 on track 3027
+starting job number 57 on track 3029
+starting job number 58 on track 2365
+starting job number 59 on track 1780
+starting job number 60 on track 2148
+starting job number 61 on track 752
+starting job number 62 on track 120
+starting job number 63 on track 2756
+loading track 621 with 3078 data points
+writing config {'trackidx': 621} to _top_0621/config.json
+writing to  _top_0621/data.pkl
+using sigma = 0.044120427073684465
+writing to  _top_0621/config.json
+solver 621 iteration 00000000
+solver 621 iteration 00000100
+execution time  24.534186463803053
+starting job number 64 on track 3030
+loading track 1998 with 1032 data points
+writing config {'trackidx': 1998} to _top_1998/config.json
+writing to  _top_1998/data.pkl
+using sigma = 0.05149611470335935
+writing to  _top_1998/config.json
+solver 1998 iteration 00000000
+solver 1998 iteration 00000100
+execution time  66.52440442889929
+starting job number 65 on track 1183
+loading track 377 with 2975 data points
+writing config {'trackidx': 377} to _top_0377/config.json
+writing to  _top_0377/data.pkl
+using sigma = 0.0830397989153614
+writing to  _top_0377/config.json
+solver 377 iteration 00000000
+solver 377 iteration 00000100
+execution time  92.33262997306883
+starting job number 66 on track 1988
+loading track 2646 with 1338 data points
+writing config {'trackidx': 2646} to _top_2646/config.json
+writing to  _top_2646/data.pkl
+using sigma = 0.0369204523803338
+writing to  _top_2646/config.json
+solver 2646 iteration 00000000
+solver 2646 iteration 00000100
+solver 2646 iteration 00000200
+execution time  305.9367388803512
+starting job number 67 on track 1158
+loading track 2722 with 1082 data points
+writing config {'trackidx': 2722} to _top_2722/config.json
+writing to  _top_2722/data.pkl
+using sigma = 0.0464357442230254
+writing to  _top_2722/config.json
+solver 2722 iteration 00000000
+solver 2722 iteration 00000100
+solver 2722 iteration 00000200
+solver 2722 iteration 00000300
+execution time  360.3846860807389
+starting job number 68 on track 2960
+loading track 2710 with 1844 data points
+writing config {'trackidx': 2710} to _top_2710/config.json
+writing to  _top_2710/data.pkl
+using sigma = 0.05344019615275004
+writing to  _top_2710/config.json
+solver 2710 iteration 00000000
+solver 2710 iteration 00000100
+solver 2710 iteration 00000200
+solver 2710 iteration 00000300
+execution time  382.29817607067525
+starting job number 69 on track 2383
+loading track 2481 with 1010 data points
+writing config {'trackidx': 2481} to _top_2481/config.json
+writing to  _top_2481/data.pkl
+using sigma = 0.008391132119760305
+writing to  _top_2481/config.json
+solver 2481 iteration 00000000
+solver 2481 iteration 00000100
+solver 2481 iteration 00000200
+starting job number 70 on track 2465
+loading track 752 with 1029 data points
+writing config {'trackidx': 752} to _top_0752/config.json
+writing to  _top_0752/data.pkl
+using sigma = 0.014478588663077694
+writing to  _top_0752/config.json
+solver 752 iteration 00000000
+solver 752 iteration 00000100
+solver 752 iteration 00000200
+solver 752 iteration 00000300
+solver 752 iteration 00000400
+solver 752 iteration 00000500
+execution time  810.3348938040435
+starting job number 71 on track 1157
+loading track 503 with 2996 data points
+writing config {'trackidx': 503} to _top_0503/config.json
+writing to  _top_0503/data.pkl
+using sigma = 0.03797281308007675
+writing to  _top_0503/config.json
+solver 503 iteration 00000000
+solver 503 iteration 00000100
+solver 503 iteration 00000200
+solver 503 iteration 00000300
+solver 503 iteration 00000400
+solver 503 iteration 00000500
+solver 503 iteration 00000600
+execution time  819.5441515278071
+starting job number 72 on track 1976
+loading track 2743 with 1103 data points
+writing config {'trackidx': 2743} to _top_2743/config.json
+writing to  _top_2743/data.pkl
+using sigma = 0.017687320219324343
+writing to  _top_2743/config.json
+solver 2743 iteration 00000000
+solver 2743 iteration 00000100
+solver 2743 iteration 00000200
+solver 2743 iteration 00000300
+solver 2743 iteration 00000400
+solver 2743 iteration 00000500
+execution time  940.942213350907
+starting job number 73 on track 253
+loading track 618 with 3409 data points
+writing config {'trackidx': 618} to _top_0618/config.json
+writing to  _top_0618/data.pkl
+using sigma = 0.05398983390856642
+writing to  _top_0618/config.json
+solver 618 iteration 00000000
+solver 618 iteration 00000100
+solver 618 iteration 00000200
+solver 618 iteration 00000300
+solver 618 iteration 00000400
+solver 618 iteration 00000500
+solver 618 iteration 00000600
+solver 618 iteration 00000700
+solver 618 iteration 00000800
+solver 618 iteration 00000900
+execution time  1016.814959410578
+starting job number 74 on track 245
+loading track 983 with 1293 data points
+writing config {'trackidx': 983} to _top_0983/config.json
+writing to  _top_0983/data.pkl
+using sigma = 0.014074585908717992
+writing to  _top_0983/config.json
+solver 983 iteration 00000000
+solver 983 iteration 00000100
+solver 983 iteration 00000200
+solver 983 iteration 00000300
+solver 983 iteration 00000400
+solver 983 iteration 00000500
+solver 983 iteration 00000600
+execution time  1131.1880258638412
+starting job number 75 on track 2754
+loading track 1106 with 1320 data points
+writing config {'trackidx': 1106} to _top_1106/config.json
+writing to  _top_1106/data.pkl
+using sigma = 0.013883317416506726
+writing to  _top_1106/config.json
+solver 1106 iteration 00000000
+solver 1106 iteration 00000100
+solver 1106 iteration 00000200
+solver 1106 iteration 00000300
+solver 1106 iteration 00000400
+solver 1106 iteration 00000500
+solver 1106 iteration 00000600
+execution time  1149.118255186826
+starting job number 76 on track 2431
+loading track 3017 with 1550 data points
+writing config {'trackidx': 3017} to _top_3017/config.json
+writing to  _top_3017/data.pkl
+using sigma = 0.011494637926030535
+writing to  _top_3017/config.json
+solver 3017 iteration 00000000
+solver 3017 iteration 00000100
+solver 3017 iteration 00000200
+solver 3017 iteration 00000300
+solver 3017 iteration 00000400
+solver 3017 iteration 00000500
+solver 3017 iteration 00000600
+execution time  1239.7045296691358
+starting job number 77 on track 2927
+loading track 1780 with 1235 data points
+writing config {'trackidx': 1780} to _top_1780/config.json
+writing to  _top_1780/data.pkl
+using sigma = 0.013820955059343398
+writing to  _top_1780/config.json
+solver 1780 iteration 00000000
+solver 1780 iteration 00000100
+solver 1780 iteration 00000200
+solver 1780 iteration 00000300
+solver 1780 iteration 00000400
+solver 1780 iteration 00000500
+solver 1780 iteration 00000600
+solver 1780 iteration 00000700
+solver 1780 iteration 00000800
+execution time  1347.3874616622925
+starting job number 78 on track 2094
+loading track 2742 with 1025 data points
+writing config {'trackidx': 2742} to _top_2742/config.json
+writing to  _top_2742/data.pkl
+using sigma = 0.016402678014435484
+writing to  _top_2742/config.json
+solver 2742 iteration 00000000
+solver 2742 iteration 00000100
+solver 2742 iteration 00000200
+solver 2742 iteration 00000300
+solver 2742 iteration 00000400
+solver 2742 iteration 00000500
+solver 2742 iteration 00000600
+solver 2742 iteration 00000700
+solver 2742 iteration 00000800
+execution time  1406.6834180392325
+starting job number 79 on track 568
+loading track 3008 with 1050 data points
+writing config {'trackidx': 3008} to _top_3008/config.json
+writing to  _top_3008/data.pkl
+using sigma = 0.009955397902454196
+writing to  _top_3008/config.json
+solver 3008 iteration 00000000
+solver 3008 iteration 00000100
+solver 3008 iteration 00000200
+solver 3008 iteration 00000300
+solver 3008 iteration 00000400
+solver 3008 iteration 00000500
+solver 3008 iteration 00000600
+solver 3008 iteration 00000700
+execution time  1597.553323628381
+starting job number 80 on track 1112
+loading track 3027 with 2127 data points
+writing config {'trackidx': 3027} to _top_3027/config.json
+writing to  _top_3027/data.pkl
+using sigma = 0.012096933522085455
+writing to  _top_3027/config.json
+solver 3027 iteration 00000000
+solver 3027 iteration 00000100
+solver 3027 iteration 00000200
+solver 3027 iteration 00000300
+solver 3027 iteration 00000400
+solver 3027 iteration 00000500
+solver 3027 iteration 00000600
+solver 3027 iteration 00000700
+solver 3027 iteration 00000800
+solver 3027 iteration 00000900
+execution time  1621.1572078932077
+starting job number 81 on track 2521
+loading track 2756 with 2298 data points
+writing config {'trackidx': 2756} to _top_2756/config.json
+writing to  _top_2756/data.pkl
+using sigma = 0.013751094273700155
+writing to  _top_2756/config.json
+solver 2756 iteration 00000000
+solver 2756 iteration 00000100
+solver 2756 iteration 00000200
+solver 2756 iteration 00000300
+solver 2756 iteration 00000400
+solver 2756 iteration 00000500
+solver 2756 iteration 00000600
+solver 2756 iteration 00000700
+solver 2756 iteration 00000800
+solver 2756 iteration 00000900
+solver 2756 iteration 00001000
+execution time  1666.67526364699
+starting job number 82 on track 583
+loading track 1492 with 1200 data points
+writing config {'trackidx': 1492} to _top_1492/config.json
+writing to  _top_1492/data.pkl
+using sigma = 0.010619217095055913
+writing to  _top_1492/config.json
+solver 1492 iteration 00000000
+solver 1492 iteration 00000100
+solver 1492 iteration 00000200
+solver 1492 iteration 00000300
+solver 1492 iteration 00000400
+solver 1492 iteration 00000500
+solver 1492 iteration 00000600
+solver 1492 iteration 00000700
+solver 1492 iteration 00000800
+solver 1492 iteration 00000900
+execution time  1735.7803188115358
+starting job number 83 on track 2385
+loading track 3006 with 1387 data points
+writing config {'trackidx': 3006} to _top_3006/config.json
+writing to  _top_3006/data.pkl
+using sigma = 0.011872016913485385
+writing to  _top_3006/config.json
+solver 3006 iteration 00000000
+solver 3006 iteration 00000100
+solver 3006 iteration 00000200
+solver 3006 iteration 00000300
+solver 3006 iteration 00000400
+solver 3006 iteration 00000500
+solver 3006 iteration 00000600
+solver 3006 iteration 00000700
+solver 3006 iteration 00000800
+solver 3006 iteration 00000900
+execution time  1750.6612645983696
+starting job number 84 on track 775
+loading track 1988 with 1103 data points
+writing config {'trackidx': 1988} to _top_1988/config.json
+writing to  _top_1988/data.pkl
+using sigma = 0.011260929359804472
+writing to  _top_1988/config.json
+solver 1988 iteration 00000000
+solver 1988 iteration 00000100
+solver 1988 iteration 00000200
+solver 1988 iteration 00000300
+solver 1988 iteration 00000400
+solver 1988 iteration 00000500
+solver 1988 iteration 00000600
+solver 1988 iteration 00000700
+solver 1988 iteration 00000800
+solver 1988 iteration 00000900
+execution time  1683.488590033725
+starting job number 85 on track 911
+loading track 2465 with 1136 data points
+writing config {'trackidx': 2465} to _top_2465/config.json
+writing to  _top_2465/data.pkl
+using sigma = 0.01559903608205123
+writing to  _top_2465/config.json
+solver 2465 iteration 00000000
+solver 2465 iteration 00000100
+solver 2465 iteration 00000200
+solver 2465 iteration 00000300
+solver 2465 iteration 00000400
+solver 2465 iteration 00000500
+solver 2465 iteration 00000600
+execution time  1114.6276045180857
+starting job number 86 on track 2125
+loading track 2413 with 1388 data points
+writing config {'trackidx': 2413} to _top_2413/config.json
+writing to  _top_2413/data.pkl
+using sigma = 0.013013440376641504
+writing to  _top_2413/config.json
+solver 2413 iteration 00000000
+solver 2413 iteration 00000100
+solver 2413 iteration 00000200
+solver 2413 iteration 00000300
+solver 2413 iteration 00000400
+solver 2413 iteration 00000500
+solver 2413 iteration 00000600
+solver 2413 iteration 00000700
+solver 2413 iteration 00000800
+solver 2413 iteration 00000900
+solver 2413 iteration 00001000
+execution time  1935.6598189808428
+starting job number 87 on track 2376
+loading track 436 with 1461 data points
+writing config {'trackidx': 436} to _top_0436/config.json
+writing to  _top_0436/data.pkl
+using sigma = 0.01004268669840773
+writing to  _top_0436/config.json
+solver 436 iteration 00000000
+solver 436 iteration 00000100
+solver 436 iteration 00000200
+solver 436 iteration 00000300
+solver 436 iteration 00000400
+solver 436 iteration 00000500
+solver 436 iteration 00000600
+solver 436 iteration 00000700
+solver 436 iteration 00000800
+solver 436 iteration 00000900
+solver 436 iteration 00001000
+execution time  1979.8232804872096
+starting job number 88 on track 2900
+loading track 1215 with 2351 data points
+writing config {'trackidx': 1215} to _top_1215/config.json
+writing to  _top_1215/data.pkl
+using sigma = 0.014524067008864282
+writing to  _top_1215/config.json
+solver 1215 iteration 00000000
+solver 1215 iteration 00000100
+solver 1215 iteration 00000200
+solver 1215 iteration 00000300
+solver 1215 iteration 00000400
+solver 1215 iteration 00000500
+solver 1215 iteration 00000600
+solver 1215 iteration 00000700
+solver 1215 iteration 00000800
+solver 1215 iteration 00000900
+solver 1215 iteration 00001000
+solver 1215 iteration 00001100
+solver 1215 iteration 00001200
+execution time  2031.3522022366524
+starting job number 89 on track 2364
+loading track 2658 with 4600 data points
+writing config {'trackidx': 2658} to _top_2658/config.json
+writing to  _top_2658/data.pkl
+using sigma = 0.10911113704647774
+writing to  _top_2658/config.json
+solver 2658 iteration 00000000
+solver 2658 iteration 00000100
+solver 2658 iteration 00000200
+solver 2658 iteration 00000300
+solver 2658 iteration 00000400
+solver 2658 iteration 00000500
+solver 2658 iteration 00000600
+solver 2658 iteration 00000700
+solver 2658 iteration 00000800
+solver 2658 iteration 00000900
+solver 2658 iteration 00001000
+solver 2658 iteration 00001100
+solver 2658 iteration 00001200
+solver 2658 iteration 00001300
+solver 2658 iteration 00001400
+solver 2658 iteration 00001500
+solver 2658 iteration 00001600
+solver 2658 iteration 00001700
+solver 2658 iteration 00001800
+solver 2658 iteration 00001900
+solver 2658 iteration 00002000
+solver 2658 iteration 00002100
+solver 2658 iteration 00002200
+execution time  2126.0640417449176
+starting job number 90 on track 2491
+loading track 2498 with 1405 data points
+writing config {'trackidx': 2498} to _top_2498/config.json
+writing to  _top_2498/data.pkl
+using sigma = 0.01346951379751802
+writing to  _top_2498/config.json
+solver 2498 iteration 00000000
+solver 2498 iteration 00000100
+solver 2498 iteration 00000200
+solver 2498 iteration 00000300
+solver 2498 iteration 00000400
+solver 2498 iteration 00000500
+solver 2498 iteration 00000600
+solver 2498 iteration 00000700
+solver 2498 iteration 00000800
+solver 2498 iteration 00000900
+solver 2498 iteration 00001000
+solver 2498 iteration 00001100
+solver 2498 iteration 00001200
+solver 2498 iteration 00001300
+execution time  2302.945859691128
+starting job number 91 on track 1527
+loading track 2135 with 5040 data points
+writing config {'trackidx': 2135} to _top_2135/config.json
+writing to  _top_2135/data.pkl
+using sigma = 0.019047950500638348
+writing to  _top_2135/config.json
+solver 2135 iteration 00000000
+solver 2135 iteration 00000100
+solver 2135 iteration 00000200
+solver 2135 iteration 00000300
+solver 2135 iteration 00000400
+solver 2135 iteration 00000500
+solver 2135 iteration 00000600
+solver 2135 iteration 00000700
+solver 2135 iteration 00000800
+solver 2135 iteration 00000900
+solver 2135 iteration 00001000
+solver 2135 iteration 00001100
+solver 2135 iteration 00001200
+execution time  2337.0346364919096
+starting job number 92 on track 2332
+loading track 1158 with 1926 data points
+writing config {'trackidx': 1158} to _top_1158/config.json
+writing to  _top_1158/data.pkl
+using sigma = 0.015986245608195275
+writing to  _top_1158/config.json
+solver 1158 iteration 00000000
+solver 1158 iteration 00000100
+solver 1158 iteration 00000200
+solver 1158 iteration 00000300
+solver 1158 iteration 00000400
+solver 1158 iteration 00000500
+solver 1158 iteration 00000600
+solver 1158 iteration 00000700
+solver 1158 iteration 00000800
+solver 1158 iteration 00000900
+solver 1158 iteration 00001000
+solver 1158 iteration 00001100
+execution time  2063.8497886490077
+starting job number 93 on track 1824
+loading track 2960 with 1908 data points
+writing config {'trackidx': 2960} to _top_2960/config.json
+writing to  _top_2960/data.pkl
+using sigma = 0.010515187042054114
+writing to  _top_2960/config.json
+solver 2960 iteration 00000000
+solver 2960 iteration 00000100
+solver 2960 iteration 00000200
+solver 2960 iteration 00000300
+solver 2960 iteration 00000400
+solver 2960 iteration 00000500
+solver 2960 iteration 00000600
+solver 2960 iteration 00000700
+solver 2960 iteration 00000800
+solver 2960 iteration 00000900
+solver 2960 iteration 00001000
+execution time  2065.689231475815
+starting job number 94 on track 1746
+loading track 1090 with 1538 data points
+writing config {'trackidx': 1090} to _top_1090/config.json
+writing to  _top_1090/data.pkl
+using sigma = 0.01000578083239548
+writing to  _top_1090/config.json
+solver 1090 iteration 00000000
+solver 1090 iteration 00000100
+solver 1090 iteration 00000200
+solver 1090 iteration 00000300
+solver 1090 iteration 00000400
+solver 1090 iteration 00000500
+solver 1090 iteration 00000600
+solver 1090 iteration 00000700
+solver 1090 iteration 00000800
+solver 1090 iteration 00000900
+solver 1090 iteration 00001000
+solver 1090 iteration 00001100
+solver 1090 iteration 00001200
+execution time  2522.4817814882845
+starting job number 95 on track 2420
+loading track 2388 with 1282 data points
+writing config {'trackidx': 2388} to _top_2388/config.json
+writing to  _top_2388/data.pkl
+using sigma = 0.011887374104887027
+writing to  _top_2388/config.json
+solver 2388 iteration 00000000
+solver 2388 iteration 00000100
+solver 2388 iteration 00000200
+solver 2388 iteration 00000300
+solver 2388 iteration 00000400
+solver 2388 iteration 00000500
+solver 2388 iteration 00000600
+solver 2388 iteration 00000700
+solver 2388 iteration 00000800
+solver 2388 iteration 00000900
+solver 2388 iteration 00001000
+solver 2388 iteration 00001100
+solver 2388 iteration 00001200
+solver 2388 iteration 00001300
+solver 2388 iteration 00001400
+execution time  2606.7391619570553
+starting job number 96 on track 2107
+loading track 2285 with 2759 data points
+writing config {'trackidx': 2285} to _top_2285/config.json
+writing to  _top_2285/data.pkl
+using sigma = 0.0138976639282542
+writing to  _top_2285/config.json
+solver 2285 iteration 00000000
+solver 2285 iteration 00000100
+solver 2285 iteration 00000200
+solver 2285 iteration 00000300
+solver 2285 iteration 00000400
+solver 2285 iteration 00000500
+solver 2285 iteration 00000600
+solver 2285 iteration 00000700
+solver 2285 iteration 00000800
+solver 2285 iteration 00000900
+solver 2285 iteration 00001000
+solver 2285 iteration 00001100
+solver 2285 iteration 00001200
+solver 2285 iteration 00001300
+solver 2285 iteration 00001400
+solver 2285 iteration 00001500
+execution time  2723.5419310126454
+starting job number 97 on track 2533
+loading track 662 with 3083 data points
+writing config {'trackidx': 662} to _top_0662/config.json
+writing to  _top_0662/data.pkl
+using sigma = 0.013015373655258709
+writing to  _top_0662/config.json
+solver 662 iteration 00000000
+solver 662 iteration 00000100
+solver 662 iteration 00000200
+solver 662 iteration 00000300
+solver 662 iteration 00000400
+solver 662 iteration 00000500
+solver 662 iteration 00000600
+solver 662 iteration 00000700
+solver 662 iteration 00000800
+solver 662 iteration 00000900
+solver 662 iteration 00001000
+solver 662 iteration 00001100
+solver 662 iteration 00001200
+solver 662 iteration 00001300
+solver 662 iteration 00001400
+solver 662 iteration 00001500
+solver 662 iteration 00001600
+execution time  2776.294540328905
+starting job number 98 on track 542
+loading track 2977 with 2870 data points
+writing config {'trackidx': 2977} to _top_2977/config.json
+writing to  _top_2977/data.pkl
+using sigma = 0.014261847709876218
+writing to  _top_2977/config.json
+solver 2977 iteration 00000000
+solver 2977 iteration 00000100
+solver 2977 iteration 00000200
+solver 2977 iteration 00000300
+solver 2977 iteration 00000400
+solver 2977 iteration 00000500
+solver 2977 iteration 00000600
+solver 2977 iteration 00000700
+solver 2977 iteration 00000800
+solver 2977 iteration 00000900
+solver 2977 iteration 00001000
+solver 2977 iteration 00001100
+solver 2977 iteration 00001200
+solver 2977 iteration 00001300
+solver 2977 iteration 00001400
+solver 2977 iteration 00001500
+execution time  2806.2459854595363
+starting job number 99 on track 40
+loading track 1527 with 1307 data points
+writing config {'trackidx': 1527} to _top_1527/config.json
+writing to  _top_1527/data.pkl
+using sigma = 0.014598740746247908
+writing to  _top_1527/config.json
+solver 1527 iteration 00000000
+solver 1527 iteration 00000100
+solver 1527 iteration 00000200
+solver 1527 iteration 00000300
+execution time  505.3125438988209
+starting job number 100 on track 2463
+loading track 2414 with 1972 data points
+writing config {'trackidx': 2414} to _top_2414/config.json
+writing to  _top_2414/data.pkl
+using sigma = 0.009823209674259209
+writing to  _top_2414/config.json
+solver 2414 iteration 00000000
+solver 2414 iteration 00000100
+solver 2414 iteration 00000200
+solver 2414 iteration 00000300
+solver 2414 iteration 00000400
+solver 2414 iteration 00000500
+solver 2414 iteration 00000600
+solver 2414 iteration 00000700
+solver 2414 iteration 00000800
+solver 2414 iteration 00000900
+solver 2414 iteration 00001000
+solver 2414 iteration 00001100
+solver 2414 iteration 00001200
+solver 2414 iteration 00001300
+solver 2414 iteration 00001400
+execution time  2817.3326056823134
+starting job number 101 on track 358
+loading track 1183 with 2981 data points
+writing config {'trackidx': 1183} to _top_1183/config.json
+writing to  _top_1183/data.pkl
+using sigma = 0.013476435596085079
+writing to  _top_1183/config.json
+solver 1183 iteration 00000000
+solver 1183 iteration 00000100
+solver 1183 iteration 00000200
+solver 1183 iteration 00000300
+solver 1183 iteration 00000400
+solver 1183 iteration 00000500
+solver 1183 iteration 00000600
+solver 1183 iteration 00000700
+solver 1183 iteration 00000800
+solver 1183 iteration 00000900
+solver 1183 iteration 00001000
+solver 1183 iteration 00001100
+solver 1183 iteration 00001200
+solver 1183 iteration 00001300
+solver 1183 iteration 00001400
+solver 1183 iteration 00001500
+solver 1183 iteration 00001600
+solver 1183 iteration 00001700
+execution time  2806.9200145509094
+starting job number 102 on track 2122
+loading track 120 with 1929 data points
+writing config {'trackidx': 120} to _top_0120/config.json
+writing to  _top_0120/data.pkl
+using sigma = 0.01250811246107512
+writing to  _top_0120/config.json
+solver 120 iteration 00000000
+solver 120 iteration 00000100
+solver 120 iteration 00000200
+solver 120 iteration 00000300
+solver 120 iteration 00000400
+solver 120 iteration 00000500
+solver 120 iteration 00000600
+solver 120 iteration 00000700
+solver 120 iteration 00000800
+solver 120 iteration 00000900
+solver 120 iteration 00001000
+solver 120 iteration 00001100
+solver 120 iteration 00001200
+solver 120 iteration 00001300
+solver 120 iteration 00001400
+solver 120 iteration 00001500
+solver 120 iteration 00001600
+solver 120 iteration 00001700
+execution time  2985.974210880697
+starting job number 103 on track 660
+loading track 1915 with 1639 data points
+writing config {'trackidx': 1915} to _top_1915/config.json
+writing to  _top_1915/data.pkl
+using sigma = 0.013614681722768562
+writing to  _top_1915/config.json
+solver 1915 iteration 00000000
+solver 1915 iteration 00000100
+solver 1915 iteration 00000200
+solver 1915 iteration 00000300
+solver 1915 iteration 00000400
+solver 1915 iteration 00000500
+solver 1915 iteration 00000600
+solver 1915 iteration 00000700
+solver 1915 iteration 00000800
+solver 1915 iteration 00000900
+solver 1915 iteration 00001000
+solver 1915 iteration 00001100
+solver 1915 iteration 00001200
+solver 1915 iteration 00001300
+solver 1915 iteration 00001400
+solver 1915 iteration 00001500
+solver 1915 iteration 00001600
+execution time  3018.314556825906
+starting job number 104 on track 2430
+loading track 253 with 1531 data points
+writing config {'trackidx': 253} to _top_0253/config.json
+writing to  _top_0253/data.pkl
+using sigma = 0.009368133014509013
+writing to  _top_0253/config.json
+solver 253 iteration 00000000
+solver 253 iteration 00000100
+solver 253 iteration 00000200
+solver 253 iteration 00000300
+solver 253 iteration 00000400
+solver 253 iteration 00000500
+solver 253 iteration 00000600
+solver 253 iteration 00000700
+solver 253 iteration 00000800
+solver 253 iteration 00000900
+solver 253 iteration 00001000
+execution time  2084.8021697327495
+starting job number 105 on track 563
+loading track 2638 with 1677 data points
+writing config {'trackidx': 2638} to _top_2638/config.json
+writing to  _top_2638/data.pkl
+using sigma = 0.011066695538430739
+writing to  _top_2638/config.json
+solver 2638 iteration 00000000
+solver 2638 iteration 00000100
+solver 2638 iteration 00000200
+solver 2638 iteration 00000300
+solver 2638 iteration 00000400
+solver 2638 iteration 00000500
+solver 2638 iteration 00000600
+solver 2638 iteration 00000700
+solver 2638 iteration 00000800
+solver 2638 iteration 00000900
+solver 2638 iteration 00001000
+solver 2638 iteration 00001100
+solver 2638 iteration 00001200
+solver 2638 iteration 00001300
+solver 2638 iteration 00001400
+solver 2638 iteration 00001500
+solver 2638 iteration 00001600
+execution time  3034.2921636737883
+starting job number 106 on track 1264
+loading track 233 with 2210 data points
+writing config {'trackidx': 233} to _top_0233/config.json
+writing to  _top_0233/data.pkl
+using sigma = 0.01046560692887058
+writing to  _top_0233/config.json
+solver 233 iteration 00000000
+solver 233 iteration 00000100
+solver 233 iteration 00000200
+solver 233 iteration 00000300
+solver 233 iteration 00000400
+solver 233 iteration 00000500
+solver 233 iteration 00000600
+solver 233 iteration 00000700
+solver 233 iteration 00000800
+solver 233 iteration 00000900
+solver 233 iteration 00001000
+solver 233 iteration 00001100
+solver 233 iteration 00001200
+solver 233 iteration 00001300
+solver 233 iteration 00001400
+solver 233 iteration 00001500
+solver 233 iteration 00001600
+execution time  3042.8847183752805
+starting job number 107 on track 2131
+loading track 2040 with 1283 data points
+writing config {'trackidx': 2040} to _top_2040/config.json
+writing to  _top_2040/data.pkl
+using sigma = 0.009751950292021975
+writing to  _top_2040/config.json
+solver 2040 iteration 00000000
+solver 2040 iteration 00000100
+solver 2040 iteration 00000200
+solver 2040 iteration 00000300
+solver 2040 iteration 00000400
+solver 2040 iteration 00000500
+solver 2040 iteration 00000600
+solver 2040 iteration 00000700
+solver 2040 iteration 00000800
+solver 2040 iteration 00000900
+solver 2040 iteration 00001000
+solver 2040 iteration 00001100
+solver 2040 iteration 00001200
+solver 2040 iteration 00001300
+solver 2040 iteration 00001400
+execution time  3061.398831864819
+starting job number 108 on track 2367
+loading track 2928 with 2149 data points
+writing config {'trackidx': 2928} to _top_2928/config.json
+writing to  _top_2928/data.pkl
+using sigma = 0.01202534889182474
+writing to  _top_2928/config.json
+solver 2928 iteration 00000000
+solver 2928 iteration 00000100
+solver 2928 iteration 00000200
+solver 2928 iteration 00000300
+solver 2928 iteration 00000400
+solver 2928 iteration 00000500
+solver 2928 iteration 00000600
+solver 2928 iteration 00000700
+solver 2928 iteration 00000800
+solver 2928 iteration 00000900
+solver 2928 iteration 00001000
+solver 2928 iteration 00001100
+solver 2928 iteration 00001200
+solver 2928 iteration 00001300
+solver 2928 iteration 00001400
+solver 2928 iteration 00001500
+solver 2928 iteration 00001600
+execution time  3125.1554308552295
+starting job number 109 on track 1819
+loading track 2127 with 2615 data points
+writing config {'trackidx': 2127} to _top_2127/config.json
+writing to  _top_2127/data.pkl
+using sigma = 0.010111825879943321
+writing to  _top_2127/config.json
+solver 2127 iteration 00000000
+solver 2127 iteration 00000100
+solver 2127 iteration 00000200
+solver 2127 iteration 00000300
+solver 2127 iteration 00000400
+solver 2127 iteration 00000500
+solver 2127 iteration 00000600
+solver 2127 iteration 00000700
+solver 2127 iteration 00000800
+solver 2127 iteration 00000900
+solver 2127 iteration 00001000
+solver 2127 iteration 00001100
+solver 2127 iteration 00001200
+solver 2127 iteration 00001300
+solver 2127 iteration 00001400
+solver 2127 iteration 00001500
+solver 2127 iteration 00001600
+execution time  3152.8480115123093
+starting job number 110 on track 214
+loading track 2389 with 1721 data points
+writing config {'trackidx': 2389} to _top_2389/config.json
+writing to  _top_2389/data.pkl
+using sigma = 0.011687516722026609
+writing to  _top_2389/config.json
+solver 2389 iteration 00000000
+solver 2389 iteration 00000100
+solver 2389 iteration 00000200
+solver 2389 iteration 00000300
+solver 2389 iteration 00000400
+solver 2389 iteration 00000500
+solver 2389 iteration 00000600
+solver 2389 iteration 00000700
+solver 2389 iteration 00000800
+solver 2389 iteration 00000900
+solver 2389 iteration 00001000
+solver 2389 iteration 00001100
+solver 2389 iteration 00001200
+solver 2389 iteration 00001300
+solver 2389 iteration 00001400
+solver 2389 iteration 00001500
+solver 2389 iteration 00001600
+execution time  3181.8908434435725
+starting job number 111 on track 499
+loading track 2903 with 2810 data points
+writing config {'trackidx': 2903} to _top_2903/config.json
+writing to  _top_2903/data.pkl
+using sigma = 0.012574179020373069
+writing to  _top_2903/config.json
+solver 2903 iteration 00000000
+solver 2903 iteration 00000100
+solver 2903 iteration 00000200
+solver 2903 iteration 00000300
+solver 2903 iteration 00000400
+solver 2903 iteration 00000500
+solver 2903 iteration 00000600
+solver 2903 iteration 00000700
+solver 2903 iteration 00000800
+solver 2903 iteration 00000900
+solver 2903 iteration 00001000
+solver 2903 iteration 00001100
+solver 2903 iteration 00001200
+solver 2903 iteration 00001300
+solver 2903 iteration 00001400
+solver 2903 iteration 00001500
+solver 2903 iteration 00001600
+solver 2903 iteration 00001700
+solver 2903 iteration 00001800
+execution time  3239.749835493043
+starting job number 112 on track 2350
+loading track 2173 with 2095 data points
+writing config {'trackidx': 2173} to _top_2173/config.json
+writing to  _top_2173/data.pkl
+using sigma = 0.012660288784125492
+writing to  _top_2173/config.json
+solver 2173 iteration 00000000
+solver 2173 iteration 00000100
+solver 2173 iteration 00000200
+solver 2173 iteration 00000300
+solver 2173 iteration 00000400
+solver 2173 iteration 00000500
+solver 2173 iteration 00000600
+solver 2173 iteration 00000700
+solver 2173 iteration 00000800
+solver 2173 iteration 00000900
+solver 2173 iteration 00001000
+solver 2173 iteration 00001100
+solver 2173 iteration 00001200
+solver 2173 iteration 00001300
+solver 2173 iteration 00001400
+solver 2173 iteration 00001500
+solver 2173 iteration 00001600
+solver 2173 iteration 00001700
+solver 2173 iteration 00001800
+execution time  3309.6658415198326
+starting job number 113 on track 1686
+loading track 2431 with 2291 data points
+writing config {'trackidx': 2431} to _top_2431/config.json
+writing to  _top_2431/data.pkl
+using sigma = 0.011254591590098057
+writing to  _top_2431/config.json
+solver 2431 iteration 00000000
+solver 2431 iteration 00000100
+solver 2431 iteration 00000200
+solver 2431 iteration 00000300
+solver 2431 iteration 00000400
+solver 2431 iteration 00000500
+solver 2431 iteration 00000600
+solver 2431 iteration 00000700
+solver 2431 iteration 00000800
+solver 2431 iteration 00000900
+solver 2431 iteration 00001000
+solver 2431 iteration 00001100
+execution time  2184.1004234179854
+starting job number 114 on track 517
+loading track 1157 with 1622 data points
+writing config {'trackidx': 1157} to _top_1157/config.json
+writing to  _top_1157/data.pkl
+using sigma = 0.01837652152344469
+writing to  _top_1157/config.json
+solver 1157 iteration 00000000
+solver 1157 iteration 00000100
+solver 1157 iteration 00000200
+solver 1157 iteration 00000300
+solver 1157 iteration 00000400
+solver 1157 iteration 00000500
+solver 1157 iteration 00000600
+solver 1157 iteration 00000700
+solver 1157 iteration 00000800
+solver 1157 iteration 00000900
+solver 1157 iteration 00001000
+solver 1157 iteration 00001100
+solver 1157 iteration 00001200
+solver 1157 iteration 00001300
+solver 1157 iteration 00001400
+solver 1157 iteration 00001500
+solver 1157 iteration 00001600
+execution time  2545.368257129565
+starting job number 115 on track 2461
+loading track 2385 with 1313 data points
+writing config {'trackidx': 2385} to _top_2385/config.json
+writing to  _top_2385/data.pkl
+using sigma = 0.00848178366323702
+writing to  _top_2385/config.json
+solver 2385 iteration 00000000
+solver 2385 iteration 00000100
+solver 2385 iteration 00000200
+solver 2385 iteration 00000300
+solver 2385 iteration 00000400
+solver 2385 iteration 00000500
+solver 2385 iteration 00000600
+solver 2385 iteration 00000700
+solver 2385 iteration 00000800
+execution time  1658.4796603433788
+starting job number 116 on track 323
+loading track 3067 with 2542 data points
+writing config {'trackidx': 3067} to _top_3067/config.json
+writing to  _top_3067/data.pkl
+using sigma = 0.014206003675948941
+writing to  _top_3067/config.json
+solver 3067 iteration 00000000
+solver 3067 iteration 00000100
+solver 3067 iteration 00000200
+solver 3067 iteration 00000300
+solver 3067 iteration 00000400
+solver 3067 iteration 00000500
+solver 3067 iteration 00000600
+solver 3067 iteration 00000700
+solver 3067 iteration 00000800
+solver 3067 iteration 00000900
+solver 3067 iteration 00001000
+solver 3067 iteration 00001100
+solver 3067 iteration 00001200
+solver 3067 iteration 00001300
+solver 3067 iteration 00001400
+solver 3067 iteration 00001500
+solver 3067 iteration 00001600
+solver 3067 iteration 00001700
+solver 3067 iteration 00001800
+solver 3067 iteration 00001900
+execution time  3396.5168247502297
+starting job number 117 on track 1022
+loading track 583 with 1391 data points
+writing config {'trackidx': 583} to _top_0583/config.json
+writing to  _top_0583/data.pkl
+using sigma = 0.00959549262599691
+writing to  _top_0583/config.json
+solver 583 iteration 00000000
+solver 583 iteration 00000100
+solver 583 iteration 00000200
+solver 583 iteration 00000300
+solver 583 iteration 00000400
+solver 583 iteration 00000500
+solver 583 iteration 00000600
+solver 583 iteration 00000700
+solver 583 iteration 00000800
+solver 583 iteration 00000900
+execution time  1760.0644897315651
+starting job number 118 on track 2561
+loading track 1583 with 1974 data points
+writing config {'trackidx': 1583} to _top_1583/config.json
+writing to  _top_1583/data.pkl
+using sigma = 0.013760248807432346
+writing to  _top_1583/config.json
+solver 1583 iteration 00000000
+solver 1583 iteration 00000100
+solver 1583 iteration 00000200
+solver 1583 iteration 00000300
+solver 1583 iteration 00000400
+solver 1583 iteration 00000500
+solver 1583 iteration 00000600
+solver 1583 iteration 00000700
+solver 1583 iteration 00000800
+solver 1583 iteration 00000900
+solver 1583 iteration 00001000
+solver 1583 iteration 00001100
+solver 1583 iteration 00001200
+solver 1583 iteration 00001300
+solver 1583 iteration 00001400
+solver 1583 iteration 00001500
+solver 1583 iteration 00001600
+solver 1583 iteration 00001700
+solver 1583 iteration 00001800
+solver 1583 iteration 00001900
+execution time  3442.2116442620754
+starting job number 119 on track 325
+loading track 331 with 2071 data points
+writing config {'trackidx': 331} to _top_0331/config.json
+writing to  _top_0331/data.pkl
+using sigma = 0.011627386767989484
+writing to  _top_0331/config.json
+solver 331 iteration 00000000
+solver 331 iteration 00000100
+solver 331 iteration 00000200
+solver 331 iteration 00000300
+solver 331 iteration 00000400
+solver 331 iteration 00000500
+solver 331 iteration 00000600
+solver 331 iteration 00000700
+solver 331 iteration 00000800
+solver 331 iteration 00000900
+solver 331 iteration 00001000
+solver 331 iteration 00001100
+solver 331 iteration 00001200
+solver 331 iteration 00001300
+solver 331 iteration 00001400
+solver 331 iteration 00001500
+solver 331 iteration 00001600
+solver 331 iteration 00001700
+solver 331 iteration 00001800
+execution time  3532.5827444158494
+starting job number 120 on track 2502
+loading track 1112 with 1591 data points
+writing config {'trackidx': 1112} to _top_1112/config.json
+writing to  _top_1112/data.pkl
+using sigma = 0.008989803017251604
+writing to  _top_1112/config.json
+solver 1112 iteration 00000000
+solver 1112 iteration 00000100
+solver 1112 iteration 00000200
+solver 1112 iteration 00000300
+solver 1112 iteration 00000400
+solver 1112 iteration 00000500
+solver 1112 iteration 00000600
+solver 1112 iteration 00000700
+solver 1112 iteration 00000800
+solver 1112 iteration 00000900
+solver 1112 iteration 00001000
+execution time  2019.1383432075381
+starting job number 121 on track 2473
+loading track 568 with 1240 data points
+writing config {'trackidx': 568} to _top_0568/config.json
+writing to  _top_0568/data.pkl
+using sigma = 0.011032677754958455
+writing to  _top_0568/config.json
+solver 568 iteration 00000000
+solver 568 iteration 00000100
+solver 568 iteration 00000200
+solver 568 iteration 00000300
+solver 568 iteration 00000400
+solver 568 iteration 00000500
+solver 568 iteration 00000600
+solver 568 iteration 00000700
+solver 568 iteration 00000800
+solver 568 iteration 00000900
+solver 568 iteration 00001000
+solver 568 iteration 00001100
+solver 568 iteration 00001200
+execution time  2269.513135029003
+starting job number 122 on track 1926
+loading track 2387 with 2522 data points
+writing config {'trackidx': 2387} to _top_2387/config.json
+writing to  _top_2387/data.pkl
+using sigma = 0.012868740472839538
+writing to  _top_2387/config.json
+solver 2387 iteration 00000000
+solver 2387 iteration 00000100
+solver 2387 iteration 00000200
+solver 2387 iteration 00000300
+solver 2387 iteration 00000400
+solver 2387 iteration 00000500
+solver 2387 iteration 00000600
+solver 2387 iteration 00000700
+solver 2387 iteration 00000800
+solver 2387 iteration 00000900
+solver 2387 iteration 00001000
+solver 2387 iteration 00001100
+solver 2387 iteration 00001200
+solver 2387 iteration 00001300
+solver 2387 iteration 00001400
+solver 2387 iteration 00001500
+solver 2387 iteration 00001600
+solver 2387 iteration 00001700
+solver 2387 iteration 00001800
+solver 2387 iteration 00001900
+solver 2387 iteration 00002000
+execution time  3678.144071675837
+starting job number 123 on track 1900
+loading track 2396 with 1615 data points
+writing config {'trackidx': 2396} to _top_2396/config.json
+writing to  _top_2396/data.pkl
+using sigma = 0.012461667987403667
+writing to  _top_2396/config.json
+solver 2396 iteration 00000000
+solver 2396 iteration 00000100
+solver 2396 iteration 00000200
+solver 2396 iteration 00000300
+solver 2396 iteration 00000400
+solver 2396 iteration 00000500
+solver 2396 iteration 00000600
+solver 2396 iteration 00000700
+solver 2396 iteration 00000800
+solver 2396 iteration 00000900
+solver 2396 iteration 00001000
+solver 2396 iteration 00001100
+solver 2396 iteration 00001200
+solver 2396 iteration 00001300
+solver 2396 iteration 00001400
+solver 2396 iteration 00001500
+solver 2396 iteration 00001600
+solver 2396 iteration 00001700
+solver 2396 iteration 00001800
+execution time  3682.0355738233775
+starting job number 124 on track 678
+loading track 2365 with 2497 data points
+writing config {'trackidx': 2365} to _top_2365/config.json
+writing to  _top_2365/data.pkl
+using sigma = 0.017497584144731855
+writing to  _top_2365/config.json
+solver 2365 iteration 00000000
+solver 2365 iteration 00000100
+solver 2365 iteration 00000200
+solver 2365 iteration 00000300
+solver 2365 iteration 00000400
+solver 2365 iteration 00000500
+solver 2365 iteration 00000600
+solver 2365 iteration 00000700
+solver 2365 iteration 00000800
+solver 2365 iteration 00000900
+solver 2365 iteration 00001000
+solver 2365 iteration 00001100
+solver 2365 iteration 00001200
+solver 2365 iteration 00001300
+solver 2365 iteration 00001400
+solver 2365 iteration 00001500
+solver 2365 iteration 00001600
+solver 2365 iteration 00001700
+solver 2365 iteration 00001800
+solver 2365 iteration 00001900
+solver 2365 iteration 00002000
+solver 2365 iteration 00002100
+solver 2365 iteration 00002200
+solver 2365 iteration 00002300
+execution time  3694.702924160287
+starting job number 125 on track 518
+loading track 40 with 1104 data points
+writing config {'trackidx': 40} to _top_0040/config.json
+writing to  _top_0040/data.pkl
+using sigma = 0.012810942979534591
+writing to  _top_0040/config.json
+solver 40 iteration 00000000
+solver 40 iteration 00000100
+solver 40 iteration 00000200
+solver 40 iteration 00000300
+solver 40 iteration 00000400
+solver 40 iteration 00000500
+solver 40 iteration 00000600
+solver 40 iteration 00000700
+execution time  1111.5538055337965
+starting job number 126 on track 845
+loading track 2408 with 1859 data points
+writing config {'trackidx': 2408} to _top_2408/config.json
+writing to  _top_2408/data.pkl
+using sigma = 0.014373590137603373
+writing to  _top_2408/config.json
+solver 2408 iteration 00000000
+solver 2408 iteration 00000100
+solver 2408 iteration 00000200
+solver 2408 iteration 00000300
+solver 2408 iteration 00000400
+solver 2408 iteration 00000500
+solver 2408 iteration 00000600
+solver 2408 iteration 00000700
+solver 2408 iteration 00000800
+solver 2408 iteration 00000900
+solver 2408 iteration 00001000
+solver 2408 iteration 00001100
+solver 2408 iteration 00001200
+solver 2408 iteration 00001300
+solver 2408 iteration 00001400
+solver 2408 iteration 00001500
+solver 2408 iteration 00001600
+solver 2408 iteration 00001700
+solver 2408 iteration 00001800
+solver 2408 iteration 00001900
+solver 2408 iteration 00002000
+solver 2408 iteration 00002100
+execution time  3919.2690389826894
+starting job number 127 on track 2873
+loading track 3066 with 2767 data points
+writing config {'trackidx': 3066} to _top_3066/config.json
+writing to  _top_3066/data.pkl
+using sigma = 0.013678816142930404
+writing to  _top_3066/config.json
+solver 3066 iteration 00000000
+solver 3066 iteration 00000100
+solver 3066 iteration 00000200
+solver 3066 iteration 00000300
+solver 3066 iteration 00000400
+solver 3066 iteration 00000500
+solver 3066 iteration 00000600
+solver 3066 iteration 00000700
+solver 3066 iteration 00000800
+solver 3066 iteration 00000900
+solver 3066 iteration 00001000
+solver 3066 iteration 00001100
+solver 3066 iteration 00001200
+solver 3066 iteration 00001300
+solver 3066 iteration 00001400
+solver 3066 iteration 00001500
+solver 3066 iteration 00001600
+solver 3066 iteration 00001700
+solver 3066 iteration 00001800
+solver 3066 iteration 00001900
+solver 3066 iteration 00002000
+solver 3066 iteration 00002100
+solver 3066 iteration 00002200
+execution time  3970.0200730003417
+starting job number 128 on track 2986
+loading track 2094 with 1826 data points
+writing config {'trackidx': 2094} to _top_2094/config.json
+writing to  _top_2094/data.pkl
+using sigma = 0.01186767115679458
+writing to  _top_2094/config.json
+solver 2094 iteration 00000000
+solver 2094 iteration 00000100
+solver 2094 iteration 00000200
+solver 2094 iteration 00000300
+solver 2094 iteration 00000400
+solver 2094 iteration 00000500
+solver 2094 iteration 00000600
+solver 2094 iteration 00000700
+solver 2094 iteration 00000800
+solver 2094 iteration 00000900
+solver 2094 iteration 00001000
+solver 2094 iteration 00001100
+solver 2094 iteration 00001200
+solver 2094 iteration 00001300
+solver 2094 iteration 00001400
+execution time  2637.1839956976473
+starting job number 129 on track 2567
+loading track 911 with 2020 data points
+writing config {'trackidx': 911} to _top_0911/config.json
+writing to  _top_0911/data.pkl
+using sigma = 0.010505307917162473
+writing to  _top_0911/config.json
+solver 911 iteration 00000000
+solver 911 iteration 00000100
+solver 911 iteration 00000200
+solver 911 iteration 00000300
+solver 911 iteration 00000400
+solver 911 iteration 00000500
+solver 911 iteration 00000600
+solver 911 iteration 00000700
+solver 911 iteration 00000800
+solver 911 iteration 00000900
+solver 911 iteration 00001000
+solver 911 iteration 00001100
+solver 911 iteration 00001200
+execution time  2266.709023434669
+starting job number 130 on track 1089
+loading track 2148 with 2039 data points
+writing config {'trackidx': 2148} to _top_2148/config.json
+writing to  _top_2148/data.pkl
+using sigma = 0.01028371817066653
+writing to  _top_2148/config.json
+solver 2148 iteration 00000000
+solver 2148 iteration 00000100
+solver 2148 iteration 00000200
+solver 2148 iteration 00000300
+solver 2148 iteration 00000400
+solver 2148 iteration 00000500
+solver 2148 iteration 00000600
+solver 2148 iteration 00000700
+solver 2148 iteration 00000800
+solver 2148 iteration 00000900
+solver 2148 iteration 00001000
+solver 2148 iteration 00001100
+solver 2148 iteration 00001200
+solver 2148 iteration 00001300
+solver 2148 iteration 00001400
+solver 2148 iteration 00001500
+solver 2148 iteration 00001600
+solver 2148 iteration 00001700
+solver 2148 iteration 00001800
+solver 2148 iteration 00001900
+solver 2148 iteration 00002000
+solver 2148 iteration 00002100
+solver 2148 iteration 00002200
+solver 2148 iteration 00002300
+execution time  4127.385215615854
+starting job number 131 on track 2368
+loading track 2383 with 2269 data points
+writing config {'trackidx': 2383} to _top_2383/config.json
+writing to  _top_2383/data.pkl
+using sigma = 0.008110355426828513
+writing to  _top_2383/config.json
+solver 2383 iteration 00000000
+solver 2383 iteration 00000100
+solver 2383 iteration 00000200
+solver 2383 iteration 00000300
+solver 2383 iteration 00000400
+solver 2383 iteration 00000500
+solver 2383 iteration 00000600
+solver 2383 iteration 00000700
+solver 2383 iteration 00000800
+solver 2383 iteration 00000900
+solver 2383 iteration 00001000
+solver 2383 iteration 00001100
+solver 2383 iteration 00001200
+solver 2383 iteration 00001300
+solver 2383 iteration 00001400
+solver 2383 iteration 00001500
+solver 2383 iteration 00001600
+solver 2383 iteration 00001700
+execution time  3778.3961081337184
+starting job number 132 on track 2429
+loading track 2491 with 2079 data points
+writing config {'trackidx': 2491} to _top_2491/config.json
+writing to  _top_2491/data.pkl
+using sigma = 0.013487483293860845
+writing to  _top_2491/config.json
+solver 2491 iteration 00000000
+solver 2491 iteration 00000100
+solver 2491 iteration 00000200
+solver 2491 iteration 00000300
+solver 2491 iteration 00000400
+solver 2491 iteration 00000500
+solver 2491 iteration 00000600
+solver 2491 iteration 00000700
+solver 2491 iteration 00000800
+solver 2491 iteration 00000900
+solver 2491 iteration 00001000
+solver 2491 iteration 00001100
+solver 2491 iteration 00001200
+execution time  2079.6582481488585
+starting job number 133 on track 398
+loading track 2376 with 2155 data points
+writing config {'trackidx': 2376} to _top_2376/config.json
+writing to  _top_2376/data.pkl
+using sigma = 0.01014925209352055
+writing to  _top_2376/config.json
+solver 2376 iteration 00000000
+solver 2376 iteration 00000100
+solver 2376 iteration 00000200
+solver 2376 iteration 00000300
+solver 2376 iteration 00000400
+solver 2376 iteration 00000500
+solver 2376 iteration 00000600
+solver 2376 iteration 00000700
+solver 2376 iteration 00000800
+solver 2376 iteration 00000900
+solver 2376 iteration 00001000
+solver 2376 iteration 00001100
+solver 2376 iteration 00001200
+execution time  2274.2082735598087
+starting job number 134 on track 290
+loading track 2533 with 1306 data points
+writing config {'trackidx': 2533} to _top_2533/config.json
+writing to  _top_2533/data.pkl
+using sigma = 0.008901980816231798
+writing to  _top_2533/config.json
+solver 2533 iteration 00000000
+solver 2533 iteration 00000100
+solver 2533 iteration 00000200
+solver 2533 iteration 00000300
+solver 2533 iteration 00000400
+solver 2533 iteration 00000500
+solver 2533 iteration 00000600
+solver 2533 iteration 00000700
+execution time  1502.9873565882444
+starting job number 135 on track 1259
+loading track 2699 with 1515 data points
+writing config {'trackidx': 2699} to _top_2699/config.json
+writing to  _top_2699/data.pkl
+using sigma = 0.01002670141341748
+writing to  _top_2699/config.json
+solver 2699 iteration 00000000
+solver 2699 iteration 00000100
+solver 2699 iteration 00000200
+solver 2699 iteration 00000300
+solver 2699 iteration 00000400
+solver 2699 iteration 00000500
+solver 2699 iteration 00000600
+solver 2699 iteration 00000700
+solver 2699 iteration 00000800
+solver 2699 iteration 00000900
+solver 2699 iteration 00001000
+solver 2699 iteration 00001100
+solver 2699 iteration 00001200
+solver 2699 iteration 00001300
+solver 2699 iteration 00001400
+solver 2699 iteration 00001500
+solver 2699 iteration 00001600
+solver 2699 iteration 00001700
+solver 2699 iteration 00001800
+solver 2699 iteration 00001900
+solver 2699 iteration 00002000
+solver 2699 iteration 00002100
+solver 2699 iteration 00002200
+execution time  4269.174114964902
+starting job number 136 on track 1093
+loading track 478 with 2622 data points
+writing config {'trackidx': 478} to _top_0478/config.json
+writing to  _top_0478/data.pkl
+using sigma = 0.016381226255271827
+writing to  _top_0478/config.json
+solver 478 iteration 00000000
+solver 478 iteration 00000100
+solver 478 iteration 00000200
+solver 478 iteration 00000300
+solver 478 iteration 00000400
+solver 478 iteration 00000500
+solver 478 iteration 00000600
+solver 478 iteration 00000700
+solver 478 iteration 00000800
+solver 478 iteration 00000900
+solver 478 iteration 00001000
+solver 478 iteration 00001100
+solver 478 iteration 00001200
+solver 478 iteration 00001300
+solver 478 iteration 00001400
+solver 478 iteration 00001500
+solver 478 iteration 00001600
+solver 478 iteration 00001700
+solver 478 iteration 00001800
+solver 478 iteration 00001900
+solver 478 iteration 00002000
+solver 478 iteration 00002100
+execution time  4276.525155154988
+starting job number 137 on track 1266
+loading track 214 with 1151 data points
+writing config {'trackidx': 214} to _top_0214/config.json
+writing to  _top_0214/data.pkl
+using sigma = 0.00899987890040586
+writing to  _top_0214/config.json
+solver 214 iteration 00000000
+solver 214 iteration 00000100
+solver 214 iteration 00000200
+solver 214 iteration 00000300
+solver 214 iteration 00000400
+solver 214 iteration 00000500
+solver 214 iteration 00000600
+execution time  1181.7646113242954
+starting job number 138 on track 359
+loading track 2927 with 3043 data points
+writing config {'trackidx': 2927} to _top_2927/config.json
+writing to  _top_2927/data.pkl
+using sigma = 0.010154824532780247
+writing to  _top_2927/config.json
+solver 2927 iteration 00000000
+solver 2927 iteration 00000100
+solver 2927 iteration 00000200
+solver 2927 iteration 00000300
+solver 2927 iteration 00000400
+solver 2927 iteration 00000500
+solver 2927 iteration 00000600
+solver 2927 iteration 00000700
+solver 2927 iteration 00000800
+solver 2927 iteration 00000900
+solver 2927 iteration 00001000
+solver 2927 iteration 00001100
+solver 2927 iteration 00001200
+solver 2927 iteration 00001300
+solver 2927 iteration 00001400
+solver 2927 iteration 00001500
+solver 2927 iteration 00001600
+solver 2927 iteration 00001700
+execution time  3220.8403120413423
+starting job number 139 on track 3050
+loading track 1022 with 1213 data points
+writing config {'trackidx': 1022} to _top_1022/config.json
+writing to  _top_1022/data.pkl
+using sigma = 0.010799098665615368
+writing to  _top_1022/config.json
+solver 1022 iteration 00000000
+solver 1022 iteration 00000100
+solver 1022 iteration 00000200
+solver 1022 iteration 00000300
+solver 1022 iteration 00000400
+solver 1022 iteration 00000500
+solver 1022 iteration 00000600
+execution time  1153.0512942560017
+starting job number 140 on track 1436
+loading track 3030 with 3226 data points
+writing config {'trackidx': 3030} to _top_3030/config.json
+writing to  _top_3030/data.pkl
+using sigma = 0.01277082899918879
+writing to  _top_3030/config.json
+solver 3030 iteration 00000000
+solver 3030 iteration 00000100
+solver 3030 iteration 00000200
+solver 3030 iteration 00000300
+solver 3030 iteration 00000400
+solver 3030 iteration 00000500
+solver 3030 iteration 00000600
+solver 3030 iteration 00000700
+solver 3030 iteration 00000800
+solver 3030 iteration 00000900
+solver 3030 iteration 00001000
+solver 3030 iteration 00001100
+solver 3030 iteration 00001200
+solver 3030 iteration 00001300
+solver 3030 iteration 00001400
+solver 3030 iteration 00001500
+solver 3030 iteration 00001600
+solver 3030 iteration 00001700
+solver 3030 iteration 00001800
+solver 3030 iteration 00001900
+solver 3030 iteration 00002000
+solver 3030 iteration 00002100
+solver 3030 iteration 00002200
+solver 3030 iteration 00002300
+solver 3030 iteration 00002400
+execution time  4607.927677281201
+starting job number 141 on track 406
+loading track 1976 with 2525 data points
+writing config {'trackidx': 1976} to _top_1976/config.json
+writing to  _top_1976/data.pkl
+using sigma = 0.008549912171344801
+writing to  _top_1976/config.json
+solver 1976 iteration 00000000
+solver 1976 iteration 00000100
+solver 1976 iteration 00000200
+solver 1976 iteration 00000300
+solver 1976 iteration 00000400
+solver 1976 iteration 00000500
+solver 1976 iteration 00000600
+solver 1976 iteration 00000700
+solver 1976 iteration 00000800
+solver 1976 iteration 00000900
+solver 1976 iteration 00001000
+solver 1976 iteration 00001100
+solver 1976 iteration 00001200
+solver 1976 iteration 00001300
+solver 1976 iteration 00001400
+solver 1976 iteration 00001500
+solver 1976 iteration 00001600
+solver 1976 iteration 00001700
+solver 1976 iteration 00001800
+solver 1976 iteration 00001900
+execution time  3866.357080595568
+starting job number 142 on track 2906
+loading track 2364 with 2645 data points
+writing config {'trackidx': 2364} to _top_2364/config.json
+writing to  _top_2364/data.pkl
+using sigma = 0.012088624292134385
+writing to  _top_2364/config.json
+solver 2364 iteration 00000000
+solver 2364 iteration 00000100
+solver 2364 iteration 00000200
+solver 2364 iteration 00000300
+solver 2364 iteration 00000400
+solver 2364 iteration 00000500
+solver 2364 iteration 00000600
+solver 2364 iteration 00000700
+solver 2364 iteration 00000800
+solver 2364 iteration 00000900
+solver 2364 iteration 00001000
+solver 2364 iteration 00001100
+solver 2364 iteration 00001200
+solver 2364 iteration 00001300
+solver 2364 iteration 00001400
+solver 2364 iteration 00001500
+execution time  2679.7271897848696
+starting job number 143 on track 116
+loading track 1819 with 1426 data points
+writing config {'trackidx': 1819} to _top_1819/config.json
+writing to  _top_1819/data.pkl
+using sigma = 0.010797656065904528
+writing to  _top_1819/config.json
+solver 1819 iteration 00000000
+solver 1819 iteration 00000100
+solver 1819 iteration 00000200
+solver 1819 iteration 00000300
+solver 1819 iteration 00000400
+solver 1819 iteration 00000500
+solver 1819 iteration 00000600
+solver 1819 iteration 00000700
+solver 1819 iteration 00000800
+solver 1819 iteration 00000900
+execution time  1665.6819249298424
+starting job number 144 on track 1595
+loading track 387 with 1905 data points
+writing config {'trackidx': 387} to _top_0387/config.json
+writing to  _top_0387/data.pkl
+using sigma = 0.012146927697259523
+writing to  _top_0387/config.json
+solver 387 iteration 00000000
+solver 387 iteration 00000100
+solver 387 iteration 00000200
+solver 387 iteration 00000300
+solver 387 iteration 00000400
+solver 387 iteration 00000500
+solver 387 iteration 00000600
+solver 387 iteration 00000700
+solver 387 iteration 00000800
+solver 387 iteration 00000900
+solver 387 iteration 00001000
+solver 387 iteration 00001100
+solver 387 iteration 00001200
+solver 387 iteration 00001300
+solver 387 iteration 00001400
+solver 387 iteration 00001500
+solver 387 iteration 00001600
+solver 387 iteration 00001700
+solver 387 iteration 00001800
+solver 387 iteration 00001900
+solver 387 iteration 00002000
+solver 387 iteration 00002100
+solver 387 iteration 00002200
+solver 387 iteration 00002300
+solver 387 iteration 00002400
+solver 387 iteration 00002500
+solver 387 iteration 00002600
+execution time  4833.07139313221
+starting job number 145 on track 2936
+loading track 2900 with 2620 data points
+writing config {'trackidx': 2900} to _top_2900/config.json
+writing to  _top_2900/data.pkl
+using sigma = 0.009701146378644615
+writing to  _top_2900/config.json
+solver 2900 iteration 00000000
+solver 2900 iteration 00000100
+solver 2900 iteration 00000200
+solver 2900 iteration 00000300
+solver 2900 iteration 00000400
+solver 2900 iteration 00000500
+solver 2900 iteration 00000600
+solver 2900 iteration 00000700
+solver 2900 iteration 00000800
+solver 2900 iteration 00000900
+solver 2900 iteration 00001000
+solver 2900 iteration 00001100
+solver 2900 iteration 00001200
+solver 2900 iteration 00001300
+solver 2900 iteration 00001400
+execution time  2876.1522082258016
+starting job number 146 on track 982
+loading track 2521 with 2642 data points
+writing config {'trackidx': 2521} to _top_2521/config.json
+writing to  _top_2521/data.pkl
+using sigma = 0.011646474013404403
+writing to  _top_2521/config.json
+solver 2521 iteration 00000000
+solver 2521 iteration 00000100
+solver 2521 iteration 00000200
+solver 2521 iteration 00000300
+solver 2521 iteration 00000400
+solver 2521 iteration 00000500
+solver 2521 iteration 00000600
+solver 2521 iteration 00000700
+solver 2521 iteration 00000800
+solver 2521 iteration 00000900
+solver 2521 iteration 00001000
+solver 2521 iteration 00001100
+solver 2521 iteration 00001200
+solver 2521 iteration 00001300
+solver 2521 iteration 00001400
+solver 2521 iteration 00001500
+solver 2521 iteration 00001600
+solver 2521 iteration 00001700
+execution time  3287.8368378281593
+starting job number 147 on track 2565
+loading track 563 with 1897 data points
+writing config {'trackidx': 563} to _top_0563/config.json
+writing to  _top_0563/data.pkl
+using sigma = 0.01164233860834146
+writing to  _top_0563/config.json
+solver 563 iteration 00000000
+solver 563 iteration 00000100
+solver 563 iteration 00000200
+solver 563 iteration 00000300
+solver 563 iteration 00000400
+solver 563 iteration 00000500
+solver 563 iteration 00000600
+solver 563 iteration 00000700
+solver 563 iteration 00000800
+solver 563 iteration 00000900
+solver 563 iteration 00001000
+execution time  1890.6453458685428
+starting job number 148 on track 1680
+loading track 1264 with 1896 data points
+writing config {'trackidx': 1264} to _top_1264/config.json
+writing to  _top_1264/data.pkl
+using sigma = 0.01224372030440024
+writing to  _top_1264/config.json
+solver 1264 iteration 00000000
+solver 1264 iteration 00000100
+solver 1264 iteration 00000200
+solver 1264 iteration 00000300
+solver 1264 iteration 00000400
+solver 1264 iteration 00000500
+solver 1264 iteration 00000600
+solver 1264 iteration 00000700
+solver 1264 iteration 00000800
+solver 1264 iteration 00000900
+solver 1264 iteration 00001000
+execution time  1895.556230712682
+starting job number 149 on track 2779
+loading track 2125 with 1430 data points
+writing config {'trackidx': 2125} to _top_2125/config.json
+writing to  _top_2125/data.pkl
+using sigma = 0.006318053984916393
+writing to  _top_2125/config.json
+solver 2125 iteration 00000000
+solver 2125 iteration 00000100
+solver 2125 iteration 00000200
+solver 2125 iteration 00000300
+solver 2125 iteration 00000400
+solver 2125 iteration 00000500
+solver 2125 iteration 00000600
+solver 2125 iteration 00000700
+solver 2125 iteration 00000800
+solver 2125 iteration 00000900
+solver 2125 iteration 00001000
+solver 2125 iteration 00001100
+solver 2125 iteration 00001200
+solver 2125 iteration 00001300
+solver 2125 iteration 00001400
+execution time  3180.20055096969
+starting job number 150 on track 2701
+loading track 326 with 3533 data points
+writing config {'trackidx': 326} to _top_0326/config.json
+writing to  _top_0326/data.pkl
+using sigma = 0.010353180135363495
+writing to  _top_0326/config.json
+solver 326 iteration 00000000
+solver 326 iteration 00000100
+solver 326 iteration 00000200
+solver 326 iteration 00000300
+solver 326 iteration 00000400
+solver 326 iteration 00000500
+solver 326 iteration 00000600
+solver 326 iteration 00000700
+solver 326 iteration 00000800
+solver 326 iteration 00000900
+solver 326 iteration 00001000
+solver 326 iteration 00001100
+solver 326 iteration 00001200
+solver 326 iteration 00001300
+solver 326 iteration 00001400
+solver 326 iteration 00001500
+solver 326 iteration 00001600
+solver 326 iteration 00001700
+solver 326 iteration 00001800
+solver 326 iteration 00001900
+solver 326 iteration 00002000
+solver 326 iteration 00002100
+solver 326 iteration 00002200
+solver 326 iteration 00002300
+execution time  4974.429692875594
+starting job number 151 on track 2421
+loading track 697 with 2629 data points
+writing config {'trackidx': 697} to _top_0697/config.json
+writing to  _top_0697/data.pkl
+using sigma = 0.010631970467551396
+writing to  _top_0697/config.json
+solver 697 iteration 00000000
+solver 697 iteration 00000100
+solver 697 iteration 00000200
+solver 697 iteration 00000300
+solver 697 iteration 00000400
+solver 697 iteration 00000500
+solver 697 iteration 00000600
+solver 697 iteration 00000700
+solver 697 iteration 00000800
+solver 697 iteration 00000900
+solver 697 iteration 00001000
+solver 697 iteration 00001100
+solver 697 iteration 00001200
+solver 697 iteration 00001300
+solver 697 iteration 00001400
+solver 697 iteration 00001500
+solver 697 iteration 00001600
+solver 697 iteration 00001700
+solver 697 iteration 00001800
+solver 697 iteration 00001900
+solver 697 iteration 00002000
+solver 697 iteration 00002100
+solver 697 iteration 00002200
+solver 697 iteration 00002300
+solver 697 iteration 00002400
+solver 697 iteration 00002500
+execution time  4976.571912288666
+starting job number 152 on track 1017
+loading track 2107 with 2053 data points
+writing config {'trackidx': 2107} to _top_2107/config.json
+writing to  _top_2107/data.pkl
+using sigma = 0.011761563947670443
+writing to  _top_2107/config.json
+solver 2107 iteration 00000000
+solver 2107 iteration 00000100
+solver 2107 iteration 00000200
+solver 2107 iteration 00000300
+solver 2107 iteration 00000400
+solver 2107 iteration 00000500
+solver 2107 iteration 00000600
+solver 2107 iteration 00000700
+solver 2107 iteration 00000800
+solver 2107 iteration 00000900
+solver 2107 iteration 00001000
+solver 2107 iteration 00001100
+solver 2107 iteration 00001200
+solver 2107 iteration 00001300
+solver 2107 iteration 00001400
+solver 2107 iteration 00001500
+execution time  2482.266860868782
+starting job number 153 on track 2578
+loading track 1824 with 16038 data points
+writing config {'trackidx': 1824} to _top_1824/config.json
+writing to  _top_1824/data.pkl
+using sigma = 0.07339489776634031
+writing to  _top_1824/config.json
+solver 1824 iteration 00000000
+solver 1824 iteration 00000100
+solver 1824 iteration 00000200
+solver 1824 iteration 00000300
+solver 1824 iteration 00000400
+solver 1824 iteration 00000500
+solver 1824 iteration 00000600
+solver 1824 iteration 00000700
+solver 1824 iteration 00000800
+solver 1824 iteration 00000900
+solver 1824 iteration 00001000
+solver 1824 iteration 00001100
+solver 1824 iteration 00001200
+solver 1824 iteration 00001300
+solver 1824 iteration 00001400
+solver 1824 iteration 00001500
+solver 1824 iteration 00001600
+solver 1824 iteration 00001700
+execution time  2794.8661860711873
+starting job number 154 on track 1074
+loading track 660 with 1825 data points
+writing config {'trackidx': 660} to _top_0660/config.json
+writing to  _top_0660/data.pkl
+using sigma = 0.01350316067977218
+writing to  _top_0660/config.json
+solver 660 iteration 00000000
+solver 660 iteration 00000100
+solver 660 iteration 00000200
+solver 660 iteration 00000300
+solver 660 iteration 00000400
+solver 660 iteration 00000500
+solver 660 iteration 00000600
+solver 660 iteration 00000700
+solver 660 iteration 00000800
+solver 660 iteration 00000900
+solver 660 iteration 00001000
+solver 660 iteration 00001100
+execution time  2206.315863525495
+starting job number 155 on track 2555
+loading track 2937 with 4777 data points
+writing config {'trackidx': 2937} to _top_2937/config.json
+writing to  _top_2937/data.pkl
+using sigma = 0.011447830970548755
+writing to  _top_2937/config.json
+solver 2937 iteration 00000000
+solver 2937 iteration 00000100
+solver 2937 iteration 00000200
+solver 2937 iteration 00000300
+solver 2937 iteration 00000400
+solver 2937 iteration 00000500
+solver 2937 iteration 00000600
+solver 2937 iteration 00000700
+solver 2937 iteration 00000800
+solver 2937 iteration 00000900
+solver 2937 iteration 00001000
+solver 2937 iteration 00001100
+solver 2937 iteration 00001200
+solver 2937 iteration 00001300
+solver 2937 iteration 00001400
+solver 2937 iteration 00001500
+solver 2937 iteration 00001600
+solver 2937 iteration 00001700
+solver 2937 iteration 00001800
+solver 2937 iteration 00001900
+solver 2937 iteration 00002000
+solver 2937 iteration 00002100
+solver 2937 iteration 00002200
+solver 2937 iteration 00002300
+solver 2937 iteration 00002400
+solver 2937 iteration 00002500
+solver 2937 iteration 00002600
+execution time  5238.478446180001
+starting job number 156 on track 2942
+loading track 2567 with 1038 data points
+writing config {'trackidx': 2567} to _top_2567/config.json
+writing to  _top_2567/data.pkl
+using sigma = 0.007762991005196283
+writing to  _top_2567/config.json
+solver 2567 iteration 00000000
+solver 2567 iteration 00000100
+solver 2567 iteration 00000200
+solver 2567 iteration 00000300
+solver 2567 iteration 00000400
+solver 2567 iteration 00000500
+solver 2567 iteration 00000600
+solver 2567 iteration 00000700
+execution time  1323.7705183774233
+starting job number 157 on track 3042
+loading track 2463 with 2669 data points
+writing config {'trackidx': 2463} to _top_2463/config.json
+writing to  _top_2463/data.pkl
+using sigma = 0.013621108618498592
+writing to  _top_2463/config.json
+solver 2463 iteration 00000000
+solver 2463 iteration 00000100
+solver 2463 iteration 00000200
+solver 2463 iteration 00000300
+solver 2463 iteration 00000400
+solver 2463 iteration 00000500
+solver 2463 iteration 00000600
+solver 2463 iteration 00000700
+solver 2463 iteration 00000800
+solver 2463 iteration 00000900
+solver 2463 iteration 00001000
+solver 2463 iteration 00001100
+solver 2463 iteration 00001200
+solver 2463 iteration 00001300
+execution time  2501.1467747688293
+starting job number 158 on track 2074
+loading track 542 with 2915 data points
+writing config {'trackidx': 542} to _top_0542/config.json
+writing to  _top_0542/data.pkl
+using sigma = 0.012670813172539437
+writing to  _top_0542/config.json
+solver 542 iteration 00000000
+solver 542 iteration 00000100
+solver 542 iteration 00000200
+solver 542 iteration 00000300
+solver 542 iteration 00000400
+solver 542 iteration 00000500
+solver 542 iteration 00000600
+solver 542 iteration 00000700
+solver 542 iteration 00000800
+solver 542 iteration 00000900
+solver 542 iteration 00001000
+solver 542 iteration 00001100
+solver 542 iteration 00001200
+solver 542 iteration 00001300
+solver 542 iteration 00001400
+solver 542 iteration 00001500
+execution time  2535.352699559182
+starting job number 159 on track 1924
+loading track 2461 with 2204 data points
+writing config {'trackidx': 2461} to _top_2461/config.json
+writing to  _top_2461/data.pkl
+using sigma = 0.010863829096512895
+writing to  _top_2461/config.json
+solver 2461 iteration 00000000
+solver 2461 iteration 00000100
+solver 2461 iteration 00000200
+solver 2461 iteration 00000300
+solver 2461 iteration 00000400
+solver 2461 iteration 00000500
+solver 2461 iteration 00000600
+solver 2461 iteration 00000700
+solver 2461 iteration 00000800
+solver 2461 iteration 00000900
+solver 2461 iteration 00001000
+solver 2461 iteration 00001100
+execution time  1981.168211787939
+starting job number 160 on track 2614
+loading track 2565 with 1081 data points
+writing config {'trackidx': 2565} to _top_2565/config.json
+writing to  _top_2565/data.pkl
+using sigma = 0.010797830058194393
+writing to  _top_2565/config.json
+solver 2565 iteration 00000000
+solver 2565 iteration 00000100
+solver 2565 iteration 00000200
+solver 2565 iteration 00000300
+execution time  500.86568090319633
+starting job number 161 on track 2374
+loading track 2430 with 1814 data points
+writing config {'trackidx': 2430} to _top_2430/config.json
+writing to  _top_2430/data.pkl
+using sigma = 0.009245629816863523
+writing to  _top_2430/config.json
+solver 2430 iteration 00000000
+solver 2430 iteration 00000100
+solver 2430 iteration 00000200
+solver 2430 iteration 00000300
+solver 2430 iteration 00000400
+solver 2430 iteration 00000500
+solver 2430 iteration 00000600
+solver 2430 iteration 00000700
+solver 2430 iteration 00000800
+solver 2430 iteration 00000900
+solver 2430 iteration 00001000
+solver 2430 iteration 00001100
+solver 2430 iteration 00001200
+execution time  2429.8993100076914
+starting job number 162 on track 1085
+loading track 1746 with 1692 data points
+writing config {'trackidx': 1746} to _top_1746/config.json
+writing to  _top_1746/data.pkl
+using sigma = 0.010011934970855747
+writing to  _top_1746/config.json
+solver 1746 iteration 00000000
+solver 1746 iteration 00000100
+solver 1746 iteration 00000200
+solver 1746 iteration 00000300
+solver 1746 iteration 00000400
+solver 1746 iteration 00000500
+solver 1746 iteration 00000600
+solver 1746 iteration 00000700
+solver 1746 iteration 00000800
+solver 1746 iteration 00000900
+solver 1746 iteration 00001000
+solver 1746 iteration 00001100
+solver 1746 iteration 00001200
+solver 1746 iteration 00001300
+solver 1746 iteration 00001400
+solver 1746 iteration 00001500
+execution time  3096.2145863324404
+starting job number 163 on track 921
+loading track 3029 with 4641 data points
+writing config {'trackidx': 3029} to _top_3029/config.json
+writing to  _top_3029/data.pkl
+using sigma = 0.011852662019092755
+writing to  _top_3029/config.json
+solver 3029 iteration 00000000
+solver 3029 iteration 00000100
+solver 3029 iteration 00000200
+solver 3029 iteration 00000300
+solver 3029 iteration 00000400
+solver 3029 iteration 00000500
+solver 3029 iteration 00000600
+solver 3029 iteration 00000700
+solver 3029 iteration 00000800
+solver 3029 iteration 00000900
+solver 3029 iteration 00001000
+solver 3029 iteration 00001100
+solver 3029 iteration 00001200
+solver 3029 iteration 00001300
+solver 3029 iteration 00001400
+solver 3029 iteration 00001500
+solver 3029 iteration 00001600
+solver 3029 iteration 00001700
+solver 3029 iteration 00001800
+solver 3029 iteration 00001900
+solver 3029 iteration 00002000
+solver 3029 iteration 00002100
+solver 3029 iteration 00002200
+solver 3029 iteration 00002300
+solver 3029 iteration 00002400
+solver 3029 iteration 00002500
+solver 3029 iteration 00002600
+solver 3029 iteration 00002700
+solver 3029 iteration 00002800
+solver 3029 iteration 00002900
+solver 3029 iteration 00003000
+execution time  5578.936067165807
+starting job number 164 on track 3007
+loading track 2502 with 1875 data points
+writing config {'trackidx': 2502} to _top_2502/config.json
+writing to  _top_2502/data.pkl
+using sigma = 0.010564130304089207
+writing to  _top_2502/config.json
+solver 2502 iteration 00000000
+solver 2502 iteration 00000100
+solver 2502 iteration 00000200
+solver 2502 iteration 00000300
+solver 2502 iteration 00000400
+solver 2502 iteration 00000500
+solver 2502 iteration 00000600
+solver 2502 iteration 00000700
+solver 2502 iteration 00000800
+solver 2502 iteration 00000900
+solver 2502 iteration 00001000
+execution time  2051.5395888872445
+starting job number 165 on track 658
+loading track 2420 with 1182 data points
+writing config {'trackidx': 2420} to _top_2420/config.json
+writing to  _top_2420/data.pkl
+using sigma = 0.009331880342929205
+writing to  _top_2420/config.json
+solver 2420 iteration 00000000
+solver 2420 iteration 00000100
+solver 2420 iteration 00000200
+solver 2420 iteration 00000300
+solver 2420 iteration 00000400
+solver 2420 iteration 00000500
+solver 2420 iteration 00000600
+solver 2420 iteration 00000700
+solver 2420 iteration 00000800
+solver 2420 iteration 00000900
+solver 2420 iteration 00001000
+solver 2420 iteration 00001100
+solver 2420 iteration 00001200
+solver 2420 iteration 00001300
+solver 2420 iteration 00001400
+solver 2420 iteration 00001500
+solver 2420 iteration 00001600
+solver 2420 iteration 00001700
+execution time  3105.0098876841366
+starting job number 166 on track 2450
+loading track 499 with 1784 data points
+writing config {'trackidx': 499} to _top_0499/config.json
+writing to  _top_0499/data.pkl
+using sigma = 0.009940742126907428
+writing to  _top_0499/config.json
+solver 499 iteration 00000000
+solver 499 iteration 00000100
+solver 499 iteration 00000200
+solver 499 iteration 00000300
+solver 499 iteration 00000400
+solver 499 iteration 00000500
+solver 499 iteration 00000600
+solver 499 iteration 00000700
+solver 499 iteration 00000800
+solver 499 iteration 00000900
+solver 499 iteration 00001000
+solver 499 iteration 00001100
+solver 499 iteration 00001200
+solver 499 iteration 00001300
+execution time  2577.90792956762
+starting job number 167 on track 1262
+loading track 1074 with 1096 data points
+writing config {'trackidx': 1074} to _top_1074/config.json
+writing to  _top_1074/data.pkl
+using sigma = 0.012813158241127309
+writing to  _top_1074/config.json
+solver 1074 iteration 00000000
+solver 1074 iteration 00000100
+solver 1074 iteration 00000200
+solver 1074 iteration 00000300
+solver 1074 iteration 00000400
+execution time  599.6243629809469
+starting job number 168 on track 3033
+loading track 245 with 2951 data points
+writing config {'trackidx': 245} to _top_0245/config.json
+writing to  _top_0245/data.pkl
+using sigma = 0.01042342133961761
+writing to  _top_0245/config.json
+solver 245 iteration 00000000
+solver 245 iteration 00000100
+solver 245 iteration 00000200
+solver 245 iteration 00000300
+solver 245 iteration 00000400
+solver 245 iteration 00000500
+solver 245 iteration 00000600
+solver 245 iteration 00000700
+solver 245 iteration 00000800
+solver 245 iteration 00000900
+solver 245 iteration 00001000
+solver 245 iteration 00001100
+solver 245 iteration 00001200
+solver 245 iteration 00001300
+solver 245 iteration 00001400
+solver 245 iteration 00001500
+solver 245 iteration 00001600
+solver 245 iteration 00001700
+solver 245 iteration 00001800
+solver 245 iteration 00001900
+solver 245 iteration 00002000
+solver 245 iteration 00002100
+solver 245 iteration 00002200
+solver 245 iteration 00002300
+solver 245 iteration 00002400
+solver 245 iteration 00002500
+execution time  4839.480771984905
+starting job number 169 on track 1325
+loading track 1977 with 2447 data points
+writing config {'trackidx': 1977} to _top_1977/config.json
+writing to  _top_1977/data.pkl
+using sigma = 0.007748957105328846
+writing to  _top_1977/config.json
+solver 1977 iteration 00000000
+solver 1977 iteration 00000100
+solver 1977 iteration 00000200
+solver 1977 iteration 00000300
+solver 1977 iteration 00000400
+solver 1977 iteration 00000500
+solver 1977 iteration 00000600
+solver 1977 iteration 00000700
+solver 1977 iteration 00000800
+solver 1977 iteration 00000900
+solver 1977 iteration 00001000
+solver 1977 iteration 00001100
+solver 1977 iteration 00001200
+solver 1977 iteration 00001300
+solver 1977 iteration 00001400
+solver 1977 iteration 00001500
+solver 1977 iteration 00001600
+solver 1977 iteration 00001700
+solver 1977 iteration 00001800
+solver 1977 iteration 00001900
+solver 1977 iteration 00002000
+solver 1977 iteration 00002100
+solver 1977 iteration 00002200
+solver 1977 iteration 00002300
+solver 1977 iteration 00002400
+solver 1977 iteration 00002500
+execution time  5869.893675250933
+starting job number 170 on track 467
+loading track 467 with 4076 data points
+writing config {'trackidx': 467} to _top_0467/config.json
+writing to  _top_0467/data.pkl
+using sigma = 0.11224061951644808
+writing to  _top_0467/config.json
+solver 467 iteration 00000000
+starting job number 171 on track 1291
+loading track 116 with 1146 data points
+writing config {'trackidx': 116} to _top_0116/config.json
+writing to  _top_0116/data.pkl
+using sigma = 0.008919239605431718
+writing to  _top_0116/config.json
+solver 116 iteration 00000000
+solver 116 iteration 00000100
+solver 116 iteration 00000200
+solver 116 iteration 00000300
+solver 116 iteration 00000400
+solver 116 iteration 00000500
+solver 116 iteration 00000600
+execution time  1177.34482335113
+starting job number 172 on track 1705
+loading track 1926 with 2509 data points
+writing config {'trackidx': 1926} to _top_1926/config.json
+writing to  _top_1926/data.pkl
+using sigma = 0.00980184603335224
+writing to  _top_1926/config.json
+solver 1926 iteration 00000000
+solver 1926 iteration 00000100
+solver 1926 iteration 00000200
+solver 1926 iteration 00000300
+solver 1926 iteration 00000400
+solver 1926 iteration 00000500
+solver 1926 iteration 00000600
+solver 1926 iteration 00000700
+solver 1926 iteration 00000800
+solver 1926 iteration 00000900
+solver 1926 iteration 00001000
+solver 1926 iteration 00001100
+execution time  2340.2320235185325
+starting job number 173 on track 1596
+loading track 678 with 2239 data points
+writing config {'trackidx': 678} to _top_0678/config.json
+writing to  _top_0678/data.pkl
+using sigma = 0.010764830508699585
+writing to  _top_0678/config.json
+solver 678 iteration 00000000
+solver 678 iteration 00000100
+solver 678 iteration 00000200
+solver 678 iteration 00000300
+solver 678 iteration 00000400
+solver 678 iteration 00000500
+solver 678 iteration 00000600
+solver 678 iteration 00000700
+solver 678 iteration 00000800
+solver 678 iteration 00000900
+solver 678 iteration 00001000
+solver 678 iteration 00001100
+solver 678 iteration 00001200
+execution time  2346.693582404405
+starting job number 174 on track 1068
+loading track 1089 with 1128 data points
+writing config {'trackidx': 1089} to _top_1089/config.json
+writing to  _top_1089/data.pkl
+using sigma = 0.00875155060971267
+writing to  _top_1089/config.json
+solver 1089 iteration 00000000
+solver 1089 iteration 00000100
+solver 1089 iteration 00000200
+solver 1089 iteration 00000300
+solver 1089 iteration 00000400
+solver 1089 iteration 00000500
+solver 1089 iteration 00000600
+solver 1089 iteration 00000700
+solver 1089 iteration 00000800
+solver 1089 iteration 00000900
+solver 1089 iteration 00001000
+execution time  2028.3327098190784
+starting job number 175 on track 1269
+loading track 2754 with 2470 data points
+writing config {'trackidx': 2754} to _top_2754/config.json
+writing to  _top_2754/data.pkl
+using sigma = 0.008442997605565768
+writing to  _top_2754/config.json
+solver 2754 iteration 00000000
+solver 2754 iteration 00000100
+solver 2754 iteration 00000200
+solver 2754 iteration 00000300
+solver 2754 iteration 00000400
+solver 2754 iteration 00000500
+solver 2754 iteration 00000600
+solver 2754 iteration 00000700
+solver 2754 iteration 00000800
+solver 2754 iteration 00000900
+solver 2754 iteration 00001000
+solver 2754 iteration 00001100
+solver 2754 iteration 00001200
+solver 2754 iteration 00001300
+solver 2754 iteration 00001400
+solver 2754 iteration 00001500
+solver 2754 iteration 00001600
+solver 2754 iteration 00001700
+solver 2754 iteration 00001800
+solver 2754 iteration 00001900
+solver 2754 iteration 00002000
+solver 2754 iteration 00002100
+solver 2754 iteration 00002200
+solver 2754 iteration 00002300
+execution time  4960.730439241976
+starting job number 176 on track 369
+loading track 775 with 2424 data points
+writing config {'trackidx': 775} to _top_0775/config.json
+writing to  _top_0775/data.pkl
+using sigma = 0.011206321725810616
+writing to  _top_0775/config.json
+solver 775 iteration 00000000
+solver 775 iteration 00000100
+solver 775 iteration 00000200
+solver 775 iteration 00000300
+solver 775 iteration 00000400
+solver 775 iteration 00000500
+solver 775 iteration 00000600
+solver 775 iteration 00000700
+solver 775 iteration 00000800
+solver 775 iteration 00000900
+solver 775 iteration 00001000
+solver 775 iteration 00001100
+solver 775 iteration 00001200
+solver 775 iteration 00001300
+solver 775 iteration 00001400
+solver 775 iteration 00001500
+solver 775 iteration 00001600
+solver 775 iteration 00001700
+solver 775 iteration 00001800
+solver 775 iteration 00001900
+solver 775 iteration 00002000
+solver 775 iteration 00002100
+solver 775 iteration 00002200
+execution time  4357.758468721062
+starting job number 177 on track 238
+loading track 1093 with 1199 data points
+writing config {'trackidx': 1093} to _top_1093/config.json
+writing to  _top_1093/data.pkl
+using sigma = 0.011523818706435006
+writing to  _top_1093/config.json
+solver 1093 iteration 00000000
+solver 1093 iteration 00000100
+solver 1093 iteration 00000200
+solver 1093 iteration 00000300
+solver 1093 iteration 00000400
+solver 1093 iteration 00000500
+solver 1093 iteration 00000600
+solver 1093 iteration 00000700
+solver 1093 iteration 00000800
+solver 1093 iteration 00000900
+solver 1093 iteration 00001000
+execution time  1842.7520766966045
+starting job number 178 on track 1743
+loading track 2561 with 1779 data points
+writing config {'trackidx': 2561} to _top_2561/config.json
+writing to  _top_2561/data.pkl
+using sigma = 0.008901352448974527
+writing to  _top_2561/config.json
+solver 2561 iteration 00000000
+solver 2561 iteration 00000100
+solver 2561 iteration 00000200
+solver 2561 iteration 00000300
+solver 2561 iteration 00000400
+solver 2561 iteration 00000500
+solver 2561 iteration 00000600
+solver 2561 iteration 00000700
+solver 2561 iteration 00000800
+solver 2561 iteration 00000900
+solver 2561 iteration 00001000
+solver 2561 iteration 00001100
+solver 2561 iteration 00001200
+solver 2561 iteration 00001300
+solver 2561 iteration 00001400
+execution time  2750.7683632969856
+starting job number 179 on track 644
+loading track 323 with 2080 data points
+writing config {'trackidx': 323} to _top_0323/config.json
+writing to  _top_0323/data.pkl
+using sigma = 0.010269342282316164
+writing to  _top_0323/config.json
+solver 323 iteration 00000000
+solver 323 iteration 00000100
+solver 323 iteration 00000200
+solver 323 iteration 00000300
+solver 323 iteration 00000400
+solver 323 iteration 00000500
+solver 323 iteration 00000600
+solver 323 iteration 00000700
+solver 323 iteration 00000800
+solver 323 iteration 00000900
+solver 323 iteration 00001000
+solver 323 iteration 00001100
+solver 323 iteration 00001200
+solver 323 iteration 00001300
+solver 323 iteration 00001400
+execution time  2783.826967354864
+starting job number 180 on track 668
+loading track 1052 with 2288 data points
+writing config {'trackidx': 1052} to _top_1052/config.json
+writing to  _top_1052/data.pkl
+using sigma = 0.017259115645599163
+writing to  _top_1052/config.json
+solver 1052 iteration 00000000
+solver 1052 iteration 00000100
+solver 1052 iteration 00000200
+solver 1052 iteration 00000300
+solver 1052 iteration 00000400
+solver 1052 iteration 00000500
+solver 1052 iteration 00000600
+solver 1052 iteration 00000700
+solver 1052 iteration 00000800
+solver 1052 iteration 00000900
+solver 1052 iteration 00001000
+solver 1052 iteration 00001100
+solver 1052 iteration 00001200
+solver 1052 iteration 00001300
+solver 1052 iteration 00001400
+solver 1052 iteration 00001500
+solver 1052 iteration 00001600
+solver 1052 iteration 00001700
+solver 1052 iteration 00001800
+solver 1052 iteration 00001900
+solver 1052 iteration 00002000
+solver 1052 iteration 00002100
+solver 1052 iteration 00002200
+solver 1052 iteration 00002300
+solver 1052 iteration 00002400
+solver 1052 iteration 00002500
+solver 1052 iteration 00002600
+solver 1052 iteration 00002700
+solver 1052 iteration 00002800
+solver 1052 iteration 00002900
+solver 1052 iteration 00003000
+solver 1052 iteration 00003100
+solver 1052 iteration 00003200
+solver 1052 iteration 00003300
+solver 1052 iteration 00003400
+execution time  6182.794921686873
+starting job number 181 on track 1203
+loading track 2473 with 2970 data points
+writing config {'trackidx': 2473} to _top_2473/config.json
+writing to  _top_2473/data.pkl
+using sigma = 0.013320852272068662
+writing to  _top_2473/config.json
+solver 2473 iteration 00000000
+solver 2473 iteration 00000100
+solver 2473 iteration 00000200
+solver 2473 iteration 00000300
+solver 2473 iteration 00000400
+solver 2473 iteration 00000500
+solver 2473 iteration 00000600
+solver 2473 iteration 00000700
+solver 2473 iteration 00000800
+solver 2473 iteration 00000900
+solver 2473 iteration 00001000
+solver 2473 iteration 00001100
+solver 2473 iteration 00001200
+solver 2473 iteration 00001300
+solver 2473 iteration 00001400
+solver 2473 iteration 00001500
+solver 2473 iteration 00001600
+execution time  2672.509336778894
+starting job number 182 on track 1154
+loading track 1526 with 3845 data points
+writing config {'trackidx': 1526} to _top_1526/config.json
+writing to  _top_1526/data.pkl
+using sigma = 0.011817380517573205
+writing to  _top_1526/config.json
+solver 1526 iteration 00000000
+solver 1526 iteration 00000100
+solver 1526 iteration 00000200
+solver 1526 iteration 00000300
+solver 1526 iteration 00000400
+solver 1526 iteration 00000500
+solver 1526 iteration 00000600
+solver 1526 iteration 00000700
+solver 1526 iteration 00000800
+solver 1526 iteration 00000900
+solver 1526 iteration 00001000
+solver 1526 iteration 00001100
+solver 1526 iteration 00001200
+solver 1526 iteration 00001300
+solver 1526 iteration 00001400
+solver 1526 iteration 00001500
+solver 1526 iteration 00001600
+solver 1526 iteration 00001700
+solver 1526 iteration 00001800
+solver 1526 iteration 00001900
+solver 1526 iteration 00002000
+solver 1526 iteration 00002100
+solver 1526 iteration 00002200
+solver 1526 iteration 00002300
+solver 1526 iteration 00002400
+solver 1526 iteration 00002500
+solver 1526 iteration 00002600
+solver 1526 iteration 00002700
+solver 1526 iteration 00002800
+solver 1526 iteration 00002900
+solver 1526 iteration 00003000
+solver 1526 iteration 00003100
+execution time  6318.719831025228
+starting job number 183 on track 1945
+loading track 2578 with 1333 data points
+writing config {'trackidx': 2578} to _top_2578/config.json
+writing to  _top_2578/data.pkl
+using sigma = 0.007902715365832366
+writing to  _top_2578/config.json
+solver 2578 iteration 00000000
+solver 2578 iteration 00000100
+solver 2578 iteration 00000200
+solver 2578 iteration 00000300
+solver 2578 iteration 00000400
+solver 2578 iteration 00000500
+solver 2578 iteration 00000600
+solver 2578 iteration 00000700
+execution time  1407.7157211489975
+starting job number 184 on track 1368
+loading track 1436 with 2122 data points
+writing config {'trackidx': 1436} to _top_1436/config.json
+writing to  _top_1436/data.pkl
+using sigma = 0.013910054265965487
+writing to  _top_1436/config.json
+solver 1436 iteration 00000000
+solver 1436 iteration 00000100
+solver 1436 iteration 00000200
+solver 1436 iteration 00000300
+solver 1436 iteration 00000400
+solver 1436 iteration 00000500
+solver 1436 iteration 00000600
+solver 1436 iteration 00000700
+solver 1436 iteration 00000800
+solver 1436 iteration 00000900
+solver 1436 iteration 00001000
+solver 1436 iteration 00001100
+execution time  1962.9637508634478
+starting job number 185 on track 1021
+loading track 1266 with 1396 data points
+writing config {'trackidx': 1266} to _top_1266/config.json
+writing to  _top_1266/data.pkl
+using sigma = 0.008033145706160656
+writing to  _top_1266/config.json
+solver 1266 iteration 00000000
+solver 1266 iteration 00000100
+solver 1266 iteration 00000200
+solver 1266 iteration 00000300
+solver 1266 iteration 00000400
+solver 1266 iteration 00000500
+solver 1266 iteration 00000600
+solver 1266 iteration 00000700
+solver 1266 iteration 00000800
+solver 1266 iteration 00000900
+solver 1266 iteration 00001000
+execution time  2266.8423801101744
+starting job number 186 on track 368
+loading track 325 with 2173 data points
+writing config {'trackidx': 325} to _top_0325/config.json
+writing to  _top_0325/data.pkl
+using sigma = 0.01023242557878013
+writing to  _top_0325/config.json
+solver 325 iteration 00000000
+solver 325 iteration 00000100
+solver 325 iteration 00000200
+solver 325 iteration 00000300
+solver 325 iteration 00000400
+solver 325 iteration 00000500
+solver 325 iteration 00000600
+solver 325 iteration 00000700
+solver 325 iteration 00000800
+solver 325 iteration 00000900
+solver 325 iteration 00001000
+solver 325 iteration 00001100
+solver 325 iteration 00001200
+solver 325 iteration 00001300
+solver 325 iteration 00001400
+solver 325 iteration 00001500
+solver 325 iteration 00001600
+execution time  3140.239263953641
+starting job number 187 on track 1265
+loading track 359 with 2561 data points
+writing config {'trackidx': 359} to _top_0359/config.json
+writing to  _top_0359/data.pkl
+using sigma = 0.010864713701344751
+writing to  _top_0359/config.json
+solver 359 iteration 00000000
+solver 359 iteration 00000100
+solver 359 iteration 00000200
+solver 359 iteration 00000300
+solver 359 iteration 00000400
+solver 359 iteration 00000500
+solver 359 iteration 00000600
+solver 359 iteration 00000700
+solver 359 iteration 00000800
+solver 359 iteration 00000900
+solver 359 iteration 00001000
+solver 359 iteration 00001100
+solver 359 iteration 00001200
+execution time  2257.343981347978
+starting job number 188 on track 1065
+loading track 1900 with 2519 data points
+writing config {'trackidx': 1900} to _top_1900/config.json
+writing to  _top_1900/data.pkl
+using sigma = 0.009985126916286682
+writing to  _top_1900/config.json
+solver 1900 iteration 00000000
+solver 1900 iteration 00000100
+solver 1900 iteration 00000200
+solver 1900 iteration 00000300
+solver 1900 iteration 00000400
+solver 1900 iteration 00000500
+solver 1900 iteration 00000600
+solver 1900 iteration 00000700
+solver 1900 iteration 00000800
+solver 1900 iteration 00000900
+solver 1900 iteration 00001000
+solver 1900 iteration 00001100
+solver 1900 iteration 00001200
+solver 1900 iteration 00001300
+solver 1900 iteration 00001400
+solver 1900 iteration 00001500
+execution time  3089.730972006917
+starting job number 189 on track 2970
+loading track 2873 with 3728 data points
+writing config {'trackidx': 2873} to _top_2873/config.json
+writing to  _top_2873/data.pkl
+using sigma = 0.011901583063124001
+writing to  _top_2873/config.json
+solver 2873 iteration 00000000
+solver 2873 iteration 00000100
+solver 2873 iteration 00000200
+solver 2873 iteration 00000300
+solver 2873 iteration 00000400
+solver 2873 iteration 00000500
+solver 2873 iteration 00000600
+solver 2873 iteration 00000700
+solver 2873 iteration 00000800
+solver 2873 iteration 00000900
+solver 2873 iteration 00001000
+solver 2873 iteration 00001100
+solver 2873 iteration 00001200
+solver 2873 iteration 00001300
+solver 2873 iteration 00001400
+solver 2873 iteration 00001500
+solver 2873 iteration 00001600
+execution time  2861.2548959106207
+starting job number 190 on track 1968
+loading track 2421 with 2270 data points
+writing config {'trackidx': 2421} to _top_2421/config.json
+writing to  _top_2421/data.pkl
+using sigma = 0.008572130476873859
+writing to  _top_2421/config.json
+solver 2421 iteration 00000000
+solver 2421 iteration 00000100
+solver 2421 iteration 00000200
+solver 2421 iteration 00000300
+solver 2421 iteration 00000400
+solver 2421 iteration 00000500
+solver 2421 iteration 00000600
+solver 2421 iteration 00000700
+solver 2421 iteration 00000800
+solver 2421 iteration 00000900
+execution time  1824.9865735899657
+starting job number 191 on track 1145
+loading track 2924 with 2080 data points
+writing config {'trackidx': 2924} to _top_2924/config.json
+writing to  _top_2924/data.pkl
+using sigma = 0.012647591338805563
+writing to  _top_2924/config.json
+solver 2924 iteration 00000000
+solver 2924 iteration 00000100
+solver 2924 iteration 00000200
+solver 2924 iteration 00000300
+solver 2924 iteration 00000400
+solver 2924 iteration 00000500
+solver 2924 iteration 00000600
+solver 2924 iteration 00000700
+solver 2924 iteration 00000800
+solver 2924 iteration 00000900
+solver 2924 iteration 00001000
+solver 2924 iteration 00001100
+solver 2924 iteration 00001200
+solver 2924 iteration 00001300
+solver 2924 iteration 00001400
+solver 2924 iteration 00001500
+solver 2924 iteration 00001600
+solver 2924 iteration 00001700
+solver 2924 iteration 00001800
+solver 2924 iteration 00001900
+solver 2924 iteration 00002000
+solver 2924 iteration 00002100
+solver 2924 iteration 00002200
+solver 2924 iteration 00002300
+solver 2924 iteration 00002400
+solver 2924 iteration 00002500
+solver 2924 iteration 00002600
+solver 2924 iteration 00002700
+solver 2924 iteration 00002800
+solver 2924 iteration 00002900
+solver 2924 iteration 00003000
+solver 2924 iteration 00003100
+solver 2924 iteration 00003200
+solver 2924 iteration 00003300
+solver 2924 iteration 00003400
+solver 2924 iteration 00003500
+solver 2924 iteration 00003600
+solver 2924 iteration 00003700
+execution time  6838.996137904003
+starting job number 192 on track 2449
+loading track 2429 with 2631 data points
+writing config {'trackidx': 2429} to _top_2429/config.json
+writing to  _top_2429/data.pkl
+using sigma = 0.011028812763456278
+writing to  _top_2429/config.json
+solver 2429 iteration 00000000
+solver 2429 iteration 00000100
+solver 2429 iteration 00000200
+solver 2429 iteration 00000300
+solver 2429 iteration 00000400
+solver 2429 iteration 00000500
+solver 2429 iteration 00000600
+solver 2429 iteration 00000700
+solver 2429 iteration 00000800
+solver 2429 iteration 00000900
+solver 2429 iteration 00001000
+solver 2429 iteration 00001100
+solver 2429 iteration 00001200
+solver 2429 iteration 00001300
+execution time  2679.741510786116
+starting job number 193 on track 1477
+loading track 2367 with 1911 data points
+writing config {'trackidx': 2367} to _top_2367/config.json
+writing to  _top_2367/data.pkl
+using sigma = 0.006845365100399906
+writing to  _top_2367/config.json
+solver 2367 iteration 00000000
+solver 2367 iteration 00000100
+solver 2367 iteration 00000200
+solver 2367 iteration 00000300
+solver 2367 iteration 00000400
+solver 2367 iteration 00000500
+solver 2367 iteration 00000600
+solver 2367 iteration 00000700
+solver 2367 iteration 00000800
+solver 2367 iteration 00000900
+solver 2367 iteration 00001000
+solver 2367 iteration 00001100
+solver 2367 iteration 00001200
+solver 2367 iteration 00001300
+solver 2367 iteration 00001400
+solver 2367 iteration 00001500
+solver 2367 iteration 00001600
+solver 2367 iteration 00001700
+execution time  3808.647995773703
+starting job number 194 on track 705
+loading track 2074 with 1226 data points
+writing config {'trackidx': 2074} to _top_2074/config.json
+writing to  _top_2074/data.pkl
+using sigma = 0.00988711522692785
+writing to  _top_2074/config.json
+solver 2074 iteration 00000000
+solver 2074 iteration 00000100
+solver 2074 iteration 00000200
+solver 2074 iteration 00000300
+solver 2074 iteration 00000400
+solver 2074 iteration 00000500
+solver 2074 iteration 00000600
+solver 2074 iteration 00000700
+solver 2074 iteration 00000800
+execution time  1666.651828320697
+starting job number 195 on track 1367
+loading track 358 with 3193 data points
+writing config {'trackidx': 358} to _top_0358/config.json
+writing to  _top_0358/data.pkl
+using sigma = 0.00839794941917928
+writing to  _top_0358/config.json
+solver 358 iteration 00000000
+solver 358 iteration 00000100
+solver 358 iteration 00000200
+solver 358 iteration 00000300
+solver 358 iteration 00000400
+solver 358 iteration 00000500
+solver 358 iteration 00000600
+solver 358 iteration 00000700
+solver 358 iteration 00000800
+solver 358 iteration 00000900
+solver 358 iteration 00001000
+solver 358 iteration 00001100
+solver 358 iteration 00001200
+solver 358 iteration 00001300
+solver 358 iteration 00001400
+solver 358 iteration 00001500
+solver 358 iteration 00001600
+solver 358 iteration 00001700
+solver 358 iteration 00001800
+solver 358 iteration 00001900
+execution time  4168.079896509647
+starting job number 196 on track 2309
+loading track 2779 with 1427 data points
+writing config {'trackidx': 2779} to _top_2779/config.json
+writing to  _top_2779/data.pkl
+using sigma = 0.008574693994844309
+writing to  _top_2779/config.json
+solver 2779 iteration 00000000
+solver 2779 iteration 00000100
+solver 2779 iteration 00000200
+solver 2779 iteration 00000300
+solver 2779 iteration 00000400
+solver 2779 iteration 00000500
+solver 2779 iteration 00000600
+solver 2779 iteration 00000700
+solver 2779 iteration 00000800
+solver 2779 iteration 00000900
+solver 2779 iteration 00001000
+execution time  2097.3799800164998
+starting job number 197 on track 1303
+loading track 982 with 3363 data points
+writing config {'trackidx': 982} to _top_0982/config.json
+writing to  _top_0982/data.pkl
+using sigma = 0.013312006072193724
+writing to  _top_0982/config.json
+solver 982 iteration 00000000
+solver 982 iteration 00000100
+solver 982 iteration 00000200
+solver 982 iteration 00000300
+solver 982 iteration 00000400
+solver 982 iteration 00000500
+solver 982 iteration 00000600
+solver 982 iteration 00000700
+solver 982 iteration 00000800
+solver 982 iteration 00000900
+solver 982 iteration 00001000
+solver 982 iteration 00001100
+solver 982 iteration 00001200
+solver 982 iteration 00001300
+solver 982 iteration 00001400
+execution time  2336.3622909598053
+starting job number 198 on track 999
+loading track 2701 with 2029 data points
+writing config {'trackidx': 2701} to _top_2701/config.json
+writing to  _top_2701/data.pkl
+using sigma = 0.008712618226205431
+writing to  _top_2701/config.json
+solver 2701 iteration 00000000
+solver 2701 iteration 00000100
+solver 2701 iteration 00000200
+solver 2701 iteration 00000300
+solver 2701 iteration 00000400
+solver 2701 iteration 00000500
+solver 2701 iteration 00000600
+solver 2701 iteration 00000700
+solver 2701 iteration 00000800
+solver 2701 iteration 00000900
+solver 2701 iteration 00001000
+execution time  2245.4179805777967
+starting job number 199 on track 1687
+loading track 1085 with 2472 data points
+writing config {'trackidx': 1085} to _top_1085/config.json
+writing to  _top_1085/data.pkl
+using sigma = 0.009606802282555456
+writing to  _top_1085/config.json
+solver 1085 iteration 00000000
+solver 1085 iteration 00000100
+solver 1085 iteration 00000200
+solver 1085 iteration 00000300
+solver 1085 iteration 00000400
+solver 1085 iteration 00000500
+solver 1085 iteration 00000600
+solver 1085 iteration 00000700
+solver 1085 iteration 00000800
+solver 1085 iteration 00000900
+solver 1085 iteration 00001000
+solver 1085 iteration 00001100
+solver 1085 iteration 00001200
+execution time  1919.6202991493046
+loading track 1033 with 2968 data points
+writing config {'trackidx': 1033} to _top_1033/config.json
+writing to  _top_1033/data.pkl
+using sigma = 0.017432722661344567
+writing to  _top_1033/config.json
+solver 1033 iteration 00000000
+solver 1033 iteration 00000100
+solver 1033 iteration 00000200
+solver 1033 iteration 00000300
+solver 1033 iteration 00000400
+solver 1033 iteration 00000500
+solver 1033 iteration 00000600
+solver 1033 iteration 00000700
+solver 1033 iteration 00000800
+solver 1033 iteration 00000900
+solver 1033 iteration 00001000
+solver 1033 iteration 00001100
+solver 1033 iteration 00001200
+solver 1033 iteration 00001300
+solver 1033 iteration 00001400
+solver 1033 iteration 00001500
+solver 1033 iteration 00001600
+solver 1033 iteration 00001700
+solver 1033 iteration 00001800
+solver 1033 iteration 00001900
+solver 1033 iteration 00002000
+solver 1033 iteration 00002100
+solver 1033 iteration 00002200
+solver 1033 iteration 00002300
+solver 1033 iteration 00002400
+solver 1033 iteration 00002500
+solver 1033 iteration 00002600
+solver 1033 iteration 00002700
+solver 1033 iteration 00002800
+solver 1033 iteration 00002900
+solver 1033 iteration 00003000
+solver 1033 iteration 00003100
+solver 1033 iteration 00003200
+solver 1033 iteration 00003300
+solver 1033 iteration 00003400
+solver 1033 iteration 00003500
+solver 1033 iteration 00003600
+solver 1033 iteration 00003700
+solver 1033 iteration 00003800
+solver 1033 iteration 00003900
+solver 1033 iteration 00004000
+solver 1033 iteration 00004100
+solver 1033 iteration 00004200
+solver 1033 iteration 00004300
+solver 1033 iteration 00004400
+solver 1033 iteration 00004500
+execution time  7431.841994678602
+loading track 1259 with 2403 data points
+writing config {'trackidx': 1259} to _top_1259/config.json
+writing to  _top_1259/data.pkl
+using sigma = 0.011552511085989828
+writing to  _top_1259/config.json
+solver 1259 iteration 00000000
+solver 1259 iteration 00000100
+solver 1259 iteration 00000200
+solver 1259 iteration 00000300
+solver 1259 iteration 00000400
+solver 1259 iteration 00000500
+solver 1259 iteration 00000600
+solver 1259 iteration 00000700
+solver 1259 iteration 00000800
+solver 1259 iteration 00000900
+solver 1259 iteration 00001000
+solver 1259 iteration 00001100
+solver 1259 iteration 00001200
+solver 1259 iteration 00001300
+solver 1259 iteration 00001400
+solver 1259 iteration 00001500
+solver 1259 iteration 00001600
+solver 1259 iteration 00001700
+execution time  3265.7136673424393
+loading track 2986 with 4997 data points
+writing config {'trackidx': 2986} to _top_2986/config.json
+writing to  _top_2986/data.pkl
+using sigma = 0.010564687639696138
+writing to  _top_2986/config.json
+solver 2986 iteration 00000000
+solver 2986 iteration 00000100
+solver 2986 iteration 00000200
+solver 2986 iteration 00000300
+solver 2986 iteration 00000400
+solver 2986 iteration 00000500
+solver 2986 iteration 00000600
+solver 2986 iteration 00000700
+solver 2986 iteration 00000800
+solver 2986 iteration 00000900
+solver 2986 iteration 00001000
+solver 2986 iteration 00001100
+solver 2986 iteration 00001200
+solver 2986 iteration 00001300
+solver 2986 iteration 00001400
+solver 2986 iteration 00001500
+solver 2986 iteration 00001600
+solver 2986 iteration 00001700
+execution time  3627.0346539076418
+loading track 1269 with 2596 data points
+writing config {'trackidx': 1269} to _top_1269/config.json
+writing to  _top_1269/data.pkl
+using sigma = 0.01204614713338907
+writing to  _top_1269/config.json
+solver 1269 iteration 00000000
+solver 1269 iteration 00000100
+solver 1269 iteration 00000200
+solver 1269 iteration 00000300
+solver 1269 iteration 00000400
+solver 1269 iteration 00000500
+solver 1269 iteration 00000600
+solver 1269 iteration 00000700
+solver 1269 iteration 00000800
+solver 1269 iteration 00000900
+execution time  1545.957335582003
+loading track 2936 with 2206 data points
+writing config {'trackidx': 2936} to _top_2936/config.json
+writing to  _top_2936/data.pkl
+using sigma = 0.010490576428712008
+writing to  _top_2936/config.json
+solver 2936 iteration 00000000
+solver 2936 iteration 00000100
+solver 2936 iteration 00000200
+solver 2936 iteration 00000300
+solver 2936 iteration 00000400
+solver 2936 iteration 00000500
+solver 2936 iteration 00000600
+solver 2936 iteration 00000700
+solver 2936 iteration 00000800
+solver 2936 iteration 00000900
+solver 2936 iteration 00001000
+solver 2936 iteration 00001100
+solver 2936 iteration 00001200
+solver 2936 iteration 00001300
+solver 2936 iteration 00001400
+solver 2936 iteration 00001500
+execution time  2824.054083902389
+loading track 2555 with 3791 data points
+writing config {'trackidx': 2555} to _top_2555/config.json
+writing to  _top_2555/data.pkl
+using sigma = 0.03730603328324855
+writing to  _top_2555/config.json
+solver 2555 iteration 00000000
+solver 2555 iteration 00000100
+solver 2555 iteration 00000200
+solver 2555 iteration 00000300
+solver 2555 iteration 00000400
+solver 2555 iteration 00000500
+solver 2555 iteration 00000600
+solver 2555 iteration 00000700
+solver 2555 iteration 00000800
+solver 2555 iteration 00000900
+solver 2555 iteration 00001000
+solver 2555 iteration 00001100
+solver 2555 iteration 00001200
+solver 2555 iteration 00001300
+solver 2555 iteration 00001400
+solver 2555 iteration 00001500
+solver 2555 iteration 00001600
+solver 2555 iteration 00001700
+solver 2555 iteration 00001800
+solver 2555 iteration 00001900
+solver 2555 iteration 00002000
+execution time  2501.090419176966
+loading track 668 with 2565 data points
+writing config {'trackidx': 668} to _top_0668/config.json
+writing to  _top_0668/data.pkl
+using sigma = 0.01414786553277739
+writing to  _top_0668/config.json
+solver 668 iteration 00000000
+solver 668 iteration 00000100
+solver 668 iteration 00000200
+solver 668 iteration 00000300
+solver 668 iteration 00000400
+solver 668 iteration 00000500
+solver 668 iteration 00000600
+solver 668 iteration 00000700
+solver 668 iteration 00000800
+solver 668 iteration 00000900
+execution time  1587.5772278569639
+loading track 2368 with 2758 data points
+writing config {'trackidx': 2368} to _top_2368/config.json
+writing to  _top_2368/data.pkl
+using sigma = 0.009165735695586357
+writing to  _top_2368/config.json
+solver 2368 iteration 00000000
+solver 2368 iteration 00000100
+solver 2368 iteration 00000200
+solver 2368 iteration 00000300
+solver 2368 iteration 00000400
+solver 2368 iteration 00000500
+solver 2368 iteration 00000600
+solver 2368 iteration 00000700
+solver 2368 iteration 00000800
+solver 2368 iteration 00000900
+solver 2368 iteration 00001000
+solver 2368 iteration 00001100
+solver 2368 iteration 00001200
+solver 2368 iteration 00001300
+solver 2368 iteration 00001400
+solver 2368 iteration 00001500
+solver 2368 iteration 00001600
+solver 2368 iteration 00001700
+solver 2368 iteration 00001800
+solver 2368 iteration 00001900
+execution time  3698.7094309348613
+loading track 1203 with 2103 data points
+writing config {'trackidx': 1203} to _top_1203/config.json
+writing to  _top_1203/data.pkl
+using sigma = 0.012332879497473368
+writing to  _top_1203/config.json
+solver 1203 iteration 00000000
+solver 1203 iteration 00000100
+solver 1203 iteration 00000200
+solver 1203 iteration 00000300
+solver 1203 iteration 00000400
+solver 1203 iteration 00000500
+solver 1203 iteration 00000600
+solver 1203 iteration 00000700
+solver 1203 iteration 00000800
+solver 1203 iteration 00000900
+execution time  1646.268013842404
+loading track 3042 with 2447 data points
+writing config {'trackidx': 3042} to _top_3042/config.json
+writing to  _top_3042/data.pkl
+using sigma = 0.010386497793449485
+writing to  _top_3042/config.json
+solver 3042 iteration 00000000
+solver 3042 iteration 00000100
+solver 3042 iteration 00000200
+solver 3042 iteration 00000300
+solver 3042 iteration 00000400
+solver 3042 iteration 00000500
+solver 3042 iteration 00000600
+solver 3042 iteration 00000700
+solver 3042 iteration 00000800
+solver 3042 iteration 00000900
+solver 3042 iteration 00001000
+solver 3042 iteration 00001100
+solver 3042 iteration 00001200
+execution time  2547.7175693083555
+loading track 3050 with 2189 data points
+writing config {'trackidx': 3050} to _top_3050/config.json
+writing to  _top_3050/data.pkl
+using sigma = 0.014362667045901275
+writing to  _top_3050/config.json
+solver 3050 iteration 00000000
+solver 3050 iteration 00000100
+solver 3050 iteration 00000200
+solver 3050 iteration 00000300
+solver 3050 iteration 00000400
+solver 3050 iteration 00000500
+solver 3050 iteration 00000600
+solver 3050 iteration 00000700
+solver 3050 iteration 00000800
+solver 3050 iteration 00000900
+solver 3050 iteration 00001000
+solver 3050 iteration 00001100
+solver 3050 iteration 00001200
+solver 3050 iteration 00001300
+solver 3050 iteration 00001400
+solver 3050 iteration 00001500
+solver 3050 iteration 00001600
+solver 3050 iteration 00001700
+solver 3050 iteration 00001800
+solver 3050 iteration 00001900
+execution time  3442.8234523478895
+loading track 1262 with 2154 data points
+writing config {'trackidx': 1262} to _top_1262/config.json
+writing to  _top_1262/data.pkl
+using sigma = 0.010585891724789962
+writing to  _top_1262/config.json
+solver 1262 iteration 00000000
+solver 1262 iteration 00000100
+solver 1262 iteration 00000200
+solver 1262 iteration 00000300
+solver 1262 iteration 00000400
+solver 1262 iteration 00000500
+solver 1262 iteration 00000600
+solver 1262 iteration 00000700
+solver 1262 iteration 00000800
+solver 1262 iteration 00000900
+solver 1262 iteration 00001000
+solver 1262 iteration 00001100
+solver 1262 iteration 00001200
+execution time  2255.418995305896
+loading track 2450 with 1423 data points
+writing config {'trackidx': 2450} to _top_2450/config.json
+writing to  _top_2450/data.pkl
+using sigma = 0.007257935185044445
+writing to  _top_2450/config.json
+solver 2450 iteration 00000000
+solver 2450 iteration 00000100
+solver 2450 iteration 00000200
+solver 2450 iteration 00000300
+solver 2450 iteration 00000400
+solver 2450 iteration 00000500
+solver 2450 iteration 00000600
+solver 2450 iteration 00000700
+solver 2450 iteration 00000800
+solver 2450 iteration 00000900
+solver 2450 iteration 00001000
+solver 2450 iteration 00001100
+solver 2450 iteration 00001200
+execution time  2394.1212658118457
+loading track 2131 with 2838 data points
+writing config {'trackidx': 2131} to _top_2131/config.json
+writing to  _top_2131/data.pkl
+using sigma = 0.007571012310585974
+writing to  _top_2131/config.json
+solver 2131 iteration 00000000
+solver 2131 iteration 00000100
+solver 2131 iteration 00000200
+solver 2131 iteration 00000300
+solver 2131 iteration 00000400
+solver 2131 iteration 00000500
+solver 2131 iteration 00000600
+solver 2131 iteration 00000700
+solver 2131 iteration 00000800
+solver 2131 iteration 00000900
+solver 2131 iteration 00001000
+solver 2131 iteration 00001100
+solver 2131 iteration 00001200
+solver 2131 iteration 00001300
+solver 2131 iteration 00001400
+solver 2131 iteration 00001500
+solver 2131 iteration 00001600
+solver 2131 iteration 00001700
+solver 2131 iteration 00001800
+solver 2131 iteration 00001900
+solver 2131 iteration 00002000
+solver 2131 iteration 00002100
+solver 2131 iteration 00002200
+solver 2131 iteration 00002300
+execution time  5013.95361655578
+loading track 1017 with 2854 data points
+writing config {'trackidx': 1017} to _top_1017/config.json
+writing to  _top_1017/data.pkl
+using sigma = 0.009728971466031668
+writing to  _top_1017/config.json
+solver 1017 iteration 00000000
+solver 1017 iteration 00000100
+solver 1017 iteration 00000200
+solver 1017 iteration 00000300
+solver 1017 iteration 00000400
+solver 1017 iteration 00000500
+solver 1017 iteration 00000600
+solver 1017 iteration 00000700
+solver 1017 iteration 00000800
+solver 1017 iteration 00000900
+solver 1017 iteration 00001000
+solver 1017 iteration 00001100
+solver 1017 iteration 00001200
+solver 1017 iteration 00001300
+solver 1017 iteration 00001400
+solver 1017 iteration 00001500
+execution time  3150.125799426809
+loading track 3033 with 3044 data points
+writing config {'trackidx': 3033} to _top_3033/config.json
+writing to  _top_3033/data.pkl
+using sigma = 0.011603724078633948
+writing to  _top_3033/config.json
+solver 3033 iteration 00000000
+solver 3033 iteration 00000100
+solver 3033 iteration 00000200
+solver 3033 iteration 00000300
+solver 3033 iteration 00000400
+solver 3033 iteration 00000500
+solver 3033 iteration 00000600
+solver 3033 iteration 00000700
+solver 3033 iteration 00000800
+solver 3033 iteration 00000900
+solver 3033 iteration 00001000
+solver 3033 iteration 00001100
+solver 3033 iteration 00001200
+solver 3033 iteration 00001300
+solver 3033 iteration 00001400
+execution time  2428.717165691778
+loading track 1154 with 2285 data points
+writing config {'trackidx': 1154} to _top_1154/config.json
+writing to  _top_1154/data.pkl
+using sigma = 0.01598142721324011
+writing to  _top_1154/config.json
+solver 1154 iteration 00000000
+solver 1154 iteration 00000100
+solver 1154 iteration 00000200
+solver 1154 iteration 00000300
+solver 1154 iteration 00000400
+solver 1154 iteration 00000500
+solver 1154 iteration 00000600
+solver 1154 iteration 00000700
+solver 1154 iteration 00000800
+solver 1154 iteration 00000900
+solver 1154 iteration 00001000
+solver 1154 iteration 00001100
+solver 1154 iteration 00001200
+execution time  1931.133266640827
+loading track 658 with 3594 data points
+writing config {'trackidx': 658} to _top_0658/config.json
+writing to  _top_0658/data.pkl
+using sigma = 0.013855628400891828
+writing to  _top_0658/config.json
+solver 658 iteration 00000000
+solver 658 iteration 00000100
+solver 658 iteration 00000200
+solver 658 iteration 00000300
+solver 658 iteration 00000400
+solver 658 iteration 00000500
+solver 658 iteration 00000600
+solver 658 iteration 00000700
+solver 658 iteration 00000800
+solver 658 iteration 00000900
+solver 658 iteration 00001000
+solver 658 iteration 00001100
+solver 658 iteration 00001200
+solver 658 iteration 00001300
+solver 658 iteration 00001400
+solver 658 iteration 00001500
+execution time  2656.181337086484
+loading track 705 with 2809 data points
+writing config {'trackidx': 705} to _top_0705/config.json
+writing to  _top_0705/data.pkl
+using sigma = 0.013044160839818263
+writing to  _top_0705/config.json
+solver 705 iteration 00000000
+solver 705 iteration 00000100
+solver 705 iteration 00000200
+solver 705 iteration 00000300
+solver 705 iteration 00000400
+solver 705 iteration 00000500
+solver 705 iteration 00000600
+solver 705 iteration 00000700
+solver 705 iteration 00000800
+solver 705 iteration 00000900
+solver 705 iteration 00001000
+solver 705 iteration 00001100
+execution time  1688.8720033299178
+loading track 2350 with 4655 data points
+writing config {'trackidx': 2350} to _top_2350/config.json
+writing to  _top_2350/data.pkl
+using sigma = 0.009420970410650023
+writing to  _top_2350/config.json
+solver 2350 iteration 00000000
+solver 2350 iteration 00000100
+solver 2350 iteration 00000200
+solver 2350 iteration 00000300
+solver 2350 iteration 00000400
+solver 2350 iteration 00000500
+solver 2350 iteration 00000600
+solver 2350 iteration 00000700
+solver 2350 iteration 00000800
+solver 2350 iteration 00000900
+solver 2350 iteration 00001000
+solver 2350 iteration 00001100
+solver 2350 iteration 00001200
+solver 2350 iteration 00001300
+solver 2350 iteration 00001400
+solver 2350 iteration 00001500
+solver 2350 iteration 00001600
+solver 2350 iteration 00001700
+solver 2350 iteration 00001800
+solver 2350 iteration 00001900
+solver 2350 iteration 00002000
+solver 2350 iteration 00002100
+solver 2350 iteration 00002200
+solver 2350 iteration 00002300
+solver 2350 iteration 00002400
+solver 2350 iteration 00002500
+solver 2350 iteration 00002600
+solver 2350 iteration 00002700
+solver 2350 iteration 00002800
+execution time  5338.397343894467
+loading track 518 with 5184 data points
+writing config {'trackidx': 518} to _top_0518/config.json
+writing to  _top_0518/data.pkl
+using sigma = 0.011584877807524607
+writing to  _top_0518/config.json
+solver 518 iteration 00000000
+solver 518 iteration 00000100
+solver 518 iteration 00000200
+solver 518 iteration 00000300
+solver 518 iteration 00000400
+solver 518 iteration 00000500
+solver 518 iteration 00000600
+solver 518 iteration 00000700
+solver 518 iteration 00000800
+solver 518 iteration 00000900
+solver 518 iteration 00001000
+solver 518 iteration 00001100
+solver 518 iteration 00001200
+solver 518 iteration 00001300
+solver 518 iteration 00001400
+solver 518 iteration 00001500
+solver 518 iteration 00001600
+solver 518 iteration 00001700
+solver 518 iteration 00001800
+solver 518 iteration 00001900
+solver 518 iteration 00002000
+solver 518 iteration 00002100
+solver 518 iteration 00002200
+solver 518 iteration 00002300
+solver 518 iteration 00002400
+execution time  4934.425814175978
+loading track 1265 with 2452 data points
+writing config {'trackidx': 1265} to _top_1265/config.json
+writing to  _top_1265/data.pkl
+using sigma = 0.007035912548134877
+writing to  _top_1265/config.json
+solver 1265 iteration 00000000
+solver 1265 iteration 00000100
+solver 1265 iteration 00000200
+solver 1265 iteration 00000300
+solver 1265 iteration 00000400
+solver 1265 iteration 00000500
+solver 1265 iteration 00000600
+solver 1265 iteration 00000700
+solver 1265 iteration 00000800
+solver 1265 iteration 00000900
+solver 1265 iteration 00001000
+solver 1265 iteration 00001100
+execution time  2083.7034253664315
+loading track 921 with 2094 data points
+writing config {'trackidx': 921} to _top_0921/config.json
+writing to  _top_0921/data.pkl
+using sigma = 0.009937780191792353
+writing to  _top_0921/config.json
+solver 921 iteration 00000000
+solver 921 iteration 00000100
+solver 921 iteration 00000200
+solver 921 iteration 00000300
+solver 921 iteration 00000400
+solver 921 iteration 00000500
+solver 921 iteration 00000600
+solver 921 iteration 00000700
+solver 921 iteration 00000800
+solver 921 iteration 00000900
+solver 921 iteration 00001000
+solver 921 iteration 00001100
+solver 921 iteration 00001200
+solver 921 iteration 00001300
+solver 921 iteration 00001400
+solver 921 iteration 00001500
+solver 921 iteration 00001600
+solver 921 iteration 00001700
+solver 921 iteration 00001800
+execution time  3151.6356441155076
+loading track 1596 with 1945 data points
+writing config {'trackidx': 1596} to _top_1596/config.json
+writing to  _top_1596/data.pkl
+using sigma = 0.008725859609897673
+writing to  _top_1596/config.json
+solver 1596 iteration 00000000
+solver 1596 iteration 00000100
+solver 1596 iteration 00000200
+solver 1596 iteration 00000300
+solver 1596 iteration 00000400
+solver 1596 iteration 00000500
+solver 1596 iteration 00000600
+solver 1596 iteration 00000700
+solver 1596 iteration 00000800
+solver 1596 iteration 00000900
+solver 1596 iteration 00001000
+solver 1596 iteration 00001100
+solver 1596 iteration 00001200
+solver 1596 iteration 00001300
+solver 1596 iteration 00001400
+execution time  2711.7854653354734
+loading track 1065 with 2293 data points
+writing config {'trackidx': 1065} to _top_1065/config.json
+writing to  _top_1065/data.pkl
+using sigma = 0.009339736147503028
+writing to  _top_1065/config.json
+solver 1065 iteration 00000000
+solver 1065 iteration 00000100
+solver 1065 iteration 00000200
+solver 1065 iteration 00000300
+solver 1065 iteration 00000400
+solver 1065 iteration 00000500
+solver 1065 iteration 00000600
+solver 1065 iteration 00000700
+solver 1065 iteration 00000800
+solver 1065 iteration 00000900
+solver 1065 iteration 00001000
+solver 1065 iteration 00001100
+solver 1065 iteration 00001200
+execution time  2197.077838651836
+loading track 1687 with 2192 data points
+writing config {'trackidx': 1687} to _top_1687/config.json
+writing to  _top_1687/data.pkl
+using sigma = 0.007810702237555423
+writing to  _top_1687/config.json
+solver 1687 iteration 00000000
+solver 1687 iteration 00000100
+solver 1687 iteration 00000200
+solver 1687 iteration 00000300
+solver 1687 iteration 00000400
+solver 1687 iteration 00000500
+solver 1687 iteration 00000600
+solver 1687 iteration 00000700
+solver 1687 iteration 00000800
+solver 1687 iteration 00000900
+solver 1687 iteration 00001000
+execution time  1600.192040340975
+loading track 2906 with 4074 data points
+writing config {'trackidx': 2906} to _top_2906/config.json
+writing to  _top_2906/data.pkl
+using sigma = 0.010434145125115396
+writing to  _top_2906/config.json
+solver 2906 iteration 00000000
+solver 2906 iteration 00000100
+solver 2906 iteration 00000200
+solver 2906 iteration 00000300
+solver 2906 iteration 00000400
+solver 2906 iteration 00000500
+solver 2906 iteration 00000600
+solver 2906 iteration 00000700
+solver 2906 iteration 00000800
+solver 2906 iteration 00000900
+solver 2906 iteration 00001000
+solver 2906 iteration 00001100
+solver 2906 iteration 00001200
+solver 2906 iteration 00001300
+solver 2906 iteration 00001400
+solver 2906 iteration 00001500
+solver 2906 iteration 00001600
+solver 2906 iteration 00001700
+solver 2906 iteration 00001800
+solver 2906 iteration 00001900
+solver 2906 iteration 00002000
+solver 2906 iteration 00002100
+solver 2906 iteration 00002200
+solver 2906 iteration 00002300
+solver 2906 iteration 00002400
+execution time  4137.6665615178645
+loading track 2122 with 4535 data points
+writing config {'trackidx': 2122} to _top_2122/config.json
+writing to  _top_2122/data.pkl
+using sigma = 0.009648245678460867
+writing to  _top_2122/config.json
+solver 2122 iteration 00000000
+solver 2122 iteration 00000100
+solver 2122 iteration 00000200
+solver 2122 iteration 00000300
+solver 2122 iteration 00000400
+solver 2122 iteration 00000500
+solver 2122 iteration 00000600
+solver 2122 iteration 00000700
+solver 2122 iteration 00000800
+solver 2122 iteration 00000900
+solver 2122 iteration 00001000
+solver 2122 iteration 00001100
+solver 2122 iteration 00001200
+solver 2122 iteration 00001300
+solver 2122 iteration 00001400
+solver 2122 iteration 00001500
+solver 2122 iteration 00001600
+solver 2122 iteration 00001700
+solver 2122 iteration 00001800
+solver 2122 iteration 00001900
+solver 2122 iteration 00002000
+solver 2122 iteration 00002100
+solver 2122 iteration 00002200
+solver 2122 iteration 00002300
+solver 2122 iteration 00002400
+solver 2122 iteration 00002500
+solver 2122 iteration 00002600
+solver 2122 iteration 00002700
+solver 2122 iteration 00002800
+solver 2122 iteration 00002900
+solver 2122 iteration 00003000
+solver 2122 iteration 00003100
+solver 2122 iteration 00003200
+execution time  6041.485626325011
+loading track 845 with 4495 data points
+writing config {'trackidx': 845} to _top_0845/config.json
+writing to  _top_0845/data.pkl
+using sigma = 0.013753171101972644
+writing to  _top_0845/config.json
+solver 845 iteration 00000000
+solver 845 iteration 00000100
+solver 845 iteration 00000200
+solver 845 iteration 00000300
+solver 845 iteration 00000400
+solver 845 iteration 00000500
+solver 845 iteration 00000600
+solver 845 iteration 00000700
+solver 845 iteration 00000800
+solver 845 iteration 00000900
+solver 845 iteration 00001000
+solver 845 iteration 00001100
+solver 845 iteration 00001200
+solver 845 iteration 00001300
+solver 845 iteration 00001400
+solver 845 iteration 00001500
+solver 845 iteration 00001600
+solver 845 iteration 00001700
+solver 845 iteration 00001800
+solver 845 iteration 00001900
+solver 845 iteration 00002000
+solver 845 iteration 00002100
+solver 845 iteration 00002200
+solver 845 iteration 00002300
+solver 845 iteration 00002400
+solver 845 iteration 00002500
+solver 845 iteration 00002600
+solver 845 iteration 00002700
+solver 845 iteration 00002800
+solver 845 iteration 00002900
+solver 845 iteration 00003000
+execution time  5057.370888445526
+loading track 2942 with 3839 data points
+writing config {'trackidx': 2942} to _top_2942/config.json
+writing to  _top_2942/data.pkl
+using sigma = 0.010646777045109574
+writing to  _top_2942/config.json
+solver 2942 iteration 00000000
+solver 2942 iteration 00000100
+solver 2942 iteration 00000200
+solver 2942 iteration 00000300
+solver 2942 iteration 00000400
+solver 2942 iteration 00000500
+solver 2942 iteration 00000600
+solver 2942 iteration 00000700
+solver 2942 iteration 00000800
+solver 2942 iteration 00000900
+solver 2942 iteration 00001000
+solver 2942 iteration 00001100
+solver 2942 iteration 00001200
+solver 2942 iteration 00001300
+solver 2942 iteration 00001400
+solver 2942 iteration 00001500
+solver 2942 iteration 00001600
+solver 2942 iteration 00001700
+solver 2942 iteration 00001800
+solver 2942 iteration 00001900
+solver 2942 iteration 00002000
+solver 2942 iteration 00002100
+execution time  3742.726183777675
+loading track 290 with 7156 data points
+writing config {'trackidx': 290} to _top_0290/config.json
+writing to  _top_0290/data.pkl
+using sigma = 0.011657585962879073
+writing to  _top_0290/config.json
+solver 290 iteration 00000000
+solver 290 iteration 00000100
+solver 290 iteration 00000200
+solver 290 iteration 00000300
+solver 290 iteration 00000400
+solver 290 iteration 00000500
+solver 290 iteration 00000600
+solver 290 iteration 00000700
+solver 290 iteration 00000800
+solver 290 iteration 00000900
+solver 290 iteration 00001000
+solver 290 iteration 00001100
+solver 290 iteration 00001200
+solver 290 iteration 00001300
+solver 290 iteration 00001400
+solver 290 iteration 00001500
+solver 290 iteration 00001600
+solver 290 iteration 00001700
+solver 290 iteration 00001800
+solver 290 iteration 00001900
+solver 290 iteration 00002000
+solver 290 iteration 00002100
+solver 290 iteration 00002200
+solver 290 iteration 00002300
+solver 290 iteration 00002400
+solver 290 iteration 00002500
+solver 290 iteration 00002600
+solver 290 iteration 00002700
+solver 290 iteration 00002800
+solver 290 iteration 00002900
+execution time  4785.970466636121
+loading track 398 with 4521 data points
+writing config {'trackidx': 398} to _top_0398/config.json
+writing to  _top_0398/data.pkl
+using sigma = 0.012167788437440957
+writing to  _top_0398/config.json
+solver 398 iteration 00000000
+solver 398 iteration 00000100
+solver 398 iteration 00000200
+solver 398 iteration 00000300
+solver 398 iteration 00000400
+solver 398 iteration 00000500
+solver 398 iteration 00000600
+solver 398 iteration 00000700
+solver 398 iteration 00000800
+solver 398 iteration 00000900
+solver 398 iteration 00001000
+solver 398 iteration 00001100
+solver 398 iteration 00001200
+solver 398 iteration 00001300
+solver 398 iteration 00001400
+solver 398 iteration 00001500
+solver 398 iteration 00001600
+solver 398 iteration 00001700
+solver 398 iteration 00001800
+solver 398 iteration 00001900
+solver 398 iteration 00002000
+solver 398 iteration 00002100
+solver 398 iteration 00002200
+solver 398 iteration 00002300
+solver 398 iteration 00002400
+solver 398 iteration 00002500
+solver 398 iteration 00002600
+execution time  4802.398566225544
+loading track 517 with 5899 data points
+writing config {'trackidx': 517} to _top_0517/config.json
+writing to  _top_0517/data.pkl
+using sigma = 0.010825011062909392
+writing to  _top_0517/config.json
+solver 517 iteration 00000000
+solver 517 iteration 00000100
+solver 517 iteration 00000200
+solver 517 iteration 00000300
+solver 517 iteration 00000400
+solver 517 iteration 00000500
+solver 517 iteration 00000600
+solver 517 iteration 00000700
+solver 517 iteration 00000800
+solver 517 iteration 00000900
+solver 517 iteration 00001000
+solver 517 iteration 00001100
+solver 517 iteration 00001200
+solver 517 iteration 00001300
+solver 517 iteration 00001400
+solver 517 iteration 00001500
+solver 517 iteration 00001600
+solver 517 iteration 00001700
+solver 517 iteration 00001800
+solver 517 iteration 00001900
+solver 517 iteration 00002000
+solver 517 iteration 00002100
+solver 517 iteration 00002200
+solver 517 iteration 00002300
+solver 517 iteration 00002400
+solver 517 iteration 00002500
+solver 517 iteration 00002600
+solver 517 iteration 00002700
+solver 517 iteration 00002800
+solver 517 iteration 00002900
+solver 517 iteration 00003000
+solver 517 iteration 00003100
+execution time  5686.786523658782
+loading track 1680 with 3272 data points
+writing config {'trackidx': 1680} to _top_1680/config.json
+writing to  _top_1680/data.pkl
+using sigma = 0.00886718247501124
+writing to  _top_1680/config.json
+solver 1680 iteration 00000000
+solver 1680 iteration 00000100
+solver 1680 iteration 00000200
+solver 1680 iteration 00000300
+solver 1680 iteration 00000400
+solver 1680 iteration 00000500
+solver 1680 iteration 00000600
+solver 1680 iteration 00000700
+solver 1680 iteration 00000800
+solver 1680 iteration 00000900
+solver 1680 iteration 00001000
+solver 1680 iteration 00001100
+solver 1680 iteration 00001200
+solver 1680 iteration 00001300
+solver 1680 iteration 00001400
+solver 1680 iteration 00001500
+solver 1680 iteration 00001600
+solver 1680 iteration 00001700
+solver 1680 iteration 00001800
+solver 1680 iteration 00001900
+solver 1680 iteration 00002000
+solver 1680 iteration 00002100
+solver 1680 iteration 00002200
+solver 1680 iteration 00002300
+solver 1680 iteration 00002400
+solver 1680 iteration 00002500
+execution time  4156.786107229069
+loading track 1325 with 4237 data points
+writing config {'trackidx': 1325} to _top_1325/config.json
+writing to  _top_1325/data.pkl
+using sigma = 0.010029938847262816
+writing to  _top_1325/config.json
+solver 1325 iteration 00000000
+solver 1325 iteration 00000100
+solver 1325 iteration 00000200
+solver 1325 iteration 00000300
+solver 1325 iteration 00000400
+solver 1325 iteration 00000500
+solver 1325 iteration 00000600
+solver 1325 iteration 00000700
+solver 1325 iteration 00000800
+solver 1325 iteration 00000900
+solver 1325 iteration 00001000
+solver 1325 iteration 00001100
+solver 1325 iteration 00001200
+solver 1325 iteration 00001300
+solver 1325 iteration 00001400
+solver 1325 iteration 00001500
+solver 1325 iteration 00001600
+solver 1325 iteration 00001700
+solver 1325 iteration 00001800
+solver 1325 iteration 00001900
+solver 1325 iteration 00002000
+execution time  3264.6093273311853
+loading track 2614 with 3332 data points
+writing config {'trackidx': 2614} to _top_2614/config.json
+writing to  _top_2614/data.pkl
+using sigma = 0.007963402935496536
+writing to  _top_2614/config.json
+solver 2614 iteration 00000000
+solver 2614 iteration 00000100
+solver 2614 iteration 00000200
+solver 2614 iteration 00000300
+solver 2614 iteration 00000400
+solver 2614 iteration 00000500
+solver 2614 iteration 00000600
+solver 2614 iteration 00000700
+solver 2614 iteration 00000800
+solver 2614 iteration 00000900
+solver 2614 iteration 00001000
+solver 2614 iteration 00001100
+solver 2614 iteration 00001200
+solver 2614 iteration 00001300
+solver 2614 iteration 00001400
+solver 2614 iteration 00001500
+solver 2614 iteration 00001600
+solver 2614 iteration 00001700
+solver 2614 iteration 00001800
+solver 2614 iteration 00001900
+solver 2614 iteration 00002000
+solver 2614 iteration 00002100
+execution time  3890.173433754593
+loading track 1145 with 2821 data points
+writing config {'trackidx': 1145} to _top_1145/config.json
+writing to  _top_1145/data.pkl
+using sigma = 0.009990694676384047
+writing to  _top_1145/config.json
+solver 1145 iteration 00000000
+solver 1145 iteration 00000100
+solver 1145 iteration 00000200
+solver 1145 iteration 00000300
+solver 1145 iteration 00000400
+solver 1145 iteration 00000500
+solver 1145 iteration 00000600
+solver 1145 iteration 00000700
+solver 1145 iteration 00000800
+solver 1145 iteration 00000900
+solver 1145 iteration 00001000
+solver 1145 iteration 00001100
+solver 1145 iteration 00001200
+solver 1145 iteration 00001300
+solver 1145 iteration 00001400
+solver 1145 iteration 00001500
+solver 1145 iteration 00001600
+execution time  2561.9300285615027
+loading track 1924 with 2928 data points
+writing config {'trackidx': 1924} to _top_1924/config.json
+writing to  _top_1924/data.pkl
+using sigma = 0.008210720122017227
+writing to  _top_1924/config.json
+solver 1924 iteration 00000000
+solver 1924 iteration 00000100
+solver 1924 iteration 00000200
+solver 1924 iteration 00000300
+solver 1924 iteration 00000400
+solver 1924 iteration 00000500
+solver 1924 iteration 00000600
+solver 1924 iteration 00000700
+solver 1924 iteration 00000800
+solver 1924 iteration 00000900
+solver 1924 iteration 00001000
+solver 1924 iteration 00001100
+solver 1924 iteration 00001200
+solver 1924 iteration 00001300
+solver 1924 iteration 00001400
+solver 1924 iteration 00001500
+solver 1924 iteration 00001600
+solver 1924 iteration 00001700
+solver 1924 iteration 00001800
+solver 1924 iteration 00001900
+solver 1924 iteration 00002000
+solver 1924 iteration 00002100
+solver 1924 iteration 00002200
+solver 1924 iteration 00002300
+execution time  4076.671678546816
+loading track 644 with 6223 data points
+writing config {'trackidx': 644} to _top_0644/config.json
+writing to  _top_0644/data.pkl
+using sigma = 0.013990314356749975
+writing to  _top_0644/config.json
+solver 644 iteration 00000000
+solver 644 iteration 00000100
+solver 644 iteration 00000200
+solver 644 iteration 00000300
+solver 644 iteration 00000400
+solver 644 iteration 00000500
+solver 644 iteration 00000600
+solver 644 iteration 00000700
+solver 644 iteration 00000800
+solver 644 iteration 00000900
+solver 644 iteration 00001000
+solver 644 iteration 00001100
+solver 644 iteration 00001200
+solver 644 iteration 00001300
+solver 644 iteration 00001400
+solver 644 iteration 00001500
+solver 644 iteration 00001600
+solver 644 iteration 00001700
+solver 644 iteration 00001800
+solver 644 iteration 00001900
+solver 644 iteration 00002000
+solver 644 iteration 00002100
+solver 644 iteration 00002200
+solver 644 iteration 00002300
+execution time  3217.976612271741
+loading track 1705 with 4867 data points
+writing config {'trackidx': 1705} to _top_1705/config.json
+writing to  _top_1705/data.pkl
+using sigma = 0.014232455883522777
+writing to  _top_1705/config.json
+solver 1705 iteration 00000000
+solver 1705 iteration 00000100
+solver 1705 iteration 00000200
+solver 1705 iteration 00000300
+solver 1705 iteration 00000400
+solver 1705 iteration 00000500
+solver 1705 iteration 00000600
+solver 1705 iteration 00000700
+solver 1705 iteration 00000800
+solver 1705 iteration 00000900
+solver 1705 iteration 00001000
+solver 1705 iteration 00001100
+solver 1705 iteration 00001200
+solver 1705 iteration 00001300
+solver 1705 iteration 00001400
+solver 1705 iteration 00001500
+solver 1705 iteration 00001600
+solver 1705 iteration 00001700
+solver 1705 iteration 00001800
+solver 1705 iteration 00001900
+solver 1705 iteration 00002000
+solver 1705 iteration 00002100
+solver 1705 iteration 00002200
+solver 1705 iteration 00002300
+solver 1705 iteration 00002400
+solver 1705 iteration 00002500
+execution time  3589.6703251451254
+loading track 1477 with 4683 data points
+writing config {'trackidx': 1477} to _top_1477/config.json
+writing to  _top_1477/data.pkl
+using sigma = 0.009885273120003632
+writing to  _top_1477/config.json
+solver 1477 iteration 00000000
+solver 1477 iteration 00000100
+solver 1477 iteration 00000200
+solver 1477 iteration 00000300
+solver 1477 iteration 00000400
+solver 1477 iteration 00000500
+solver 1477 iteration 00000600
+solver 1477 iteration 00000700
+solver 1477 iteration 00000800
+solver 1477 iteration 00000900
+solver 1477 iteration 00001000
+solver 1477 iteration 00001100
+solver 1477 iteration 00001200
+solver 1477 iteration 00001300
+solver 1477 iteration 00001400
+solver 1477 iteration 00001500
+solver 1477 iteration 00001600
+solver 1477 iteration 00001700
+solver 1477 iteration 00001800
+solver 1477 iteration 00001900
+execution time  2682.712443416938
+loading track 238 with 4125 data points
+writing config {'trackidx': 238} to _top_0238/config.json
+writing to  _top_0238/data.pkl
+using sigma = 0.010932177604877608
+writing to  _top_0238/config.json
+solver 238 iteration 00000000
+solver 238 iteration 00000100
+solver 238 iteration 00000200
+solver 238 iteration 00000300
+solver 238 iteration 00000400
+solver 238 iteration 00000500
+solver 238 iteration 00000600
+solver 238 iteration 00000700
+solver 238 iteration 00000800
+solver 238 iteration 00000900
+solver 238 iteration 00001000
+solver 238 iteration 00001100
+solver 238 iteration 00001200
+solver 238 iteration 00001300
+solver 238 iteration 00001400
+solver 238 iteration 00001500
+solver 238 iteration 00001600
+solver 238 iteration 00001700
+solver 238 iteration 00001800
+solver 238 iteration 00001900
+solver 238 iteration 00002000
+solver 238 iteration 00002100
+solver 238 iteration 00002200
+solver 238 iteration 00002300
+solver 238 iteration 00002400
+execution time  3509.2361877616495
+loading track 2374 with 4744 data points
+writing config {'trackidx': 2374} to _top_2374/config.json
+writing to  _top_2374/data.pkl
+using sigma = 0.00879279495192934
+writing to  _top_2374/config.json
+solver 2374 iteration 00000000
+solver 2374 iteration 00000100
+solver 2374 iteration 00000200
+solver 2374 iteration 00000300
+solver 2374 iteration 00000400
+solver 2374 iteration 00000500
+solver 2374 iteration 00000600
+solver 2374 iteration 00000700
+solver 2374 iteration 00000800
+solver 2374 iteration 00000900
+solver 2374 iteration 00001000
+solver 2374 iteration 00001100
+solver 2374 iteration 00001200
+solver 2374 iteration 00001300
+solver 2374 iteration 00001400
+solver 2374 iteration 00001500
+solver 2374 iteration 00001600
+solver 2374 iteration 00001700
+solver 2374 iteration 00001800
+solver 2374 iteration 00001900
+solver 2374 iteration 00002000
+solver 2374 iteration 00002100
+solver 2374 iteration 00002200
+solver 2374 iteration 00002300
+solver 2374 iteration 00002400
+solver 2374 iteration 00002500
+solver 2374 iteration 00002600
+execution time  4222.0771715361625
+loading track 3007 with 3644 data points
+writing config {'trackidx': 3007} to _top_3007/config.json
+writing to  _top_3007/data.pkl
+using sigma = 0.008108406534968018
+writing to  _top_3007/config.json
+solver 3007 iteration 00000000
+solver 3007 iteration 00000100
+solver 3007 iteration 00000200
+solver 3007 iteration 00000300
+solver 3007 iteration 00000400
+solver 3007 iteration 00000500
+solver 3007 iteration 00000600
+solver 3007 iteration 00000700
+solver 3007 iteration 00000800
+solver 3007 iteration 00000900
+solver 3007 iteration 00001000
+solver 3007 iteration 00001100
+solver 3007 iteration 00001200
+solver 3007 iteration 00001300
+solver 3007 iteration 00001400
+solver 3007 iteration 00001500
+solver 3007 iteration 00001600
+solver 3007 iteration 00001700
+solver 3007 iteration 00001800
+solver 3007 iteration 00001900
+solver 3007 iteration 00002000
+solver 3007 iteration 00002100
+solver 3007 iteration 00002200
+solver 3007 iteration 00002300
+solver 3007 iteration 00002400
+execution time  4150.516530774534
+loading track 2970 with 3660 data points
+writing config {'trackidx': 2970} to _top_2970/config.json
+writing to  _top_2970/data.pkl
+using sigma = 0.009347909426025446
+writing to  _top_2970/config.json
+solver 2970 iteration 00000000
+solver 2970 iteration 00000100
+solver 2970 iteration 00000200
+solver 2970 iteration 00000300
+solver 2970 iteration 00000400
+solver 2970 iteration 00000500
+solver 2970 iteration 00000600
+solver 2970 iteration 00000700
+solver 2970 iteration 00000800
+solver 2970 iteration 00000900
+solver 2970 iteration 00001000
+solver 2970 iteration 00001100
+solver 2970 iteration 00001200
+solver 2970 iteration 00001300
+solver 2970 iteration 00001400
+solver 2970 iteration 00001500
+solver 2970 iteration 00001600
+solver 2970 iteration 00001700
+solver 2970 iteration 00001800
+solver 2970 iteration 00001900
+solver 2970 iteration 00002000
+solver 2970 iteration 00002100
+solver 2970 iteration 00002200
+solver 2970 iteration 00002300
+execution time  3043.512265028432
+loading track 1021 with 5591 data points
+writing config {'trackidx': 1021} to _top_1021/config.json
+writing to  _top_1021/data.pkl
+using sigma = 0.011506211400084223
+writing to  _top_1021/config.json
+solver 1021 iteration 00000000
+solver 1021 iteration 00000100
+solver 1021 iteration 00000200
+solver 1021 iteration 00000300
+solver 1021 iteration 00000400
+solver 1021 iteration 00000500
+solver 1021 iteration 00000600
+solver 1021 iteration 00000700
+solver 1021 iteration 00000800
+solver 1021 iteration 00000900
+solver 1021 iteration 00001000
+solver 1021 iteration 00001100
+solver 1021 iteration 00001200
+solver 1021 iteration 00001300
+solver 1021 iteration 00001400
+solver 1021 iteration 00001500
+solver 1021 iteration 00001600
+solver 1021 iteration 00001700
+solver 1021 iteration 00001800
+solver 1021 iteration 00001900
+solver 1021 iteration 00002000
+solver 1021 iteration 00002100
+solver 1021 iteration 00002200
+solver 1021 iteration 00002300
+solver 1021 iteration 00002400
+execution time  3331.4252609405667
+loading track 2332 with 1213 data points
+writing config {'trackidx': 2332} to _top_2332/config.json
+writing to  _top_2332/data.pkl
+using sigma = 0.010498550849419284
+writing to  _top_2332/config.json
+solver 2332 iteration 00000000
+solver 2332 iteration 00000100
+solver 2332 iteration 00000200
+solver 2332 iteration 00000300
+solver 2332 iteration 00000400
+solver 2332 iteration 00000500
+solver 2332 iteration 00000600
+solver 2332 iteration 00000700
+solver 2332 iteration 00000800
+solver 2332 iteration 00000900
+solver 2332 iteration 00001000
+solver 2332 iteration 00001100
+solver 2332 iteration 00001200
+solver 2332 iteration 00001300
+solver 2332 iteration 00001400
+solver 2332 iteration 00001500
+solver 2332 iteration 00001600
+solver 2332 iteration 00001700
+solver 2332 iteration 00001800
+solver 2332 iteration 00001900
+solver 2332 iteration 00002000
+solver 2332 iteration 00002100
+solver 2332 iteration 00002200
+solver 2332 iteration 00002300
+solver 2332 iteration 00002400
+solver 2332 iteration 00002500
+solver 2332 iteration 00002600
+solver 2332 iteration 00002700
+solver 2332 iteration 00002800
+solver 2332 iteration 00002900
+solver 2332 iteration 00003000
+solver 2332 iteration 00003100
+solver 2332 iteration 00003200
+solver 2332 iteration 00003300
+solver 2332 iteration 00003400
+solver 2332 iteration 00003500
+solver 2332 iteration 00003600
+solver 2332 iteration 00003700
+solver 2332 iteration 00003800
+solver 2332 iteration 00003900
+solver 2332 iteration 00004000
+solver 2332 iteration 00004100
+solver 2332 iteration 00004200
+solver 2332 iteration 00004300
+solver 2332 iteration 00004400
+solver 2332 iteration 00004500
+solver 2332 iteration 00004600
+solver 2332 iteration 00004700
+solver 2332 iteration 00004800
+solver 2332 iteration 00004900
+solver 2332 iteration 00005000
+execution time  7526.897352335975
+loading track 1303 with 4853 data points
+writing config {'trackidx': 1303} to _top_1303/config.json
+writing to  _top_1303/data.pkl
+using sigma = 0.010206758353111672
+writing to  _top_1303/config.json
+solver 1303 iteration 00000000
+solver 1303 iteration 00000100
+solver 1303 iteration 00000200
+solver 1303 iteration 00000300
+solver 1303 iteration 00000400
+solver 1303 iteration 00000500
+solver 1303 iteration 00000600
+solver 1303 iteration 00000700
+solver 1303 iteration 00000800
+solver 1303 iteration 00000900
+solver 1303 iteration 00001000
+solver 1303 iteration 00001100
+solver 1303 iteration 00001200
+solver 1303 iteration 00001300
+solver 1303 iteration 00001400
+solver 1303 iteration 00001500
+solver 1303 iteration 00001600
+solver 1303 iteration 00001700
+solver 1303 iteration 00001800
+solver 1303 iteration 00001900
+solver 1303 iteration 00002000
+solver 1303 iteration 00002100
+execution time  2948.99677955918
+loading track 2309 with 2998 data points
+writing config {'trackidx': 2309} to _top_2309/config.json
+writing to  _top_2309/data.pkl
+using sigma = 0.008871372888679795
+writing to  _top_2309/config.json
+solver 2309 iteration 00000000
+solver 2309 iteration 00000100
+solver 2309 iteration 00000200
+solver 2309 iteration 00000300
+solver 2309 iteration 00000400
+solver 2309 iteration 00000500
+solver 2309 iteration 00000600
+solver 2309 iteration 00000700
+solver 2309 iteration 00000800
+solver 2309 iteration 00000900
+solver 2309 iteration 00001000
+solver 2309 iteration 00001100
+solver 2309 iteration 00001200
+solver 2309 iteration 00001300
+solver 2309 iteration 00001400
+solver 2309 iteration 00001500
+solver 2309 iteration 00001600
+solver 2309 iteration 00001700
+solver 2309 iteration 00001800
+solver 2309 iteration 00001900
+solver 2309 iteration 00002000
+solver 2309 iteration 00002100
+solver 2309 iteration 00002200
+execution time  3137.195266170427
+loading track 1968 with 3726 data points
+writing config {'trackidx': 1968} to _top_1968/config.json
+writing to  _top_1968/data.pkl
+using sigma = 0.010500524919488732
+writing to  _top_1968/config.json
+solver 1968 iteration 00000000
+solver 1968 iteration 00000100
+solver 1968 iteration 00000200
+solver 1968 iteration 00000300
+solver 1968 iteration 00000400
+solver 1968 iteration 00000500
+solver 1968 iteration 00000600
+solver 1968 iteration 00000700
+solver 1968 iteration 00000800
+solver 1968 iteration 00000900
+solver 1968 iteration 00001000
+solver 1968 iteration 00001100
+solver 1968 iteration 00001200
+solver 1968 iteration 00001300
+solver 1968 iteration 00001400
+solver 1968 iteration 00001500
+solver 1968 iteration 00001600
+solver 1968 iteration 00001700
+solver 1968 iteration 00001800
+solver 1968 iteration 00001900
+solver 1968 iteration 00002000
+solver 1968 iteration 00002100
+solver 1968 iteration 00002200
+solver 1968 iteration 00002300
+solver 1968 iteration 00002400
+solver 1968 iteration 00002500
+execution time  3417.041883243248
+loading track 1686 with 3834 data points
+writing config {'trackidx': 1686} to _top_1686/config.json
+writing to  _top_1686/data.pkl
+using sigma = 0.011110256058375683
+writing to  _top_1686/config.json
+solver 1686 iteration 00000000
+solver 1686 iteration 00000100
+solver 1686 iteration 00000200
+solver 1686 iteration 00000300
+solver 1686 iteration 00000400
+solver 1686 iteration 00000500
+solver 1686 iteration 00000600
+solver 1686 iteration 00000700
+solver 1686 iteration 00000800
+solver 1686 iteration 00000900
+solver 1686 iteration 00001000
+solver 1686 iteration 00001100
+solver 1686 iteration 00001200
+solver 1686 iteration 00001300
+solver 1686 iteration 00001400
+solver 1686 iteration 00001500
+solver 1686 iteration 00001600
+solver 1686 iteration 00001700
+solver 1686 iteration 00001800
+solver 1686 iteration 00001900
+solver 1686 iteration 00002000
+solver 1686 iteration 00002100
+solver 1686 iteration 00002200
+solver 1686 iteration 00002300
+solver 1686 iteration 00002400
+solver 1686 iteration 00002500
+solver 1686 iteration 00002600
+solver 1686 iteration 00002700
+solver 1686 iteration 00002800
+solver 1686 iteration 00002900
+solver 1686 iteration 00003000
+solver 1686 iteration 00003100
+solver 1686 iteration 00003200
+solver 1686 iteration 00003300
+solver 1686 iteration 00003400
+solver 1686 iteration 00003500
+solver 1686 iteration 00003600
+solver 1686 iteration 00003700
+solver 1686 iteration 00003800
+solver 1686 iteration 00003900
+solver 1686 iteration 00004000
+solver 1686 iteration 00004100
+solver 1686 iteration 00004200
+solver 1686 iteration 00004300
+solver 1686 iteration 00004400
+solver 1686 iteration 00004500
+solver 1686 iteration 00004600
+solver 1686 iteration 00004700
+solver 1686 iteration 00004800
+solver 1686 iteration 00004900
+solver 1686 iteration 00005000
+execution time  6899.422046652064
+loading track 2449 with 4937 data points
+writing config {'trackidx': 2449} to _top_2449/config.json
+writing to  _top_2449/data.pkl
+using sigma = 0.007043979250365423
+writing to  _top_2449/config.json
+solver 2449 iteration 00000000
+solver 2449 iteration 00000100
+solver 2449 iteration 00000200
+solver 2449 iteration 00000300
+solver 2449 iteration 00000400
+solver 2449 iteration 00000500
+solver 2449 iteration 00000600
+solver 2449 iteration 00000700
+solver 2449 iteration 00000800
+solver 2449 iteration 00000900
+solver 2449 iteration 00001000
+solver 2449 iteration 00001100
+solver 2449 iteration 00001200
+solver 2449 iteration 00001300
+solver 2449 iteration 00001400
+solver 2449 iteration 00001500
+solver 2449 iteration 00001600
+solver 2449 iteration 00001700
+solver 2449 iteration 00001800
+solver 2449 iteration 00001900
+solver 2449 iteration 00002000
+solver 2449 iteration 00002100
+solver 2449 iteration 00002200
+solver 2449 iteration 00002300
+execution time  3399.785476548597
+loading track 999 with 5196 data points
+writing config {'trackidx': 999} to _top_0999/config.json
+writing to  _top_0999/data.pkl
+using sigma = 0.009773273126082829
+writing to  _top_0999/config.json
+solver 999 iteration 00000000
+solver 999 iteration 00000100
+solver 999 iteration 00000200
+solver 999 iteration 00000300
+solver 999 iteration 00000400
+solver 999 iteration 00000500
+solver 999 iteration 00000600
+solver 999 iteration 00000700
+solver 999 iteration 00000800
+solver 999 iteration 00000900
+solver 999 iteration 00001000
+solver 999 iteration 00001100
+solver 999 iteration 00001200
+solver 999 iteration 00001300
+solver 999 iteration 00001400
+solver 999 iteration 00001500
+solver 999 iteration 00001600
+solver 999 iteration 00001700
+solver 999 iteration 00001800
+solver 999 iteration 00001900
+solver 999 iteration 00002000
+solver 999 iteration 00002100
+solver 999 iteration 00002200
+solver 999 iteration 00002300
+solver 999 iteration 00002400
+solver 999 iteration 00002500
+execution time  3081.8727423343807
+loading track 406 with 4509 data points
+writing config {'trackidx': 406} to _top_0406/config.json
+writing to  _top_0406/data.pkl
+using sigma = 0.00956003461398144
+writing to  _top_0406/config.json
+solver 406 iteration 00000000
+solver 406 iteration 00000100
+solver 406 iteration 00000200
+solver 406 iteration 00000300
+solver 406 iteration 00000400
+solver 406 iteration 00000500
+solver 406 iteration 00000600
+solver 406 iteration 00000700
+solver 406 iteration 00000800
+solver 406 iteration 00000900
+solver 406 iteration 00001000
+solver 406 iteration 00001100
+solver 406 iteration 00001200
+solver 406 iteration 00001300
+solver 406 iteration 00001400
+solver 406 iteration 00001500
+solver 406 iteration 00001600
+solver 406 iteration 00001700
+solver 406 iteration 00001800
+solver 406 iteration 00001900
+solver 406 iteration 00002000
+solver 406 iteration 00002100
+solver 406 iteration 00002200
+solver 406 iteration 00002300
+solver 406 iteration 00002400
+solver 406 iteration 00002500
+solver 406 iteration 00002600
+solver 406 iteration 00002700
+solver 406 iteration 00002800
+solver 406 iteration 00002900
+solver 406 iteration 00003000
+solver 406 iteration 00003100
+solver 406 iteration 00003200
+solver 406 iteration 00003300
+solver 406 iteration 00003400
+solver 406 iteration 00003500
+solver 406 iteration 00003600
+solver 406 iteration 00003700
+execution time  5740.343544276431
+loading track 1743 with 7581 data points
+writing config {'trackidx': 1743} to _top_1743/config.json
+writing to  _top_1743/data.pkl
+using sigma = 0.009249664147015167
+writing to  _top_1743/config.json
+solver 1743 iteration 00000000
+solver 1743 iteration 00000100
+solver 1743 iteration 00000200
+solver 1743 iteration 00000300
+solver 1743 iteration 00000400
+solver 1743 iteration 00000500
+solver 1743 iteration 00000600
+solver 1743 iteration 00000700
+solver 1743 iteration 00000800
+solver 1743 iteration 00000900
+solver 1743 iteration 00001000
+solver 1743 iteration 00001100
+solver 1743 iteration 00001200
+solver 1743 iteration 00001300
+solver 1743 iteration 00001400
+solver 1743 iteration 00001500
+solver 1743 iteration 00001600
+solver 1743 iteration 00001700
+solver 1743 iteration 00001800
+solver 1743 iteration 00001900
+solver 1743 iteration 00002000
+solver 1743 iteration 00002100
+solver 1743 iteration 00002200
+solver 1743 iteration 00002300
+solver 1743 iteration 00002400
+solver 1743 iteration 00002500
+solver 1743 iteration 00002600
+solver 1743 iteration 00002700
+solver 1743 iteration 00002800
+solver 1743 iteration 00002900
+solver 1743 iteration 00003000
+solver 1743 iteration 00003100
+execution time  4402.675633843988
+loading track 1068 with 5267 data points
+writing config {'trackidx': 1068} to _top_1068/config.json
+writing to  _top_1068/data.pkl
+using sigma = 0.012284666024052553
+writing to  _top_1068/config.json
+solver 1068 iteration 00000000
+solver 1068 iteration 00000100
+solver 1068 iteration 00000200
+solver 1068 iteration 00000300
+solver 1068 iteration 00000400
+solver 1068 iteration 00000500
+solver 1068 iteration 00000600
+solver 1068 iteration 00000700
+solver 1068 iteration 00000800
+solver 1068 iteration 00000900
+solver 1068 iteration 00001000
+solver 1068 iteration 00001100
+solver 1068 iteration 00001200
+solver 1068 iteration 00001300
+solver 1068 iteration 00001400
+solver 1068 iteration 00001500
+solver 1068 iteration 00001600
+solver 1068 iteration 00001700
+solver 1068 iteration 00001800
+solver 1068 iteration 00001900
+solver 1068 iteration 00002000
+solver 1068 iteration 00002100
+solver 1068 iteration 00002200
+solver 1068 iteration 00002300
+solver 1068 iteration 00002400
+solver 1068 iteration 00002500
+solver 1068 iteration 00002600
+solver 1068 iteration 00002700
+solver 1068 iteration 00002800
+solver 1068 iteration 00002900
+solver 1068 iteration 00003000
+solver 1068 iteration 00003100
+solver 1068 iteration 00003200
+solver 1068 iteration 00003300
+solver 1068 iteration 00003400
+solver 1068 iteration 00003500
+solver 1068 iteration 00003600
+solver 1068 iteration 00003700
+solver 1068 iteration 00003800
+execution time  4703.351823145524
+loading track 1945 with 9148 data points
+writing config {'trackidx': 1945} to _top_1945/config.json
+writing to  _top_1945/data.pkl
+using sigma = 0.008077572923618267
+writing to  _top_1945/config.json
+solver 1945 iteration 00000000
+solver 1945 iteration 00000100
+solver 1945 iteration 00000200
+solver 1945 iteration 00000300
+solver 1945 iteration 00000400
+solver 1945 iteration 00000500
+solver 1945 iteration 00000600
+solver 1945 iteration 00000700
+solver 1945 iteration 00000800
+solver 1945 iteration 00000900
+execution time  4693.5754432510585
+loading track 1595 with 4914 data points
+writing config {'trackidx': 1595} to _top_1595/config.json
+writing to  _top_1595/data.pkl
+using sigma = 0.009916762121369004
+writing to  _top_1595/config.json
+solver 1595 iteration 00000000
+solver 1595 iteration 00000100
+solver 1595 iteration 00000200
+solver 1595 iteration 00000300
+solver 1595 iteration 00000400
+solver 1595 iteration 00000500
+solver 1595 iteration 00000600
+solver 1595 iteration 00000700
+solver 1595 iteration 00000800
+solver 1595 iteration 00000900
+solver 1595 iteration 00001000
+solver 1595 iteration 00001100
+solver 1595 iteration 00001200
+solver 1595 iteration 00001300
+solver 1595 iteration 00001400
+solver 1595 iteration 00001500
+solver 1595 iteration 00001600
+solver 1595 iteration 00001700
+solver 1595 iteration 00001800
+solver 1595 iteration 00001900
+solver 1595 iteration 00002000
+solver 1595 iteration 00002100
+solver 1595 iteration 00002200
+solver 1595 iteration 00002300
+solver 1595 iteration 00002400
+solver 1595 iteration 00002500
+solver 1595 iteration 00002600
+solver 1595 iteration 00002700
+solver 1595 iteration 00002800
+solver 1595 iteration 00002900
+solver 1595 iteration 00003000
+solver 1595 iteration 00003100
+solver 1595 iteration 00003200
+solver 1595 iteration 00003300
+solver 1595 iteration 00003400
+solver 1595 iteration 00003500
+solver 1595 iteration 00003600
+solver 1595 iteration 00003700
+solver 1595 iteration 00003800
+solver 1595 iteration 00003900
+solver 1595 iteration 00004000
+solver 1595 iteration 00004100
+solver 1595 iteration 00004200
+solver 1595 iteration 00004300
+solver 1595 iteration 00004400
+solver 1595 iteration 00004500
+solver 1595 iteration 00004600
+solver 1595 iteration 00004700
+solver 1595 iteration 00004800
+solver 1595 iteration 00004900
+solver 1595 iteration 00005000
+execution time  6632.061556167901
+loading track 1291 with 6679 data points
+writing config {'trackidx': 1291} to _top_1291/config.json
+writing to  _top_1291/data.pkl
+using sigma = 0.008912915993151551
+writing to  _top_1291/config.json
+solver 1291 iteration 00000000
+solver 1291 iteration 00000100
+solver 1291 iteration 00000200
+solver 1291 iteration 00000300
+solver 1291 iteration 00000400
+solver 1291 iteration 00000500
+solver 1291 iteration 00000600
+solver 1291 iteration 00000700
+solver 1291 iteration 00000800
+solver 1291 iteration 00000900
+solver 1291 iteration 00001000
+solver 1291 iteration 00001100
+solver 1291 iteration 00001200
+solver 1291 iteration 00001300
+solver 1291 iteration 00001400
+solver 1291 iteration 00001500
+solver 1291 iteration 00001600
+solver 1291 iteration 00001700
+solver 1291 iteration 00001800
+solver 1291 iteration 00001900
+solver 1291 iteration 00002000
+solver 1291 iteration 00002100
+solver 1291 iteration 00002200
+solver 1291 iteration 00002300
+solver 1291 iteration 00002400
+solver 1291 iteration 00002500
+solver 1291 iteration 00002600
+solver 1291 iteration 00002700
+solver 1291 iteration 00002800
+solver 1291 iteration 00002900
+solver 1291 iteration 00003000
+solver 1291 iteration 00003100
+solver 1291 iteration 00003200
+solver 1291 iteration 00003300
+solver 1291 iteration 00003400
+solver 1291 iteration 00003500
+solver 1291 iteration 00003600
+solver 1291 iteration 00003700
+solver 1291 iteration 00003800
+solver 1291 iteration 00003900
+solver 1291 iteration 00004000
+solver 1291 iteration 00004100
+solver 1291 iteration 00004200
+solver 1291 iteration 00004300
+solver 1291 iteration 00004400
+solver 1291 iteration 00004500
+solver 1291 iteration 00004600
+execution time  5899.778208775446
+loading track 1368 with 5056 data points
+writing config {'trackidx': 1368} to _top_1368/config.json
+writing to  _top_1368/data.pkl
+using sigma = 0.008049104773340266
+writing to  _top_1368/config.json
+solver 1368 iteration 00000000
+solver 1368 iteration 00000100
+solver 1368 iteration 00000200
+solver 1368 iteration 00000300
+solver 1368 iteration 00000400
+solver 1368 iteration 00000500
+solver 1368 iteration 00000600
+solver 1368 iteration 00000700
+solver 1368 iteration 00000800
+solver 1368 iteration 00000900
+solver 1368 iteration 00001000
+solver 1368 iteration 00001100
+solver 1368 iteration 00001200
+solver 1368 iteration 00001300
+solver 1368 iteration 00001400
+solver 1368 iteration 00001500
+solver 1368 iteration 00001600
+solver 1368 iteration 00001700
+solver 1368 iteration 00001800
+solver 1368 iteration 00001900
+solver 1368 iteration 00002000
+solver 1368 iteration 00002100
+execution time  5345.1152157746255
+loading track 369 with 12197 data points
+writing config {'trackidx': 369} to _top_0369/config.json
+writing to  _top_0369/data.pkl
+using sigma = 0.010049782524177544
+writing to  _top_0369/config.json
+solver 369 iteration 00000000
+solver 369 iteration 00000100
+solver 369 iteration 00000200
+solver 369 iteration 00000300
+solver 369 iteration 00000400
+solver 369 iteration 00000500
+solver 369 iteration 00000600
+solver 369 iteration 00000700
+solver 369 iteration 00000800
+solver 369 iteration 00000900
+solver 369 iteration 00001000
+solver 369 iteration 00001100
+solver 369 iteration 00001200
+solver 369 iteration 00001300
+solver 369 iteration 00001400
+solver 369 iteration 00001500
+solver 369 iteration 00001600
+solver 369 iteration 00001700
+solver 369 iteration 00001800
+solver 369 iteration 00001900
+solver 369 iteration 00002000
+solver 369 iteration 00002100
+solver 369 iteration 00002200
+solver 369 iteration 00002300
+solver 369 iteration 00002400
+solver 369 iteration 00002500
+solver 369 iteration 00002600
+solver 369 iteration 00002700
+solver 369 iteration 00002800
+solver 369 iteration 00002900
+solver 369 iteration 00003000
+solver 369 iteration 00003100
+solver 369 iteration 00003200
+solver 369 iteration 00003300
+solver 369 iteration 00003400
+solver 369 iteration 00003500
+solver 369 iteration 00003600
+solver 369 iteration 00003700
+solver 369 iteration 00003800
+solver 369 iteration 00003900
+solver 369 iteration 00004000
+solver 369 iteration 00004100
+solver 369 iteration 00004200
+solver 369 iteration 00004300
+solver 369 iteration 00004400
+solver 369 iteration 00004500
+solver 369 iteration 00004600
+solver 369 iteration 00004700
+solver 369 iteration 00004800
+solver 369 iteration 00004900
+solver 369 iteration 00005000
+execution time  6052.7413365561515
+loading track 368 with 7448 data points
+writing config {'trackidx': 368} to _top_0368/config.json
+writing to  _top_0368/data.pkl
+using sigma = 0.0089967353728082
+writing to  _top_0368/config.json
+solver 368 iteration 00000000
+solver 368 iteration 00000100
+solver 368 iteration 00000200
+solver 368 iteration 00000300
+solver 368 iteration 00000400
+solver 368 iteration 00000500
+solver 368 iteration 00000600
+solver 368 iteration 00000700
+solver 368 iteration 00000800
+solver 368 iteration 00000900
+solver 368 iteration 00001000
+solver 368 iteration 00001100
+solver 368 iteration 00001200
+solver 368 iteration 00001300
+solver 368 iteration 00001400
+solver 368 iteration 00001500
+solver 368 iteration 00001600
+solver 368 iteration 00001700
+solver 368 iteration 00001800
+solver 368 iteration 00001900
+solver 368 iteration 00002000
+solver 368 iteration 00002100
+solver 368 iteration 00002200
+solver 368 iteration 00002300
+solver 368 iteration 00002400
+solver 368 iteration 00002500
+solver 368 iteration 00002600
+solver 368 iteration 00002700
+solver 368 iteration 00002800
+solver 368 iteration 00002900
+solver 368 iteration 00003000
+solver 368 iteration 00003100
+solver 368 iteration 00003200
+solver 368 iteration 00003300
+solver 368 iteration 00003400
+solver 368 iteration 00003500
+solver 368 iteration 00003600
+solver 368 iteration 00003700
+solver 368 iteration 00003800
+solver 368 iteration 00003900
+solver 368 iteration 00004000
+solver 368 iteration 00004100
+solver 368 iteration 00004200
+solver 368 iteration 00004300
+solver 368 iteration 00004400
+solver 368 iteration 00004500
+solver 368 iteration 00004600
+solver 368 iteration 00004700
+solver 368 iteration 00004800
+solver 368 iteration 00004900
+execution time  5728.316624302417
+loading track 1367 with 10473 data points
+writing config {'trackidx': 1367} to _top_1367/config.json
+writing to  _top_1367/data.pkl
+using sigma = 0.00865715635725968
+writing to  _top_1367/config.json
+solver 1367 iteration 00000000
+solver 1367 iteration 00000100
+solver 1367 iteration 00000200
+solver 1367 iteration 00000300
+solver 1367 iteration 00000400
+solver 1367 iteration 00000500
+solver 1367 iteration 00000600
+solver 1367 iteration 00000700
+solver 1367 iteration 00000800
+solver 1367 iteration 00000900
+solver 1367 iteration 00001000
+solver 1367 iteration 00001100
+solver 1367 iteration 00001200
+solver 1367 iteration 00001300
+solver 1367 iteration 00001400
+solver 1367 iteration 00001500
+solver 1367 iteration 00001600
+solver 1367 iteration 00001700
+solver 1367 iteration 00001800
+solver 1367 iteration 00001900
+solver 1367 iteration 00002000
+solver 1367 iteration 00002100
+solver 1367 iteration 00002200
+solver 1367 iteration 00002300
+solver 1367 iteration 00002400
+solver 1367 iteration 00002500
+solver 1367 iteration 00002600
+solver 1367 iteration 00002700
+solver 1367 iteration 00002800
+solver 1367 iteration 00002900
+solver 1367 iteration 00003000
+solver 1367 iteration 00003100
+solver 1367 iteration 00003200
+solver 1367 iteration 00003300
+solver 1367 iteration 00003400
+solver 1367 iteration 00003500
+solver 1367 iteration 00003600
+solver 1367 iteration 00003700
+solver 1367 iteration 00003800
+solver 1367 iteration 00003900
+solver 1367 iteration 00004000
+solver 1367 iteration 00004100
+solver 1367 iteration 00004200
+solver 1367 iteration 00004300
+solver 1367 iteration 00004400
+solver 1367 iteration 00004500
+solver 1367 iteration 00004600
+solver 1367 iteration 00004700
+solver 1367 iteration 00004800
+solver 1367 iteration 00004900
+solver 1367 iteration 00005000
+execution time  5652.187765173614
+waiting for the remaining 64 jobs to finish...
+finished parallel jobs
+------------------------------------------------------------------------
+Job ended on Wed Jul 20 06:10:08 BST 2022
+------------------------------------------------------------------------
