@@ -1,0 +1,6 @@
+
+quad: remove_zeros = False
+quad_2: remove_zeros = True, xlim = (-0.05, 0.10)
+quad_3: remove_zeros = False, xlim = (-0.10, 0.10)
+quad_4: remove_zeros = True, xlim = (-0.10, 0.10)
+^ the purpose of removing the zeros is to see if this improves the K-S statistic

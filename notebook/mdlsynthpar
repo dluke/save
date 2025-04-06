@@ -1,0 +1,687 @@
+# ---
+# jupyter:
+#   jupytext:
+#     formats: ipynb,py:percent
+#     text_representation:
+#       extension: .py
+#       format_name: percent
+#       format_version: '1.3'
+#       jupytext_version: 1.6.0
+#   kernelspec:
+#     display_name: Python 3
+#     language: python
+#     name: python3
+# ---
+# %% [markdown]
+# generate synthetic data with varying parameters and plot the accuracy of the solution
+
+# %% 
+import os
+import random
+import numpy as np
+import pickle
+join = os.path.join 
+norm = np.linalg.norm
+import copy
+pi = np.pi
+
+import scipy
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+import seaborn as sns
+
+import sctml
+import sctml.publication as pub
+import pili
+#! not working?
+pub.writedir  =  join(pili.root, "../sparseml/images")
+
+import thesis.publication as thesis
+
+print("writing figures to", pub.writedir)
+
+from pili import support
+import mdl
+import pwlpartition
+import pwlstats
+from synthetic import *
+import synthetic
+
+
+# %% 
+notename = 'mdlsynthpar'
+mplstyle = {"font.size": 24}
+
+# %% 
+# notebook specific plotting config
+def local_plot_data(true, data, meta, figsize=(10,10)):
+    fig, ax = plt.subplots(figsize=figsize)
+    config = {'r': meta['r']}
+    mdl.plot_model_on_data(ax, true, data, config=config)
+
+
+def local_plot_model(ax, model, style={}):
+    ax.plot(model.x, model.y, **style)
+    ax.set_aspect('equal')
+
+truth_style = {"linestyle": '--', 'lw':2, 'alpha':0.5, 'label':'truth'}
+model_style = {"linestyle": '-', 'lw':4, 'alpha':0.5, 'label':'model'}
+ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+
+# %% 
+np.random.seed(0)
+
+params = {"l": 1.0, "sigma": 0.03, "N": 20, "dx": 0.1}
+def new_params(**dct):
+    new = params.copy()
+    for k, v in dct.items():
+        new[k] = v
+    return new
+
+def gen(params, seed=None):
+    if seed:
+        np.random.seed(seed)
+    N = params.get("N")
+    _l = params.get("l")
+    sigma = params.get("sigma")
+    dx =  params.get("dx")
+    #
+    length = Uniform(_l, _l)
+    # point density
+    tracer = Constant(dx)
+    error = Normal(scale=sigma)
+    mirror_angle = MirrorNormal(loc=pi/4, scale=pi/16)
+    pwl = new_pwl_process(length, mirror_angle, N)
+    synthdata = sample_pwl(pwl, tracer, error)
+    return pwl, synthdata
+
+default_control = {'maxiter': 5000, 't_end': 0., 'tolerance': 1e-6}
+def local_solve(params, data, control={}):
+    r = pwlpartition.estimate_r(params.get('sigma'))
+    print('using r = ', r)
+    rngstate = np.random.RandomState(0)
+    wavemodel, lptr, meta = pwlpartition.initial_guess(data.x, data.y)
+
+    loss_conf = {"contour_term": None, "continuity_term": 1}
+    partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf)
+    rng = np.random.RandomState(0)
+    solver = pwlpartition.Solver(partition, rng=rng, r=r)
+
+    _control = default_control.copy()
+    _control.update(control)
+    with support.Timer() as t:
+        solver.priority_solve(_control)
+
+    return solver
+
+def gen_solve(params, seed=None):
+    truth, data = gen(params, seed=seed)
+    solver = local_solve(params, data)
+    return truth, data, solver
+
+# r = estimate_r(params.get('sigma'))
+# print('r', r, 'sigma', params.get('sigma'))
+
+truth, data = gen(params, seed=0)
+
+# %% 
+simple_random_solve = False
+if simple_random_solve:
+    wavemodel, lptr, meta = pwlpartition.initial_guess(data.x, data.y)
+    local_plot_data(truth, data, meta)
+
+    partition = pwlpartition.PartAnneal(wavemodel, lptr, r=meta['r'])
+    rng = np.random.RandomState(0)
+    solver = pwlpartition.Solver(partition, rng=rng, r=meta['r'])
+
+    pwlpartition.model_plot(solver, lptr, fs=10)
+
+
+# %% 
+if simple_random_solve:
+    truth, data, solver = gen_solve(params)
+    pwlpartition.model_plot(solver, data)
+
+# %% 
+
+
+if simple_random_solve:
+
+    fig, ax = plt.subplots(figsize=(20,20))
+    local_plot_model(ax, truth, truth_style)
+    local_plot_model(ax, solver.partition.model, model_style)
+
+
+# %% 
+# diff models
+# pwlstats.diff_models(solver.partition.model, truth,  meta)
+
+# %% 
+# --------------------------------- --------------------------------- ---------------------
+# setup special examples
+
+# special example 1. Star
+# star proves that we can handle trajectories that overlap in space
+solve_star = True
+
+
+if solve_star:
+    N = 19
+    l = 1
+    lengths = np.full(N, l)
+    length = Uniform(l, l)
+    const_angle = 2*pi/3 - pi/32
+    angle = Uniform(const_angle, const_angle)
+    pwl = new_pwl_process(length, angle, N)
+
+    tracer = Constant(l/10)
+    error = Normal(scale=0.05)
+    synthdata = sample_pwl(pwl, tracer, error)
+
+    wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+    partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf={})
+    solver = pwlpartition.Solver(partition, r=meta['r'])
+    control = {'maxiter': 5000, 't_end': 0., 'tolerance': 1e-6}
+    solver.priority_solve(control)
+
+
+# %% 
+
+if solve_star:
+    mplstyle = {"font.size": 24}
+
+    with mpl.rc_context(mplstyle):
+        fig, ax = plt.subplots(figsize=(4,4))
+        style = {**truth_style}
+        style["lw"] = 2.5
+        # _config = {'h_outlier': True, 'r' : solver.r}
+        # mdl.plot_model_on_data(ax, solver.partition.model, lptr, intermediate={'is_outlier':solver.get_outliers()}, config=_config)
+        # local_plot_model(ax, pwl, style)
+
+        c2 = '#DA5025'
+        _m_style = {"linestyle": '--', 'lw':3, 'alpha':0.8, 'color':c2, "marker":'D', 'markerfacecolor' : 'none', 'markeredgewidth':3, 'markersize': 10}
+        local_plot_model(ax, solver.partition.model, _m_style)
+        # ax.plot(synthdata.x, synthdata.y, label='data', color='green', markersize=10, **ptlkw)
+        # ax.legend()
+        ax.axis(False)
+
+    # pub.save_figure("solve_synthetic_star", notename)
+    # thesis.save_figure("synthetic_star_truth")
+    # thesis.save_figure("synthetic_star_data")
+    thesis.save_figure("synthetic_star_model")
+
+
+# %% 
+def hide_solve_star():
+    N = 19
+    l = 1
+    lengths = np.full(N, l)
+    length = Uniform(l, l)
+    const_angle = 2*pi/3 - pi/32
+    angle = Uniform(const_angle, const_angle)
+    pwl = new_pwl_process(length, angle, N)
+
+    tracer = Constant(l/10)
+    error = Normal(scale=0.01)
+    synthdata = sample_pwl(pwl, tracer, error)
+
+    wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+    partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf={})
+    solver = pwlpartition.Solver(partition, r=meta['r'])
+    control = {'maxiter': 5000, 't_end': 0., 'tolerance': 1e-6}
+    solver.priority_solve(control)
+    return solver, pwl, synthdata
+
+_solver, _pwl, _synthdata =  hide_solve_star()
+
+
+# %% 
+const_angle * 180/np.pi
+
+# %% 
+
+with mpl.rc_context(mplstyle):
+    fig, ax = plt.subplots(figsize=(4,4))
+    style = {**truth_style}
+    style["lw"] = 2.5
+    # local_plot_model(ax, _pwl, style)
+
+    c2 = '#DA5025'
+    _m_style = {"linestyle": '--', 'lw':3, 'alpha':0.8, 'color':c2, "marker":'D', 'markerfacecolor' : 'none', 'markeredgewidth':3, 'markersize': 10}
+
+    # local_plot_model(ax, _solver.partition.model, _m_style)
+    ax.plot(_synthdata.x, synthdata.y, label='data', color='green', markersize=10, **ptlkw)
+    # ax.legend()
+    ax.axis(False)
+
+# thesis.save_figure("synthetic_star_truth_2")
+thesis.save_figure("synthetic_star_data_2")
+# thesis.save_figure("synthetic_star_model_2")
+
+# %% 
+
+from matplotlib.lines import Line2D
+
+with mpl.rc_context(thesis.texstyle):
+    fig, ax = plt.subplots(figsize=(4,4))
+    h1 = Line2D([0], [0], **style)
+    h2 = Line2D([0], [0], color="green", **{**ptlkw, 'alpha':0.8})
+    h3 = Line2D([0], [0], **_m_style)
+    ax.legend([h1, h2, h3], ["Truth", "Data", "Model"], fontsize = 14, loc="center", handlelength=2.5)
+    ax.axis('off')
+
+thesis.save_figure("synth_star_legend")
+
+
+
+# %% 
+# for presentation
+
+defcolors = plt.rcParams['axes.prop_cycle'].by_key()['color']
+
+with mpl.rc_context(mplstyle):
+    fig, ax = plt.subplots(figsize=(10,10))
+    style = {**truth_style}
+    # _config = {'h_outlier': True, 'r' : solver.r}
+    # mdl.plot_model_on_data(ax, solver.partition.model, lptr, intermediate={'is_outlier':solver.get_outliers()}, config=_config)
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend()
+
+plot_target = join(pwlstats.root, "impress/images")
+# target = join(plot_target, "synth_star_truth.png")
+# target = join(plot_target, "synth_star_data.png")
+target = join(plot_target, "synth_star_model.png")
+print('saving to ', target)
+plt.tight_layout()
+plt.savefig(target, bbox_inches='tight')
+
+
+
+# %% 
+# special example 2. zig-jump-zag (capped triangular wave)
+# special example designed to simulate extremely sudden jumps
+
+N = 10
+l = 4
+const_angle = pi/3 + pi/12
+angle = synthetic.Cycler([const_angle, 0., -const_angle, 0.])
+
+all_lengths = np.empty(2*N)
+all_lengths[0::2] = l 
+horizontal = np.linspace(0.05, 2.0, N, endpoint=True)
+all_lengths[1::2] = horizontal
+length = synthetic.Cycler(all_lengths)
+
+pwl = synthetic.new_static_process(length, angle, 2*N)
+
+alternating_dx = np.empty(2*N)
+alternating_dx[0::2] = l/10
+alternating_dx[1::2] = horizontal
+tracer = synthetic.SegmentDx(alternating_dx, pwl)
+error = Normal(scale=0.05)
+
+synthdata = sample_pwl(pwl, tracer, error)
+
+fig, ax = plt.subplots(figsize=(20,20))
+local_plot_model(ax, pwl, truth_style)
+ax.plot(synthdata.x, synthdata.y, **ptlkw)
+
+
+# %%
+# test initial guess
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+fig, ax = plt.subplots(figsize=(20,20))
+_config = {'match_data': True}
+pwlpartition.plot_wavemodel_on_data(ax, wavemodel, synthdata, config=_config)
+
+# %%
+# * ------------------------------------------------------------------------------
+# solve without heuristics
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+loss_conf = {}
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf, 
+    use_alternative=True, inter_term=True)
+solver = pwlpartition.Solver(partition, r=meta['r'], sigma=meta['sigma'], min_constraint=1)
+control = {'maxiter': 500, 't_end': 0., 'tolerance': 1e-6}
+
+with support.Timer():
+    solver.priority_solve(control)
+
+
+# %%
+
+with mpl.rc_context(mplstyle):
+    fig, ax = plt.subplots(figsize=(10,10))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+synthetic_zigzag_solver = solver # save
+pub.save_figure("solve_synthetic_zigzag_inter_term", notename)
+
+# %%
+# * ------------------------------------------------------------------------------
+# solve with contour heuristic 
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+loss_conf = {"contour_term": 1.0}
+# loss_conf = {"continuity_term": 1}
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf, use_alternative=True, use_bounds=False)
+solver = pwlpartition.Solver(partition, r=meta['r'], use_modified_dl=True)
+
+control = {'maxiter': 500, 't_end': 0., 'tolerance': 1e-6}
+with support.Timer():
+    solver.priority_solve(control)
+
+# %%
+
+# fig, ax = plt.subplots(figsize=(20,20))
+# _config = {'match_data': True}
+# pwlpartition.plot_wavemodel_on_data(ax, _solver.partition.model, synthdata, config=_config)
+
+# %%
+solver.partition.get_loss_terms()
+
+# %%
+
+with mpl.rc_context(mplstyle):
+    fs = 10
+    fig, ax = plt.subplots(figsize=(10,10))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+
+pub.save_figure("solve_synthetic_zigzag_with_contour", notename)
+# pub.save_figure("solve_synthetic_zigzag_with_heuristic", notename)
+
+# %%
+# solve with continutity heuristic 
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+loss_conf = {"continuity_term": 1}
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf, use_alternative=True, use_bounds=False)
+solver = pwlpartition.Solver(partition, r=meta['r'], use_modified_dl=True)
+
+control = {'maxiter': 500, 't_end': 0., 'tolerance': 1e-6}
+with support.Timer():
+    solver.priority_solve(control)
+
+# %%
+
+with mpl.rc_context(mplstyle):
+    fs = 10
+    fig, ax = plt.subplots(figsize=(10,10))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+
+pub.save_figure("solve_synthetic_zigzag_with_continuity", notename)
+
+
+
+# %%
+
+fig, ax = plt.subplots(figsize=(20,20))
+_config = {'match_data': True}
+pwlpartition.plot_wavemodel_on_data(ax, solver.partition.model, synthdata, config=_config)
+
+
+# %%
+# test transform
+
+partition = solver.partition
+partition.set_alternative(True)
+x0 = partition.get_x0(5,10)
+# x0.shape
+
+# %%
+
+ab = partition.model.get_ab_at(5,10-1)
+print('ab', ab)
+x0 = pwlpartition.alt_transform(ab)
+print('x0', x0)
+pwlpartition.inv_transform(x0).T
+
+
+# %% 
+# special example 3. step function (square wave)
+# designed to test the continuity heuristics
+
+N = 10
+l = 1
+const_angle = pi/2 
+angle = synthetic.Cycler([0., -const_angle, 0., const_angle])
+
+all_lengths = np.empty(2*N)
+all_lengths[0::2] = l 
+vertical = np.linspace(1, 1.0, N, endpoint=True)
+all_lengths[1::2] = vertical
+length = synthetic.Cycler(all_lengths)
+
+pwl = synthetic.new_static_process(length, angle, 2*N)
+
+alternating_dx = np.empty(2*N)
+alternating_dx[0::2] = l/10
+alternating_dx[1::2] = vertical/2
+tracer = synthetic.SegmentDx(alternating_dx, pwl)
+
+synthdata = sample_pwl(pwl, tracer, error)
+
+fig, ax = plt.subplots(figsize=(20,20))
+local_plot_model(ax, pwl, truth_style)
+ax.plot(synthdata.x, synthdata.y, **ptlkw)
+
+
+# %% 
+# * no heuristic 
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+# loss_conf = {"contour_term": 0.01}
+# loss_conf = {"continuity_term": 1}
+loss_conf = {}
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf, inter_term=True)
+solver = pwlpartition.Solver(partition, r=meta['r'], sigma=meta['sigma'], 
+    use_modified_dl=False)
+
+
+control = {'maxiter': 500, 't_end': 0., 'tolerance': 1e-6}
+with support.Timer():
+    solver.priority_solve(control)
+
+# %%
+
+with mpl.rc_context(mplstyle):
+    fig, ax = plt.subplots(figsize=(20,20))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+
+pub.save_figure("solve_synthetic_steps_inter_term", notename)
+
+# %% 
+# * continuity heuristic 
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+# loss_conf = {"contour_term": 0.01}
+loss_conf = {"continuity_term": 1}
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf)
+solver = pwlpartition.Solver(partition, r=meta['r'], sigma=meta['sigma'], use_modified_dl=False)
+
+
+control = {'maxiter': 500, 't_end': 0., 'tolerance': 1e-6}
+with support.Timer():
+    solver.priority_solve(control)
+
+# %%
+
+with mpl.rc_context(mplstyle):
+    fig, ax = plt.subplots(figsize=(20,20))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+
+pub.save_figure("solve_synthetic_steps_with_continuity", notename)
+
+
+# %% 
+# special example 4. square wave (hard)
+# step function again but with no intermediate point this time
+# designed to test the continuity heuristics
+
+N = 10
+
+def generate_step_function_data(N):
+    l = 1
+    const_angle = pi/2 
+    angle = synthetic.Cycler([0., -const_angle, 0., const_angle])
+
+    all_lengths = np.empty(2*N)
+    all_lengths[0::2] = l 
+    vertical = np.linspace(1, 1.0, N, endpoint=True)
+    all_lengths[1::2] = vertical
+    length = synthetic.Cycler(all_lengths)
+
+    pwl = synthetic.new_static_process(length, angle, 2*N)
+
+    alternating_dx = np.empty(2*N)
+    alternating_dx[0::2] = l/10
+    alternating_dx[1::2] = vertical
+    tracer = synthetic.SegmentDx(alternating_dx, pwl)
+
+    synthdata = sample_pwl(pwl, tracer, error)
+    return pwl, synthdata
+
+pwl, synthdata = generate_step_function_data(N)
+
+fig, ax = plt.subplots(figsize=(20,20))
+local_plot_model(ax, pwl, truth_style)
+ax.plot(synthdata.x, synthdata.y, **ptlkw)
+
+# %% 
+# * no heuristic 
+# ! note that with no heuristic we may need to use bounds
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+# loss_conf = {"contour_term": 0.01}
+# loss_conf = {"continuity_term": 1}
+
+loss_conf = {}
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf, 
+    use_alternative=False, use_bounds=True, inter_term=True)
+solver = pwlpartition.Solver(partition, r=meta['r'], sigma=meta['sigma'], 
+    use_modified_dl=False, min_constraint=1)
+
+
+control = {'maxiter': 200, 't_end': 0., 'tolerance': 1e-6}
+with support.Timer():
+    solver.priority_solve(control)
+
+# %%
+
+fs = 20
+fig, ax = plt.subplots(figsize=(fs, fs))
+_config = {'match_data': True}
+pwlpartition.plot_wavemodel_on_data(ax, solver.partition.model, synthdata, config=_config)
+
+# %%
+
+with mpl.rc_context(mplstyle):
+    fs = 10
+    fig, ax = plt.subplots(figsize=(fs,fs))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+
+# pub.save_figure("solve_synthetic_steps_hard", notename)
+
+# %%
+# * with continuity heuristic 
+pwl, synthdata = generate_step_function_data(N=10)
+
+# %%
+# * with continuity heuristic 
+
+wavemodel, lptr, meta = pwlpartition.initial_guess(synthdata.x, synthdata.y)
+
+fig, ax = plt.subplots(figsize=(20,20))
+_config = {'match_data': True}
+pwlpartition.plot_wavemodel_on_data(ax, wavemodel, synthdata, config=_config)
+
+
+# %%
+# loss_conf = {}
+# loss_conf = {"contour_term": 0.01}
+
+partition = pwlpartition.PartAnneal(wavemodel, lptr, loss_conf=loss_conf, 
+    use_alternative=False, use_bounds=True, inter_term=True)
+solver = pwlpartition.Solver(partition, r=meta['r'], sigma=meta['sigma'], 
+    use_modified_dl=False, min_constraint=1)
+
+
+control = {'maxiter': 500, 't_end': 0., 'tolerance': 1e-6}
+with support.Timer():
+    solver.priority_solve(control)
+
+
+# %%
+solver.partition.get_loss_terms()
+
+# %%
+# _solver = copy.deepcopy(solver)
+# _solver.partition.loss_conf["contour_term"] = 0.1
+# _solver.percolate_at(9)
+# _solver.partition.get_loss_terms()
+
+# %%
+_solver = solver
+fig, ax = plt.subplots(figsize=(20,20))
+_config = {'match_data': True}
+pwlpartition.plot_wavemodel_on_data(ax, _solver.partition.model, synthdata, config=_config)
+
+# %%
+with mpl.rc_context(mplstyle):
+    fig, ax = plt.subplots(figsize=(20,20))
+    style = {**truth_style}
+    local_plot_model(ax, pwl, style)
+    local_plot_model(ax, solver.partition.model, model_style)
+    ptlkw = {"linestyle":'--', "marker":"o", "alpha":0.3}
+    ax.plot(synthdata.x, synthdata.y, label='data', **ptlkw)
+    ax.legend(loc='upper left')
+plt.tight_layout()
+
+
+# pub.save_figure("solve_synthetic_steps_hard_with_continutity", notename)
+pub.save_figure("solve_synthetic_steps_hard_with_inter", notename)
+

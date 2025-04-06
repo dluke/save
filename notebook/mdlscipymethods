@@ -1,0 +1,42 @@
+# ---
+# jupyter:
+#   jupytext:
+#     formats: ipynb,py:percent
+#     text_representation:
+#       extension: .py
+#       format_name: percent
+#       format_version: '1.3'
+#       jupytext_version: 1.6.0
+#   kernelspec:
+#     display_name: Python 3
+#     language: python
+#     name: python3
+# ---
+# %% [markdown]
+# a quick canvas of scipy.optimize methods to see what is efficient for our problem
+
+# %% 
+import os
+join = os.path.join 
+import numpy as np
+import scipy
+import matplotlib.pyplot as plt
+import seaborn as sns
+import itertools
+from copy import deepcopy
+
+import _fj
+
+# import shapeplot
+# import sctml
+# import sctml.publication as pub
+# print("writing figures to", pub.writedir)
+
+from pili import support
+
+import llist
+norm = np.linalg.norm
+
+import mdl
+
+# %% 
